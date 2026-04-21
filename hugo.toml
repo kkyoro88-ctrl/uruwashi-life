@@ -1,0 +1,46 @@
+baseURL = "https://uruwashi-life.com/"
+languageCode = "ja"
+title = "うるわし生活"
+theme = "PaperMod"
+defaultContentLanguage = "ja"
+hasCJKLanguage = true
+[pagination]
+  pagerSize = 10
+
+[params]
+  author = "うるわし生活編集部"
+  description = "30〜40代女性のための美容・スキンケア情報サイト。歳を重ねるほど美しくなるための本音レビューをお届けします。"
+  homeInfoParams = { Title = "うるわし生活へようこそ", Content = "30〜40代女性のための美容・スキンケア情報サイト。歳を重ねるほど美しくなるための本音レビューをお届けします。" }
+  ShowReadingTime = true
+  ShowShareButtons = false
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowToc = true
+  TocOpen = true
+  DateFormat = "2006年1月2日"
+
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "ホーム"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    identifier = "skincare"
+    name = "スキンケア"
+    url = "/categories/スキンケア/"
+    weight = 2
+  [[menu.main]]
+    identifier = "review"
+    name = "口コミ・レビュー"
+    url = "/categories/口コミ・レビュー/"
+    weight = 3
+  [[menu.main]]
+    identifier = "about"
+    name = "このブログについて"
+    url = "/about/"
+    weight = 4
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
