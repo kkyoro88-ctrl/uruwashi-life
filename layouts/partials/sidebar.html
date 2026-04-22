@@ -1,0 +1,80 @@
+<aside class="sidebar">
+
+  {{/* ── プロフィール ── */}}
+  <div class="sidebar-widget widget-profile">
+    <div class="profile-avatar">
+      <span class="profile-avatar-emoji">🌸</span>
+    </div>
+    <p class="profile-name">{{ site.Params.profileName }}</p>
+    <p class="profile-desc">{{ site.Params.profileDesc }}</p>
+    <a href="/about/" class="profile-btn">プロフィールを見る →</a>
+  </div>
+
+  {{/* ── 今月のうるわしPICK（オリジナル） ── */}}
+  {{- $pages := where site.RegularPages "Type" "in" site.Params.mainSections }}
+  {{- with index $pages 0 }}
+  <div class="sidebar-widget widget-pick">
+    <h3 class="widget-title">✦ 今月のうるわしPICK</h3>
+    <a href="{{ .Permalink }}" class="pick-card">
+      {{- if .Params.cover.image }}
+      <img class="pick-img" src="{{ .Params.cover.image }}" alt="{{ .Title }}" loading="lazy">
+      {{- end }}
+      <p class="pick-title">{{ .Title | truncate 50 }}</p>
+      <span class="pick-more">記事を読む →</span>
+    </a>
+  </div>
+  {{- end }}
+
+  {{/* ── 人気記事 ── */}}
+  <div class="sidebar-widget widget-popular">
+    <h3 class="widget-title">人気記事</h3>
+    <ol class="popular-list">
+      {{- $pages := where site.RegularPages "Type" "in" site.Params.mainSections }}
+      {{- range first 7 $pages }}
+      <li class="popular-item">
+        <span class="popular-rank">{{ .ReadingTime | default 1 }}</span>
+        <div class="popular-body">
+          {{- if .Params.cover.image }}
+          <img class="popular-thumb" src="{{ .Params.cover.image }}" alt="{{ .Title }}" loading="lazy">
+          {{- else }}
+          <div class="popular-thumb popular-thumb--gradient"></div>
+          {{- end }}
+          <div class="popular-info">
+            <a href="{{ .Permalink }}" class="popular-title">{{ .Title | truncate 40 }}</a>
+            {{- with index .Params.categories 0 }}
+            <span class="popular-cat">{{ . }}</span>
+            {{- end }}
+          </div>
+        </div>
+      </li>
+      {{- end }}
+    </ol>
+  </div>
+
+  {{/* ── タグクラウド（cosme-funese参考） ── */}}
+  <div class="sidebar-widget widget-tags">
+    <h3 class="widget-title">タグから探す</h3>
+    <div class="tag-cloud">
+      {{- range $name, $taxonomy := site.Taxonomies.tags }}
+      <a href="/tags/{{ $name | urlize }}/" class="tag-item">{{ $name }}</a>
+      {{- end }}
+    </div>
+  </div>
+
+  {{/* ── カテゴリ ── */}}
+  <div class="sidebar-widget widget-categories">
+    <h3 class="widget-title">カテゴリ</h3>
+    <ul class="cat-list">
+      {{- range site.Taxonomies.categories.ByCount }}
+      <li>
+        <a href="{{ .Page.Permalink }}">
+          <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 24 24" fill="currentColor"><path d="M20 6h-8l-2-2H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V8c0-1.1-.9-2-2-2z"/></svg>
+          {{ .Page.Title }}
+          <span class="cat-count">{{ .Count }}</span>
+        </a>
+      </li>
+      {{- end }}
+    </ul>
+  </div>
+
+</aside>

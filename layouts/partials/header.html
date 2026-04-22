@@ -1,0 +1,67 @@
+{{- $currentPage := . }}
+<header class="site-header">
+  {{/* トップバー */}}
+  <div class="top-bar">
+    <span class="top-bar-tagline">30〜40代女性のための美容と暮らし</span>
+    <div class="top-bar-sns">
+      <a href="/about/" class="top-sns-link" title="プロフィール" aria-label="プロフィール">
+        <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M12 12c2.7 0 4.8-2.1 4.8-4.8S14.7 2.4 12 2.4 7.2 4.5 7.2 7.2 9.3 12 12 12zm0 2.4c-3.2 0-9.6 1.6-9.6 4.8v2.4h19.2v-2.4c0-3.2-6.4-4.8-9.6-4.8z"/></svg>
+      </a>
+      <a href="/search/" class="top-sns-link" title="検索" aria-label="検索">
+        <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+      </a>
+    </div>
+  </div>
+
+  {{/* メインナビ */}}
+  <nav class="main-nav">
+    <div class="nav-inner">
+      <a class="site-logo" href="{{ "" | absLangURL }}" accesskey="h">
+        <span class="logo-main">{{ site.Title }}</span>
+        <span class="logo-sub">beauty &amp; life</span>
+      </a>
+      <ul class="nav-menu">
+        {{- range site.Menus.main }}
+        {{- $url := .URL | absLangURL }}
+        <li>
+          <a href="{{ .URL | absLangURL }}"
+            {{- if eq $url ($currentPage.Permalink | absLangURL) }} class="active"{{- end }}>
+            {{ .Name }}
+          </a>
+        </li>
+        {{- end }}
+        <li class="nav-search">
+          <a href="/search/" title="検索" aria-label="検索">
+            <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24"
+              fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <circle cx="11" cy="11" r="8"></circle>
+              <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+            </svg>
+          </a>
+        </li>
+      </ul>
+    </div>
+  </nav>
+
+  {{/* カテゴリナビタイル */}}
+  <nav class="cat-nav-bar">
+    <div class="cat-nav-inner">
+      <a class="cat-nav-tile" href="/categories/スキンケア/">
+        <span class="cat-nav-icon">🧴</span>
+        <span class="cat-nav-label">スキンケア</span>
+      </a>
+      <a class="cat-nav-tile" href="/categories/口コミ・レビュー/">
+        <span class="cat-nav-icon">✍️</span>
+        <span class="cat-nav-label">口コミ</span>
+      </a>
+      <a class="cat-nav-tile" href="/categories/暮らし・美容グッズ/">
+        <span class="cat-nav-icon">🌸</span>
+        <span class="cat-nav-label">暮らし</span>
+      </a>
+      <a class="cat-nav-tile" href="/about/">
+        <span class="cat-nav-icon">👤</span>
+        <span class="cat-nav-label">プロフィール</span>
+      </a>
+    </div>
+  </nav>
+</header>

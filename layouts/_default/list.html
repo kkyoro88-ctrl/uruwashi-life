@@ -1,0 +1,39 @@
+{{- define "main" }}
+<div class="site-container">
+
+  <div class="main-content">
+    {{- if and .Title (not .IsHome) }}
+    <header class="page-header">
+      {{- partial "breadcrumbs.html" . }}
+      <h1 class="page-title">{{ .Title }}</h1>
+    </header>
+    {{- end }}
+
+    {{- $pages := union .RegularPages .Sections }}
+    {{- if .IsHome }}
+      {{- $pages = where site.RegularPages "Type" "in" site.Params.mainSections }}
+    {{- end }}
+    {{- $paginator := .Paginate $pages }}
+
+    <div class="post-grid">
+      {{- range $paginator.Pages }}
+        {{- partial "post-card.html" . }}
+      {{- end }}
+    </div>
+
+    {{- if gt $paginator.TotalPages 1 }}
+    <nav class="pagination">
+      {{- if $paginator.HasPrev }}
+      <a class="pagination-prev" href="{{ $paginator.Prev.URL | absURL }}">&laquo; 前のページ</a>
+      {{- end }}
+      {{- if $paginator.HasNext }}
+      <a class="pagination-next" href="{{ $paginator.Next.URL | absURL }}">次のページ &raquo;</a>
+      {{- end }}
+    </nav>
+    {{- end }}
+  </div>
+
+  {{- partial "sidebar.html" . }}
+
+</div>
+{{- end }}

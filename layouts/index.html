@@ -1,0 +1,67 @@
+{{- define "main" }}
+<div class="site-container">
+
+  <div class="main-content">
+
+    {{/* ── 肌のお悩み別クイックナビ（オリジナル） ── */}}
+    <section class="skin-nav">
+      <p class="skin-nav-heading">✦ 肌のお悩みから探す</p>
+      <div class="skin-nav-links">
+        <a href="/tags/乾燥肌/" class="skin-nav-btn">💧 乾燥肌</a>
+        <a href="/tags/エイジングケア/" class="skin-nav-btn">✨ エイジングケア</a>
+        <a href="/tags/ヘアケア/" class="skin-nav-btn">💆 ヘアケア</a>
+        <a href="/tags/口コミ/" class="skin-nav-btn">📝 口コミ</a>
+        <a href="/tags/日焼け止め/" class="skin-nav-btn">☀️ UVケア</a>
+      </div>
+    </section>
+
+    {{/* ── New Post ── */}}
+    <section class="post-section">
+      <div class="section-heading">
+        <span class="section-heading-en">New Post</span>
+        <span class="section-heading-ja">新着記事</span>
+      </div>
+      <div class="post-grid">
+        {{- $pages := where site.RegularPages "Type" "in" site.Params.mainSections }}
+        {{- range first 6 $pages }}
+          {{- partial "post-card.html" . }}
+        {{- end }}
+      </div>
+      <div class="more-link-wrap">
+        <a class="more-link" href="/posts/">新着記事をもっと見る &rarr;</a>
+      </div>
+    </section>
+
+    {{/* ── うるわしメモ（エディターズノート・オリジナル） ── */}}
+    <div class="editor-tip">
+      <span class="editor-tip-label">✍️ うるわしメモ</span>
+      <p class="editor-tip-text">日焼け止めは「毎日塗ること」が最大のエイジングケア。曇りの日も、家にいる日も、習慣にするだけで5年後の肌が変わります。</p>
+    </div>
+
+    {{/* ── カテゴリ別セクション（2列並列・cosme-funese参考） ── */}}
+    <div class="cat-sections-grid">
+      {{- range site.Params.homeSections }}
+      {{- $cat := .category }}
+      {{- $catPages := where site.RegularPages ".Params.categories" "intersect" (slice $cat) }}
+      {{- if $catPages }}
+      <section class="cat-section-half">
+        <div class="section-heading section-heading--slim">
+          <span class="section-heading-en">{{ .name }}</span>
+          <a class="section-more" href="/categories/{{ $cat | urlize }}/">一覧を見る</a>
+        </div>
+        <div class="post-grid post-grid--1col">
+          {{- range first 2 $catPages }}
+            {{- partial "post-card.html" . }}
+          {{- end }}
+        </div>
+      </section>
+      {{- end }}
+      {{- end }}
+    </div>
+
+  </div>{{/* end main-content */}}
+
+  {{- partial "sidebar.html" . }}
+
+</div>{{/* end site-container */}}
+{{- end }}

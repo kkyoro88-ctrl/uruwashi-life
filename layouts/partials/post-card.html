@@ -1,0 +1,34 @@
+{{- $categories := .Params.categories }}
+{{- $firstCat := index $categories 0 | default "" }}
+<article class="post-card">
+
+  {{/* サムネイル（画像ごとリンク） */}}
+  <a href="{{ .Permalink }}" class="post-card-thumb-link" tabindex="-1" aria-hidden="true">
+    <div class="post-card-thumb">
+      {{- if .Params.cover.image }}
+      <img src="{{ .Params.cover.image }}" alt="{{ .Title }}" loading="lazy" class="post-card-img">
+      {{- else }}
+      <div class="post-card-img post-card-img--gradient" data-cat="{{ $firstCat }}"></div>
+      {{- end }}
+      {{- if $firstCat }}
+      <span class="card-cat-overlay">{{ $firstCat }}</span>
+      {{- end }}
+      {{- if .ReadingTime }}
+      <span class="card-time-overlay">📖 {{ .ReadingTime }}分</span>
+      {{- end }}
+    </div>
+  </a>
+
+  {{/* テキスト */}}
+  <div class="post-card-body">
+    <h2 class="post-card-title">
+      <a href="{{ .Permalink }}">{{ .Title }}</a>
+    </h2>
+    {{- if (ne (.Param "hideSummary") true) }}
+    <p class="post-card-summary">{{ .Summary | plainify | htmlUnescape | truncate 75 }}</p>
+    {{- end }}
+    <div class="post-card-meta">
+      <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2006年1月2日" }}</time>
+    </div>
+  </div>
+</article>
