@@ -7,8 +7,8 @@ categories: ["スキンケア", "口コミ・レビュー"]
 tags: ["シャワーヘッド", "ミラブルzero", "美肌", "ウルトラファインバブル", "おすすめ"]
 description: "シャワーヘッドを変えるだけで肌が変わる。30代・40代女性におすすめのシャワーヘッドはミラブルzero一択。その理由と効果を正直にお伝えします。"
 cover:
-  image: "/images/showerhead-recommend.png"
-  alt: "シャワーヘッドおすすめ ミラブルzero"
+  image: "https://www27.a8.net/svt/bgt?aid=260421332286&wid=001&eno=01&mid=s00000022954002009000&mc=1"
+  alt: "ミラブルzero シャワーヘッド"
 ---
 
 
