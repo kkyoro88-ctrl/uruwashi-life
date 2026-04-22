@@ -1386,3 +1386,96 @@ details.single-toc[open] .single-toc-title::after { content: '▴'; }
   .author-card { flex-direction: column; align-items: center; text-align: center; }
   .author-card-bio { text-align: left; }
 }
+
+/* ============================================================
+   モバイル追加修正
+   ============================================================ */
+
+/* ── 1. テーブル横スクロール ── */
+.single-body table,
+.post-content table {
+  display: block;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+}
+
+/* ── 2. トラッキングピクセル（1×1）への誤適用を防ぐ ── */
+.single-body img[height="1"] {
+  display: inline !important;
+  margin: 0 !important;
+  border-radius: 0 !important;
+  max-width: none !important;
+}
+
+/* ── 3. ハンバーガーメニュー ── */
+.main-nav { position: relative; }
+
+.nav-toggle {
+  display: none;
+  flex-direction: column;
+  justify-content: center;
+  gap: 5px;
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 6px 4px;
+  margin-left: auto;
+}
+.hamburger-line {
+  display: block;
+  width: 22px;
+  height: 2px;
+  background: var(--primary);
+  border-radius: 2px;
+  transition: transform 0.3s, opacity 0.2s;
+}
+
+@media (max-width: 640px) {
+  /* ハンバーガーボタンを表示 */
+  .nav-toggle { display: flex; }
+
+  /* 通常時はメニューを非表示 */
+  .nav-menu {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    right: 0;
+    background: #fff;
+    border-bottom: 2px solid var(--accent);
+    flex-direction: column;
+    padding: 4px 20px 14px;
+    box-shadow: 0 6px 20px rgba(0,0,0,0.10);
+    z-index: 200;
+    gap: 0;
+  }
+
+  /* 開いた状態 */
+  .nav-menu.is-open { display: flex; }
+
+  .nav-menu li {
+    border-bottom: 1px solid #fdf0eb;
+    width: 100%;
+  }
+  .nav-menu li:last-child { border-bottom: none; }
+  .nav-menu li a {
+    padding: 11px 4px !important;
+    font-size: 0.9rem !important;
+    display: block;
+    width: 100%;
+  }
+
+  /* 検索アイコンはトップバーにもあるので非表示 */
+  .nav-search { display: none; }
+
+  /* ハンバーガー → × アニメーション */
+  .nav-toggle[aria-expanded="true"] .hamburger-line:nth-child(1) {
+    transform: translateY(7px) rotate(45deg);
+  }
+  .nav-toggle[aria-expanded="true"] .hamburger-line:nth-child(2) {
+    opacity: 0;
+  }
+  .nav-toggle[aria-expanded="true"] .hamburger-line:nth-child(3) {
+    transform: translateY(-7px) rotate(-45deg);
+  }
+}

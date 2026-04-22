@@ -20,7 +20,12 @@
         <span class="logo-main">{{ site.Title }}</span>
         <span class="logo-sub">beauty &amp; life</span>
       </a>
-      <ul class="nav-menu">
+      <button class="nav-toggle" aria-label="メニューを開く" aria-expanded="false" aria-controls="main-nav-menu">
+        <span class="hamburger-line"></span>
+        <span class="hamburger-line"></span>
+        <span class="hamburger-line"></span>
+      </button>
+      <ul class="nav-menu" id="main-nav-menu">
         {{- range site.Menus.main }}
         {{- $url := .URL | absLangURL }}
         <li>
