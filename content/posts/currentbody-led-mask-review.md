@@ -64,10 +64,23 @@ CurrentBodyのLEDマスクは現在2種類展開されています。
 <div class="box-check">
 <ul>
 <li>シワ・たるみ・ハリ不足が主な悩み → <strong>シリーズ2</strong></li>
-<li>ニキビ・くすみ・色むらも気になる → <strong>マルチライトマスク</strong></li>
+<li>ニキビ・くすみ・色むらも気になる → <strong>マルチライトマスク（4イン1）</strong></li>
 <li>はじめてのLEDマスクで迷っている → <strong>シリーズ2がおすすめ（エビデンス豊富）</strong></li>
 </ul>
 </div>
+{{< /rawhtml >}}
+
+{{< rawhtml >}}
+<div style="display:flex; gap:12px; justify-content:center; flex-wrap:wrap; margin: 1.5em 0;">
+  <a href="https://px.a8.net/svt/ejp?a8mat=4B1R5P+FYJBJM+54TM+60H7M" target="_blank" rel="nofollow noopener" style="display:inline-block; background:#c97d7d; color:#fff; padding:12px 24px; border-radius:30px; font-size:0.95em; font-weight:bold; text-decoration:none;">
+    LEDライトセラピーマスク シリーズ2を見る →
+  </a>
+  <a href="https://px.a8.net/svt/ejp?a8mat=4B1R5P+FYJBJM+54TM+60WN6" target="_blank" rel="nofollow noopener" style="display:inline-block; background:#c97d7d; color:#fff; padding:12px 24px; border-radius:30px; font-size:0.95em; font-weight:bold; text-decoration:none;">
+    LEDマルチライトマスク（4イン1）を見る →
+  </a>
+</div>
+<img border="0" width="1" height="1" src="https://www19.a8.net/0.gif?a8mat=4B1R5P+FYJBJM+54TM+60H7M" alt="">
+<img border="0" width="1" height="1" src="https://www18.a8.net/0.gif?a8mat=4B1R5P+FYJBJM+54TM+60WN6" alt="">
 {{< /rawhtml >}}
 
 ---
@@ -203,12 +216,16 @@ LEDマスクは「続けることで育てていく美容」です。
 GWセール中（4/25〜5/11）はクーポン**【FANCB】**で20%オフ。普段は手が届きにくい価格帯のデバイスを、この機会にぜひ。
 
 {{< rawhtml >}}
-<div style="text-align:center; margin: 2em 0;">
-  <a href="https://px.a8.net/svt/ejp?a8mat=4B1R5P+FYJBJM+54TM+60H7M" target="_blank" rel="nofollow noopener" style="display:inline-block; background:#c97d7d; color:#fff; padding:16px 40px; border-radius:30px; font-size:1.1em; font-weight:bold; text-decoration:none;">
-    CurrentBody LEDマスクをGWセール価格で見てみる →
+<div style="display:flex; gap:12px; justify-content:center; flex-wrap:wrap; margin: 2em 0;">
+  <a href="https://px.a8.net/svt/ejp?a8mat=4B1R5P+FYJBJM+54TM+60H7M" target="_blank" rel="nofollow noopener" style="display:inline-block; background:#c97d7d; color:#fff; padding:14px 28px; border-radius:30px; font-size:1em; font-weight:bold; text-decoration:none;">
+    シリーズ2をGWセール価格で見る →
   </a>
-  <img border="0" width="1" height="1" src="https://www19.a8.net/0.gif?a8mat=4B1R5P+FYJBJM+54TM+60H7M" alt="">
+  <a href="https://px.a8.net/svt/ejp?a8mat=4B1R5P+FYJBJM+54TM+60WN6" target="_blank" rel="nofollow noopener" style="display:inline-block; background:#c97d7d; color:#fff; padding:14px 28px; border-radius:30px; font-size:1em; font-weight:bold; text-decoration:none;">
+    マルチライトマスクをGWセール価格で見る →
+  </a>
 </div>
+<img border="0" width="1" height="1" src="https://www19.a8.net/0.gif?a8mat=4B1R5P+FYJBJM+54TM+60H7M" alt="">
+<img border="0" width="1" height="1" src="https://www18.a8.net/0.gif?a8mat=4B1R5P+FYJBJM+54TM+60WN6" alt="">
 {{< /rawhtml >}}
 
 > ZIIP HALOとの併用でさらに効果アップ。[ZIIP HALO 口コミ記事](/posts/ziip-halo-review/)もあわせてどうぞ。
