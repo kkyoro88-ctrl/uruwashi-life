@@ -18,19 +18,23 @@
 
 /* ── CSS変数 ── */
 :root {
-  --theme:      #fdf8f5;
-  --entry:      #ffffff;
-  --primary:    #2d2020;
-  --secondary:  #8a7070;
-  --tertiary:   #fdf0eb;
-  --content:    #3a2a2a;
-  --border:     #f0e0d8;
-  --accent:     #c4816e;
-  --accent-bg:  #fdf0eb;
-  --accent-dark:#a86455;
-  --radius:     10px;
-  --shadow:     0 2px 12px rgba(196,129,110,0.10);
-  --shadow-hover: 0 6px 24px rgba(196,129,110,0.20);
+  --theme:        #faf8f6;
+  --entry:        #ffffff;
+  --primary:      #3d3532;
+  --secondary:    #7a6e6a;
+  --tertiary:     #f4f0ed;
+  --content:      #3d3532;
+  --border:       #e8ddd8;
+  --accent:       #c97d7d;
+  --accent-bg:    #fdf0ef;
+  --accent-dark:  #a85e5e;
+  --accent-light: #e8bfbf;
+  --gold:         #c9a55a;
+  --gold-bg:      #f8f0e0;
+  --gold-dark:    #a8833a;
+  --radius:       10px;
+  --shadow:       0 2px 12px rgba(201,125,125,0.10);
+  --shadow-hover: 0 6px 24px rgba(201,125,125,0.20);
 }
 
 *, *::before, *::after { box-sizing: border-box; }
@@ -38,7 +42,8 @@ html { background: var(--theme); }
 body {
   font-family: 'Noto Sans JP', 'Hiragino Kaku Gothic ProN', sans-serif;
   font-size: 15px;
-  line-height: 1.85;
+  line-height: 1.9;
+  letter-spacing: 0.03em;
   color: var(--primary);
   background: var(--theme);
 }
@@ -607,9 +612,19 @@ h1.post-title {
   font-size: 1.05rem;
   font-weight: 700;
   color: var(--primary);
-  border-left: 4px solid var(--accent);
-  padding: 4px 0 4px 12px;
+  padding: 6px 4px 10px;
+  border-bottom: 3px solid var(--accent);
+  position: relative;
   margin: 28px 0 12px;
+}
+.post-content h3::after {
+  content: "";
+  display: block;
+  position: absolute;
+  bottom: -6px;
+  left: 0;
+  width: 35%;
+  border-bottom: 3px solid var(--gold);
 }
 .post-content h4 {
   font-size: 0.95rem;
@@ -944,7 +959,8 @@ details.single-toc[open] .single-toc-title::after { content: '▴'; }
 }
 .single-body strong {
   color: var(--accent-dark);
-  background: linear-gradient(transparent 60%, #fde8e0 60%);
+  background: linear-gradient(transparent 58%, rgba(232,191,191,0.6) 58%);
+  padding: 0 2px;
 }
 .single-body hr {
   border: none;
@@ -1122,6 +1138,122 @@ details.single-toc[open] .single-toc-title::after { content: '▴'; }
 .related-date {
   font-size: 0.7rem;
   color: #c0a8a0;
+}
+
+/* ── コンテンツボックス ── */
+
+/* POINTボックス */
+.single-body .box-point {
+  background: var(--entry);
+  border: 2px solid var(--gold);
+  border-radius: var(--radius);
+  padding: 20px 24px 16px;
+  margin: 2em 0;
+  position: relative;
+}
+.single-body .box-point::before {
+  content: "POINT";
+  position: absolute;
+  top: -13px;
+  left: 16px;
+  background: var(--gold);
+  color: #fff;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  padding: 3px 12px;
+  border-radius: 20px;
+}
+
+/* CHECKボックス */
+.single-body .box-check {
+  background: var(--accent-bg);
+  border-left: 4px solid var(--accent);
+  border-radius: 0 var(--radius) var(--radius) 0;
+  padding: 16px 20px;
+  margin: 1.5em 0;
+}
+.single-body .box-check ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+.single-body .box-check ul li::before {
+  content: '✓ ' !important;
+  background: none !important;
+  color: var(--accent);
+  font-weight: 700;
+  font-size: 0.9em;
+  width: auto !important;
+  height: auto !important;
+  border-radius: 0 !important;
+  top: 0 !important;
+}
+
+/* CAUTIONボックス */
+.single-body .box-caution {
+  background: #fff8f8;
+  border: 1px solid #f0c0c0;
+  border-left: 4px solid #e07070;
+  border-radius: 0 var(--radius) var(--radius) 0;
+  padding: 16px 20px;
+  margin: 1.5em 0;
+}
+.single-body .box-caution::before {
+  content: "⚠️ 注意";
+  display: block;
+  font-size: 0.8rem;
+  font-weight: 700;
+  color: #c04040;
+  margin-bottom: 8px;
+}
+
+/* MEMOボックス */
+.single-body .box-memo {
+  background: var(--tertiary);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 16px 20px;
+  margin: 1.5em 0;
+  font-size: 0.88rem;
+  color: var(--secondary);
+}
+.single-body .box-memo::before {
+  content: "📝 メモ";
+  display: block;
+  font-size: 0.78rem;
+  font-weight: 700;
+  color: var(--primary);
+  margin-bottom: 8px;
+}
+
+/* 期間限定セールボックス */
+.single-body .box-sale {
+  background: #fff5f8;
+  border: 2px solid var(--accent);
+  border-radius: var(--radius);
+  padding: 18px 22px;
+  margin: 1.5em 0;
+  position: relative;
+}
+.single-body .box-sale::before {
+  content: "🎉 期間限定";
+  display: block;
+  font-size: 0.82rem;
+  font-weight: 700;
+  color: var(--accent-dark);
+  margin-bottom: 10px;
+  letter-spacing: 0.06em;
+}
+
+/* マーカーハイライト */
+.single-body .mark-rose {
+  background: linear-gradient(transparent 58%, rgba(232,191,191,0.7) 58%);
+  padding: 0 2px;
+}
+.single-body .mark-gold {
+  background: linear-gradient(transparent 58%, rgba(240,224,184,0.8) 58%);
+  padding: 0 2px;
 }
 
 /* ── ul/li チェックマーク装飾（cosme-funese参考） ── */
