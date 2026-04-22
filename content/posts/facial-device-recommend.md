@@ -7,7 +7,7 @@ categories: ["スキンケア", "口コミ・レビュー"]
 tags: ["美顔器", "ZIIP HALO", "マイクロカレント", "リフトアップ", "エイジングケア"]
 description: "美顔器おすすめを40代目線で正直に評価。数ある美顔器の中でZIIP HALOだけをおすすめする理由と、実際に使ってわかったリフトアップ効果を詳しく解説します。"
 cover:
-  image: "/images/facial-device-recommend.png"
+  image: "https://www26.a8.net/svt/bgt?aid=260422333964&wid=001&eno=01&mid=s00000023953002004000&mc=1"
   alt: "美顔器おすすめ ZIIP HALO"
 ---
 
