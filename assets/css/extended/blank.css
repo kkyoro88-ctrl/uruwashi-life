@@ -438,7 +438,13 @@ header.header { display: none !important; }
   border: 3px solid #f5c8b8;
   font-size: 2rem;
 }
-.profile-avatar-emoji { line-height: 1; }
+.profile-avatar-text {
+  font-family: 'Noto Serif JP', serif;
+  font-size: 2rem;
+  font-weight: 700;
+  color: var(--accent);
+  line-height: 1;
+}
 .profile-name { font-weight: 700; font-size: 1rem; margin: 0 0 8px; }
 .profile-desc {
   font-size: 0.78rem;
