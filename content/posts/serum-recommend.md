@@ -39,6 +39,11 @@ cover:
 - ベタつかず軽い使い心地
 - 乾燥肌・敏感肌から長年支持される定番
 
+{{< rawhtml >}}
+<table cellpadding="0" cellspacing="0" border="0" style="border:1px solid #ccc; width:300px; margin:1em 0;"><tbody><tr style="border-style:none;"><td style="vertical-align:top; border-style:none; padding:10px; width:44px;"><a href="https://rpx.a8.net/svt/ejp?a8mat=4B1QDP+BQ4COI+2HOM+BWGDT&rakuten=y&a8ejpredirect=https%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2Fg00twnu4.2bo11f16.g00twnu4.2bo12a69%2Fa26042104339_4B1QDP_BQ4COI_2HOM_BWGDT%3Fpc%3Dhttps%253A%252F%252Fitem.rakuten.co.jp%252Flifestyle-007%252F73460%252F%26m%3Dhttp%253A%252F%252Fm.rakuten.co.jp%252Flifestyle-007%252Fi%252F10000154%252F%26rafcid%3Dwsc_i_is_33f72da33714639c415e592c9633ecd7" rel="nofollow"><img style="max-width:initial;" border="0" alt="" src="https://thumbnail.image.rakuten.co.jp/@0_mall/lifestyle-007/cabinet/img_20240508/73460.jpg?_ex=64x64"></a></td><td style="font-size:12px; vertical-align:middle; border-style:none; padding:10px;"><p style="padding:0; margin:0;"><a href="https://rpx.a8.net/svt/ejp?a8mat=4B1QDP+BQ4COI+2HOM+BWGDT&rakuten=y&a8ejpredirect=https%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2Fg00twnu4.2bo11f16.g00twnu4.2bo12a69%2Fa26042104339_4B1QDP_BQ4COI_2HOM_BWGDT%3Fpc%3Dhttps%253A%252F%252Fitem.rakuten.co.jp%252Flifestyle-007%252F73460%252F%26m%3Dhttp%253A%252F%252Fm.rakuten.co.jp%252Flifestyle-007%252Fi%252F10000154%252F%26rafcid%3Dwsc_i_is_33f72da33714639c415e592c9633ecd7" rel="nofollow">HABAスクワランオイル30ml</a></p><p style="color:#666; margin-top:5px; line-height:1.5;">価格:<span style="font-size:14px; color:#C00; font-weight:bold;">2747円</span><br><span style="font-size:10px;">(2026/4/23 時点)</span></p></td></tr></tbody></table>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4B1QDP+BQ4COI+2HOM+BWGDT" alt="">
+{{< /rawhtml >}}
+
 ---
 
 ### 2位：SK-II フェイシャル トリートメント エッセンス
@@ -48,6 +53,11 @@ cover:
 - 独自成分「ピテラ」で肌のキメを整える
 - くすみ・透明感が気になる方に
 - 使い続けるほど効果を実感
+
+{{< rawhtml >}}
+<table cellpadding="0" cellspacing="0" border="0" style="border:1px solid #ccc; width:300px; margin:1em 0;"><tbody><tr style="border-style:none;"><td style="vertical-align:top; border-style:none; padding:10px; width:44px;"><a href="https://rpx.a8.net/svt/ejp?a8mat=4B1QDP+BQ4COI+2HOM+BWGDT&rakuten=y&a8ejpredirect=https%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2Fg00siy34.2bo11493.g00siy34.2bo12db9%2Fa26042104339_4B1QDP_BQ4COI_2HOM_BWGDT%3Fpc%3Dhttps%253A%252F%252Fitem.rakuten.co.jp%252Fsk-ii%252Ffte_230-sgl%252F%26m%3Dhttp%253A%252F%252Fm.rakuten.co.jp%252Fsk-ii%252Fi%252F10003011%252F%26rafcid%3Dwsc_i_is_33f72da33714639c415e592c9633ecd7" rel="nofollow"><img style="max-width:initial;" border="0" alt="" src="https://thumbnail.image.rakuten.co.jp/@0_mall/sk-ii/cabinet/item/thumb/fte_230-sgl/2511_fte_230-sgl.jpg?_ex=64x64"></a></td><td style="font-size:12px; vertical-align:middle; border-style:none; padding:10px;"><p style="padding:0; margin:0;"><a href="https://rpx.a8.net/svt/ejp?a8mat=4B1QDP+BQ4COI+2HOM+BWGDT&rakuten=y&a8ejpredirect=https%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2Fg00siy34.2bo11493.g00siy34.2bo12db9%2Fa26042104339_4B1QDP_BQ4COI_2HOM_BWGDT%3Fpc%3Dhttps%253A%252F%252Fitem.rakuten.co.jp%252Fsk-ii%252Ffte_230-sgl%252F%26m%3Dhttp%253A%252F%252Fm.rakuten.co.jp%252Fsk-ii%252Fi%252F10003011%252F%26rafcid%3Dwsc_i_is_33f72da33714639c415e592c9633ecd7" rel="nofollow">【公式】SK-II フェイシャルトリートメントエッセンス75mL、160mL、230mL</a></p><p style="color:#666; margin-top:5px; line-height:1.5;">価格:<span style="font-size:14px; color:#C00; font-weight:bold;">12650円〜</span><br><span style="font-size:10px;">(2026/4/23 時点)</span></p></td></tr></tbody></table>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4B1QDP+BQ4COI+2HOM+BWGDT" alt="">
+{{< /rawhtml >}}
 
 ---
 
@@ -78,6 +88,11 @@ cover:
 - リーズナブルで試しやすい
 - 無添加処方で肌に優しい
 - 導入美容液デビューの最初の一本に最適
+
+{{< rawhtml >}}
+<table cellpadding="0" cellspacing="0" border="0" style="border:1px solid #ccc; width:300px; margin:1em 0;"><tbody><tr style="border-style:none;"><td style="vertical-align:top; border-style:none; padding:10px; width:44px;"><a href="https://rpx.a8.net/svt/ejp?a8mat=4B1QDP+BQ4COI+2HOM+BWGDT&rakuten=y&a8ejpredirect=https%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2Fg00tpdh4.2bo1196b.g00tpdh4.2bo12d80%2Fa26042104339_4B1QDP_BQ4COI_2HOM_BWGDT%3Fpc%3Dhttps%253A%252F%252Fitem.rakuten.co.jp%252Fmujirushi-ryohin%252F4550583451301%252F%26m%3Dhttp%253A%252F%252Fm.rakuten.co.jp%252Fmujirushi-ryohin%252Fi%252F10006800%252F%26rafcid%3Dwsc_i_is_33f72da33714639c415e592c9633ecd7" rel="nofollow"><img style="max-width:initial;" border="0" alt="" src="https://thumbnail.image.rakuten.co.jp/@0_mall/mujirushi-ryohin/cabinet/item35/4550583451301.jpg?_ex=64x64"></a></td><td style="font-size:12px; vertical-align:middle; border-style:none; padding:10px;"><p style="padding:0; margin:0;"><a href="https://rpx.a8.net/svt/ejp?a8mat=4B1QDP+BQ4COI+2HOM+BWGDT&rakuten=y&a8ejpredirect=https%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2Fg00tpdh4.2bo1196b.g00tpdh4.2bo12d80%2Fa26042104339_4B1QDP_BQ4COI_2HOM_BWGDT%3Fpc%3Dhttps%253A%252F%252Fitem.rakuten.co.jp%252Fmujirushi-ryohin%252F4550583451301%252F%26m%3Dhttp%253A%252F%252Fm.rakuten.co.jp%252Fmujirushi-ryohin%252Fi%252F10006800%252F%26rafcid%3Dwsc_i_is_33f72da33714639c415e592c9633ecd7" rel="nofollow">発酵導入化粧液・300mL【無印良品 公式】</a></p><p style="color:#666; margin-top:5px; line-height:1.5;">価格:<span style="font-size:14px; color:#C00; font-weight:bold;">1590円</span><br><span style="font-size:10px;">(2026/4/23 時点)</span></p></td></tr></tbody></table>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4B1QDP+BQ4COI+2HOM+BWGDT" alt="">
+{{< /rawhtml >}}
 
 ---
 
