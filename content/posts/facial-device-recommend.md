@@ -162,6 +162,8 @@ ZIIP HALOは、正規輸入代理店の**CurrentBody（カレントボディ）*
 
 毎日のスキンケアが「塗るだけ」から「整える時間」に変わる感覚、ぜひ体験してみてください。
 
+> LEDフェイスマスクで肌の土台から整えたい方は[CurrentBody LEDフェイスマスク口コミ記事](/posts/currentbody-led-mask-review/)もあわせてどうぞ。
+
 {{< rawhtml >}}
 <div style="text-align:center; margin: 2em 0;">
   <a href="https://px.a8.net/svt/ejp?a8mat=4B1R5P+FXXVXU+54TM+BWVTE" target="_blank" rel="nofollow noopener" style="display:inline-block; background:#c97d7d; color:#fff; padding:16px 40px; border-radius:30px; font-size:1.1em; font-weight:bold; text-decoration:none;">

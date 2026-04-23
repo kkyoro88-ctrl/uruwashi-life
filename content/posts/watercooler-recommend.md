@@ -235,3 +235,5 @@ cover:
   <img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4B1RXP+DNS2GI+1LOO+5ZU2A" alt="">
 </div>
 {{< /rawhtml >}}
+
+> 「コストを固定したい」「浄水型で手軽に始めたい」方は[エブリィフレシャスのレビュー記事](/posts/everyfrecious-review/)もあわせてどうぞ。
