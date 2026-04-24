@@ -5,7 +5,12 @@ theme = "PaperMod"
 defaultContentLanguage = "ja"
 hasCJKLanguage = true
 
+[services]
+  [services.googleAnalytics]
+    ID = "G-GJPDP1ZKME"
+
 [params]
+  env = "production"
   defaultTheme = "light"
   author = "うるわし生活編集部"
   description = "30〜40代女性のための美容・スキンケア情報サイト。歳を重ねるほど美しくなるための本音レビューをお届けします。"
