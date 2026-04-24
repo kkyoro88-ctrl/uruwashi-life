@@ -1,5 +1,5 @@
 ---
-title: "ZIIP HALOの口コミ・レビュー｜マイクロカレント効果は本当？40代が3ヶ月使って正直評価"
+title: "ZIIP HALOの口コミ・レビュー【40代が3ヶ月使って正直評価】"
 date: 2026-04-22
 draft: false
 affiliate: true

@@ -1,14 +1,14 @@
 ---
-title: "CurrentBody LED頭皮ケアデバイスの口コミ・レビュー【GWセールで20%オフ・クーポンFANCB】"
+title: "CurrentBody LED頭皮ケアデバイスの口コミ・レビュー【3ヶ月使って抜け毛に変化・40代が正直評価】"
 date: 2026-04-25
 draft: false
 affiliate: true
 categories: ["口コミ・レビュー", "ヘアケア"]
-tags: ["LEDヘアケア", "CurrentBody", "頭皮ケア", "薄毛対策", "GWセール"]
-description: "CurrentBody LED頭皮・頭髪ケアデバイスの口コミ・レビュー。GWセール（4/25〜5/11）はクーポンFANCBで20%オフ。実際に使ってわかった頭皮への効果を正直にレビュー。"
+tags: ["LEDヘアケア", "CurrentBody", "頭皮ケア", "薄毛対策", "光療法"]
+description: "CurrentBody LED頭皮・頭髪ケアデバイスの口コミ・レビュー。実際に3ヶ月使ってわかった頭皮への効果、育毛剤との違い・組み合わせ方を40代目線で正直にレビューします。"
 cover:
   image: "https://www29.a8.net/svt/bgt?aid=260422333965&wid=001&eno=01&mid=s00000023953001036000&mc=1"
-  alt: "CurrentBody LED頭皮ケアデバイス GWセール"
+  alt: "CurrentBody LED頭皮ケアデバイス"
 ---
 
 

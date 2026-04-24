@@ -1,14 +1,14 @@
 ---
-title: "CurrentBody LEDマスクの口コミ・レビュー【GWセールで20%オフ・クーポンFANCB】"
+title: "CurrentBody LEDマスクの口コミ・レビュー【1ヶ月でほうれい線・むくみが変化・40代が正直評価】"
 date: 2026-04-25
 draft: false
 affiliate: true
 categories: ["口コミ・レビュー", "スキンケア"]
-tags: ["LEDマスク", "CurrentBody", "光美容", "エイジングケア", "GWセール"]
-description: "CurrentBody LEDフェイスマスクの口コミ・レビュー。GWセール期間中（4/25〜5/11）はクーポンFANCBで20%オフ。40代が実際に使ってわかったリフトアップ・ハリへの効果を正直にレビュー。"
+tags: ["LEDマスク", "CurrentBody", "光美容", "エイジングケア", "リフトアップ"]
+description: "CurrentBody LEDフェイスマスクの口コミ・レビュー。1ヶ月使って変わったこと・変わらなかったこと、シリーズ2とマルチライトマスクの選び方まで40代が正直にレビューします。"
 cover:
   image: "https://www23.a8.net/svt/bgt?aid=260422333965&wid=001&eno=01&mid=s00000023953001006000&mc=1"
-  alt: "CurrentBody LEDフェイスマスク GWセール"
+  alt: "CurrentBody LEDフェイスマスク"
 ---
 
 

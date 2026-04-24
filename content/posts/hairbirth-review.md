@@ -17,6 +17,15 @@ cover:
 
 ---
 
+{{< rawhtml >}}
+<div style="text-align:center; margin: 2em 0;">
+  <a href="https://rpx.a8.net/svt/ejp?a8mat=4B1QDP+BQ4COI+2HOM+BWGDT&rakuten=y&a8ejpredirect=https%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2Fg00skwj4.2bo1117e.g00skwj4.2bo12ced%2Fa26042104339_4B1QDP_BQ4COI_2HOM_BWGDT%3Fpc%3Dhttps%253A%252F%252Fitem.rakuten.co.jp%252Flove-dream%252F100000401%252F%26m%3Dhttp%253A%252F%252Fm.rakuten.co.jp%252Flove-dream%252Fi%252F10000296%252F%26rafcid%3Dwsc_i_is_33f72da33714639c415e592c9633ecd7" target="_blank" rel="nofollow noopener" style="display:inline-block; background:#5b9bd5; color:#fff; padding:16px 40px; border-radius:30px; font-size:1.1em; font-weight:bold; text-decoration:none;">
+    ヘアバースを楽天で見る →
+  </a>
+  <img border="0" width="1" height="1" src="https://www19.a8.net/0.gif?a8mat=4B1QDP+BQ4COI+2HOM+BWGDT" alt="">
+</div>
+{{< /rawhtml >}}
+
 ## ヘアバースとは？
 
 ヘアバース（HAIRBIRTH）は、薄毛・抜け毛が気になる方向けに開発された育毛サポートサプリメントです。
