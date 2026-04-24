@@ -20,3 +20,20 @@
   });
 })();
 </script>
+
+<script>
+// アフィリエイトリンク クリック計測
+document.addEventListener('click', function(e) {
+  var link = e.target.closest('a[href]');
+  if (!link) return;
+  var href = link.getAttribute('href') || '';
+  if (href.indexOf('a8.net') === -1) return;
+  if (typeof gtag === 'undefined') return;
+
+  gtag('event', 'affiliate_click', {
+    'link_url': href,
+    'link_text': link.textContent.trim().slice(0, 100),
+    'page_path': window.location.pathname
+  });
+});
+</script>
