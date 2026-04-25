@@ -97,7 +97,7 @@ categories: ["スキンケア"]
 
 ### ③ エクストラロングラッシュ｜まゆ毛・まつ毛を同時にケア
 
-<!-- アフィリエイトリンク: エクストラロングラッシュ s00000014141008 承認後に差し替え -->
+<a href="https://px.a8.net/svt/ejp?a8mat=4B1THT+9T22IA+3142+1BQR01" rel="nofollow"><img border="0" width="300" height="250" alt="" src="https://www28.a8.net/svt/bgt?aid=260425361593&wid=001&eno=01&mid=s00000014141008019000&mc=1"></a><img border="0" width="1" height="1" src="https://www18.a8.net/0.gif?a8mat=4B1THT+9T22IA+3142+1BQR01" alt="">
 
 「30日で実感・60日で感動」をコンセプトに、まつ毛とまゆ毛を同時にケアできる美容液。確定率93%の実績ある商品で、まゆ毛が薄くなってきた40代にも嬉しい2in1タイプです。
 
@@ -111,7 +111,7 @@ categories: ["スキンケア"]
 - 30日で実感・60日で感動の段階的な変化
 - セルフバック対応（自分で試してから紹介できる）
 
-> ※アフィリエイトリンク：提携承認後に追加予定
+> <a href="https://px.a8.net/svt/ejp?a8mat=4B1THT+9T22IA+3142+1BMW42" rel="nofollow">目もと「ぐん」と目映える！【エクストラロングラッシュ】</a><img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4B1THT+9T22IA+3142+1BMW42" alt="">
 
 ---
 
