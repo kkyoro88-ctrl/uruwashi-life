@@ -110,3 +110,5 @@ cover:
 > 40代のまつ毛悩みに合うマスカラは[マスカラおすすめ5選の記事](/posts/mascara-recommend/)にまとめています。
 
 > 目元に優しいクレンジングを探している方は[オルビス ザ クレンジングオイルの口コミ](/posts/orbis-cleansing-review/)もあわせてどうぞ。
+
+> スカルプD以外のまつ毛美容液も比較したい方は[まつ毛美容液おすすめ40代向け3選](/posts/eyelash-serum-40s-recommend/)もご覧ください。
