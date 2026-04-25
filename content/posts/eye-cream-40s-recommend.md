@@ -49,7 +49,9 @@ categories: ["スキンケア"]
 
 ### ① RF28 Wエフェクトアイクリーム｜シワ改善×シミ美白を1本で
 
-<!-- アフィリエイトリンク: RF28 s00000017393008 承認後に差し替え -->
+<a href="https://px.a8.net/svt/ejp?a8mat=4B1THT+AWY41E+3Q7E+1BNYOX" rel="nofollow">
+<img border="0" width="300" height="250" alt="" src="https://www23.a8.net/svt/bgt?aid=260425361660&wid=001&eno=01&mid=s00000017393008006000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4B1THT+AWY41E+3Q7E+1BNYOX" alt="">
 
 創業140年の老舗・桃谷順天館が開発した医薬部外品のアイクリーム。**シワ改善とシミ・美白の両方に有効成分が認められた**二刀流の処方が特徴。目元のシワが気になりつつ、シミ・くすみも気になる40代にぴったりです。
 
@@ -63,13 +65,16 @@ categories: ["スキンケア"]
 - まぶたのたるみにもアプローチ
 - セルフバック対応
 
-> ※アフィリエイトリンク：提携承認後に追加予定
+> <a href="https://px.a8.net/svt/ejp?a8mat=4B1THT+AWY41E+3Q7E+1BMW42" rel="nofollow">1本でシワ＆シミ*にWでアプローチする医薬部外品のアイクリーム【RF28 Wエフェクト アイクリーム】</a>
+<img border="0" width="1" height="1" src="https://www18.a8.net/0.gif?a8mat=4B1THT+AWY41E+3Q7E+1BMW42" alt="">
 
 ---
 
 ### ② アイキララII｜目の下のお悩みに本気でアプローチ
 
-<!-- アフィリエイトリンク: アイキララII s00000000204020 承認後に差し替え -->
+<a href="https://px.a8.net/svt/ejp?a8mat=4B1THT+BCFDRM+1KO+3B6JVL" rel="nofollow">
+<img border="0" width="300" height="250" alt="" src="https://www24.a8.net/svt/bgt?aid=260425361686&wid=001&eno=01&mid=s00000000204020018000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4B1THT+BCFDRM+1KO+3B6JVL" alt="">
 
 北の達人コーポレーションが展開する、目の下のお悩みに特化したアイケアアイテム。確定率85.71%・Wチャンスキャンペーン実施中で、多くのユーザーが継続購入している実績ある商品です。
 
@@ -83,13 +88,16 @@ categories: ["スキンケア"]
 - Wチャンスキャンペーン実施中でお得に始めやすい
 - 確定率85.71%の高い継続率
 
-> ※アフィリエイトリンク：提携承認後に追加予定
+> <a href="https://px.a8.net/svt/ejp?a8mat=4B1THT+BCFDRM+1KO+3B34F6" rel="nofollow">目の下の年齢サインを根本から対策する話題のアイクリーム『アイキララII』</a>
+<img border="0" width="1" height="1" src="https://www13.a8.net/0.gif?a8mat=4B1THT+BCFDRM+1KO+3B34F6" alt="">
 
 ---
 
 ### ③ ホワイトニングアイクリーム｜クマ・くすみに美白ケア
 
-<!-- アフィリエイトリンク: ホワイトニングアイクリーム s00000014141016 承認後に差し替え -->
+<a href="https://px.a8.net/svt/ejp?a8mat=4B1THT+BD0TDE+3142+2NB2IP" rel="nofollow">
+<img border="0" width="300" height="250" alt="" src="https://www29.a8.net/svt/bgt?aid=260425361687&wid=001&eno=01&mid=s00000014141016008000&mc=1"></a>
+<img border="0" width="1" height="1" src="https://www18.a8.net/0.gif?a8mat=4B1THT+BD0TDE+3142+2NB2IP" alt="">
 
 デリケートな目元の年齢サインに美白ケアでアプローチする、確定率100%のアイクリーム。くまや色素沈着が特に気になる40代に向けた処方で、明るい目元を目指せます。
 
@@ -103,7 +111,8 @@ categories: ["スキンケア"]
 - 確定率100%の安心品質
 - セルフバック対応
 
-> ※アフィリエイトリンク：提携承認後に追加予定
+> <a href="https://px.a8.net/svt/ejp?a8mat=4B1THT+BD0TDE+3142+2N9KIA" rel="nofollow">デリケートな目元のエイジング現象徹底ケア【ホワイトニングアイクリーム】</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4B1THT+BD0TDE+3142+2N9KIA" alt="">
 
 ---
 
