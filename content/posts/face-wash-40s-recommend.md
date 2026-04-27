@@ -64,7 +64,7 @@ cover:
 
 ### ② b.glen（ビーグレン）QuSomeウォッシュ｜毛穴・くすみに浸透洗浄
 
-<!-- アフィリエイトリンク: b.glen s00000004498 承認後に差し替え -->
+<a href="https://px.a8.net/svt/ejp?a8mat=4B1THT+6NXPKI+YPG+71CDD" rel="nofollow"><img border="0" width="336" height="280" alt="" src="https://www25.a8.net/svt/bgt?aid=260425361403&wid=001&eno=01&mid=s00000004498001182000&mc=1"></a><img border="0" width="1" height="1" src="https://www19.a8.net/0.gif?a8mat=4B1THT+6NXPKI+YPG+71CDD" alt="">
 
 独自の「QuSome技術」でナノカプセル化した洗浄成分が毛穴の奥までアプローチ。汚れをすっきり落としながらもうるおいを残す、洗浄と保湿を両立した洗顔フォームです。皮膚科推薦の実績があり、40代の敏感肌でも安心して使えます。
 
@@ -78,7 +78,7 @@ cover:
 - 皮膚科推薦多数・敏感肌でも使いやすい
 - 洗い上がりもモチモチ感が続く
 
-> ※アフィリエイトリンク：提携承認後に追加予定
+> <a href="https://px.a8.net/svt/ejp?a8mat=4B1THT+6NXPKI+YPG+61Z82" rel="nofollow">毛穴・くすみケア｜b.glen（ビーグレン）公式サイトで詳しく見る →</a><img border="0" width="1" height="1" src="https://www19.a8.net/0.gif?a8mat=4B1THT+6NXPKI+YPG+61Z82" alt="">
 
 ---
 
