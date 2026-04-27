@@ -2,7 +2,7 @@
 title: "頭皮ケアシャンプーおすすめ40代女性向け3選｜薄毛・抜け毛・ハリ不足に効く選び方"
 date: 2026-04-25
 description: "40代女性の薄毛・抜け毛・ハリ不足に向けた頭皮ケアシャンプーを3本比較。選び方のポイントから正しい洗い方まで、ホルモン変化に合わせたスカルプケアを解説します。"
-tags: ["頭皮ケア", "スカルプシャンプー", "40代", "薄毛ケア", "抜け毛", "ヘアケア", "女性"]
+tags: ["ヘアケア", "40代"]
 categories: ["ヘアケア"]
 affiliate: true
 cover:
@@ -103,7 +103,7 @@ draft: false
 
 ### ③ haru kurokami スカルプ｜天然由来・ノンシリコンの全身シャンプー
 
-<!-- アフィリエイトリンク: ③haru kurokami スカルプ 承認後に差し替え -->
+<a href="https://px.a8.net/svt/ejp?a8mat=4B1V21+53YYPE+33NQ+69WPT" rel="nofollow"><img border="0" width="300" height="250" alt="haru kurokamiスカルプ" src="https://www20.a8.net/svt/bgt?aid=260427385309&wid=001&eno=01&mid=s00000014471001054000&mc=1"></a><img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4B1V21+53YYPE+33NQ+69WPT" alt="">
 
 天然由来成分・無添加処方にこだわったスカルプシャンプー。ノンシリコン・アミノ酸系洗浄成分で、乾燥・敏感な40代の頭皮にも使いやすいとされています。頭皮だけでなく全身に使えるオールインワン処方で、手軽さも人気の理由のひとつです。
 
@@ -117,7 +117,7 @@ draft: false
 - アミノ酸系洗浄成分で低刺激
 - 全身シャンプーとして使えるオールインワン
 
-> ※アフィリエイトリンク：提携承認後に追加予定
+> <a href="https://px.a8.net/svt/ejp?a8mat=4B1V21+53YYPE+33NQ+63H8I" rel="nofollow">口コミサイトにもランクイン！haru kurokamiスカルプ 公式サイトで詳しく見る →</a><img border="0" width="1" height="1" src="https://www15.a8.net/0.gif?a8mat=4B1V21+53YYPE+33NQ+63H8I" alt="">
 
 ---
 
