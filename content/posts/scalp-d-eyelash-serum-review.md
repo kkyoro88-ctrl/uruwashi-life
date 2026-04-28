@@ -4,7 +4,7 @@ date: 2026-04-24
 draft: false
 affiliate: true
 categories: ["口コミ・レビュー"]
-tags: ["まつ毛美容液", "スカルプD", "目元ケア", "エイジングケア"]
+tags: ["まつ毛ケア", "目元ケア", "エイジングケア", "口コミ"]
 description: "スカルプD アイラッシュセラム プレミアムを40代が1ヶ月使った口コミ。まつ毛が細くなった・減った悩みに効くのか、成分・使い方・変化を正直にレビューします。"
 cover:
   image: "/images/scalp-d-eyelash-serum-review.png"
@@ -101,7 +101,9 @@ cover:
 
 色素沈着の心配なく続けられるのが、私には一番大事でした。まつ毛美容液をためらっていた方こそ、まず試してほしい一本です。
 
-<!-- ※アフィリエイトリンク：提携承認後に追加 -->
+<a href="https://px.a8.net/svt/ejp?a8mat=4B1SPW+4DRW36+3FH0+TYBG1" rel="nofollow"><img border="0" width="300" height="250" alt="スカルプD ボーテ ピュアフリーアイラッシュセラム プレミアム" src="https://www28.a8.net/svt/bgt?aid=260424356265&wid=001&eno=01&mid=s00000016002005031000&mc=1"></a><img border="0" width="1" height="1" src="https://www19.a8.net/0.gif?a8mat=4B1SPW+4DRW36+3FH0+TYBG1" alt="">
+
+> <a href="https://px.a8.net/svt/ejp?a8mat=4B1SPW+4DRW36+3FH0+TS3OI" rel="nofollow">スカルプDのまつ毛美容液プレミアム　アイラッシュセラム プレミアムを公式サイトで見る →</a><img border="0" width="1" height="1" src="https://www13.a8.net/0.gif?a8mat=4B1SPW+4DRW36+3FH0+TS3OI" alt="">
 
 ---
 

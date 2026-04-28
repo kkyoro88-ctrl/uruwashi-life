@@ -4,7 +4,7 @@ date: 2026-04-21
 draft: false
 affiliate: true
 categories: ["口コミ・レビュー"]
-tags: ["マスカラ", "目元メイク", "口コミ"]
+tags: ["マスカラ", "口コミ"]
 description: "30代・40代のまつ毛の悩みに合うマスカラ5選を口コミレビュー。フィルムタイプ・ウォータープルーフ・デパコスをコスパ・持続力・まつ毛への優しさで比較します。"
 cover:
   image: "/images/mascara-recommend.png"

@@ -4,7 +4,7 @@ date: 2026-04-25
 draft: false
 affiliate: true
 categories: ["口コミ・レビュー", "スキンケア"]
-tags: ["LEDマスク", "CurrentBody", "光美容", "エイジングケア", "リフトアップ"]
+tags: ["美顔器", "エイジングケア", "口コミ"]
 description: "CurrentBody LEDフェイスマスクの口コミ・レビュー。1ヶ月使って変わったこと・変わらなかったこと、シリーズ2とマルチライトマスクの選び方まで40代が正直にレビューします。"
 cover:
   image: "https://www23.a8.net/svt/bgt?aid=260422333965&wid=001&eno=01&mid=s00000023953001006000&mc=1"

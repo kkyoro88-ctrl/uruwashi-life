@@ -4,7 +4,7 @@ date: 2026-04-22
 draft: false
 affiliate: true
 categories: ["口コミ・レビュー", "スキンケア"]
-tags: ["Ulike Air10", "光美容器", "家庭用脱毛器", "IPL脱毛", "口コミ"]
+tags: ["脱毛器", "口コミ"]
 description: "Ulike Air10の口コミ・レビュー。痛み・効果・使い方・デメリットを3ヶ月使った目線で正直に評価。家庭用光美容器を検討中の方に向けて詳しく解説します。"
 cover:
   image: "/images/ulike-air10-review.png"

@@ -4,7 +4,7 @@ date: 2026-04-23
 draft: false
 affiliate: true
 categories: ["インナーケア", "口コミ・レビュー"]
-tags: ["育毛サプリ", "ヘアバース", "HAIRBIRTH", "薄毛対策", "育毛", "サプリメント"]
+tags: ["ヘアケア", "インナーケア", "口コミ"]
 description: "ヘアバース（HAIRBIRTH）の口コミ・評価。薄毛・育毛が気になる30・40代向けに育毛サプリを正直レビュー。成分・使い方・続け方のポイントを解説します。"
 cover:
   image: "https://thumbnail.image.rakuten.co.jp/@0_mall/love-dream/cabinet/biiino/item/main-image/20251008105041_1.jpg"
@@ -99,3 +99,5 @@ cover:
 {{< /rawhtml >}}
 
 > 内側からのケアをもっと知りたい方は[飲む美容液おすすめ記事](/posts/drinking-beauty-recommend/)もあわせてどうぞ。
+
+> 外側からの頭皮ケアも合わせたい方は[頭皮ケアシャンプーおすすめ40代向け3選](/posts/scalp-shampoo-40s-recommend/)もどうぞ。

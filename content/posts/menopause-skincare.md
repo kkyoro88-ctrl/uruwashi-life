@@ -4,7 +4,7 @@ date: 2026-04-23
 draft: false
 affiliate: false
 categories: ["スキンケア"]
-tags: ["更年期", "肌荒れ", "乾燥肌", "40代 スキンケア", "エイジングケア", "ホルモン"]
+tags: ["40代", "乾燥肌", "エイジングケア", "スキンケア"]
 description: "更年期に肌荒れ・乾燥が起きる原因をわかりやすく解説。エストロゲン低下による肌変化と、40代・50代が実践できるスキンケアの選び直し方を紹介します。"
 cover:
   image: "/images/menopause-skincare.png"
@@ -108,3 +108,5 @@ cover:
 > 40代の肌悩みに向けた美顔器ケアに興味がある方は[美顔器おすすめ記事](/posts/facial-device-recommend/)もあわせてどうぞ。
 
 > 外側のケアに加えて内側からのアプローチも気になる方は[オルビス アンバーのレビュー記事](/posts/orbis-amber-review/)もご覧ください。
+
+> 40代のスキンケア全体の順番・選び方をまとめた[40代スキンケアルーティン完全ガイド](/posts/skincare-routine-40s-guide/)もあわせてどうぞ。

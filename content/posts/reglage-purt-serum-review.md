@@ -4,7 +4,7 @@ date: 2026-04-24
 draft: false
 affiliate: true
 categories: ["口コミ・レビュー", "スキンケア"]
-tags: ["レチノール", "美容液", "エイジングケア", "ハリ", "シワ対策"]
+tags: ["レチノール", "美容液", "エイジングケア", "シワ改善"]
 description: "40代の「ハリのなさ・キメの乱れ・小じわ」にレチノール美容液は効くのか。No46.ピュアRTセラム（REGLAGE）を1ヶ月使った正直な口コミ。ナノカプセル処方で肌への負担を抑えた使い方も解説します。"
 cover:
   image: "/images/reglage-purt-serum-review.png"

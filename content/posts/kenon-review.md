@@ -4,7 +4,7 @@ date: 2026-04-24
 draft: false
 affiliate: true
 categories: ["口コミ・レビュー", "スキンケア"]
-tags: ["ケノン", "美顔器", "脱毛器", "家庭用美容器", "口コミ", "スキンケアカートリッジ"]
+tags: ["脱毛器", "美顔器", "口コミ"]
 description: "ケノンの美顔器（スキンケアカートリッジ）を実際に使った口コミ・レビュー。脱毛器としても使える家庭用美容器を40代が3ヶ月使ってわかった変化とデメリットを正直に解説。"
 cover:
   image: "https://thumbnail.image.rakuten.co.jp/@0_mall/mrock/cabinet/k/20260121kenon.jpg"
