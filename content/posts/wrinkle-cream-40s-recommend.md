@@ -4,6 +4,7 @@ date: 2026-04-25
 description: "40代のシワ・たるみに本当に効くシワ改善クリームを厳選3本紹介。首のシワ・目元のシワ・ほうれい線など悩み別の選び方と、医薬部外品の有効成分の違いを解説します。"
 tags: ["シワ改善", "40代", "エイジングケア", "美容液"]
 categories: ["スキンケア"]
+affiliate: true
 cover:
   image: "/images/wrinkle-cream-40s-recommend.png"
   alt: "シワ改善クリーム美容液おすすめ40代向け"

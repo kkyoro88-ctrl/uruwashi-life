@@ -4,6 +4,7 @@ date: 2026-04-25
 description: "40代の目元のシワ・たるみ・クマに効くアイクリームを厳選3本紹介。「医薬部外品」と「化粧品」の違いを解説し、有効成分で選ぶ本格ケアアイテムをまとめました。"
 tags: ["目元ケア", "40代", "シワ改善", "エイジングケア"]
 categories: ["スキンケア"]
+affiliate: true
 cover:
   image: "/images/eye-cream-40s-recommend.png"
   alt: "アイクリームおすすめ40代向け"

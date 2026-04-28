@@ -4,6 +4,7 @@ date: 2026-04-26
 description: "40代の乾燥・敏感肌に合う洗顔料を厳選3本紹介。「落としすぎない」「うるおいを残す」を軸に、毛穴ケア・くすみ・乾燥タイプ別の選び方と朝夜の使い方を解説します。"
 tags: ["40代", "乾燥肌", "スキンケア"]
 categories: ["スキンケア"]
+affiliate: true
 cover:
   image: "/images/face-wash-40s-recommend.png"
   alt: "洗顔料おすすめ40代向け"

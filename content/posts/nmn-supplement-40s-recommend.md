@@ -4,6 +4,7 @@ date: 2026-04-25
 description: "40代女性に注目されるNMNサプリを比較3選で紹介。含有量・純度・価格の選び方から、効果を実感するまでの期間、正しい飲み方まで解説します。"
 tags: ["40代", "エイジングケア", "インナーケア"]
 categories: ["インナーケア"]
+affiliate: true
 cover:
   image: "/images/nmn-supplement-40s-recommend.png"
   alt: "NMNサプリおすすめ40代女性向け"

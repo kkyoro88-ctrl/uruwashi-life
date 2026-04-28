@@ -4,6 +4,7 @@ date: 2026-04-25
 description: "レチノール美容液を初めて使う40代向けに、失敗しない選び方と正しい始め方を解説。刺激を抑えながらシワ・ハリ・毛穴にアプローチできる厳選3商品を紹介します。"
 tags: ["レチノール", "美容液", "40代", "エイジングケア"]
 categories: ["スキンケア"]
+affiliate: true
 cover:
   image: "/images/retinol-serum-beginner.png"
   alt: "レチノール美容液初心者向け選び方40代"
