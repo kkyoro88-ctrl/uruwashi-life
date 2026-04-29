@@ -73,7 +73,19 @@ cover:
 
 ### ② キュレル 潤浸保湿 フェイスクリーム｜セラミドケアの医薬部外品
 
-<!-- A8アフィリエイト未対応 / 良品として紹介 -->
+{{< rawhtml >}}
+<!-- START MoshimoAffiliateEasyLink -->
+<script type="text/javascript">
+(function(b,c,f,g,a,d,e){b.MoshimoAffiliateObject=a;
+b[a]=b[a]||function(){arguments.currentScript=c.currentScript
+||c.scripts[c.scripts.length-2];(b[a].q=b[a].q||[]).push(arguments)};
+c.getElementById(a)||(d=c.createElement(f),d.src=g,
+d.id=a,e=c.getElementsByTagName("body")[0],e.appendChild(d))})(window,document,"script","//dn.msmstatic.com/site/cardlink/bundle.js?20220329","msmaflink");
+msmaflink({"n":"【クーポン利用で最大150円OFF】【即納】【2025年4月12日新発売・大容量サイズ・国内正規品】KAO 花王 Curel キュレル 潤浸保湿 フェイスクリーム 70g 大容量1.7倍【4901301450555】","b":"","t":"","d":"https:\/\/thumbnail.image.rakuten.co.jp","c_p":"\/@0_mall\/beautyplaza1\/cabinet","p":["\/2025312\/4901301450555_.jpg","\/kyotu\/review500.jpg","\/kyotu\/takuhaibin.jpg"],"u":{"u":"https:\/\/item.rakuten.co.jp\/beautyplaza1\/4901301450555\/","t":"rakuten","r_v":""},"v":"2.1","b_l":[{"id":1,"u_tx":"楽天市場で見る","u_bc":"#f76956","u_url":"https:\/\/item.rakuten.co.jp\/beautyplaza1\/4901301450555\/","a_id":5520409,"p_id":54,"pl_id":27059,"pc_id":54,"s_n":"rakuten","u_so":1}],"eid":"gbl3S","s":"s"});
+</script>
+<div id="msmaflink-gbl3S">リンク</div>
+<!-- MoshimoAffiliateEasyLink END -->
+{{< /rawhtml >}}
 
 花王の皮膚科学研究から生まれたキュレルは、「セラミドを守る」をコンセプトにしたスキンケアブランド。「セラミドケア成分（セラミド機能成分）」が肌のバリア機能を内側から整えます。医薬部外品として認定されており、乾燥敏感肌・アトピー肌にも広く使われています。ドラッグストアで手に入れやすい価格帯でありながら、皮膚科学に裏付けられた処方が特徴です。
 
@@ -91,7 +103,19 @@ cover:
 
 ### ③ ポーラ リンクルショット メディカル セラム｜日本初承認・ハリ・シワに本格アプローチ
 
-<!-- A8アフィリエイト未対応 / 良品として紹介 -->
+{{< rawhtml >}}
+<!-- START MoshimoAffiliateEasyLink -->
+<script type="text/javascript">
+(function(b,c,f,g,a,d,e){b.MoshimoAffiliateObject=a;
+b[a]=b[a]||function(){arguments.currentScript=c.currentScript
+||c.scripts[c.scripts.length-2];(b[a].q=b[a].q||[]).push(arguments)};
+c.getElementById(a)||(d=c.createElement(f),d.src=g,
+d.id=a,e=c.getElementsByTagName("body")[0],e.appendChild(d))})(window,document,"script","//dn.msmstatic.com/site/cardlink/bundle.js?20220329","msmaflink");
+msmaflink({"n":"【ネコポス】ポーラ　POLA　リンクルショットメディカルセラムN　20g【大人気商品！楽天最安値に挑戦中】","b":"","t":"","d":"https:\/\/thumbnail.image.rakuten.co.jp","c_p":"\/@0_mall\/cosmeticroyal\/cabinet\/pola","p":["\/4953923308509logo.jpg","\/4953923308509_2.jpg","\/4953923308509_3.jpg"],"u":{"u":"https:\/\/item.rakuten.co.jp\/cosmeticroyal\/4953923308509\/","t":"rakuten","r_v":""},"v":"2.1","b_l":[{"id":1,"u_tx":"楽天市場で見る","u_bc":"#f76956","u_url":"https:\/\/item.rakuten.co.jp\/cosmeticroyal\/4953923308509\/","a_id":5520409,"p_id":54,"pl_id":27059,"pc_id":54,"s_n":"rakuten","u_so":1}],"eid":"fCUs4","s":"s"});
+</script>
+<div id="msmaflink-fCUs4">リンク</div>
+<!-- MoshimoAffiliateEasyLink END -->
+{{< /rawhtml >}}
 
 ポーラの「リンクルショット」シリーズは、日本で初めてシワ改善成分として承認されたニールワン（ポリエチレングリコール）を配合した実績ある美容液。真皮へのアプローチを重視する40代に支持されています。クリームと組み合わせてシワ改善ケアを強化したい方に、ひとつ上のエイジングケアとして選ばれています。
 
