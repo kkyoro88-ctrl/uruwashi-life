@@ -115,6 +115,20 @@ cover:
 
 ### ③ meiji アミノコラーゲン│1日5,500mgの低分子コラーゲンペプチド・ロングセラーの定番
 
+{{< rawhtml >}}
+<!-- START MoshimoAffiliateEasyLink -->
+<script type="text/javascript">
+(function(b,c,f,g,a,d,e){b.MoshimoAffiliateObject=a;
+b[a]=b[a]||function(){arguments.currentScript=c.currentScript
+||c.scripts[c.scripts.length-2];(b[a].q=b[a].q||[]).push(arguments)};
+c.getElementById(a)||(d=c.createElement(f),d.src=g,
+d.id=a,e=c.getElementsByTagName("body")[0],e.appendChild(d))})(window,document,"script","//dn.msmstatic.com/site/cardlink/bundle.js?20220329","msmaflink");
+msmaflink({"n":"ゆうパケットで送料無料 明治 アミノコラーゲン スタンダード 196g×1個 高純度 低分子フィッシュコラーゲン5000mg 美魔女 軽減税率対象商品","b":"","t":"","d":"https:\/\/thumbnail.image.rakuten.co.jp","c_p":"\/@0_mall\/drugkirin\/cabinet\/imgdir76","p":["\/4902777313696-pk_1.gif","\/4902777313696-pk_2.gif"],"u":{"u":"https:\/\/item.rakuten.co.jp\/drugkirin\/4902777313696-pk\/","t":"rakuten","r_v":""},"v":"2.1","b_l":[{"id":1,"u_tx":"楽天市場で見る","u_bc":"#f76956","u_url":"https:\/\/item.rakuten.co.jp\/drugkirin\/4902777313696-pk\/","a_id":5520409,"p_id":54,"pl_id":27059,"pc_id":54,"s_n":"rakuten","u_so":1}],"eid":"6FaKW","s":"s"});
+</script>
+<div id="msmaflink-6FaKW">リンク</div>
+<!-- MoshimoAffiliateEasyLink END -->
+{{< /rawhtml >}}
+
 明治が開発した「アミノコラーゲン」は、コラーゲンサプリの先駆けともいえるロングセラー商品。1日5,500mgの低分子コラーゲンペプチドを手軽に摂れるパウダータイプで、ドリンクに混ぜるだけで続けられます。ドラッグストアや通販でも手に入りやすく、価格帯も現実的。コラーゲンサプリを初めて試す方に選ばれている定番商品です。
 
 **こんな人におすすめ**
