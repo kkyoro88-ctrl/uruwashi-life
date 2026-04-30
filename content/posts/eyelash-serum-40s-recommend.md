@@ -57,7 +57,7 @@ cover:
 
 ## おすすめまつ毛美容液3選【40代向け】
 
-### ① スカルプD ボーテ ピュアフリーアイラッシュセラム プレミアム
+### 1位：スカルプD ボーテ ピュアフリーアイラッシュセラム プレミアム
 
 <a href="https://px.a8.net/svt/ejp?a8mat=4B1SPW+4DRW36+3FH0+TYBG1" rel="nofollow"><img border="0" width="300" height="250" alt="スカルプD ボーテ ピュアフリーアイラッシュセラム プレミアム" src="https://www28.a8.net/svt/bgt?aid=260424356265&wid=001&eno=01&mid=s00000016002005031000&mc=1"></a><img border="0" width="1" height="1" src="https://www19.a8.net/0.gif?a8mat=4B1SPW+4DRW36+3FH0+TYBG1" alt="">
 
@@ -79,7 +79,7 @@ cover:
 
 ---
 
-### ② ASHADAアイラッシュセラム｜女性用育毛剤で上場した会社が開発
+### 2位：ASHADAアイラッシュセラム｜女性用育毛剤で上場した会社が開発
 
 女性用育毛剤で東証上場を果たした会社が、まつ毛ケアのために開発した美容液。育毛の研究実績をまつ毛美容液に活かした本格派で、確定率100%の信頼ある案件です。
 
@@ -99,7 +99,7 @@ cover:
 
 ---
 
-### ③ エクストラロングラッシュ｜まゆ毛・まつ毛を同時にケア
+### 3位：エクストラロングラッシュ｜まゆ毛・まつ毛を同時にケア
 
 <a href="https://px.a8.net/svt/ejp?a8mat=4B1THT+9T22IA+3142+1BQR01" rel="nofollow"><img border="0" width="300" height="250" alt="" src="https://www28.a8.net/svt/bgt?aid=260425361593&wid=001&eno=01&mid=s00000014141008019000&mc=1"></a><img border="0" width="1" height="1" src="https://www18.a8.net/0.gif?a8mat=4B1THT+9T22IA+3142+1BQR01" alt="">
 

@@ -63,7 +63,7 @@ draft: false
 
 ## おすすめ頭皮ケアシャンプー3選【40代女性向け】
 
-### ① スカルプD 薬用スカルプシャンプー｜育毛専門メーカーの医薬部外品
+### 1位：スカルプD 薬用スカルプシャンプー｜育毛専門メーカーの医薬部外品
 
 <!-- アフィリエイトリンク: スカルプD NEXT+ s00000016002013 承認後に差し替え -->
 
@@ -74,7 +74,7 @@ draft: false
 
 ---
 
-### ② ルメント シャンプー｜女性向け育毛・頭皮ケアに特化
+### 2位：ルメント シャンプー｜女性向け育毛・頭皮ケアに特化
 
 <!-- A8アフィリエイト未対応 / 良品として紹介 -->
 
@@ -84,7 +84,7 @@ draft: false
 
 ---
 
-### ③ haru kurokami スカルプ｜天然由来・ノンシリコンの全身シャンプー
+### 3位：haru kurokami スカルプ｜天然由来・ノンシリコンの全身シャンプー
 
 <a href="https://px.a8.net/svt/ejp?a8mat=4B1V21+53YYPE+33NQ+69WPT" rel="nofollow"><img border="0" width="300" height="250" alt="haru kurokamiスカルプ" src="https://www20.a8.net/svt/bgt?aid=260427385309&wid=001&eno=01&mid=s00000014471001054000&mc=1"></a><img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4B1V21+53YYPE+33NQ+69WPT" alt="">
 

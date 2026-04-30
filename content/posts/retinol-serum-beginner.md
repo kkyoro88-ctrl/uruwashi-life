@@ -79,7 +79,7 @@ cover:
 
 ## 【40代初心者向け】おすすめレチノール美容液3選
 
-### ① No46.ピュアRTセラム｜140年の肌研究が生んだ高濃度×低刺激
+### 1位：No46.ピュアRTセラム｜140年の肌研究が生んだ高濃度×低刺激
 
 <a href="https://px.a8.net/svt/ejp?a8mat=4B1SPX+12P73M+3Q7E+1NLHNL" rel="nofollow"><img border="0" width="300" height="250" alt="" src="https://www22.a8.net/svt/bgt?aid=260424357065&wid=001&eno=01&mid=s00000017393010010000&mc=1"></a><img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4B1SPX+12P73M+3Q7E+1NLHNL" alt="">
 
@@ -99,7 +99,7 @@ cover:
 
 ---
 
-### ② b.glen（ビーグレン）｜浸透技術で敏感肌でも使いやすいサイエンスコスメ
+### 2位：b.glen（ビーグレン）｜浸透技術で敏感肌でも使いやすいサイエンスコスメ
 
 <a href="https://px.a8.net/svt/ejp?a8mat=4B1THT+6NXPKI+YPG+71CDD" rel="nofollow"><img border="0" width="336" height="280" alt="" src="https://www25.a8.net/svt/bgt?aid=260425361403&wid=001&eno=01&mid=s00000004498001182000&mc=1"></a><img border="0" width="1" height="1" src="https://www19.a8.net/0.gif?a8mat=4B1THT+6NXPKI+YPG+71CDD" alt="">
 
@@ -119,7 +119,7 @@ cover:
 
 ---
 
-### ③ レチベイビー｜レチノールのデメリットを最大限排除した角質ケアクリーム
+### 3位：レチベイビー｜レチノールのデメリットを最大限排除した角質ケアクリーム
 
 <a href="https://px.a8.net/svt/ejp?a8mat=4B1THT+6PQ0DU+4GNW+HVV0H" rel="nofollow"><img border="0" width="300" height="250" alt="" src="https://www28.a8.net/svt/bgt?aid=260425361406&wid=001&eno=01&mid=s00000020822003004000&mc=1"></a><img border="0" width="1" height="1" src="https://www19.a8.net/0.gif?a8mat=4B1THT+6PQ0DU+4GNW+HVV0H" alt="">
 

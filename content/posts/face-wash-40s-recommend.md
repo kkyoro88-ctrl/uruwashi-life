@@ -45,7 +45,7 @@ cover:
 
 ## おすすめ洗顔料3選【40代乾燥・敏感肌向け】
 
-### ① ファンケル マイルドクレンジングオイル ＋ BC酵素洗顔パウダー｜無添加・敏感肌の定番
+### 1位：ファンケル マイルドクレンジングオイル ＋ BC酵素洗顔パウダー｜無添加・敏感肌の定番
 
 <!-- アフィリエイトリンク: ファンケル s00000016135001 承認後に差し替え -->
 
@@ -56,7 +56,7 @@ cover:
 
 ---
 
-### ② b.glen（ビーグレン）QuSomeウォッシュ｜毛穴・くすみに浸透洗浄
+### 2位：b.glen（ビーグレン）QuSomeウォッシュ｜毛穴・くすみに浸透洗浄
 
 <a href="https://px.a8.net/svt/ejp?a8mat=4B1THT+6NXPKI+YPG+71CDD" rel="nofollow"><img border="0" width="336" height="280" alt="b.glen（ビーグレン）QuSomeウォッシュ" src="https://www25.a8.net/svt/bgt?aid=260425361403&wid=001&eno=01&mid=s00000004498001182000&mc=1"></a><img border="0" width="1" height="1" src="https://www19.a8.net/0.gif?a8mat=4B1THT+6NXPKI+YPG+71CDD" alt="">
 
@@ -68,7 +68,7 @@ cover:
 
 ---
 
-### ③ オルビス ザ クレンジング オイル｜落としながら美容液ケアができる次世代クレンジング
+### 3位：オルビス ザ クレンジング オイル｜落としながら美容液ケアができる次世代クレンジング
 
 <a href="https://px.a8.net/svt/ejp?a8mat=4B1RXR+DVIPBM+1USQ+4YMOMP" rel="nofollow"><img border="0" width="300" height="250" alt="" src="https://www27.a8.net/svt/bgt?aid=260423343839&wid=001&eno=01&mid=s00000008657030003000&mc=1"></a><img border="0" width="1" height="1" src="https://www13.a8.net/0.gif?a8mat=4B1RXR+DVIPBM+1USQ+4YMOMP" alt="">
 
