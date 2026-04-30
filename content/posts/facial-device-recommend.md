@@ -174,3 +174,5 @@ ZIIP HALOは、正規輸入代理店の**CurrentBody（カレントボディ）*
 {{< /rawhtml >}}
 
 > 美容デバイスと合わせたスキンケア全体の流れは[40代スキンケアルーティン完全ガイド](/posts/skincare-routine-40s-guide/)でまとめています。
+
+> 美顔器全体の種類・選び方は[40代美顔器おすすめガイド](/posts/beauty-device-40s-guide/)でまとめています。

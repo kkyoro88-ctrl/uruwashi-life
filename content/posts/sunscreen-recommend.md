@@ -127,3 +127,5 @@ cover:
 > 40代の肌が変わるスキンケアの見直し方は[更年期の肌荒れ・乾燥ケアの記事](/posts/menopause-skincare/)にまとめています。
 
 > 朝のスキンケア全体の流れは[40代スキンケアルーティン完全ガイド](/posts/skincare-routine-40s-guide/)でまとめています。
+
+> 日焼け止めをはじめスキンケア全体の選び方は[40代スキンケアおすすめ完全ガイド](/posts/skincare-products-40s-guide/)でまとめています。

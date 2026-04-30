@@ -101,3 +101,5 @@ cover:
 > 内側からのケアをもっと知りたい方は[飲む美容液おすすめ記事](/posts/drinking-beauty-recommend/)もあわせてどうぞ。
 
 > 外側からの頭皮ケアも合わせたい方は[頭皮ケアシャンプーおすすめ40代向け3選](/posts/scalp-shampoo-40s-recommend/)もどうぞ。
+
+> 育毛サポートサプリをはじめヘアケア全体の選び方は[40代ヘアケアおすすめガイド](/posts/haircare-40s-guide/)でまとめています。

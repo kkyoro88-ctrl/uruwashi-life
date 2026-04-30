@@ -133,3 +133,5 @@ Gaah NMNは、品質の透明性と純度への徹底したこだわりが特徴
   <img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4B1SPS+B1459U+4P4W+C2O5E" alt="">
 </div>
 {{< /rawhtml >}}
+
+> GaahNMNをはじめNMN・コラーゲンサプリの選び方は[40代インナーケアおすすめガイド](/posts/inner-care-40s-guide/)でまとめています。

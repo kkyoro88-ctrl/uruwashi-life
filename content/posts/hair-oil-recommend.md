@@ -118,3 +118,5 @@ cover:
 > 育毛サプリで内側からヘアケアしたい方は[ヘアバース（HAIRBIRTH）の口コミ](/posts/hairbirth-review/)もあわせてどうぞ。
 
 > 頭皮から根本的にケアしたい方は[CurrentBody LED頭皮ケアデバイスの口コミ](/posts/currentbody-led-hair-review/)も参考にしてみてください。
+
+> ヘアオイルをはじめヘアケア全体の選び方は[40代ヘアケアおすすめガイド](/posts/haircare-40s-guide/)でまとめています。
