@@ -41,8 +41,8 @@
 html { background: var(--theme); }
 body {
   font-family: 'Noto Sans JP', 'Hiragino Kaku Gothic ProN', sans-serif;
-  font-size: 15px;
-  line-height: 1.9;
+  font-size: 16px;
+  line-height: 2.0;
   letter-spacing: 0.03em;
   color: var(--primary);
   background: var(--theme);
@@ -609,31 +609,36 @@ h1.post-title {
 .post-content { font-size: 0.95rem; line-height: 1.95; }
 .post-content h2 {
   font-family: 'Noto Serif JP', serif;
-  font-size: 1.15rem;
+  font-size: 1.18rem;
   font-weight: 700;
-  color: #fff;
-  background: var(--accent);
-  padding: 10px 16px;
-  border-radius: 6px;
-  margin: 40px 0 16px;
+  color: var(--primary);
+  background: linear-gradient(to right, rgba(201,125,125,0.07) 0%, transparent 80%);
+  padding: 14px 20px 14px 18px;
+  border-left: 5px solid var(--accent);
+  border-radius: 0 8px 8px 0;
+  margin: 56px 0 20px;
 }
 .post-content h3 {
   font-size: 1.05rem;
   font-weight: 700;
   color: var(--primary);
-  padding: 6px 4px 10px;
-  border-bottom: 3px solid var(--accent);
+  padding: 8px 4px 10px;
+  border-bottom: 2px solid var(--border);
+  border-left: none;
   position: relative;
-  margin: 28px 0 12px;
+  margin: 36px 0 14px;
 }
-.post-content h3::after {
+.post-content h3::before {
   content: "";
   display: block;
   position: absolute;
-  bottom: -6px;
+  bottom: -2px;
   left: 0;
-  width: 35%;
-  border-bottom: 3px solid var(--gold);
+  width: 40%;
+  border-bottom: 2px solid var(--accent);
+}
+.post-content h3::after {
+  content: none;
 }
 .post-content h4 {
   font-size: 0.95rem;
@@ -659,22 +664,31 @@ h1.post-title {
 }
 .post-content table {
   width: 100%;
-  border-collapse: collapse;
+  border-collapse: separate;
+  border-spacing: 0;
   font-size: 0.88rem;
-  margin: 20px 0;
+  margin: 28px 0;
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0 2px 12px rgba(201,125,125,0.10);
 }
 .post-content th {
   background: var(--accent);
   color: #fff;
-  padding: 9px 14px;
+  padding: 11px 16px;
   text-align: left;
   font-weight: 700;
+  font-size: 0.85rem;
+  letter-spacing: 0.04em;
 }
 .post-content td {
-  padding: 8px 14px;
-  border-bottom: 1px solid var(--border);
+  padding: 10px 16px;
+  border-bottom: 1px solid #f5e8e2;
+  vertical-align: middle;
 }
+.post-content tr:last-child td { border-bottom: none; }
 .post-content tr:nth-child(even) td { background: #fff8f5; }
+.post-content tr:hover td { background: #fdf0eb; transition: background 0.15s; }
 .toc {
   background: #fff8f5;
   border: 1px solid #f0e0d8;
@@ -738,6 +752,218 @@ h1.post-title {
   .cat-nav-label { display: none; }
   .skin-nav-links { gap: 6px; }
   .skin-nav-btn { font-size: 0.75rem; padding: 4px 10px; }
+}
+
+/* ── サイドバー検索ウィジェット ── */
+.widget-search { padding: 0; border: none; box-shadow: none; background: transparent; }
+.sidebar-searchbox {
+  display: flex;
+  border: 2px solid var(--border);
+  border-radius: 8px;
+  overflow: hidden;
+  background: #fff;
+  transition: border-color 0.2s;
+}
+.sidebar-searchbox:focus-within { border-color: var(--accent); }
+.sidebar-searchbox input {
+  flex: 1;
+  padding: 9px 12px;
+  border: none !important;
+  outline: none !important;
+  font-size: 0.9rem;
+  color: var(--primary);
+  background: transparent;
+  font-family: inherit;
+}
+.sidebar-searchbox input::placeholder { color: #b8a8a0; }
+.sidebar-search-btn {
+  background: var(--accent);
+  color: #fff;
+  border: none;
+  padding: 0 14px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  transition: background 0.2s;
+}
+.sidebar-search-btn:hover { background: var(--accent-dark); }
+.sidebar-search-results {
+  list-style: none;
+  margin: 6px 0 0;
+  padding: 0;
+  background: #fff;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  box-shadow: var(--shadow);
+  overflow: hidden;
+  max-height: 320px;
+  overflow-y: auto;
+}
+.sidebar-search-results li a {
+  display: block;
+  padding: 9px 14px;
+  font-size: 0.82rem;
+  font-weight: 700;
+  color: var(--primary);
+  line-height: 1.45;
+  border-bottom: 1px solid #fdf0eb;
+  transition: background 0.15s, color 0.15s;
+}
+.sidebar-search-results li:last-child a { border-bottom: none; }
+.sidebar-search-results li a:hover { background: var(--accent-bg); color: var(--accent); }
+.sidebar-search-noresult {
+  padding: 10px 14px;
+  font-size: 0.82rem;
+  color: var(--secondary);
+}
+
+/* ── 検索ページ ── */
+.search-page-wrap {
+  max-width: 560px;
+  margin: 48px auto;
+  padding: 0 16px;
+}
+.searchbox--custom {
+  display: flex;
+  border: 2px solid var(--border);
+  border-radius: 8px;
+  overflow: hidden;
+  background: #fff;
+  transition: border-color 0.2s;
+}
+.searchbox--custom:focus-within {
+  border-color: var(--accent);
+}
+.searchbox--custom input {
+  flex: 1;
+  padding: 12px 16px;
+  border: none !important;
+  outline: none !important;
+  font-size: 1rem;
+  color: var(--primary);
+  background: transparent;
+  font-family: inherit;
+}
+.searchbox--custom input::placeholder {
+  color: #b8a8a0;
+}
+.search-btn {
+  background: var(--accent);
+  color: #fff;
+  border: none;
+  padding: 0 20px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  transition: background 0.2s;
+}
+.search-btn:hover {
+  background: var(--accent-dark);
+}
+
+/* ── 検索オーバーレイ ── */
+.ssearch-overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.55);
+  z-index: 1200;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 72px 16px 24px;
+  overflow-y: auto;
+}
+.ssearch-box {
+  background: #fff;
+  border-radius: 14px;
+  max-width: 860px;
+  width: 100%;
+  padding: 24px 24px 28px;
+  box-shadow: 0 8px 40px rgba(0,0,0,0.18);
+}
+.ssearch-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 20px;
+  padding-bottom: 14px;
+  border-bottom: 1px solid var(--border);
+}
+.ssearch-label {
+  font-size: 1rem;
+  font-weight: 700;
+  color: var(--primary);
+}
+.ssearch-close {
+  background: none;
+  border: none;
+  font-size: 1.4rem;
+  cursor: pointer;
+  color: var(--secondary);
+  line-height: 1;
+  padding: 2px 6px;
+  border-radius: 50%;
+  transition: background 0.15s;
+}
+.ssearch-close:hover { background: var(--tertiary); }
+.ssearch-cards {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 16px;
+}
+.ssearch-card {
+  border-radius: 10px;
+  overflow: hidden;
+  border: 1px solid var(--border);
+  text-decoration: none;
+  display: block;
+  color: var(--primary);
+  transition: box-shadow 0.2s, transform 0.15s;
+}
+.ssearch-card:hover {
+  box-shadow: 0 4px 16px rgba(0,0,0,0.1);
+  transform: translateY(-2px);
+}
+.ssearch-card-img {
+  width: 100%;
+  aspect-ratio: 16/9;
+  object-fit: cover;
+  display: block;
+}
+.ssearch-card-img--placeholder {
+  background: linear-gradient(135deg, #fde8e8, #f0dcd8);
+}
+.ssearch-card-body { padding: 10px 12px 12px; }
+.ssearch-card-cat {
+  font-size: 0.7rem;
+  color: #fff;
+  background: var(--accent);
+  padding: 2px 8px;
+  border-radius: 4px;
+  display: inline-block;
+  margin-bottom: 6px;
+}
+.ssearch-card-title {
+  font-size: 0.84rem;
+  font-weight: 600;
+  line-height: 1.45;
+  margin: 0;
+  color: var(--primary);
+}
+.ssearch-noresult {
+  text-align: center;
+  padding: 48px 0;
+  color: var(--secondary);
+  font-size: 0.9rem;
+}
+@media (max-width: 640px) {
+  .ssearch-overlay { padding: 60px 10px 16px; }
+  .ssearch-box { padding: 16px 14px 20px; }
+  .ssearch-cards { grid-template-columns: repeat(2, 1fr); gap: 10px; }
 }
 
 /* PaperMod打ち消し */
@@ -947,10 +1173,43 @@ details.single-toc[open] .single-toc-title::after { content: '▴'; }
 .single-toc-body a:hover { color: var(--accent); text-decoration: underline; }
 
 /* ── 記事本文追加スタイル ── */
-.single-body { font-size: 0.95rem; line-height: 1.95; }
+.single-body { font-size: 1rem; line-height: 2.05; }
+.single-body p { margin-bottom: 1.5em; }
 .single-body ul li, .single-body ol li {
-  margin-bottom: 5px;
+  margin-bottom: 7px;
 }
+
+/* 記事本文 h2/h3 LP統一スタイル */
+.single-body h2 {
+  font-family: 'Noto Serif JP', serif;
+  font-size: 1.18rem;
+  font-weight: 700;
+  color: var(--primary);
+  background: linear-gradient(to right, rgba(201,125,125,0.07) 0%, transparent 80%);
+  padding: 14px 20px 14px 18px;
+  border-left: 5px solid var(--accent);
+  border-radius: 0 8px 8px 0;
+  margin: 56px 0 20px;
+}
+.single-body h3 {
+  font-size: 1.05rem;
+  font-weight: 700;
+  color: var(--primary);
+  padding: 8px 4px 10px;
+  border-bottom: 2px solid var(--border);
+  position: relative;
+  margin: 36px 0 14px;
+}
+.single-body h3::before {
+  content: "";
+  display: block;
+  position: absolute;
+  bottom: -2px;
+  left: 0;
+  width: 40%;
+  border-bottom: 2px solid var(--accent);
+}
+.single-body h3::after { content: none; }
 .single-body img {
   max-width: 100%;
   border-radius: 8px;
@@ -968,8 +1227,9 @@ details.single-toc[open] .single-toc-title::after { content: '▴'; }
 }
 .single-body strong {
   color: var(--accent-dark);
-  background: linear-gradient(transparent 58%, rgba(232,191,191,0.6) 58%);
+  background: linear-gradient(transparent 62%, rgba(201,125,125,0.22) 62%);
   padding: 0 2px;
+  font-weight: 700;
 }
 .single-body hr {
   border: none;
@@ -1487,4 +1747,125 @@ details.single-toc[open] .single-toc-title::after { content: '▴'; }
   .nav-toggle[aria-expanded="true"] .hamburger-line:nth-child(3) {
     transform: translateY(-7px) rotate(-45deg);
   }
+}
+
+/* ============================================================
+   LP化追加スタイル（2026-05）
+   ============================================================ */
+
+/* ── LP CTAボタン（新規記事用・rawhtml内で使用） ── */
+.btn-lp-cta {
+  display: block;
+  width: 100%;
+  max-width: 480px;
+  margin: 0 auto;
+  padding: 18px 32px;
+  background: linear-gradient(135deg, #d07070 0%, #c97d7d 50%, #b56060 100%);
+  color: #fff !important;
+  font-size: 1.05rem;
+  font-weight: 700;
+  text-align: center;
+  border-radius: 50px;
+  box-shadow: 0 6px 20px rgba(201,125,125,0.35);
+  transition: all 0.25s;
+  text-decoration: none !important;
+  letter-spacing: 0.04em;
+  line-height: 1.4;
+  position: relative;
+}
+.btn-lp-cta:hover {
+  background: linear-gradient(135deg, #c06060 0%, #b56060 50%, #a04848 100%);
+  box-shadow: 0 8px 28px rgba(201,125,125,0.45);
+  transform: translateY(-2px);
+  color: #fff !important;
+}
+.btn-lp-cta .btn-sub {
+  display: block;
+  font-size: 0.75rem;
+  font-weight: 400;
+  opacity: 0.88;
+  margin-top: 3px;
+}
+.btn-lp-cta-wrap {
+  text-align: center;
+  margin: 2em 0;
+  padding: 0 16px;
+}
+
+/* ── 比較表1位ハイライト（.rank-1をtrに付ける） ── */
+.post-content tr.rank-1 td,
+.single-body tr.rank-1 td {
+  background: linear-gradient(to right, #fff4f0 0%, #fffafa 100%) !important;
+  font-weight: 600;
+  position: relative;
+}
+.post-content tr.rank-1 td:first-child,
+.single-body tr.rank-1 td:first-child {
+  border-left: 3px solid var(--accent);
+}
+
+/* ── セクション見出し（トップページ）の洗練化 ── */
+.section-heading {
+  position: relative;
+  padding-bottom: 12px;
+  border-bottom: none;
+  margin-bottom: 24px;
+}
+.section-heading::after {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 1px;
+  background: linear-gradient(to right, var(--accent) 0%, rgba(201,125,125,0.15) 60%, transparent 100%);
+}
+.section-heading-en {
+  font-size: 1.2rem;
+  letter-spacing: 0.04em;
+}
+
+/* ── 記事カード強化 ── */
+.post-card {
+  border: none;
+  box-shadow: 0 2px 14px rgba(61,53,50,0.07);
+}
+.post-card:hover {
+  box-shadow: 0 6px 28px rgba(201,125,125,0.18);
+}
+.post-card-title {
+  font-size: 0.92rem;
+  line-height: 1.55;
+}
+
+/* ── 記事本文セクション区切り余白 ── */
+.post-content hr,
+.single-body hr {
+  border: none;
+  height: 1px;
+  background: linear-gradient(to right, transparent 0%, var(--border) 20%, var(--border) 80%, transparent 100%);
+  margin: 52px 0;
+}
+
+/* ── 記事ページ：1位ランクバッジ（見出し前のspan要素） ── */
+.rank-badge {
+  display: inline-block;
+  background: linear-gradient(135deg, var(--gold) 0%, var(--gold-dark) 100%);
+  color: #fff;
+  font-size: 0.7rem;
+  font-weight: 700;
+  padding: 2px 10px;
+  border-radius: 12px;
+  margin-right: 8px;
+  vertical-align: middle;
+  letter-spacing: 0.04em;
+  box-shadow: 0 2px 6px rgba(169,131,58,0.3);
+}
+.rank-badge--2 {
+  background: linear-gradient(135deg, #a0a8b0 0%, #7a8090 100%);
+  box-shadow: 0 2px 6px rgba(100,110,120,0.25);
+}
+.rank-badge--3 {
+  background: linear-gradient(135deg, #c48060 0%, #a06040 100%);
+  box-shadow: 0 2px 6px rgba(160,96,64,0.25);
 }
