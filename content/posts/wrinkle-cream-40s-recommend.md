@@ -67,6 +67,18 @@ cover:
 
 ### 2位：ライース リンクルクロス｜新世代シワ改善成分配合の革新的美容液
 
+<!-- START MoshimoAffiliateEasyLink -->
+<script type="text/javascript">
+(function(b,c,f,g,a,d,e){b.MoshimoAffiliateObject=a;
+b[a]=b[a]||function(){arguments.currentScript=c.currentScript
+||c.scripts[c.scripts.length-2];(b[a].q=b[a].q||[]).push(arguments)};
+c.getElementById(a)||(d=c.createElement(f),d.src=g,
+d.id=a,e=c.getElementsByTagName("body")[0],e.appendChild(d))})(window,document,"script","//dn.msmstatic.com/site/cardlink/bundle.js?20220329","msmaflink");
+msmaflink({"n":"ライース リンクルクロス","b":"","t":"","d":"https:\/\/thumbnail.image.rakuten.co.jp","c_p":"","p":[],"u":{"u":"https:\/\/search.rakuten.co.jp\/search\/mall\/%E3%83%A9%E3%82%A4%E3%83%BC%E3%82%B9+%E3%83%AA%E3%83%B3%E3%82%AF%E3%83%AB%E3%82%AF%E3%83%AD%E3%82%B9\/","t":"rakuten","r_v":""},"v":"2.1","b_l":[{"u_tx":"楽天市場で見る","u_bc":"#ff3300","u_url":"https:\/\/search.rakuten.co.jp\/search\/mall\/%E3%83%A9%E3%82%A4%E3%83%BC%E3%82%B9+%E3%83%AA%E3%83%B3%E3%82%AF%E3%83%AB%E3%82%AF%E3%83%AD%E3%82%B9\/","a_id":5520409,"p_id":54,"pl_id":27059,"pc_id":54,"s_n":"rakuten","u_so":0},{"u_tx":"Yahoo!ショッピングで見る","u_bc":"#ff0033","u_url":"https:\/\/shopping.yahoo.co.jp\/search?p=ライース+リンクルクロス","a_id":5525312,"p_id":1225,"pl_id":27061,"pc_id":1925,"s_n":"yahoo","u_so":1}],"eid":"rice_wrinkle","s":"s"});
+</script>
+<div id="msmaflink-rice_wrinkle">リンク</div>
+<!-- MoshimoAffiliateEasyLink END -->
+
 ニールワン・純粋レチノール・ナイアシンアミドという既存の3成分を使ってきた方に、「次のステップ」として注目されているのがライースのリンクルクロスです。
 
 既存成分とは異なるアプローチで開発された新しいシワ改善成分を配合。「ひと通り試してきたけど、もっと変わりたい」という40代に向けた美容液タイプで、今使っているスキンケアにプラスしやすいのも選びやすい理由のひとつです。
