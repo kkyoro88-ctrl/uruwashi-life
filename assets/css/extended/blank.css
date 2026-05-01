@@ -1879,17 +1879,18 @@ details.single-toc[open] .single-toc-title::after { content: '▴'; }
 }
 
 /* ── あわせて読みたいカード（relatedショートコード） ── */
-.related-card {
+.inline-related {
   position: relative;
   border: 1px solid var(--border);
   border-radius: var(--radius);
-  margin: 48px 0 36px;
+  margin: 44px 0 32px;
   background: #fff;
   box-shadow: 0 2px 12px rgba(200,96,122,0.07);
+  overflow: visible;
 }
-.related-card-label {
+.inline-related-label {
   position: absolute;
-  top: -15px;
+  top: -14px;
   left: 16px;
   background: var(--accent);
   color: #fff;
@@ -1899,33 +1900,34 @@ details.single-toc[open] .single-toc-title::after { content: '▴'; }
   border-radius: 12px;
   letter-spacing: 0.04em;
   white-space: nowrap;
+  z-index: 1;
 }
-.related-card-inner {
+.inline-related-inner {
   display: flex;
   gap: 14px;
   align-items: center;
-  padding: 20px 16px 16px;
+  padding: 22px 16px 16px;
   text-decoration: none !important;
   color: inherit;
 }
-.related-card-inner:hover .related-card-title {
+.inline-related-inner:hover .inline-related-title {
   color: var(--accent);
 }
-.related-card-thumb {
+.inline-related-thumb {
   width: 110px;
   flex-shrink: 0;
   border-radius: 6px;
   overflow: hidden;
 }
-.related-card-thumb img {
+.inline-related-thumb img {
   width: 100%;
   aspect-ratio: 16/9;
   object-fit: cover;
   display: block;
   border-radius: 6px;
 }
-.related-card-body { flex: 1; min-width: 0; }
-.related-card-title {
+.inline-related-body { flex: 1; min-width: 0; }
+.inline-related-title {
   font-size: 0.88rem;
   font-weight: 700;
   color: var(--accent-dark);
@@ -1933,15 +1935,15 @@ details.single-toc[open] .single-toc-title::after { content: '▴'; }
   margin: 0 0 6px;
   transition: color 0.2s;
 }
-.related-card-desc {
+.inline-related-desc {
   font-size: 0.78rem;
   color: var(--secondary);
   line-height: 1.65;
   margin: 0;
 }
 @media (max-width: 480px) {
-  .related-card-thumb { width: 80px; }
-  .related-card-title { font-size: 0.82rem; }
+  .inline-related-thumb { width: 80px; }
+  .inline-related-title { font-size: 0.82rem; }
 }
 
 /* ── 商品カード（productショートコード） ── */
