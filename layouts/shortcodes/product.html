@@ -1,0 +1,30 @@
+{{- $title   := .Get "title" -}}
+{{- $img     := .Get "img" | default "" -}}
+{{- $price   := .Get "price" | default "" -}}
+{{- $sale    := .Get "sale" | default "" -}}
+{{- $rakuten := .Get "rakuten" | default "" -}}
+{{- $amazon  := .Get "amazon" | default "" -}}
+{{- $yahoo   := .Get "yahoo" | default "" -}}
+<div class="product-card">
+  {{- if $img -}}
+  <div class="product-card-img">
+    <img src="{{ $img }}" alt="{{ $title }}" loading="lazy">
+  </div>
+  {{- end -}}
+  <div class="product-card-body">
+    <p class="product-card-title">{{ $title }}</p>
+    {{- if $price -}}<p class="product-card-price">{{ $price }}</p>{{- end -}}
+    {{- if $sale -}}<p class="product-card-sale">{{ $sale }}</p>{{- end -}}
+    <div class="product-card-btns">
+      {{- if $rakuten -}}
+      <a href="{{ $rakuten }}" target="_blank" rel="nofollow noopener" class="product-btn product-btn--rakuten">楽天市場</a>
+      {{- end -}}
+      {{- if $amazon -}}
+      <a href="{{ $amazon }}" target="_blank" rel="nofollow noopener" class="product-btn product-btn--amazon">Amazon</a>
+      {{- end -}}
+      {{- if $yahoo -}}
+      <a href="{{ $yahoo }}" target="_blank" rel="nofollow noopener" class="product-btn product-btn--yahoo">Yahooショッピング</a>
+      {{- end -}}
+    </div>
+  </div>
+</div>
