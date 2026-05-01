@@ -170,7 +170,7 @@ cover:
 
 {{< rawhtml >}}
 <div class="box-caution">
-<strong>こんな方には急かしません</strong><br>
+<strong>こんな方には、正直向いていないかもしれません</strong><br>
 天然水のミネラルを積極的に摂りたい方、水の産地・成分にこだわりがある方には浄水型より天然水型の方が向いています。
 </div>
 {{< /rawhtml >}}

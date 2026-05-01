@@ -182,7 +182,7 @@ cover:
 
 {{< rawhtml >}}
 <div class="box-caution">
-<strong>こんな方には急かしません</strong><br>
+<strong>こんな方には、正直向いていないかもしれません</strong><br>
 「とにかく水代を最安にしたい（RO水でよい）」という方、保管スペースがまったく取れない方には、他のサービスの方が合っている場合もあります。
 </div>
 {{< /rawhtml >}}
