@@ -78,7 +78,7 @@ a { color: inherit; text-decoration: none; }
 /* ── ヘッダー ── */
 .site-header {
   background: #fff;
-  border-bottom: 1px solid #f0e0d8;
+  border-bottom: 1px solid var(--border);
   position: sticky;
   top: 0;
   z-index: 100;
@@ -166,7 +166,7 @@ header.header { display: none !important; }
   font-weight: 700;
   color: var(--primary);
   letter-spacing: 0.05em;
-  border-right: 1px solid #f0e0d8;
+  border-right: 1px solid var(--border);
   transition: background 0.2s, color 0.2s;
 }
 .cat-nav-tile:last-child { border-right: none; }
@@ -298,7 +298,7 @@ header.header { display: none !important; }
 /* ── 記事カード ── */
 .post-card {
   background: #fff;
-  border: 1px solid #f0e0d8;
+  border: 1px solid var(--border);
   border-radius: var(--radius);
   overflow: hidden;
   transition: transform 0.2s, box-shadow 0.2s;
@@ -410,7 +410,7 @@ header.header { display: none !important; }
 .sidebar { position: sticky; top: 130px; }
 .sidebar-widget {
   background: #fff;
-  border: 1px solid #f0e0d8;
+  border: 1px solid var(--border);
   border-radius: var(--radius);
   padding: 20px;
   margin-bottom: 20px;
@@ -691,7 +691,7 @@ h1.post-title {
 .post-content tr:hover td { background: #fef2f5; transition: background 0.15s; }
 .toc {
   background: #fff5f7;
-  border: 1px solid #f0e0d8;
+  border: 1px solid var(--border);
   border-radius: var(--radius);
   padding: 16px 20px;
   margin: 24px 0;
@@ -728,7 +728,7 @@ h1.post-title {
 /* ── フッター ── */
 .footer {
   background: #fff0eb;
-  border-top: 1px solid #f0e0d8;
+  border-top: 1px solid var(--border);
   text-align: center;
   padding: 28px 20px;
   font-size: 0.8rem;
@@ -1310,7 +1310,7 @@ details.single-toc[open] .single-toc-title::after { content: '▴'; }
   flex-direction: column;
   gap: 5px;
   background: #fff;
-  border: 1px solid #f0e0d8;
+  border: 1px solid var(--border);
   border-radius: var(--radius);
   padding: 14px 16px;
   transition: all 0.2s;
@@ -1356,7 +1356,7 @@ details.single-toc[open] .single-toc-title::after { content: '▴'; }
   display: flex;
   flex-direction: column;
   background: #fff;
-  border: 1px solid #f0e0d8;
+  border: 1px solid var(--border);
   border-radius: var(--radius);
   overflow: hidden;
   transition: transform 0.2s, box-shadow 0.2s;
@@ -1581,7 +1581,7 @@ details.single-toc[open] .single-toc-title::after { content: '▴'; }
   gap: 20px;
   align-items: flex-start;
   background: linear-gradient(135deg, #fff5f7 0%, #fef2f5 100%);
-  border: 1px solid #f0c0d0;
+  border: 1px solid var(--border);
   border-radius: var(--radius);
   padding: 22px 24px;
   margin-bottom: 28px;
