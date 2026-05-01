@@ -45,15 +45,6 @@ cover:
 
 ### 1位：Ulike Air10｜サファイア冷却・40代の敏感肌でも使いやすい
 
-{{< rawhtml >}}
-<div style="text-align:center; margin: 1.5em 0;">
-  <a href="https://px.a8.net/svt/ejp?a8mat=4B1R5P+FZ4R5E+5QIG+5YJRM" target="_blank" rel="nofollow noopener" style="display:inline-block; background:#e85d8a; color:#fff; padding:16px 40px; border-radius:30px; font-size:1.1em; font-weight:bold; text-decoration:none;">
-    Ulike Air10 公式サイトで詳しく見る →
-  </a>
-  <img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4B1R5P+FZ4R5E+5QIG+5YJRM" alt="">
-</div>
-{{< /rawhtml >}}
-
 「痛いのが苦手」という方に最もすすめやすいのがUlike Air10です。**サファイアアイスクーリング**という冷却機能で照射時の熱を抑える設計になっており、敏感肌でも取り入れやすい機種として評価されています。
 
 **こんな人におすすめ**
@@ -80,15 +71,6 @@ cover:
 ---
 
 ### 2位：ケノン｜国内累計販売実績・美顔器機能つきのマルチケア
-
-{{< rawhtml >}}
-<div style="text-align:center; margin: 1.5em 0;">
-  <a href="https://rpx.a8.net/svt/ejp?a8mat=4B1QDP+BQ4COI+2HOM+BWGDT&rakuten=y&a8ejpredirect=https%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2Fg00prkp4.2bo11018.g00prkp4.2bo12d64%2Fa26042104339_4B1QDP_BQ4COI_2HOM_BWGDT%3Fpc%3Dhttps%253A%252F%252Fitem.rakuten.co.jp%252Fmrock%252Fke-non%252F%26m%3Dhttp%253A%252F%252Fm.rakuten.co.jp%252Fmrock%252Fi%252F10012094%252F%26rafcid%3Dwsc_i_is_33f72da33714639c415e592c9633ecd7" target="_blank" rel="nofollow noopener" style="display:inline-block; background:#e8554e; color:#fff; padding:16px 40px; border-radius:30px; font-size:1.1em; font-weight:bold; text-decoration:none;">
-    ケノン公式を楽天で見てみる →
-  </a>
-  <img border="0" width="1" height="1" src="https://www19.a8.net/0.gif?a8mat=4B1QDP+BQ4COI+2HOM+BWGDT" alt="">
-</div>
-{{< /rawhtml >}}
 
 国内の家庭用光美容器の中で長く選ばれ続けているのがケノン。**スキンケアカートリッジ**に付け替えることで美顔器としても使える点が、40代のマルチケアに向いています。「1台でムダ毛ケアも肌ケアも」という方に選ばれています。
 
@@ -117,15 +99,6 @@ cover:
 ---
 
 ### 3位：トリア4X｜レーザー方式・本格的なアプローチを求める方に
-
-{{< rawhtml >}}
-<div style="text-align:center; margin: 1.5em 0;">
-  <a href="https://px.a8.net/svt/ejp?a8mat=4B1R5P+FUYPWY+54TM+HV7V6" target="_blank" rel="nofollow noopener" style="display:inline-block; background:#e85d8a; color:#fff; padding:16px 40px; border-radius:30px; font-size:1.1em; font-weight:bold; text-decoration:none;">
-    トリア4X 公式サイトで詳しく見る →
-  </a>
-  <img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4B1R5P+FUYPWY+54TM+HV7V6" alt="">
-</div>
-{{< /rawhtml >}}
 
 IPLではなく**ダイオードレーザー**を採用しているのがトリア4X。クリニックで使われるのと同じ方式を家庭用に落とし込んだ機種で、より集中的なアプローチを求める方に向いています。ただし照射時の刺激はIPL機より強め。肌が丈夫な方、または一定の覚悟を持って使う方向けです。
 
@@ -212,11 +185,5 @@ A. 冷却機能の有無という点ではUlike Air10のほうが痛みの口コ
 - **多機能で長く使える1台** → **ケノン**
 - **本格的なレーザーケアを自宅で** → **トリア4X**
 
-どれが正解かは、自分の肌質と何を優先するかによって変わります。まずは各機種の詳細レビューを読み比べてから決めるのがおすすめです。
-
-> Ulike Air10の詳細は[Ulike Air10の口コミ・レビュー](/posts/ulike-air10-review/)で。
-
-> ケノンの詳細は[ケノン美顔器の口コミ・レビュー](/posts/kenon-review/)で。
-
-> トリア4Xの詳細は[トリア4Xの口コミ・レビュー](/posts/tria4x-review/)で。
+どれが正解かは、自分の肌質と何を優先するかによって変わります。各商品の詳細は本文中のレビューリンクからご確認ください。
 
