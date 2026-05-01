@@ -7,34 +7,34 @@
 
 /* ── ダークモード無効化 ── */
 [data-theme="dark"] {
-  --theme:     #fdf8f5 !important;
+  --theme:     #fdfcfb !important;
   --entry:     #ffffff !important;
   --primary:   #2d2020 !important;
   --secondary: #7a6060 !important;
-  --tertiary:  #fdf0eb !important;
+  --tertiary:  #f6f4f2 !important;
   --content:   #3a2a2a !important;
-  --border:    #f0e0d8 !important;
+  --border:    #ece5e1 !important;
 }
 
 /* ── CSS変数 ── */
 :root {
-  --theme:        #faf8f6;
+  --theme:        #fdfcfb;
   --entry:        #ffffff;
   --primary:      #3d3532;
   --secondary:    #7a6e6a;
-  --tertiary:     #f4f0ed;
+  --tertiary:     #f6f4f2;
   --content:      #3d3532;
-  --border:       #e8ddd8;
-  --accent:       #c97d7d;
-  --accent-bg:    #fdf0ef;
-  --accent-dark:  #a85e5e;
-  --accent-light: #e8bfbf;
+  --border:       #ece5e1;
+  --accent:       #c8607a;
+  --accent-bg:    #fef2f5;
+  --accent-dark:  #a8455e;
+  --accent-light: #e8b8c5;
   --gold:         #c9a55a;
   --gold-bg:      #f8f0e0;
   --gold-dark:    #a8833a;
   --radius:       10px;
-  --shadow:       0 2px 12px rgba(201,125,125,0.10);
-  --shadow-hover: 0 6px 24px rgba(201,125,125,0.20);
+  --shadow:       0 2px 12px rgba(200,96,122,0.10);
+  --shadow-hover: 0 6px 24px rgba(200,96,122,0.20);
 }
 
 *, *::before, *::after { box-sizing: border-box; }
@@ -1760,13 +1760,13 @@ details.single-toc[open] .single-toc-title::after { content: '▴'; }
   max-width: 480px;
   margin: 0 auto;
   padding: 18px 32px;
-  background: linear-gradient(135deg, #d07070 0%, #c97d7d 50%, #b56060 100%);
+  background: linear-gradient(135deg, #d4607a 0%, #c8607a 50%, #b04568 100%);
   color: #fff !important;
   font-size: 1.05rem;
   font-weight: 700;
   text-align: center;
   border-radius: 50px;
-  box-shadow: 0 6px 20px rgba(201,125,125,0.35);
+  box-shadow: 0 6px 20px rgba(200,96,122,0.38);
   transition: all 0.25s;
   text-decoration: none !important;
   letter-spacing: 0.04em;
@@ -1774,8 +1774,8 @@ details.single-toc[open] .single-toc-title::after { content: '▴'; }
   position: relative;
 }
 .btn-lp-cta:hover {
-  background: linear-gradient(135deg, #c06060 0%, #b56060 50%, #a04848 100%);
-  box-shadow: 0 8px 28px rgba(201,125,125,0.45);
+  background: linear-gradient(135deg, #be4570 0%, #b04568 50%, #983055 100%);
+  box-shadow: 0 8px 28px rgba(200,96,122,0.48);
   transform: translateY(-2px);
   color: #fff !important;
 }
