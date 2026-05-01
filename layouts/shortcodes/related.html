@@ -1,0 +1,18 @@
+{{- $url := .Get "url" -}}
+{{- $page := .Site.GetPage $url -}}
+{{- if $page -}}
+<div class="related-card">
+  <span class="related-card-label">✓ あわせて読みたい</span>
+  <a href="{{ $url }}" class="related-card-inner">
+    {{- with $page.Params.cover.image -}}
+    <div class="related-card-thumb">
+      <img src="{{ . }}" alt="{{ $page.Title }}" loading="lazy">
+    </div>
+    {{- end -}}
+    <div class="related-card-body">
+      <p class="related-card-title">{{ $page.Title }}</p>
+      <p class="related-card-desc">{{ $page.Description | truncate 60 "…" }}</p>
+    </div>
+  </a>
+</div>
+{{- end -}}

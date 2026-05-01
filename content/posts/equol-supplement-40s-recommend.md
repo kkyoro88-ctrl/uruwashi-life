@@ -72,7 +72,6 @@ msmaflink({"n":"エクエル パウチ 120粒 約30日分","b":"","t":"","d":"ht
 
 1日4粒でエクオール10mgを摂取できます。ソフトカプセルタイプで飲みやすく、1袋で30日分。価格はやや高めですが、「まずは信頼のある定番から」という方に向いています。
 
-> <a href="https://item.rakuten.co.jp/supplement-is/compass1766139643/" rel="nofollow noopener">エクエル パウチ 楽天で詳しく見る →</a>
 
 ---
 
@@ -94,7 +93,6 @@ msmaflink({"n":"DHC 大豆イソフラボン エクオール 30日分","b":"","t
 
 1日1粒でエクオール10mgを補給。エクエルと同量のエクオールをコスパよく続けられるのが特徴で、「まずは試してみたい」「長期続けやすい価格帯で始めたい」という方の入り口として選ばれています。
 
-> <a href="https://item.rakuten.co.jp/dhcshop/8000032780/" rel="nofollow noopener">DHC 大豆イソフラボン エクオール 楽天で詳しく見る →</a>
 
 ---
 
@@ -202,6 +200,6 @@ A. 明確な基準はありませんが、40代から始める方が多いです
 
 まず1本試してみて、自分の体に合うものを探していくのが更年期ケアの第一歩だと思っています。
 
-> 更年期の肌ケアを同時に進めたい方は[シワ改善クリーム・美容液おすすめ40代向け3選](/posts/wrinkle-cream-40s-recommend/)もあわせてどうぞ。
+{{< related url="/posts/wrinkle-cream-40s-recommend/" >}}
 
-> コラーゲン・NMNなどサプリ全般の選び方は[40代スキンケアおすすめ完全ガイド](/posts/skincare-products-40s-guide/)でまとめています。
+{{< related url="/posts/skincare-products-40s-guide/" >}}
