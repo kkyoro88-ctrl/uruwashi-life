@@ -63,7 +63,7 @@ b[a]=b[a]||function(){arguments.currentScript=c.currentScript
 ||c.scripts[c.scripts.length-2];(b[a].q=b[a].q||[]).push(arguments)};
 c.getElementById(a)||(d=c.createElement(f),d.src=g,
 d.id=a,e=c.getElementsByTagName("body")[0],e.appendChild(d))})(window,document,"script","//dn.msmstatic.com/site/cardlink/bundle.js?20220329","msmaflink");
-msmaflink({"n":"エクエル パウチ 120粒 約30日分","b":"","t":"","d":"https:\/\/thumbnail.image.rakuten.co.jp","c_p":"\/@0_mall\/supplement-is\/cabinet","p":["\/12146306\/12599541\/-12-19t190422.jpg"],"u":{"u":"https:\/\/item.rakuten.co.jp\/supplement-is\/compass1766139643\/","t":"rakuten","r_v":""},"v":"2.1","b_l":[{"u_tx":"楽天市場で見る","u_bc":"#ff3300","u_url":"http:\/\/www.rakuten.co.jp\/","a_id":5520409,"p_id":54,"pl_id":27059,"pc_id":54,"s_n":"rakuten","u_so":0}],"eid":"TT032","s":"s"});
+msmaflink({"n":"エクエル パウチ 120粒 約30日分","b":"","t":"","d":"https:\/\/thumbnail.image.rakuten.co.jp","c_p":"\/@0_mall\/supplement-is\/cabinet","p":["\/12146306\/12599541\/-12-19t190422.jpg"],"u":{"u":"https:\/\/item.rakuten.co.jp\/supplement-is\/compass1766139643\/","t":"rakuten","r_v":""},"v":"2.1","b_l":[{"u_tx":"楽天市場で見る","u_bc":"#ff3300","u_url":"http:\/\/www.rakuten.co.jp\/","a_id":5520409,"p_id":54,"pl_id":27059,"pc_id":54,"s_n":"rakuten","u_so":0},{"u_tx":"Yahoo!ショッピングで見る","u_bc":"#ff0033","u_url":"https:\/\/shopping.yahoo.co.jp\/search?p=エクエル+パウチ+大塚製薬","a_id":5525312,"p_id":1225,"pl_id":27061,"pc_id":1925,"s_n":"yahoo","u_so":1}],"eid":"TT032","s":"s"});
 </script>
 <div id="msmaflink-TT032">リンク</div>
 <!-- MoshimoAffiliateEasyLink END -->
@@ -84,7 +84,7 @@ b[a]=b[a]||function(){arguments.currentScript=c.currentScript
 ||c.scripts[c.scripts.length-2];(b[a].q=b[a].q||[]).push(arguments)};
 c.getElementById(a)||(d=c.createElement(f),d.src=g,
 d.id=a,e=c.getElementsByTagName("body")[0],e.appendChild(d))})(window,document,"script","//dn.msmstatic.com/site/cardlink/bundle.js?20220329","msmaflink");
-msmaflink({"n":"DHC 大豆イソフラボン エクオール 30日分","b":"","t":"","d":"https:\/\/thumbnail.image.rakuten.co.jp","c_p":"\/","p":["@0_mall\/dhcshop\/cabinet\/white\/8000032780.jpg"],"u":{"u":"https:\/\/item.rakuten.co.jp\/dhcshop\/8000032780\/","t":"rakuten","r_v":""},"v":"2.1","b_l":[{"u_tx":"楽天市場で見る","u_bc":"#ff3300","u_url":"http:\/\/www.rakuten.co.jp\/","a_id":5520409,"p_id":54,"pl_id":27059,"pc_id":54,"s_n":"rakuten","u_so":0}],"eid":"098wA","s":"s"});
+msmaflink({"n":"DHC 大豆イソフラボン エクオール 30日分","b":"","t":"","d":"https:\/\/thumbnail.image.rakuten.co.jp","c_p":"\/","p":["@0_mall\/dhcshop\/cabinet\/white\/8000032780.jpg"],"u":{"u":"https:\/\/item.rakuten.co.jp\/dhcshop\/8000032780\/","t":"rakuten","r_v":""},"v":"2.1","b_l":[{"u_tx":"楽天市場で見る","u_bc":"#ff3300","u_url":"http:\/\/www.rakuten.co.jp\/","a_id":5520409,"p_id":54,"pl_id":27059,"pc_id":54,"s_n":"rakuten","u_so":0},{"u_tx":"Yahoo!ショッピングで見る","u_bc":"#ff0033","u_url":"https:\/\/shopping.yahoo.co.jp\/search?p=DHC+エクオール","a_id":5525312,"p_id":1225,"pl_id":27061,"pc_id":1925,"s_n":"yahoo","u_so":1}],"eid":"098wA","s":"s"});
 </script>
 <div id="msmaflink-098wA">リンク</div>
 <!-- MoshimoAffiliateEasyLink END -->
