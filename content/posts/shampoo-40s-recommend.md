@@ -17,7 +17,7 @@ summary_points:
 
 「うねりが気になってシャンプーを変えたのに、全然変わらなかった」——40代でそのループから抜け出せない方は多いと思います。
 
-**結論から言います。原因はシャンプーが悪いのではなく、「うねりの原因に成分が合っていなかった」ことです。** 髪質と成分が合えば、それだけで変化は出ます。迷ったらまず試してほしい1本は **melt スムース** です。
+**結論から言います。原因はシャンプーが悪いのではなく、「うねりの原因に成分が合っていなかった」ことです。** 髪質と成分が合えば、それだけで変化は出ます。迷ったらまず試してほしい1本は **THE ANSWER スーパーラメラシャンプー** です。
 
 美容メディア10媒体以上のランキング比較と成分解析サイトの評価まで確認した上で、3本を選びました。
 
@@ -68,66 +68,19 @@ summary_points:
 
 ---
 
-## 40代のうねり・乾燥におすすめのシャンプー3選
+## 40代のうねり・乾燥・頭皮ケアにおすすめのシャンプー3選
 
-### 1. melt スムース シャンプー（花王）
-
-うねりと乾燥の両方を抱える40代に、今最も理にかなった選択です。
-
-花王が2025年に「世界初・酸性領域でアミノ酸系洗浄成分を安定配合する技術」で開発した新ライン。うねりケアに有効な酸性成分（コハク酸・リンゴ酸）は通常の洗浄成分と相性が悪いため配合が難しいのですが、花王はこの問題を技術的に解決。**洗いながら酸性成分でうねりの原因となるタンパク質層を補修する**という、他の市販品にはない仕組みです。さらに毛髪内部へ素早く浸透するペリセア（ジラウロイルグルタミン酸リシンNa）も配合。LIPS口コミ4.7点（1,677件）という高評価は、この成分の充実さを反映しています。
-
-#### 正直に言うと、これが気になりました
-- しっとり仕上がりが強めなので、さっぱり感を好む方には物足りないことがある
-- 2025年発売で長期の使用データがまだ少ない（新しい商品です）
-- 人気のため一部店舗では品切れになることがある
-
-それでも私がこれを1位にした理由は、「今日ドラッグストアで試せる価格帯でこの成分配合」は他にないからです。
-
-#### 使い始めると、こう変わります
-2〜3週間ほどで、ドライヤー後のまとまり方が変わってきます。うねりがなくなるわけではありませんが、広がり方が落ち着いて、スタイリングが楽になる実感を持てる方が多いです。
-
-#### このシャンプーが向いている方
-- うねりと乾燥の両方が気になる40代
-- 「なぜ効くか」に科学的な根拠を求める方
-- まずドラッグストアで手軽に試したい方
-
-¥1,760（480mL）。ロフト・ハンズ・マツキヨなどで**今日から購入できます**。今使っているシャンプーを使い切ったタイミングで、まず1本切り替えてみてください。GW・季節の変わり目など、頭皮環境が乱れやすいこの時期こそ、成分の見直しに最適なタイミングです。
-
-{{< rawhtml >}}
-<div class="featured-card-wrap">
-<span class="rank1-badge">★ 私のイチ推し</span>
-{{< /rawhtml >}}
-{{< product
-  title="melt スムース シャンプー（花王）"
-  img="https://thumbnail.image.rakuten.co.jp/@0_mall/kao-haircare/cabinet/11858942/melt/melt-02_0218.jpg"
-  price="¥1,760 / 480mL"
-  rakuten="https://rpx.a8.net/svt/ejp?a8mat=4B1QDP+BQ4COI+2HOM+BWGDT&rakuten=y&a8ejpredirect=https%3A%2F%2Fitem.rakuten.co.jp%2Fkao-haircare%2Fmelt-02%2F"
-  yahoo="https://shopping.yahoo.co.jp/search?p=melt+%E3%82%B9%E3%83%A0%E3%83%BC%E3%82%B9+%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%97%E3%83%BC"
->}}
-{{< rawhtml >}}
-</div>
-<div class="btn-lp-cta-wrap">
-  <a href="https://rpx.a8.net/svt/ejp?a8mat=4B1QDP+BQ4COI+2HOM+BWGDT&rakuten=y&a8ejpredirect=https%3A%2F%2Fitem.rakuten.co.jp%2Fkao-haircare%2Fmelt-02%2F" rel="nofollow noopener" target="_blank" class="btn-lp-cta">
-    melt スムースをドラッグストアで探す
-    <span class="btn-sub">楽天市場で在庫・最安値を確認 →</span>
-  </a>
-</div>
-{{< /rawhtml >}}
-
----
-
-### 2. THE ANSWER スーパーラメラシャンプー（花王）
+### 1. THE ANSWER スーパーラメラシャンプー（花王）
 
 アットコスメの「2025年ベストコスメ シャンプー・コンディショナー部門」で**1位を受賞**。7,208件の口コミで5.1点という評価は、数千人が実際に使った上での支持です。「口コミを信じたい。でも大勢が認めたものを選びたい」という方への、最もシンプルな答えがこれです。
 
 花王が開発した**スーパーラメラ技術**が核心です。人体の細胞膜にも存在するラメラ（層状の脂質構造）を模した成分を使い、毛髪内部の水分を閉じ込める仕組みを作ります。40代のうねりの一因である「髪内部の水分分布の乱れ」に直接アプローチできる設計で、日常のダメージを繰り返し補修し続けます。
 
 #### 正直に言うと、これが気になりました
-- meltと同じ¥1,760。価格では差がつかないので「実績で選ぶか・成分で選ぶか」が判断の分かれ目
 - ロフト・ハンズ・EC中心。一般ドラッグストアでは取り扱いがない店舗もある
 - 即効性を強く求める方には、変化を感じるまでの2〜4週間が長く感じることがある
 
-ただし「7,000件超の口コミと2025年ベストコスメ総合大賞」という実績は、meltにはまだない強みです。
+それでも私がこれを1位にした理由は、「7,000件超の口コミと2025年ベストコスメ総合大賞」という実績です。新しい技術より、数千人が実際に使って支持した結果が、迷ったときに最も信頼できる根拠になります。
 
 #### 使い始めると、こう変わります
 2〜4週間ほどで、ブロー後のまとまりが変わってきます。「髪がしっとり落ち着くようになった」「朝のうねりがやわらいだ」という声が7,000件を超えています。
@@ -139,6 +92,10 @@ summary_points:
 
 meltと同じ¥1,760で、2025年ベストコスメ総合大賞と7,000件超の口コミ実績がついてくる。成分の新しさより実績の重さで選びたいなら、今試す価値がある1本です。
 
+{{< rawhtml >}}
+<div class="featured-card-wrap">
+<span class="rank1-badge">★ 私のイチ推し</span>
+{{< /rawhtml >}}
 {{< product
   title="THE ANSWER スーパーラメラシャンプー（花王）"
   img="https://thumbnail.image.rakuten.co.jp/@0_mall/kao-haircare/cabinet/11858942/theanswer/products/answer-03_0311.jpg"
@@ -146,11 +103,50 @@ meltと同じ¥1,760で、2025年ベストコスメ総合大賞と7,000件超の
   rakuten="https://rpx.a8.net/svt/ejp?a8mat=4B1QDP+BQ4COI+2HOM+BWGDT&rakuten=y&a8ejpredirect=https%3A%2F%2Fitem.rakuten.co.jp%2Fkao-haircare%2Fanswer-03%2F"
   yahoo="https://shopping.yahoo.co.jp/search?p=THE+ANSWER+%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%A9%E3%83%A1%E3%83%A9+%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%97%E3%83%BC"
 >}}
-
 {{< rawhtml >}}
+</div>
 <div class="btn-lp-cta-wrap">
   <a href="https://rpx.a8.net/svt/ejp?a8mat=4B1QDP+BQ4COI+2HOM+BWGDT&rakuten=y&a8ejpredirect=https%3A%2F%2Fitem.rakuten.co.jp%2Fkao-haircare%2Fanswer-03%2F" rel="nofollow noopener" target="_blank" class="btn-lp-cta">
     THE ANSWERの最新価格を楽天で確認する
+    <span class="btn-sub">楽天市場で在庫・最安値を確認 →</span>
+  </a>
+</div>
+{{< /rawhtml >}}
+
+---
+
+### 2. melt スムース シャンプー（花王）
+
+うねりと乾燥の両方を抱える40代に、科学的根拠とコスパのバランスが際立つ1本です。
+
+花王が2025年に「世界初・酸性領域でアミノ酸系洗浄成分を安定配合する技術」で開発した新ライン。うねりケアに有効な酸性成分（コハク酸・リンゴ酸）は通常の洗浄成分と相性が悪いため配合が難しいのですが、花王はこの問題を技術的に解決。**洗いながら酸性成分でうねりの原因となるタンパク質層を補修する**という、他の市販品にはない仕組みです。さらに毛髪内部へ素早く浸透するペリセア（ジラウロイルグルタミン酸リシンNa）も配合。LIPS口コミ4.7点（1,677件）という高評価は、この成分の充実さを反映しています。
+
+#### 正直に言うと、これが気になりました
+- しっとり仕上がりが強めなので、さっぱり感を好む方には物足りないことがある
+- 2025年発売で長期の使用データがまだ少ない（新しい商品です）
+- 人気のため一部店舗では品切れになることがある
+
+#### 使い始めると、こう変わります
+2〜3週間ほどで、ドライヤー後のまとまり方が変わってきます。うねりがなくなるわけではありませんが、広がり方が落ち着いて、スタイリングが楽になる実感を持てる方が多いです。
+
+#### このシャンプーが向いている方
+- うねりと乾燥の両方が気になる40代
+- 「なぜ効くか」に科学的な根拠を求める方
+- まずドラッグストアで手軽に試したい方
+
+¥1,760（480mL）。ロフト・ハンズ・マツキヨなどで**今日から購入できます**。今使っているシャンプーを使い切ったタイミングで、まず1本切り替えてみてください。GW・季節の変わり目など、頭皮環境が乱れやすいこの時期こそ、成分の見直しに最適なタイミングです。
+
+{{< product
+  title="melt スムース シャンプー（花王）"
+  img="https://thumbnail.image.rakuten.co.jp/@0_mall/kao-haircare/cabinet/11858942/melt/melt-02_0218.jpg"
+  price="¥1,760 / 480mL"
+  rakuten="https://rpx.a8.net/svt/ejp?a8mat=4B1QDP+BQ4COI+2HOM+BWGDT&rakuten=y&a8ejpredirect=https%3A%2F%2Fitem.rakuten.co.jp%2Fkao-haircare%2Fmelt-02%2F"
+  yahoo="https://shopping.yahoo.co.jp/search?p=melt+%E3%82%B9%E3%83%A0%E3%83%BC%E3%82%B9+%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%97%E3%83%BC"
+>}}
+{{< rawhtml >}}
+<div class="btn-lp-cta-wrap">
+  <a href="https://rpx.a8.net/svt/ejp?a8mat=4B1QDP+BQ4COI+2HOM+BWGDT&rakuten=y&a8ejpredirect=https%3A%2F%2Fitem.rakuten.co.jp%2Fkao-haircare%2Fmelt-02%2F" rel="nofollow noopener" target="_blank" class="btn-lp-cta">
+    melt スムースをドラッグストアで探す
     <span class="btn-sub">楽天市場で在庫・最安値を確認 →</span>
   </a>
 </div>
@@ -198,16 +194,16 @@ meltと同じ¥1,760で、2025年ベストコスメ総合大賞と7,000件超の
 {{< rawhtml >}}
 <div class="compare-cards">
   <div class="compare-card compare-card--featured">
-    <div class="compare-scenario">うねり＋乾燥の両方が気になる</div>
-    <div class="compare-name">melt スムース</div>
-    <span class="compare-badge">★ コスパ◎ 今日から買える</span>
-    <p class="compare-desc">成分の根拠が最も明確。まず1本変えてみるなら、失敗しにくい選択です。</p>
-  </div>
-  <div class="compare-card">
     <div class="compare-scenario">口コミ・実績で選びたい</div>
     <div class="compare-name">THE ANSWER</div>
-    <span class="compare-badge compare-badge--indigo">7,000件超の口コミ</span>
-    <p class="compare-desc">2025年ベストコスメ総合大賞の実績で選ぶなら。meltと同価格で7,000件超の口コミという安心感がある。</p>
+    <span class="compare-badge compare-badge--indigo">★ 7,000件超の口コミ</span>
+    <p class="compare-desc">2025年ベストコスメ総合大賞の実績で選ぶなら。数千人が実際に使って支持した、最も信頼できる根拠がある。</p>
+  </div>
+  <div class="compare-card">
+    <div class="compare-scenario">うねり＋乾燥の両方が気になる</div>
+    <div class="compare-name">melt スムース</div>
+    <span class="compare-badge">コスパ◎ 今日から買える</span>
+    <p class="compare-desc">成分の根拠が最も明確。ドラッグストアで今日から試せる価格帯でこの成分配合は他にない。</p>
   </div>
   <div class="compare-card">
     <div class="compare-scenario">頭皮から本格的に変えたい</div>
@@ -230,7 +226,7 @@ meltと同じ¥1,760で、2025年ベストコスメ総合大賞と7,000件超の
 
 シャンプーはケアのサポートです。うねりが強くてスタイリングに支障があるときは、美容師さんへの相談もひとつの選択肢です。
 
-それでも「うねりや乾燥をどうにかしたい」と思っているなら、まず成分を変えることが出発点です。**melt スムース（¥1,760）** はドラッグストアで今日から試せます。
+それでも「うねりや乾燥をどうにかしたい」と思っているなら、まず成分を変えることが出発点です。**THE ANSWER（¥1,760）** は楽天・Amazon・ロフトで今日から試せます。
 
 ---
 
@@ -238,16 +234,16 @@ meltと同じ¥1,760で、2025年ベストコスメ総合大賞と7,000件超の
 
 40代のうねりに向くシャンプーは「有名かどうか」よりも、「うねりの原因に成分が合っているか」で選ぶのが基本です。
 
-- **うねり＋乾燥の両方が気になる → melt スムース**（ドラッグストアで今日から購入可、¥1,760）
 - **口コミ実績で選びたい → THE ANSWER**（2025年ベストコスメ1位・7,000件超の口コミ、¥1,760）
+- **うねり＋乾燥の両方が気になる → melt スムース**（ドラッグストアで今日から購入可、¥1,760）
 - **頭皮から本格的に変えたい → haru kurokami**（30日間全額返金保証、¥4,940）
 
-迷ったら、科学的根拠・価格・入手しやすさのバランスが最もとれているmelt スムースをドラッグストアで試してみてください。2〜3週間後に変化を感じ始める方が多いです。
+迷ったら、7,000件超の口コミと2025年ベストコスメ総合大賞という実績が揃った **THE ANSWER** を試してみてください。2〜4週間後に変化を感じ始める方が多いです。
 
 {{< rawhtml >}}
 <div class="btn-lp-cta-wrap">
-  <a href="https://rpx.a8.net/svt/ejp?a8mat=4B1QDP+BQ4COI+2HOM+BWGDT&rakuten=y&a8ejpredirect=https%3A%2F%2Fitem.rakuten.co.jp%2Fkao-haircare%2Fmelt-02%2F" rel="nofollow noopener" target="_blank" class="btn-lp-cta btn-lp-cta--indigo">
-    melt スムースの最新価格を楽天で確認する
+  <a href="https://rpx.a8.net/svt/ejp?a8mat=4B1QDP+BQ4COI+2HOM+BWGDT&rakuten=y&a8ejpredirect=https%3A%2F%2Fitem.rakuten.co.jp%2Fkao-haircare%2Fanswer-03%2F" rel="nofollow noopener" target="_blank" class="btn-lp-cta btn-lp-cta--indigo">
+    THE ANSWERの最新価格を楽天で確認する
     <span class="btn-sub">※本記事はアフィリエイト広告を含みます</span>
   </a>
 </div>
