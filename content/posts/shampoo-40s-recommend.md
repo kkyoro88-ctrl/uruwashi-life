@@ -20,7 +20,7 @@ draft: false
 この記事では、美容メディア10媒体以上のランキングを比較し、成分解析サイトの評価まで確認した上で選んだ3本を紹介します。早い方で2〜3週間、使い続けると変化を感じ始めます。
 
 > **このブログについて**
-> 鳥取在住の40代、乾燥敏感肌です。皮膚科で「バリア機能を整えることが先」と言われてから、スキンケアもヘアケアも成分を調べる習慣になりました。このシャンプー記事も、使って試しながら複数メディアの成分評価を調べた上でまとめています。
+> 鳥取在住の40代、乾燥敏感肌です。皮膚科で「バリア機能を整えることが先」と言われてから、スキンケアもヘアケアも成分を調べる習慣になりました。このシャンプー記事も、複数メディアの成分評価を調べた上でまとめています。
 
 ---
 
@@ -49,8 +49,6 @@ draft: false
 
 うねりの直接の原因は毛髪内部のタンパク質構造の乱れです。「加水分解ケラチン」「ペリセア（ジラウロイルグルタミン酸リシンNa）」などの補修成分が配合されていると、洗うたびに内部からケアできます。
 
-保湿成分（セラミド・ヒアルロン酸）は「水分を保つ」、ケラチン系成分は「構造を補修する」と役割が違います。40代のうねりには補修成分が鍵です。
-
 ### 3. 「酸化うねり」にアプローチできているか
 
 30代以下向けシャンプーと差が出るのがここです。コハク酸・リンゴ酸などの酸性成分やフラーレンなどの抗酸化成分が配合されているシャンプーは、加齢による酸化ダメージ起因のうねりに根本からアプローチできます。
@@ -63,9 +61,7 @@ draft: false
 
 うねりと乾燥の両方を抱える40代に、今最も理にかなった選択です。
 
-花王が2025年に「世界初・酸性領域でアミノ酸系洗浄成分を安定配合する技術」で開発した新ライン。うねりケアに有効な酸性成分（コハク酸・リンゴ酸）は通常の洗浄成分と相性が悪いため配合が難しいのですが、花王はこの問題を技術的に解決。**洗いながら酸性成分でうねりの原因となるタンパク質層を補修する**という、他の市販品にはない仕組みです。
-
-さらに毛髪内部へ素早く浸透するペリセア（ジラウロイルグルタミン酸リシンNa）も配合。LIPS口コミ4.7点（1,677件）という高評価は、この成分の充実さを反映しています。
+花王が2025年に「世界初・酸性領域でアミノ酸系洗浄成分を安定配合する技術」で開発した新ライン。うねりケアに有効な酸性成分（コハク酸・リンゴ酸）は通常の洗浄成分と相性が悪いため配合が難しいのですが、花王はこの問題を技術的に解決。**洗いながら酸性成分でうねりの原因となるタンパク質層を補修する**という、他の市販品にはない仕組みです。さらに毛髪内部へ素早く浸透するペリセア（ジラウロイルグルタミン酸リシンNa）も配合。LIPS口コミ4.7点（1,677件）という高評価は、この成分の充実さを反映しています。
 
 **使い始めると、こう変わります。**
 2〜3週間ほどで、ドライヤー後のまとまり方が変わってきます。うねりが完全になくなるわけではありませんが、広がり方が落ち着いて、スタイリングが楽になる実感を持てる方が多いです。
@@ -77,56 +73,39 @@ draft: false
 
 ¥1,760（440mL）。マツキヨ・ウエルシアなど全国のドラッグストアで**今日から購入できます**。今使っているシャンプーを使い切ったタイミングで、まず1本切り替えてみてください。
 
-{{< rawhtml >}}
-<!-- MoshimoAffiliateEasyLink START -->
-<script type="text/javascript">
-(function(b,c,f,g,a,d,e){b.MoshimoAffiliateObject=a;
-b[a]=b[a]||function(){arguments.currentScript=c.currentScript
-||c.scripts[c.scripts.length-2];(b[a].q=b[a].q||[]).push(arguments)};
-c.getElementById(a)||(d=c.createElement(f),d.src=g,
-d.id=a,e=c.getElementsByTagName("body")[0],e.appendChild(d))})(window,document,"script","//dn.msmstatic.com/site/cardlink/bundle.js?20220329","msmaflink");
-msmaflink({"n":"melt スムース シャンプー 花王","b":"","t":"","d":"https:\/\/thumbnail.image.rakuten.co.jp","c_p":"","p":[],"u":{"u":"https:\/\/search.rakuten.co.jp\/search\/mall\/melt+%E3%82%B9%E3%83%A0%E3%83%BC%E3%82%B9+%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%97%E3%83%BC\/","t":"rakuten","r_v":""},"v":"2.1","b_l":[{"u_tx":"楽天市場で見る","u_bc":"#ff3300","u_url":"https:\/\/search.rakuten.co.jp\/search\/mall\/melt+%E3%82%B9%E3%83%A0%E3%83%BC%E3%82%B9+%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%97%E3%83%BC\/","a_id":5520409,"p_id":54,"pl_id":27059,"pc_id":54,"s_n":"rakuten","u_so":0},{"u_tx":"Yahoo!ショッピングで見る","u_bc":"#ff0033","u_url":"https:\/\/shopping.yahoo.co.jp\/search?p=melt+%E3%82%B9%E3%83%A0%E3%83%BC%E3%82%B9+%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%97%E3%83%BC","a_id":5525312,"p_id":1225,"pl_id":27061,"pc_id":1925,"s_n":"yahoo","u_so":1}],"eid":"shampoo01","s":"s"});
-</script>
-<div id="msmaflink-shampoo01">リンク</div>
-<!-- MoshimoAffiliateEasyLink END -->
-{{< /rawhtml >}}
+{{< product
+  title="melt スムース シャンプー（花王）"
+  img="https://tshop.r10s.jp/kao-haircare/cabinet/11858942/melt/melt-02_0218.jpg"
+  price="¥1,760 / 440mL"
+  rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=27059&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fmelt%2B%E3%82%B9%E3%83%A0%E3%83%BC%E3%82%B9%2B%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%97%E3%83%BC%2F"
+  yahoo="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=27061&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3Dmelt%2B%E3%82%B9%E3%83%A0%E3%83%BC%E3%82%B9%2B%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%97%E3%83%BC"
+>}}
 
 ---
 
-### 2. YOLU カームナイトリペア シャンプー（I-ne）
+### 2. THE ANSWER スーパーラメラシャンプー（花王）
 
-「夜に洗って、朝起きたら扱いやすい状態になっている」という体験を求める方向けです。
+アットコスメの「2025年ベストコスメ シャンプー・コンディショナー部門」で**1位を受賞**。7,208件の口コミで5.1点という評価は、数千人が実際に使った上での支持です。「口コミを信じたい。でも大勢が認めたものを選びたい」という方への、最もシンプルな答えがこれです。
 
-ケラチン・セラミド・ヒアルロン酸を組み合わせた補修処方に、就寝中の枕との摩擦を軽減する「ナイトキャップセラム」を配合。アットコスメ口コミ3,000件超・使用感満足度97.6%という数字は、実際に使い続けた人の評価です。
+花王が開発した**スーパーラメラ技術**が核心です。人体の細胞膜にも存在するラメラ（層状の脂質構造）を模した成分を使い、毛髪内部の水分を閉じ込める仕組みを作ります。40代のうねりの一因である「髪内部の水分分布の乱れ」に直接アプローチできる設計で、日常のダメージを繰り返し補修し続けます。
 
 **使い始めると、こう変わります。**
-1〜2週間ほどで、朝起きたときの髪の扱いやすさが変わってきます。枕との摩擦で広がっていた状態が少し落ち着いて、朝のスタイリング時間が短くなっていきます。
-
-**1点だけ正直に伝えておきます。**
-YOLUカームの主洗浄成分には「オレフィン（C14-16）スルホン酸Na」が含まれており、純粋なアミノ酸系よりも洗浄力がやや強めです。頭皮の乾燥が強い方・敏感肌の方には合わない可能性があります。また「夜専用」というコンセプトはブランディング上の訴求で、朝に使っても成分の働き方は変わりません。
+2〜4週間ほどで、ブロー後のまとまりが変わってきます。「髪がしっとり落ち着くようになった」「朝のうねりがやわらいだ」という口コミが7,000件を超えています。
 
 **このシャンプーが向いている方**
-- 頭皮の乾燥はあまり気にならない、うねりと広がりがメインの悩みの方
-- しっとりした保湿感のある仕上がりが好きな方
+- 多くの人が実際に使って高評価した商品を選びたい方
+- 成分の信頼性と実績を両立させたい方
+- meltより少し予算をかけて本格的にケアしたい方
 
-**このシャンプーが向いていない方**
-- 頭皮が乾燥しやすい・敏感肌の方（洗浄成分が刺激になるリスクあり）
+¥3,520（400mL）。花王公式ショップで正規品が購入できます。
 
-¥1,540（440mL）で、**ドラッグストアで今日から試せます**。
-
-{{< rawhtml >}}
-<!-- MoshimoAffiliateEasyLink START -->
-<script type="text/javascript">
-(function(b,c,f,g,a,d,e){b.MoshimoAffiliateObject=a;
-b[a]=b[a]||function(){arguments.currentScript=c.currentScript
-||c.scripts[c.scripts.length-2];(b[a].q=b[a].q||[]).push(arguments)};
-c.getElementById(a)||(d=c.createElement(f),d.src=g,
-d.id=a,e=c.getElementsByTagName("body")[0],e.appendChild(d))})(window,document,"script","//dn.msmstatic.com/site/cardlink/bundle.js?20220329","msmaflink");
-msmaflink({"n":"YOLU カームナイトリペア シャンプー","b":"","t":"","d":"https:\/\/thumbnail.image.rakuten.co.jp","c_p":"","p":[],"u":{"u":"https:\/\/search.rakuten.co.jp\/search\/mall\/YOLU+%E3%82%AB%E3%83%BC%E3%83%A0%E3%83%8A%E3%82%A4%E3%83%88%E3%83%AA%E3%83%9A%E3%82%A2+%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%97%E3%83%BC\/","t":"rakuten","r_v":""},"v":"2.1","b_l":[{"u_tx":"楽天市場で見る","u_bc":"#ff3300","u_url":"https:\/\/search.rakuten.co.jp\/search\/mall\/YOLU+%E3%82%AB%E3%83%BC%E3%83%A0%E3%83%8A%E3%82%A4%E3%83%88%E3%83%AA%E3%83%9A%E3%82%A2+%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%97%E3%83%BC\/","a_id":5520409,"p_id":54,"pl_id":27059,"pc_id":54,"s_n":"rakuten","u_so":0},{"u_tx":"Yahoo!ショッピングで見る","u_bc":"#ff0033","u_url":"https:\/\/shopping.yahoo.co.jp\/search?p=YOLU+%E3%82%AB%E3%83%BC%E3%83%A0%E3%83%8A%E3%82%A4%E3%83%88%E3%83%AA%E3%83%9A%E3%82%A2+%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%97%E3%83%BC","a_id":5525312,"p_id":1225,"pl_id":27061,"pc_id":1925,"s_n":"yahoo","u_so":1}],"eid":"shampoo02","s":"s"});
-</script>
-<div id="msmaflink-shampoo02">リンク</div>
-<!-- MoshimoAffiliateEasyLink END -->
-{{< /rawhtml >}}
+{{< product
+  title="THE ANSWER スーパーラメラシャンプー（花王）"
+  img="https://tshop.r10s.jp/kao-haircare/cabinet/11858942/theanswer/products/answer-03_0311.jpg"
+  price="¥3,520 / 400mL"
+  rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=27059&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FTHE%2BANSWER%2B%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%A9%E3%83%A1%E3%83%A9%2B%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%97%E3%83%BC%2F"
+  yahoo="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=27061&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DTHE%2BANSWER%2B%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%A9%E3%83%A1%E3%83%A9%2B%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%97%E3%83%BC"
+>}}
 
 ---
 
@@ -144,21 +123,15 @@ msmaflink({"n":"YOLU カームナイトリペア シャンプー","b":"","t":"",
 - ヘアオイルやトリートメントを1本に集約したい方（1本完結型）
 - 2ヶ月単位でじっくり試せる方
 
-4,000円前後と価格は高めですが、**30日間全額返金保証**があります。「高くて失敗したくない」という方も、まず試してから判断してください。合わなければ返金を申請できます。
+4,000円前後と価格は高めですが、**30日間全額返金保証**があります。「高くて失敗したくない」という方も、まず試してから判断してください。
 
-{{< rawhtml >}}
-<!-- MoshimoAffiliateEasyLink START -->
-<script type="text/javascript">
-(function(b,c,f,g,a,d,e){b.MoshimoAffiliateObject=a;
-b[a]=b[a]||function(){arguments.currentScript=c.currentScript
-||c.scripts[c.scripts.length-2];(b[a].q=b[a].q||[]).push(arguments)};
-c.getElementById(a)||(d=c.createElement(f),d.src=g,
-d.id=a,e=c.getElementsByTagName("body")[0],e.appendChild(d))})(window,document,"script","//dn.msmstatic.com/site/cardlink/bundle.js?20220329","msmaflink");
-msmaflink({"n":"haru kurokami スカルプ シャンプー","b":"","t":"","d":"https:\/\/thumbnail.image.rakuten.co.jp","c_p":"","p":[],"u":{"u":"https:\/\/search.rakuten.co.jp\/search\/mall\/haru+kurokami+%E3%82%B9%E3%82%AB%E3%83%AB%E3%83%97\/","t":"rakuten","r_v":""},"v":"2.1","b_l":[{"u_tx":"楽天市場で見る","u_bc":"#ff3300","u_url":"https:\/\/search.rakuten.co.jp\/search\/mall\/haru+kurokami+%E3%82%B9%E3%82%AB%E3%83%AB%E3%83%97\/","a_id":5520409,"p_id":54,"pl_id":27059,"pc_id":54,"s_n":"rakuten","u_so":0},{"u_tx":"Yahoo!ショッピングで見る","u_bc":"#ff0033","u_url":"https:\/\/shopping.yahoo.co.jp\/search?p=haru+kurokami+%E3%82%B9%E3%82%AB%E3%83%AB%E3%83%97","a_id":5525312,"p_id":1225,"pl_id":27061,"pc_id":1925,"s_n":"yahoo","u_so":1}],"eid":"shampoo03","s":"s"});
-</script>
-<div id="msmaflink-shampoo03">リンク</div>
-<!-- MoshimoAffiliateEasyLink END -->
-{{< /rawhtml >}}
+{{< product
+  title="haru kurokami スカルプ シャンプー"
+  img="https://thumbnail.image.rakuten.co.jp/@0_mall/harushop/cabinet/lineup/thumb/10640101_up.jpg"
+  price="¥4,000前後 / 400mL"
+  rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=27059&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fharu%2Bkurokami%2B%E3%82%B9%E3%82%AB%E3%83%AB%E3%83%97%2F"
+  yahoo="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=27061&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3Dharu%2Bkurokami%2B%E3%82%B9%E3%82%AB%E3%83%AB%E3%83%97"
+>}}
 
 ---
 
@@ -166,11 +139,11 @@ msmaflink({"n":"haru kurokami スカルプ シャンプー","b":"","t":"","d":"h
 
 3本の中でどれを選べばいいか、悩みのメインで判断してください。
 
-**うねり＋乾燥が両方ある → melt スムース**
+**うねりと乾燥の両方が気になる → melt スムース**
 成分の根拠が最も明確で、今日ドラッグストアで試せます。「まず1本変えてみる」なら、この商品からが失敗しにくい選択です。
 
-**うねり・広がりがメインで頭皮乾燥は少ない → YOLU カーム**
-保湿感のある仕上がりを好む方に。ただし頭皮が乾燥しやすい方は向かない可能性があります。
+**口コミ・実績で選びたい・本格的にケアしたい → THE ANSWER**
+7,000件超の口コミと2025年ベストコスメ1位という裏付けがあります。meltより予算はかかりますが、それに見合う安心感があります。
 
 **頭皮の状態も変えたい・長期で取り組みたい → haru kurokami**
 2週間の違和感を越えた先に変化があります。30日返金保証があるので、合わなければ返品できます。
