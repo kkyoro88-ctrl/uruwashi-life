@@ -98,7 +98,7 @@ summary_points:
 
 {{< rawhtml >}}
 <div class="featured-card-wrap">
-<span class="rank1-badge">★ 編集部イチ推し</span>
+<span class="rank1-badge">★ 私のイチ推し</span>
 {{< /rawhtml >}}
 {{< product
   title="melt スムース シャンプー（花王）"
