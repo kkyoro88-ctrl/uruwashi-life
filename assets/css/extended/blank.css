@@ -7,7 +7,7 @@
 
 /* ── ダークモード無効化 ── */
 [data-theme="dark"] {
-  --theme:     #fdfcfb !important;
+  --theme:     #f8f4f0 !important;
   --entry:     #ffffff !important;
   --primary:   #2d2020 !important;
   --secondary: #7a6060 !important;
@@ -18,32 +18,38 @@
 
 /* ── CSS変数 ── */
 :root {
-  --theme:        #fdfcfb;
-  --entry:        #ffffff;
-  --primary:      #3d3532;
-  --secondary:    #7a6e6a;
-  --tertiary:     #f6f4f2;
-  --content:      #3d3532;
-  --border:       #ece5e1;
-  --accent:       #c8607a;
-  --accent-bg:    #fef2f5;
-  --accent-dark:  #a8455e;
-  --accent-light: #e8b8c5;
-  --gold:         #c9a55a;
-  --gold-bg:      #f8f0e0;
-  --gold-dark:    #a8833a;
-  --radius:       10px;
-  --shadow:       0 2px 12px rgba(200,96,122,0.10);
-  --shadow-hover: 0 6px 24px rgba(200,96,122,0.20);
+  --theme:         #f8f4f0;
+  --entry:         #ffffff;
+  --primary:       #3d3532;
+  --secondary:     #7a6e6a;
+  --tertiary:      #f6f4f2;
+  --content:       #3d3532;
+  --border:        #ece5e1;
+  /* ① 主軸アクセント：ディープローズ */
+  --accent:        #c0556e;
+  --accent-bg:     #fef0f4;
+  --accent-dark:   #963050;
+  --accent-light:  #e8b0c0;
+  /* ② ウォームサブ：インディゴ（H3/目次） */
+  --indigo:        #4a5a9b;
+  --indigo-bg:     #eef0f8;
+  --indigo-dark:   #384880;
+  /* ③ ボックス強調：アンバーゴールド（POINTボックス） */
+  --gold:          #d4871a;
+  --gold-bg:       #fef3e0;
+  --gold-dark:     #b06010;
+  --radius:        10px;
+  --shadow:        0 2px 12px rgba(192,85,110,0.10);
+  --shadow-hover:  0 6px 24px rgba(192,85,110,0.20);
 }
 
 *, *::before, *::after { box-sizing: border-box; }
 html { background: var(--theme); }
 body {
   font-family: 'Noto Sans JP', 'Hiragino Kaku Gothic ProN', sans-serif;
-  font-size: 16px;
-  line-height: 2.0;
-  letter-spacing: 0.03em;
+  font-size: 17px;
+  line-height: 1.9;
+  letter-spacing: 0.015em;
   color: var(--primary);
   background: var(--theme);
 }
@@ -608,34 +614,29 @@ h1.post-title {
 }
 .post-content { font-size: 0.95rem; line-height: 1.95; }
 .post-content h2 {
-  font-family: 'Noto Serif JP', serif;
-  font-size: 1.18rem;
+  font-family: 'Noto Sans JP', sans-serif;
+  font-size: 1.15rem;
   font-weight: 700;
-  color: var(--primary);
-  background: linear-gradient(to right, rgba(200,96,122,0.07) 0%, transparent 80%);
-  padding: 14px 20px 14px 18px;
-  border-left: 5px solid var(--accent);
-  border-radius: 0 8px 8px 0;
-  margin: 56px 0 20px;
+  color: var(--accent);
+  background: none;
+  padding: 14px 8px;
+  border-left: none;
+  border-top: 1px solid var(--accent);
+  border-bottom: 1px solid var(--accent);
+  border-radius: 0;
+  margin: 32px 0 20px;
 }
 .post-content h3 {
-  font-size: 1.05rem;
+  font-size: 1.25rem;
   font-weight: 700;
-  color: var(--primary);
-  padding: 8px 4px 10px;
-  border-bottom: 2px solid var(--border);
+  color: var(--indigo);
+  padding: 10px 0;
+  border-bottom: 2px solid var(--indigo);
   border-left: none;
-  position: relative;
-  margin: 36px 0 14px;
+  margin: 40px 0 16px;
 }
 .post-content h3::before {
-  content: "";
-  display: block;
-  position: absolute;
-  bottom: -2px;
-  left: 0;
-  width: 40%;
-  border-bottom: 2px solid var(--accent);
+  display: none;
 }
 .post-content h3::after {
   content: none;
@@ -1082,18 +1083,18 @@ h1.post-title {
 .ad-disclosure {
   display: flex;
   align-items: center;
-  gap: 7px;
-  background: #fffbf0;
-  border: 1px solid #f5e0b0;
-  border-left: 4px solid #e8b840;
-  border-radius: 0 6px 6px 0;
-  padding: 9px 14px;
-  font-size: 0.78rem;
-  color: #8a7030;
-  margin-bottom: 22px;
+  gap: 5px;
+  background: none;
+  border: none;
+  border-left: none;
+  border-radius: 0;
+  padding: 0 0 16px;
+  font-size: 0.72rem;
+  color: #aaa;
+  margin-bottom: 0;
 }
-.ad-disclosure svg { flex-shrink: 0; color: #e8b840; }
-.ad-disclosure a { color: var(--accent-dark); text-decoration: underline; }
+.ad-disclosure svg { flex-shrink: 0; color: #bbb; width: 12px; height: 12px; }
+.ad-disclosure a { color: #aaa; text-decoration: underline; }
 
 /* ── カバー画像 ── */
 .single-cover {
@@ -1135,6 +1136,98 @@ h1.post-title {
   line-height: 1.8;
   margin: 0;
 }
+.article-summary-points {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.article-summary-points li {
+  font-size: 0.88rem;
+  color: var(--primary);
+  line-height: 1.75;
+  padding: 5px 0 5px 24px;
+  position: relative;
+}
+.article-summary-points li::before {
+  content: "✓";
+  position: absolute;
+  left: 0;
+  color: var(--accent);
+  font-weight: 700;
+}
+
+/* ── H4直下のリスト（向いている方・気になった点） ── */
+.single-body h4 + ul > li {
+  padding-left: 1.4em;
+  position: relative;
+  list-style: none;
+}
+.single-body h4 + ul > li::before {
+  content: "▸";
+  position: absolute;
+  left: 0;
+  color: var(--accent);
+  font-size: 0.85em;
+}
+
+/* ── 比較カード（悩み別選び方） ── */
+.compare-cards {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 12px;
+  margin: 20px 0 28px;
+}
+.compare-card {
+  border: 1.5px solid var(--accent-light);
+  border-radius: 10px;
+  padding: 16px 18px;
+  background: #fff;
+}
+.compare-card--featured {
+  border-color: var(--gold);
+  background: var(--gold-bg);
+}
+.compare-scenario {
+  font-size: 0.72rem;
+  font-weight: 700;
+  color: var(--secondary);
+  letter-spacing: 0.04em;
+  margin-bottom: 4px;
+}
+.compare-name {
+  font-size: 1.05rem;
+  font-weight: 800;
+  color: var(--indigo);
+  margin-bottom: 6px;
+}
+.compare-badge {
+  display: inline-block;
+  font-size: 0.7rem;
+  background: var(--accent-bg);
+  color: var(--accent-dark);
+  padding: 2px 9px;
+  border-radius: 20px;
+  font-weight: 700;
+  margin-bottom: 8px;
+}
+.compare-card--featured .compare-badge {
+  background: rgba(212,135,26,0.18);
+  color: var(--gold-dark);
+}
+.compare-badge--indigo {
+  background: var(--indigo-bg);
+  color: var(--indigo-dark);
+}
+.compare-badge--green {
+  background: #e8f5e8;
+  color: #2a6a2a;
+}
+.compare-desc {
+  font-size: 0.85rem;
+  color: #555;
+  margin: 0;
+  line-height: 1.65;
+}
 
 /* ── 目次 ── */
 .single-toc {
@@ -1173,43 +1266,45 @@ details.single-toc[open] .single-toc-title::after { content: '▴'; }
 .single-toc-body a:hover { color: var(--accent); text-decoration: underline; }
 
 /* ── 記事本文追加スタイル ── */
-.single-body { font-size: 1rem; line-height: 2.05; }
-.single-body p { margin-bottom: 1.5em; }
+.single-body { font-size: 1rem; line-height: 1.95; }
+.single-body p { margin-bottom: 1.7em; }
 .single-body ul li, .single-body ol li {
   margin-bottom: 7px;
 }
 
 /* 記事本文 h2/h3 LP統一スタイル */
 .single-body h2 {
-  font-family: 'Noto Serif JP', serif;
-  font-size: 1.18rem;
+  font-family: 'Noto Sans JP', sans-serif;
+  font-size: 1.15rem;
   font-weight: 700;
-  color: var(--primary);
-  background: linear-gradient(to right, rgba(200,96,122,0.07) 0%, transparent 80%);
-  padding: 14px 20px 14px 18px;
-  border-left: 5px solid var(--accent);
-  border-radius: 0 8px 8px 0;
-  margin: 56px 0 20px;
+  color: var(--accent);
+  background: none;
+  padding: 14px 8px;
+  border-left: none;
+  border-top: 1px solid var(--accent);
+  border-bottom: 1px solid var(--accent);
+  border-radius: 0;
+  margin: 32px 0 20px;
 }
 .single-body h3 {
-  font-size: 1.05rem;
+  font-size: 1.25rem;
   font-weight: 700;
-  color: var(--primary);
-  padding: 8px 4px 10px;
-  border-bottom: 2px solid var(--border);
-  position: relative;
-  margin: 36px 0 14px;
+  color: var(--indigo);
+  padding: 10px 0;
+  border-bottom: 2px solid var(--indigo);
+  margin: 40px 0 16px;
 }
-.single-body h3::before {
-  content: "";
-  display: block;
-  position: absolute;
-  bottom: -2px;
-  left: 0;
-  width: 40%;
-  border-bottom: 2px solid var(--accent);
-}
+.single-body h3::before { display: none; }
 .single-body h3::after { content: none; }
+.single-body h4 {
+  font-size: 1rem;
+  font-weight: 700;
+  color: var(--accent);
+  border-left: 3px solid var(--accent);
+  padding: 4px 10px;
+  margin: 32px 0 12px;
+  background: var(--accent-bg);
+}
 .single-body img {
   max-width: 100%;
   border-radius: 8px;
@@ -1226,9 +1321,7 @@ details.single-toc[open] .single-toc-title::after { content: '▴'; }
   margin-bottom: 16px;
 }
 .single-body strong {
-  color: var(--accent-dark);
-  background: linear-gradient(transparent 62%, rgba(200,96,122,0.22) 62%);
-  padding: 0 2px;
+  color: var(--gold-dark);
   font-weight: 700;
 }
 .single-body hr {
@@ -1800,6 +1893,17 @@ details.single-toc[open] .single-toc-title::after { content: '▴'; }
   padding: 0 16px;
 }
 
+/* ── LP CTAボタン インディゴ（公式サイトへ誘導・第2CTA） ── */
+.btn-lp-cta--indigo {
+  background: linear-gradient(135deg, #5a6ab0 0%, #4a5a9b 50%, #384880 100%);
+  box-shadow: 0 6px 20px rgba(74,90,155,0.35);
+}
+.btn-lp-cta--indigo:hover {
+  background: linear-gradient(135deg, #4a5a9b 0%, #384880 50%, #2a3870 100%);
+  box-shadow: 0 8px 28px rgba(74,90,155,0.45);
+  color: #fff !important;
+}
+
 /* ── 比較表1位ハイライト（.rank-1をtrに付ける） ── */
 .post-content tr.rank-1 td,
 .single-body tr.rank-1 td {
@@ -1852,7 +1956,7 @@ details.single-toc[open] .single-toc-title::after { content: '▴'; }
   border: none;
   height: 1px;
   background: linear-gradient(to right, transparent 0%, var(--border) 20%, var(--border) 80%, transparent 100%);
-  margin: 52px 0;
+  margin: 32px 0;
 }
 
 /* ── 記事ページ：1位ランクバッジ（見出し前のspan要素） ── */
@@ -1946,11 +2050,43 @@ details.single-toc[open] .single-toc-title::after { content: '▴'; }
   .inline-related-title { font-size: 0.82rem; }
 }
 
+/* ── 1位フィーチャーカード ── */
+.featured-card-wrap {
+  position: relative;
+  background: linear-gradient(135deg, #fef8f0 0%, #fff4e8 100%);
+  border: 2px solid var(--gold);
+  border-radius: 12px;
+  padding: 12px 12px 4px;
+  margin: 16px 0 24px;
+}
+.rank1-badge {
+  display: inline-block;
+  background: linear-gradient(135deg, var(--gold) 0%, var(--gold-dark) 100%);
+  color: #fff;
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+  padding: 4px 12px;
+  border-radius: 20px;
+  margin-bottom: 10px;
+}
+.featured-card-wrap .product-card {
+  border: none;
+  background: transparent;
+  box-shadow: none;
+  padding: 0;
+  margin: 0;
+}
+.featured-card-wrap .product-card-img {
+  width: 130px;
+}
+
 /* ── 商品カード（productショートコード） ── */
 .product-card {
   display: flex;
   gap: 16px;
   align-items: flex-start;
+  border: 2px solid var(--gold);
   border: 1px solid var(--border);
   border-radius: var(--radius);
   padding: 16px;
