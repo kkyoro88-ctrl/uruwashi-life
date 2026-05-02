@@ -88,7 +88,7 @@ summary_points:
 {{< /rawhtml >}}
 {{< product
   title="melt スムース シャンプー（花王）"
-  img="https://tshop.r10s.jp/kao-haircare/cabinet/11858942/melt/melt-02_0218.jpg"
+  img="https://thumbnail.image.rakuten.co.jp/@0_mall/kao-haircare/cabinet/11858942/melt/melt-02_0218.jpg"
   price="¥1,760 / 480mL"
   rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=27059&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fmelt%2B%E3%82%B9%E3%83%A0%E3%83%BC%E3%82%B9%2B%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%97%E3%83%BC%2F"
   yahoo="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=27061&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3Dmelt%2B%E3%82%B9%E3%83%A0%E3%83%BC%E3%82%B9%2B%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%97%E3%83%BC"
@@ -130,7 +130,7 @@ summary_points:
 
 {{< product
   title="THE ANSWER スーパーラメラシャンプー（花王）"
-  img="https://tshop.r10s.jp/kao-haircare/cabinet/11858942/theanswer/products/answer-03_0311.jpg"
+  img="https://thumbnail.image.rakuten.co.jp/@0_mall/kao-haircare/cabinet/11858942/theanswer/products/answer-03_0311.jpg"
   price="¥1,760 / 400mL"
   rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=27059&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FTHE%2BANSWER%2B%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%A9%E3%83%A1%E3%83%A9%2B%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%97%E3%83%BC%2F"
   yahoo="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=27061&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DTHE%2BANSWER%2B%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%A9%E3%83%A1%E3%83%A9%2B%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%97%E3%83%BC"
