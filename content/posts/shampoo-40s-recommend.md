@@ -80,7 +80,7 @@ summary_points:
 - 「なぜ効くか」に科学的な根拠を求める方
 - まずドラッグストアで手軽に試したい方
 
-¥1,760（440mL）。マツキヨ・ウエルシアなど全国のドラッグストアで**今日から購入できます**。今使っているシャンプーを使い切ったタイミングで、まず1本切り替えてみてください。
+¥1,760（480mL）。ロフト・ハンズ・マツキヨなどで**今日から購入できます**。今使っているシャンプーを使い切ったタイミングで、まず1本切り替えてみてください。
 
 {{< rawhtml >}}
 <div class="featured-card-wrap">
@@ -89,7 +89,7 @@ summary_points:
 {{< product
   title="melt スムース シャンプー（花王）"
   img="https://tshop.r10s.jp/kao-haircare/cabinet/11858942/melt/melt-02_0218.jpg"
-  price="¥1,760 / 440mL"
+  price="¥1,760 / 480mL"
   rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=27059&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fmelt%2B%E3%82%B9%E3%83%A0%E3%83%BC%E3%82%B9%2B%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%97%E3%83%BC%2F"
   yahoo="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=27061&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3Dmelt%2B%E3%82%B9%E3%83%A0%E3%83%BC%E3%82%B9%2B%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%97%E3%83%BC"
 >}}
@@ -112,11 +112,11 @@ summary_points:
 花王が開発した**スーパーラメラ技術**が核心です。人体の細胞膜にも存在するラメラ（層状の脂質構造）を模した成分を使い、毛髪内部の水分を閉じ込める仕組みを作ります。40代のうねりの一因である「髪内部の水分分布の乱れ」に直接アプローチできる設計で、日常のダメージを繰り返し補修し続けます。
 
 #### 正直に言うと、これが気になりました
-- ¥3,520と価格が高め。meltの2倍以上になる
-- ドラッグストアでは基本的に購入できない（花王公式・EC限定）
+- meltと同じ¥1,760。価格では差がつかないので「実績で選ぶか・成分で選ぶか」が判断の分かれ目
+- ロフト・ハンズ・EC中心。一般ドラッグストアでは取り扱いがない店舗もある
 - 即効性を強く求める方には、変化を感じるまでの2〜4週間が長く感じることがある
 
-ただし「7,000件超の口コミと2025年ベストコスメ1位」という裏付けは、価格分の安心感に値します。
+ただし「7,000件超の口コミと2025年ベストコスメ総合大賞」という実績は、meltにはまだない強みです。
 
 #### 使い始めると、こう変わります。
 2〜4週間ほどで、ブロー後のまとまりが変わってきます。「髪がしっとり落ち着くようになった」「朝のうねりがやわらいだ」という口コミが7,000件を超えています。
@@ -124,14 +124,14 @@ summary_points:
 #### このシャンプーが向いている方
 - 多くの人が実際に使って高評価した商品を選びたい方
 - 成分の信頼性と実績を両立させたい方
-- meltより少し予算をかけて本格的にケアしたい方
+- 口コミ実績と成分の両方で納得して選びたい方
 
-¥3,520（400mL）。花王公式ショップで正規品が購入できます。
+¥1,760（400mL）。楽天市場・Amazon・ロフトなどで購入できます。
 
 {{< product
   title="THE ANSWER スーパーラメラシャンプー（花王）"
   img="https://tshop.r10s.jp/kao-haircare/cabinet/11858942/theanswer/products/answer-03_0311.jpg"
-  price="¥3,520 / 400mL"
+  price="¥1,760 / 400mL"
   rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=27059&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FTHE%2BANSWER%2B%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%A9%E3%83%A1%E3%83%A9%2B%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%97%E3%83%BC%2F"
   yahoo="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=27061&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DTHE%2BANSWER%2B%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%A9%E3%83%A1%E3%83%A9%2B%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%97%E3%83%BC"
 >}}
@@ -142,12 +142,12 @@ summary_points:
 
 「髪だけでなく、頭皮から根本的に変えたい」と考えている方への答えです。
 
-天然由来成分100%で、ワカメエキス・ヘマチン・オオムギ発酵エキスなど頭皮環境を整える成分を配合。累計販売500万本を超え、複数の美容メディアで長期的に支持されている実績は、短期トレンドではなく使い続けた人の評価によるものです。
+天然由来成分100%で、ワカメエキス・ヘマチン・オオムギ発酵エキスなど頭皮環境を整える成分を配合。累計販売800万本を超え、複数の美容メディアで長期的に支持されている実績は、短期トレンドではなく使い続けた人の評価によるものです。
 
 #### 正直に言うと、これが気になりました
 - 最初の2週間はきしみを感じる方が多い（シリコン蓄積がリセットされる過程）
 - 効果を実感するまでに1〜2ヶ月かかる。すぐ変化を求める方には不向き
-- 4,000円前後と3本の中で最も高価
+- ¥4,940（楽天公式）と3本の中で最も高価
 
 それでも諦めずに続けた人が評価しているのがharu。「2週間の我慢」を越えた先に変化があります。
 
@@ -159,12 +159,12 @@ summary_points:
 - ヘアオイルやトリートメントを1本に集約したい方（1本完結型）
 - 2ヶ月単位でじっくり試せる方
 
-4,000円前後と価格は高めですが、**30日間全額返金保証**があります。「高くて失敗したくない」という方も、まず試してから判断してください。
+¥4,940（楽天公式）と価格は高めですが、**初回30日間全額返金保証**があります。「高くて失敗したくない」という方も、まず試してから判断してください。
 
 {{< product
   title="haru kurokami スカルプ シャンプー"
-  img="https://thumbnail.image.rakuten.co.jp/@0_mall/harushop/cabinet/lineup/thumb/10640101_up.jpg"
-  price="¥4,000前後 / 400mL"
+  img="https://tshop.r10s.jp/harushop/cabinet/lineup/thumb/10640101_up.jpg"
+  price="¥4,940 / 400mL（楽天公式）"
   rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=27059&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fharu%2Bkurokami%2B%E3%82%B9%E3%82%AB%E3%83%AB%E3%83%97%2F"
   yahoo="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=27061&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3Dharu%2Bkurokami%2B%E3%82%B9%E3%82%AB%E3%83%AB%E3%83%97"
 >}}
@@ -187,7 +187,7 @@ summary_points:
     <div class="compare-scenario">口コミ・実績で選びたい</div>
     <div class="compare-name">THE ANSWER</div>
     <span class="compare-badge compare-badge--indigo">7,000件超の口コミ</span>
-    <p class="compare-desc">2025年ベストコスメ1位の裏付けで選ぶなら。meltより予算はかかるが安心感がある。</p>
+    <p class="compare-desc">2025年ベストコスメ総合大賞の実績で選ぶなら。meltと同価格で7,000件超の口コミという安心感がある。</p>
   </div>
   <div class="compare-card">
     <div class="compare-scenario">頭皮から本格的に変えたい</div>
