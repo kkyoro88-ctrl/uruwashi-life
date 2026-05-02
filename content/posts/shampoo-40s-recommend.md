@@ -90,13 +90,13 @@ summary_points:
   title="melt スムース シャンプー（花王）"
   img="https://thumbnail.image.rakuten.co.jp/@0_mall/kao-haircare/cabinet/11858942/melt/melt-02_0218.jpg"
   price="¥1,760 / 480mL"
-  rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=27059&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fmelt%2B%E3%82%B9%E3%83%A0%E3%83%BC%E3%82%B9%2B%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%97%E3%83%BC%2F"
-  yahoo="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=27061&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3Dmelt%2B%E3%82%B9%E3%83%A0%E3%83%BC%E3%82%B9%2B%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%97%E3%83%BC"
+  rakuten="https://rpx.a8.net/svt/ejp?a8mat=4B1QDP+BQ4COI+2HOM+BWGDT&rakuten=y&a8ejpredirect=https%3A%2F%2Fitem.rakuten.co.jp%2Fkao-haircare%2Fmelt-02%2F"
+  yahoo="https://shopping.yahoo.co.jp/search?p=melt+%E3%82%B9%E3%83%A0%E3%83%BC%E3%82%B9+%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%97%E3%83%BC"
 >}}
 {{< rawhtml >}}
 </div>
 <div class="btn-lp-cta-wrap">
-  <a href="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=27059&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fmelt%2B%E3%82%B9%E3%83%A0%E3%83%BC%E3%82%B9%2B%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%97%E3%83%BC%2F" rel="nofollow noopener" target="_blank" class="btn-lp-cta">
+  <a href="https://rpx.a8.net/svt/ejp?a8mat=4B1QDP+BQ4COI+2HOM+BWGDT&rakuten=y&a8ejpredirect=https%3A%2F%2Fitem.rakuten.co.jp%2Fkao-haircare%2Fmelt-02%2F" rel="nofollow noopener" target="_blank" class="btn-lp-cta">
     melt スムースをドラッグストアで探す
     <span class="btn-sub">楽天市場で在庫・最安値を確認 →</span>
   </a>
@@ -132,8 +132,8 @@ summary_points:
   title="THE ANSWER スーパーラメラシャンプー（花王）"
   img="https://thumbnail.image.rakuten.co.jp/@0_mall/kao-haircare/cabinet/11858942/theanswer/products/answer-03_0311.jpg"
   price="¥1,760 / 400mL"
-  rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=27059&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FTHE%2BANSWER%2B%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%A9%E3%83%A1%E3%83%A9%2B%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%97%E3%83%BC%2F"
-  yahoo="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=27061&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DTHE%2BANSWER%2B%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%A9%E3%83%A1%E3%83%A9%2B%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%97%E3%83%BC"
+  rakuten="https://rpx.a8.net/svt/ejp?a8mat=4B1QDP+BQ4COI+2HOM+BWGDT&rakuten=y&a8ejpredirect=https%3A%2F%2Fitem.rakuten.co.jp%2Fkao-haircare%2Fanswer-03%2F"
+  yahoo="https://shopping.yahoo.co.jp/search?p=THE+ANSWER+%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%A9%E3%83%A1%E3%83%A9+%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%97%E3%83%BC"
 >}}
 
 ---
@@ -165,8 +165,8 @@ summary_points:
   title="haru kurokami スカルプ シャンプー"
   img="https://thumbnail.image.rakuten.co.jp/@0_mall/harushop/cabinet/lineup/thumb/10640101_up.jpg"
   price="¥4,940 / 400mL（楽天公式）"
-  rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=27059&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fharu%2Bkurokami%2B%E3%82%B9%E3%82%AB%E3%83%AB%E3%83%97%2F"
-  yahoo="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=27061&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3Dharu%2Bkurokami%2B%E3%82%B9%E3%82%AB%E3%83%AB%E3%83%97"
+  rakuten="https://rpx.a8.net/svt/ejp?a8mat=4B1QDP+BQ4COI+2HOM+BWGDT&rakuten=y&a8ejpredirect=https%3A%2F%2Fitem.rakuten.co.jp%2Fharushop%2Fharushampoo001%2F"
+  yahoo="https://shopping.yahoo.co.jp/search?p=haru+kurokami+%E3%82%B9%E3%82%AB%E3%83%AB%E3%83%97"
 >}}
 
 ---
@@ -224,7 +224,7 @@ summary_points:
 
 {{< rawhtml >}}
 <div class="btn-lp-cta-wrap">
-  <a href="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=27059&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fmelt%2B%E3%82%B9%E3%83%A0%E3%83%BC%E3%82%B9%2B%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%97%E3%83%BC%2F" rel="nofollow noopener" target="_blank" class="btn-lp-cta btn-lp-cta--indigo">
+  <a href="https://rpx.a8.net/svt/ejp?a8mat=4B1QDP+BQ4COI+2HOM+BWGDT&rakuten=y&a8ejpredirect=https%3A%2F%2Fitem.rakuten.co.jp%2Fkao-haircare%2Fmelt-02%2F" rel="nofollow noopener" target="_blank" class="btn-lp-cta btn-lp-cta--indigo">
     melt スムースの最新価格を楽天で確認する
     <span class="btn-sub">※本記事はアフィリエイト広告を含みます</span>
   </a>
