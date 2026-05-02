@@ -163,7 +163,7 @@ summary_points:
 
 {{< product
   title="haru kurokami スカルプ シャンプー"
-  img="https://tshop.r10s.jp/harushop/cabinet/lineup/thumb/10640101_up.jpg"
+  img="https://thumbnail.image.rakuten.co.jp/@0_mall/harushop/cabinet/lineup/thumb/10640101_up.jpg"
   price="¥4,940 / 400mL（楽天公式）"
   rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=27059&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fharu%2Bkurokami%2B%E3%82%B9%E3%82%AB%E3%83%AB%E3%83%97%2F"
   yahoo="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=27061&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3Dharu%2Bkurokami%2B%E3%82%B9%E3%82%AB%E3%83%AB%E3%83%97"
