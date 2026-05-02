@@ -1231,8 +1231,8 @@ h1.post-title {
 
 /* ── 目次 ── */
 .single-toc {
-  background: #fff5f7;
-  border: 1px solid #f0d8cc;
+  background: #f7f7f5;
+  border: 1px solid #ddd9d4;
   border-radius: var(--radius);
   padding: 0;
   margin-bottom: 28px;
@@ -1248,7 +1248,7 @@ h1.post-title {
   padding: 12px 18px;
   cursor: pointer;
   list-style: none;
-  border-bottom: 1px solid #f0d8cc;
+  border-bottom: 1px solid #ddd9d4;
   letter-spacing: 0.05em;
 }
 .single-toc-title::-webkit-details-marker { display: none; }
