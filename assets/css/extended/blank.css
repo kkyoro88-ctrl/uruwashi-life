@@ -2262,3 +2262,77 @@ details.single-toc[open] .single-toc-title::after { content: '▴'; }
   .comparison-table tbody td { font-size: 0.68rem; padding: 8px 4px; }
   .cmp-price { font-size: 0.82rem; }
 }
+
+/* ===== デメリットボックス ===== */
+.caution-box {
+  background: #fffbf0;
+  border: 1px solid #e8c860;
+  border-left: 4px solid #d4a82a;
+  border-radius: 0 8px 8px 0;
+  padding: 14px 16px;
+  margin: 16px 0;
+}
+.caution-box-title {
+  font-size: 0.82rem;
+  font-weight: 700;
+  color: #8a6800;
+  margin-bottom: 10px;
+}
+.caution-box ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+.caution-box ul li {
+  font-size: 0.82rem;
+  color: #555;
+  line-height: 1.6;
+  margin-bottom: 6px;
+  position: relative;
+  padding-left: 1.4em;
+}
+.caution-box ul li::before {
+  content: '△';
+  position: absolute;
+  left: 0;
+  color: #c49a2a;
+  font-size: 0.75rem;
+}
+.caution-box ul li:last-child { margin-bottom: 0; }
+
+/* ===== 向いている方ボックス ===== */
+.fit-box {
+  background: #f6fff8;
+  border: 1px solid #90c890;
+  border-left: 4px solid #3a9a4a;
+  border-radius: 0 8px 8px 0;
+  padding: 14px 16px;
+  margin: 16px 0;
+}
+.fit-box-title {
+  font-size: 0.82rem;
+  font-weight: 700;
+  color: #1e6030;
+  margin-bottom: 10px;
+}
+.fit-box ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+.fit-box ul li {
+  font-size: 0.82rem;
+  color: #333;
+  line-height: 1.6;
+  margin-bottom: 6px;
+  position: relative;
+  padding-left: 1.4em;
+}
+.fit-box ul li::before {
+  content: '✓';
+  position: absolute;
+  left: 0;
+  color: #3a9a4a;
+  font-weight: 700;
+}
+.fit-box ul li:last-child { margin-bottom: 0; }

@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>記事コンポーネント デザイン案</title>
+<style>
+  body {
+    font-family: 'Helvetica Neue', Arial, 'Hiragino Sans', sans-serif;
+    background: #fdf6f0;
+    padding: 32px 20px;
+    color: #333;
+    max-width: 680px;
+    margin: 0 auto;
+  }
+
+  h3 { color: #7a4a56; font-size: 0.85rem; margin: 32px 0 12px; text-transform: uppercase; letter-spacing: 0.08em; }
+
+  /* =============================
+     デメリットセクション
+  ============================= */
+  .caution-box {
+    background: #fffbf0;
+    border: 1px solid #e8c860;
+    border-left: 4px solid #d4a82a;
+    border-radius: 0 8px 8px 0;
+    padding: 14px 16px;
+    margin: 16px 0;
+  }
+  .caution-box-title {
+    font-size: 0.8rem;
+    font-weight: 700;
+    color: #8a6800;
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+  }
+  .caution-box ul {
+    margin: 0;
+    padding-left: 1.2em;
+    list-style: none;
+  }
+  .caution-box ul li {
+    font-size: 0.82rem;
+    color: #555;
+    line-height: 1.6;
+    margin-bottom: 6px;
+    position: relative;
+    padding-left: 1.2em;
+  }
+  .caution-box ul li::before {
+    content: '△';
+    position: absolute;
+    left: 0;
+    color: #c49a2a;
+    font-size: 0.75rem;
+  }
+  .caution-box ul li:last-child { margin-bottom: 0; }
+
+  /* =============================
+     向いている方セクション
+  ============================= */
+  .fit-box {
+    background: #f6fff8;
+    border: 1px solid #90c890;
+    border-left: 4px solid #3a9a4a;
+    border-radius: 0 8px 8px 0;
+    padding: 14px 16px;
+    margin: 16px 0;
+  }
+  .fit-box-title {
+    font-size: 0.8rem;
+    font-weight: 700;
+    color: #1e6030;
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+  }
+  .fit-box ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+  .fit-box ul li {
+    font-size: 0.82rem;
+    color: #333;
+    line-height: 1.6;
+    margin-bottom: 6px;
+    position: relative;
+    padding-left: 1.4em;
+  }
+  .fit-box ul li::before {
+    content: '✓';
+    position: absolute;
+    left: 0;
+    color: #3a9a4a;
+    font-weight: 700;
+  }
+  .fit-box ul li:last-child { margin-bottom: 0; }
+
+  /* =============================
+     変化タイムライン
+  ============================= */
+  .timeline {
+    margin: 16px 0;
+    position: relative;
+    padding-left: 12px;
+  }
+  .timeline::before {
+    content: '';
+    position: absolute;
+    left: 20px;
+    top: 16px;
+    bottom: 16px;
+    width: 2px;
+    background: linear-gradient(to bottom, #c49a2a, #e8c4ce, #b8d8b8);
+  }
+  .timeline-item {
+    display: flex;
+    gap: 14px;
+    margin-bottom: 14px;
+    position: relative;
+  }
+  .timeline-item:last-child { margin-bottom: 0; }
+  .timeline-dot {
+    width: 18px;
+    height: 18px;
+    border-radius: 50%;
+    background: #fff;
+    border: 2.5px solid #c49a2a;
+    flex-shrink: 0;
+    margin-top: 2px;
+    z-index: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .timeline-dot span {
+    font-size: 0.55rem;
+    font-weight: 700;
+    color: #8a6800;
+  }
+  .timeline-label {
+    background: #fff8e6;
+    color: #7a5a00;
+    border: 1px solid #f0d080;
+    border-radius: 10px;
+    padding: 1px 8px;
+    font-size: 0.7rem;
+    font-weight: 700;
+    white-space: nowrap;
+    height: fit-content;
+    margin-top: 1px;
+  }
+  .timeline-text {
+    font-size: 0.82rem;
+    color: #444;
+    line-height: 1.6;
+  }
+  .timeline-content { flex: 1; }
+
+  /* 区切り */
+  hr { border: none; border-top: 1px dashed #ddd; margin: 28px 0; }
+</style>
+</head>
+<body>
+
+<h3>① デメリットボックス</h3>
+<div class="caution-box">
+  <div class="caution-box-title">⚠ 正直に言うと、これが気になりました</div>
+  <ul>
+    <li>香りが苦手という方もいるので、気になる方は実際に試してから継続を検討してみてください</li>
+    <li>ロフト・ハンズ・EC中心。近所のドラッグストアでは買えないことがある</li>
+    <li>変化を感じるまで2〜4週間かかる。すぐ結果を求める方には向いていない</li>
+  </ul>
+</div>
+
+<hr>
+
+<h3>② 向いている方ボックス</h3>
+<div class="fit-box">
+  <div class="fit-box-title">✓ このシャンプーが向いている方</div>
+  <ul>
+    <li>ドライヤー後に広がりやうねりが気になる方</li>
+    <li>市販品でも美容室品質を求めたい方</li>
+    <li>2〜4週間じっくり変化を見届けられる方</li>
+  </ul>
+</div>
+
+<hr>
+
+<h3>③ 変化タイムライン（「使い始めると、こう変わります」の代替）</h3>
+<div class="timeline">
+  <div class="timeline-item">
+    <div class="timeline-dot"><span>★</span></div>
+    <div class="timeline-content">
+      <span class="timeline-label">開始直後</span>
+      <p class="timeline-text">洗い上がりのしっとり感が変わる。泡立ちのなめらかさを感じる方が多い。</p>
+    </div>
+  </div>
+  <div class="timeline-item">
+    <div class="timeline-dot"><span></span></div>
+    <div class="timeline-content">
+      <span class="timeline-label">2週間</span>
+      <p class="timeline-text">ドライヤー後のまとまりが変わり始める。うねりの出方がやわらいでくる。</p>
+    </div>
+  </div>
+  <div class="timeline-item">
+    <div class="timeline-dot"><span></span></div>
+    <div class="timeline-content">
+      <span class="timeline-label">4週間〜</span>
+      <p class="timeline-text">「朝のうねりがやわらいだ」「髪がしっとり落ち着く」という変化が定着してくる。</p>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>
