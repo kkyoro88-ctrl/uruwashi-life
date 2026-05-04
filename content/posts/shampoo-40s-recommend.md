@@ -185,22 +185,22 @@ summary_points:
 {{< rawhtml >}}
 <div class="compare-cards">
   <div class="compare-card compare-card--featured">
-    <div class="compare-scenario">口コミ・実績で選びたい</div>
+    <div class="compare-scenario">ドライヤー後の広がり・うねりが気になる</div>
     <div class="compare-name">THE ANSWER</div>
-    <span class="compare-badge compare-badge--indigo">★ 7,000件超の口コミ</span>
-    <p class="compare-desc">2025年ベストコスメ シャンプー・コンディショナー部門1位の実績で選ぶなら。数千人が実際に使って支持した、最も信頼できる根拠がある。</p>
+    <span class="compare-badge compare-badge--indigo">★ 私のイチ推し</span>
+    <p class="compare-desc">市販品でここまでと驚いた1本。多くの人に支持されている実績で、迷ったらまずこれ。</p>
   </div>
   <div class="compare-card">
-    <div class="compare-scenario">うねり＋乾燥の両方が気になる</div>
+    <div class="compare-scenario">うねりと乾燥、両方同時にケアしたい</div>
     <div class="compare-name">melt スムース</div>
-    <span class="compare-badge">コスパ◎ 今から買える</span>
-    <p class="compare-desc">成分の根拠が最も明確。ドラッグストアで今から試せる価格帯でこの成分配合は他にない。</p>
+    <span class="compare-badge">コスパ◎ ドラッグストアで買える</span>
+    <p class="compare-desc">甘めの香りで洗い上がりしっとり。うねりが落ち着いてスタイリングが楽になった。</p>
   </div>
   <div class="compare-card">
-    <div class="compare-scenario">頭皮から本格的に変えたい</div>
+    <div class="compare-scenario">頭皮から根本的に髪質を変えたい</div>
     <div class="compare-name">haru kurokami</div>
     <span class="compare-badge compare-badge--green">30日間全額返金保証</span>
-    <p class="compare-desc">2ヶ月単位でじっくり取り組める方に。合わなければ返金できる。</p>
+    <p class="compare-desc">次に試したい1本。価格がネックでも返金保証があるので、踏み出しやすい。</p>
   </div>
 </div>
 {{< /rawhtml >}}
