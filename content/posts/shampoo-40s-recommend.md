@@ -344,12 +344,8 @@ summary_points:
 
 ヘアケア全般について、もっと詳しく知りたい方はこちらの記事もどうぞ。
 
-→ [40代からのヘアケアガイド｜正しいケアで髪をいたわる方法](/posts/haircare-40s-guide/)
-
-頭皮ケアを重視したい方はこちらも参考にしてください。
-
-→ [スカルプシャンプーおすすめ40代女性向け3選](/posts/scalp-shampoo-40s-recommend/)
-
-洗い流しのないトリートメントやヘアオイルと組み合わせるとより効果的です。
-
-→ [ヘアオイルおすすめ40代向け5選](/posts/hair-oil-recommend/)
+{{< rawhtml >}}
+<a href="/posts/haircare-40s-guide/" class="related-link">40代からのヘアケアガイド｜正しいケアで髪をいたわる方法</a>
+<a href="/posts/scalp-shampoo-40s-recommend/" class="related-link">スカルプシャンプーおすすめ40代女性向け3選</a>
+<a href="/posts/hair-oil-recommend/" class="related-link">ヘアオイルおすすめ40代向け5選</a>
+{{< /rawhtml >}}
