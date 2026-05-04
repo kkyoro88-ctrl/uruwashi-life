@@ -2292,11 +2292,16 @@ details.single-toc[open] .single-toc-title::after { content: '▴'; }
   padding-left: 1.4em;
 }
 .caution-box ul li::before {
-  content: '△';
+  content: '△' !important;
   position: absolute;
   left: 0;
-  color: #c49a2a;
+  color: #c49a2a !important;
   font-size: 0.75rem;
+  width: auto !important;
+  height: auto !important;
+  background: none !important;
+  border-radius: 0 !important;
+  top: auto !important;
 }
 .caution-box ul li:last-child { margin-bottom: 0; }
 
@@ -2329,10 +2334,15 @@ details.single-toc[open] .single-toc-title::after { content: '▴'; }
   padding-left: 1.4em;
 }
 .fit-box ul li::before {
-  content: '✓';
+  content: '✓' !important;
   position: absolute;
   left: 0;
-  color: #3a9a4a;
+  color: #3a9a4a !important;
   font-weight: 700;
+  width: auto !important;
+  height: auto !important;
+  background: none !important;
+  border-radius: 0 !important;
+  top: auto !important;
 }
 .fit-box ul li:last-child { margin-bottom: 0; }
