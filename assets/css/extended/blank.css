@@ -2263,6 +2263,47 @@ details.single-toc[open] .single-toc-title::after { content: '▴'; }
   .cmp-price { font-size: 0.82rem; }
 }
 
+/* ===== 商品見出し（画像付き） ===== */
+.product-heading {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  padding: 14px 18px;
+  border-radius: 0 10px 10px 0;
+  margin: 36px 0 20px;
+}
+.product-heading--answer { background: #fffbf0; border-left: 5px solid #c49a2a; }
+.product-heading--melt   { background: #fff8fb; border-left: 5px solid #c06080; }
+.product-heading--haru   { background: #f6fff8; border-left: 5px solid #3a9a4a; }
+.product-heading-info { flex: 1; }
+.product-heading-num {
+  font-size: 0.7rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  margin-bottom: 5px;
+}
+.product-heading--answer .product-heading-num { color: #8a6800; }
+.product-heading--melt   .product-heading-num { color: #9a3060; }
+.product-heading--haru   .product-heading-num { color: #1e6030; }
+.product-heading-name {
+  font-size: 1.05rem;
+  font-weight: 700;
+  color: #2a2a2a;
+  line-height: 1.4;
+}
+.product-heading-img {
+  width: 80px;
+  height: 80px;
+  object-fit: contain;
+  border-radius: 8px;
+  flex-shrink: 0;
+  background: #fff;
+}
+@media (max-width: 480px) {
+  .product-heading-name { font-size: 0.92rem; }
+  .product-heading-img  { width: 60px; height: 60px; }
+}
+
 /* ===== デメリットボックス ===== */
 .caution-box {
   background: #fffbf0;

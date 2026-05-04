@@ -119,7 +119,15 @@ summary_points:
 
 ## 40代のうねり・乾燥・頭皮ケアにおすすめのシャンプー3選
 
-### 1. THE ANSWER スーパーラメラシャンプー（花王）
+{{< rawhtml >}}
+<div class="product-heading product-heading--answer">
+  <div class="product-heading-info">
+    <div class="product-heading-num">No.1</div>
+    <div class="product-heading-name">THE ANSWER スーパーラメラシャンプー（花王）</div>
+  </div>
+  <img class="product-heading-img" src="https://thumbnail.image.rakuten.co.jp/@0_mall/kao-haircare/cabinet/11858942/theanswer/products/answer-03_0311.jpg" alt="THE ANSWER スーパーラメラシャンプー">
+</div>
+{{< /rawhtml >}}
 
 「市販品でここまでやるのか」——これが使い始めたときの正直な感想です。美容室のシャンプーに引けを取らないクオリティが、この価格帯で手に入る。花王がこれを市販品として出しているという事実が、この商品を信頼できる根拠のひとつです。
 
@@ -171,7 +179,15 @@ summary_points:
 
 ---
 
-### 2. melt スムース シャンプー（花王）
+{{< rawhtml >}}
+<div class="product-heading product-heading--melt">
+  <div class="product-heading-info">
+    <div class="product-heading-num">No.2</div>
+    <div class="product-heading-name">melt スムース シャンプー（花王）</div>
+  </div>
+  <img class="product-heading-img" src="https://thumbnail.image.rakuten.co.jp/@0_mall/kao-haircare/cabinet/11858942/melt/melt-02_0218.jpg" alt="melt スムース シャンプー">
+</div>
+{{< /rawhtml >}}
 
 甘めのフルーティな香りが洗い時間を心地よくしてくれて、洗い上がりはしっとりとまとまる仕上がりです。うねりが「なくなる」というより「落ち着く」という感覚で、ドライヤー後のスタイリングが楽になりました。
 
@@ -213,7 +229,15 @@ summary_points:
 
 ---
 
-### 3. haru kurokami スカルプ
+{{< rawhtml >}}
+<div class="product-heading product-heading--haru">
+  <div class="product-heading-info">
+    <div class="product-heading-num">No.3</div>
+    <div class="product-heading-name">haru kurokami スカルプ</div>
+  </div>
+  <img class="product-heading-img" src="https://thumbnail.image.rakuten.co.jp/@0_mall/harushop/cabinet/lineup/thumb/10640101_up.jpg" alt="haru kurokami スカルプ">
+</div>
+{{< /rawhtml >}}
 
 価格を見て一度は後回しにしました。ただ調べ始めたら止まらなくて、今一番「次はこれ」と思っているのがharuです。
 

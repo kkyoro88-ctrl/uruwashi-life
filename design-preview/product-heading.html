@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>商品見出し デザイン案</title>
+<style>
+  body {
+    font-family: 'Helvetica Neue', Arial, 'Hiragino Sans', sans-serif;
+    background: #fdf6f0;
+    padding: 32px 20px;
+    color: #333;
+    max-width: 680px;
+    margin: 0 auto;
+  }
+
+  /* ========= 商品見出し ========= */
+  .product-heading {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    padding: 14px 18px;
+    border-radius: 0 10px 10px 0;
+    margin: 36px 0 20px;
+  }
+  .product-heading--answer {
+    background: #fffbf0;
+    border-left: 5px solid #c49a2a;
+  }
+  .product-heading--melt {
+    background: #fff8fb;
+    border-left: 5px solid #c06080;
+  }
+  .product-heading--haru {
+    background: #f6fff8;
+    border-left: 5px solid #3a9a4a;
+  }
+  .product-heading-info { flex: 1; }
+  .product-heading-num {
+    font-size: 0.7rem;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    margin-bottom: 5px;
+  }
+  .product-heading--answer .product-heading-num { color: #8a6800; }
+  .product-heading--melt   .product-heading-num { color: #9a3060; }
+  .product-heading--haru   .product-heading-num { color: #1e6030; }
+  .product-heading-name {
+    font-size: 1.05rem;
+    font-weight: 700;
+    color: #2a2a2a;
+    line-height: 1.4;
+  }
+  .product-heading-img {
+    width: 80px;
+    height: 80px;
+    object-fit: contain;
+    border-radius: 8px;
+    flex-shrink: 0;
+    background: #fff;
+  }
+  @media (max-width: 480px) {
+    .product-heading-name { font-size: 0.92rem; }
+    .product-heading-img  { width: 60px; height: 60px; }
+  }
+
+  /* 比較用：現状のh3スタイル */
+  h3 {
+    font-size: 1.05rem;
+    color: #3a4a7a;
+    border-bottom: 2px solid #3a4a7a;
+    padding-bottom: 6px;
+    margin: 36px 0 16px;
+  }
+
+  p { font-size: 0.9rem; color: #444; line-height: 1.8; margin: 0 0 16px; }
+</style>
+</head>
+<body>
+
+<p style="font-size:0.75rem;color:#999;margin-bottom:32px;">▼ 改善後：商品見出し（画像付き・色分け）</p>
+
+<div class="product-heading product-heading--answer">
+  <div class="product-heading-info">
+    <div class="product-heading-num">No.1</div>
+    <div class="product-heading-name">THE ANSWER スーパーラメラシャンプー（花王）</div>
+  </div>
+  <img class="product-heading-img" src="https://thumbnail.image.rakuten.co.jp/@0_mall/kao-haircare/cabinet/11858942/theanswer/products/answer-03_0311.jpg" alt="THE ANSWER">
+</div>
+<p>「市販品でここまでやるのか」——これが使い始めたときの正直な感想です。美容室のシャンプーに引けを取らないクオリティが、この価格帯で手に入る。</p>
+
+<div class="product-heading product-heading--melt">
+  <div class="product-heading-info">
+    <div class="product-heading-num">No.2</div>
+    <div class="product-heading-name">melt スムース シャンプー（花王）</div>
+  </div>
+  <img class="product-heading-img" src="https://thumbnail.image.rakuten.co.jp/@0_mall/kao-haircare/cabinet/11858942/melt/melt-02_0218.jpg" alt="melt スムース">
+</div>
+<p>甘めのフルーティな香りが洗い時間を心地よくしてくれて、洗い上がりはしっとりとまとまる仕上がりです。</p>
+
+<div class="product-heading product-heading--haru">
+  <div class="product-heading-info">
+    <div class="product-heading-num">No.3</div>
+    <div class="product-heading-name">haru kurokami スカルプ</div>
+  </div>
+  <img class="product-heading-img" src="https://thumbnail.image.rakuten.co.jp/@0_mall/harushop/cabinet/lineup/thumb/10640101_up.jpg" alt="haru kurokami">
+</div>
+<p>価格を見て一度は後回しにしました。ただ調べ始めたら止まらなくて、今一番「次はこれ」と思っているのがharuです。</p>
+
+</body>
+</html>
