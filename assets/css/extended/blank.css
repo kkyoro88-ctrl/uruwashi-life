@@ -1126,7 +1126,7 @@ h1.post-title {
 .article-summary-label {
   font-size: 0.82rem;
   font-weight: 700;
-  color: var(--accent-dark);
+  color: #444;
   margin-bottom: 8px;
   letter-spacing: 0.05em;
 }
@@ -2292,8 +2292,8 @@ details.single-toc[open] .single-toc-title::after { content: '▴'; }
   line-height: 1.4;
 }
 .product-heading-img {
-  width: 80px;
-  height: 80px;
+  width: 110px;
+  height: 110px;
   object-fit: contain;
   border-radius: 8px;
   flex-shrink: 0;
@@ -2301,14 +2301,14 @@ details.single-toc[open] .single-toc-title::after { content: '▴'; }
 }
 @media (max-width: 480px) {
   .product-heading-name { font-size: 0.92rem; }
-  .product-heading-img  { width: 60px; height: 60px; }
+  .product-heading-img  { width: 80px; height: 80px; }
 }
 
 /* ===== デメリットボックス ===== */
 .caution-box {
-  background: #fffbf0;
-  border: 1px solid #e8c860;
-  border-left: 4px solid #d4a82a;
+  background: #fff5f5;
+  border: 1px solid #f5b8b8;
+  border-left: 4px solid #c0392b;
   border-radius: 0 8px 8px 0;
   padding: 14px 16px;
   margin: 16px 0;
@@ -2316,7 +2316,7 @@ details.single-toc[open] .single-toc-title::after { content: '▴'; }
 .caution-box-title {
   font-size: 0.82rem;
   font-weight: 700;
-  color: #8a6800;
+  color: #8a2020;
   margin-bottom: 10px;
 }
 .caution-box ul {
@@ -2336,7 +2336,7 @@ details.single-toc[open] .single-toc-title::after { content: '▴'; }
   content: '△' !important;
   position: absolute;
   left: 0;
-  color: #c49a2a !important;
+  color: #c0392b !important;
   font-size: 0.75rem;
   width: auto !important;
   height: auto !important;
@@ -2348,9 +2348,9 @@ details.single-toc[open] .single-toc-title::after { content: '▴'; }
 
 /* ===== 向いている方ボックス ===== */
 .fit-box {
-  background: #f6fff8;
-  border: 1px solid #90c890;
-  border-left: 4px solid #3a9a4a;
+  background: #f0fafa;
+  border: 1px solid #8ecece;
+  border-left: 4px solid #1a8a8a;
   border-radius: 0 8px 8px 0;
   padding: 14px 16px;
   margin: 16px 0;
@@ -2358,7 +2358,7 @@ details.single-toc[open] .single-toc-title::after { content: '▴'; }
 .fit-box-title {
   font-size: 0.82rem;
   font-weight: 700;
-  color: #1e6030;
+  color: #0e5a5a;
   margin-bottom: 10px;
 }
 .fit-box ul {
@@ -2378,7 +2378,7 @@ details.single-toc[open] .single-toc-title::after { content: '▴'; }
   content: '✓' !important;
   position: absolute;
   left: 0;
-  color: #3a9a4a !important;
+  color: #1a8a8a !important;
   font-weight: 700;
   width: auto !important;
   height: auto !important;
