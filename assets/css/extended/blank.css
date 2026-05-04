@@ -2140,12 +2140,12 @@ details.single-toc[open] .single-toc-title::after { content: '▴'; }
   transition: background 0.2s, color 0.2s;
   letter-spacing: 0.03em;
 }
-.product-btn--rakuten { color: #e50000; border-color: #e50000; background: #fff; }
-.product-btn--rakuten:hover { background: #e50000; color: #fff; }
-.product-btn--amazon  { color: #e47911; border-color: #e47911; background: #fff; }
-.product-btn--amazon:hover  { background: #e47911; color: #fff; }
-.product-btn--yahoo   { color: #4169e1; border-color: #4169e1; background: #fff; }
-.product-btn--yahoo:hover   { background: #4169e1; color: #fff; }
+.product-btn--rakuten { color: #BF0000 !important; border-color: #BF0000; background: #fff; }
+.product-btn--rakuten:hover { background: #BF0000; color: #fff !important; }
+.product-btn--amazon  { color: #FF9900 !important; border-color: #FF9900; background: #fff; }
+.product-btn--amazon:hover  { background: #FF9900; color: #fff !important; }
+.product-btn--yahoo   { color: #720096 !important; border-color: #720096; background: #fff; }
+.product-btn--yahoo:hover   { background: #720096; color: #fff !important; }
 @media (max-width: 480px) {
   .product-card { flex-direction: column; gap: 12px; }
   .product-card-img { width: 80px; }

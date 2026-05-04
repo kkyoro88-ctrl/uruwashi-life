@@ -109,12 +109,6 @@ summary_points:
 >}}
 {{< rawhtml >}}
 </div>
-<div class="btn-lp-cta-wrap">
-  <a href="https://rpx.a8.net/svt/ejp?a8mat=4B1QDP+BQ4COI+2HOM+BWGDT&rakuten=y&a8ejpredirect=https%3A%2F%2Fitem.rakuten.co.jp%2Fkao-haircare%2Fanswer-03%2F" rel="nofollow noopener" target="_blank" class="btn-lp-cta">
-    THE ANSWERの最新価格を楽天で確認する
-    <span class="btn-sub">楽天市場で在庫・最安値を確認 →</span>
-  </a>
-</div>
 {{< /rawhtml >}}
 
 ---
@@ -148,14 +142,6 @@ summary_points:
   amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B0DVG8C6S1"
   yahoo="https://shopping.yahoo.co.jp/search?p=melt+%E3%82%B9%E3%83%A0%E3%83%BC%E3%82%B9+%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%97%E3%83%BC"
 >}}
-{{< rawhtml >}}
-<div class="btn-lp-cta-wrap">
-  <a href="https://rpx.a8.net/svt/ejp?a8mat=4B1QDP+BQ4COI+2HOM+BWGDT&rakuten=y&a8ejpredirect=https%3A%2F%2Fitem.rakuten.co.jp%2Fkao-haircare%2Fmelt-02%2F" rel="nofollow noopener" target="_blank" class="btn-lp-cta">
-    melt スムースの最新価格を楽天で確認する
-    <span class="btn-sub">楽天市場で在庫・最安値を確認 →</span>
-  </a>
-</div>
-{{< /rawhtml >}}
 
 ---
 
@@ -190,14 +176,6 @@ summary_points:
   amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B07ZB81Q8J"
   yahoo="https://shopping.yahoo.co.jp/search?p=haru+kurokami+%E3%82%B9%E3%82%AB%E3%83%AB%E3%83%97"
 >}}
-{{< rawhtml >}}
-<div class="btn-lp-cta-wrap">
-  <a href="https://rpx.a8.net/svt/ejp?a8mat=4B1QDP+BQ4COI+2HOM+BWGDT&rakuten=y&a8ejpredirect=https%3A%2F%2Fitem.rakuten.co.jp%2Fharushop%2Fharushampoo001%2F" rel="nofollow noopener" target="_blank" class="btn-lp-cta">
-    haru kurokamiの最新価格を楽天で確認する
-    <span class="btn-sub">30日間全額返金保証あり →</span>
-  </a>
-</div>
-{{< /rawhtml >}}
 
 ---
 
