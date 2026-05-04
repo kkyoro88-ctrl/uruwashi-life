@@ -342,8 +342,6 @@ summary_points:
   yahoo="https://shopping.yahoo.co.jp/search?p=THE+ANSWER+%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%A9%E3%83%A1%E3%83%A9+%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%97%E3%83%BC"
 >}}
 
-※本記事はアフィリエイト広告を含みます
-
 ヘアケア全般について、もっと詳しく知りたい方はこちらの記事もどうぞ。
 
 → [40代からのヘアケアガイド｜正しいケアで髪をいたわる方法](/posts/haircare-40s-guide/)
