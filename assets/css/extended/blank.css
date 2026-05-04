@@ -2151,3 +2151,114 @@ details.single-toc[open] .single-toc-title::after { content: '▴'; }
   .product-card-img { width: 80px; }
   .product-btn { padding: 8px 14px; font-size: 0.8rem; }
 }
+
+/* ===== 比較テーブル ===== */
+.comparison-wrap {
+  margin: 24px 0;
+  overflow-x: auto;
+}
+.comparison-table {
+  width: 100%;
+  border-collapse: collapse;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 2px 12px rgba(0,0,0,0.08);
+  border: 1px solid #b8a89e;
+  font-size: 0.82rem;
+}
+.comparison-table thead tr th {
+  padding: 14px 10px;
+  text-align: center;
+  font-weight: 700;
+  font-size: 0.82rem;
+  line-height: 1.4;
+  border: none;
+}
+.comparison-table .th-empty {
+  background: #f2e8e4;
+  width: 110px;
+}
+.comparison-table .th-answer {
+  background: linear-gradient(135deg, #7a5c1e, #c49a2a);
+  color: white;
+}
+.comparison-table .th-melt {
+  background: #e8c4ce;
+  color: #7a3a4a;
+}
+.comparison-table .th-haru {
+  background: #b8d8b8;
+  color: #2a5a2a;
+}
+.comparison-table .top-badge {
+  background: rgba(255,255,255,0.25);
+  font-size: 0.65rem;
+  padding: 2px 8px;
+  border-radius: 10px;
+  display: inline-block;
+  margin-bottom: 4px;
+  letter-spacing: 0.03em;
+}
+.comparison-table tbody tr {
+  border-top: 1px solid #b8a89e;
+}
+.comparison-table tbody tr:nth-child(even) { background: #faf4f0; }
+.comparison-table tbody tr:nth-child(odd)  { background: #fff; }
+.comparison-table .td-label {
+  background: #f2e8e4 !important;
+  padding: 12px 10px;
+  font-size: 0.76rem;
+  font-weight: 700;
+  color: #6b4a52;
+  white-space: nowrap;
+}
+.comparison-table tbody td {
+  padding: 12px 10px;
+  text-align: center;
+  line-height: 1.4;
+  border-left: 1px solid #b8a89e;
+  vertical-align: middle;
+}
+.cmp-price {
+  font-weight: 800;
+  font-size: 0.95rem;
+  display: inline-block;
+}
+.cmp-price small {
+  font-size: 0.7rem;
+  font-weight: 400;
+  display: block;
+  color: #888;
+}
+.cmp-price--answer { color: #8b6914; }
+.cmp-price--melt   { color: #b06080; }
+.cmp-price--haru   { color: #2a7a2a; }
+.cmp-week-badge {
+  background: #fff8e6;
+  color: #7a5a00;
+  border: 1px solid #f0d080;
+  padding: 2px 10px;
+  border-radius: 10px;
+  font-size: 0.75rem;
+  font-weight: 600;
+  display: inline-block;
+}
+.cmp-guarantee-badge {
+  background: #e4f5e4;
+  color: #1e6020;
+  border: 1px solid #90c890;
+  padding: 3px 10px;
+  border-radius: 10px;
+  font-size: 0.75rem;
+  font-weight: 700;
+  line-height: 1.4;
+  display: inline-block;
+}
+.cmp-none { color: #bbb; font-size: 0.75rem; }
+@media (max-width: 560px) {
+  .comparison-table .th-empty,
+  .comparison-table .td-label { width: 72px; font-size: 0.65rem; padding: 8px 5px; }
+  .comparison-table thead tr th,
+  .comparison-table tbody td { font-size: 0.68rem; padding: 8px 4px; }
+  .cmp-price { font-size: 0.82rem; }
+}

@@ -58,15 +58,62 @@ summary_points:
 
 ## 3商品を一覧で比較
 
-| | THE ANSWER | melt スムース | haru kurokami |
-|---|---|---|---|
-| 価格 | ¥1,760 / 400mL | ¥1,760 / 480mL | ¥4,940 / 400mL |
-| 洗浄成分 | アミノ酸系 | アミノ酸系 | 天然由来成分 |
-| 主な特徴 | スーパーラメラ技術 | 酸性×アミノ酸系技術 | 頭皮ケア特化 |
-| 変化を感じるまで | 2〜4週間 | 2〜3週間 | 1〜2ヶ月 |
-| 入手しやすさ | ロフト・EC中心 | ドラッグストアで即購入可 | 公式EC・楽天 |
-| こんな方に | 口コミ実績で選びたい方 | うねり＋乾燥の両方が気になる方 | 頭皮から本格ケアしたい方 |
-| 保証 | なし | なし | 30日間全額返金保証 |
+<div class="comparison-wrap">
+<table class="comparison-table">
+  <thead>
+    <tr>
+      <th class="th-empty"></th>
+      <th class="th-answer"><span class="top-badge">★ イチ推し</span><br>THE ANSWER</th>
+      <th class="th-melt">melt スムース</th>
+      <th class="th-haru">haru kurokami</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="td-label">💰 価格</td>
+      <td><span class="cmp-price cmp-price--answer">¥1,760<small>/ 400mL</small></span></td>
+      <td><span class="cmp-price cmp-price--melt">¥1,760<small>/ 480mL</small></span></td>
+      <td><span class="cmp-price cmp-price--haru">¥4,940<small>/ 400mL</small></span></td>
+    </tr>
+    <tr>
+      <td class="td-label">🧴 洗浄成分</td>
+      <td>アミノ酸系</td>
+      <td>アミノ酸系</td>
+      <td>天然由来成分</td>
+    </tr>
+    <tr>
+      <td class="td-label">✨ 主な特徴</td>
+      <td><strong>スーパーラメラ技術</strong></td>
+      <td><strong>酸性×アミノ酸系</strong></td>
+      <td><strong>頭皮ケア特化</strong></td>
+    </tr>
+    <tr>
+      <td class="td-label">⏱ 変化まで</td>
+      <td><span class="cmp-week-badge">2〜4週間</span></td>
+      <td><span class="cmp-week-badge">2〜3週間</span></td>
+      <td>1〜2ヶ月</td>
+    </tr>
+    <tr>
+      <td class="td-label">🛒 購入場所</td>
+      <td>ロフト・EC中心</td>
+      <td><strong>ドラッグストアで買える</strong></td>
+      <td>公式EC・楽天</td>
+    </tr>
+    <tr>
+      <td class="td-label">👤 向いている方</td>
+      <td>口コミ実績で選びたい</td>
+      <td>うねり＋乾燥の両方が気になる</td>
+      <td>頭皮から本格ケアしたい</td>
+    </tr>
+    <tr>
+      <td class="td-label">🛡 保証</td>
+      <td><span class="cmp-none">なし</span></td>
+      <td><span class="cmp-none">なし</span></td>
+      <td><span class="cmp-guarantee-badge">30日間<br>全額返金保証</span></td>
+    </tr>
+  </tbody>
+</table>
+</div>
 
 ---
 

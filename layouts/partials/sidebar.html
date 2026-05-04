@@ -1,5 +1,21 @@
 <aside class="sidebar">
 
+  {{/* ── 検索ウィジェット ── */}}
+  <div class="sidebar-widget widget-search">
+    <div class="sidebar-searchbox">
+      <input id="sidebarSearchInput" type="search" placeholder="検索" autocomplete="off" maxlength="64" aria-label="記事を検索">
+      <button class="sidebar-search-btn" aria-label="検索">
+        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24"
+          fill="none" stroke="currentColor" stroke-width="2.5"
+          stroke-linecap="round" stroke-linejoin="round">
+          <circle cx="11" cy="11" r="8"></circle>
+          <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+        </svg>
+      </button>
+    </div>
+    <ul id="sidebarSearchResults" class="sidebar-search-results" hidden></ul>
+  </div>
+
   {{/* ── プロフィール ── */}}
   <div class="sidebar-widget widget-profile">
     <div class="profile-avatar">

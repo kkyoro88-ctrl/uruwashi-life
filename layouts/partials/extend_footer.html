@@ -22,6 +22,68 @@
 </script>
 
 <script>
+// サイドバー インライン検索（ドロップダウン）
+(function() {
+  var input = document.getElementById('sidebarSearchInput');
+  var resultsList = document.getElementById('sidebarSearchResults');
+  var btn = document.querySelector('.sidebar-search-btn');
+  if (!input || !resultsList) return;
+
+  var cache = null;
+
+  function fetchIndex(cb) {
+    if (cache) { cb(cache); return; }
+    fetch('/index.json')
+      .then(function(r) { return r.json(); })
+      .then(function(data) { cache = data; cb(data); })
+      .catch(function() {});
+  }
+
+  function showResults(items) {
+    resultsList.innerHTML = '';
+    if (items.length === 0) {
+      resultsList.innerHTML = '<li class="sidebar-search-noresult">見つかりませんでした</li>';
+      resultsList.hidden = false;
+      return;
+    }
+    items.slice(0, 8).forEach(function(item) {
+      var li = document.createElement('li');
+      var a = document.createElement('a');
+      a.href = item.permalink;
+      a.textContent = item.title;
+      li.appendChild(a);
+      resultsList.appendChild(li);
+    });
+    resultsList.hidden = false;
+  }
+
+  function doSearch() {
+    var q = input.value.trim().toLowerCase();
+    if (!q) { resultsList.hidden = true; resultsList.innerHTML = ''; return; }
+    fetchIndex(function(data) {
+      var results = data.filter(function(item) {
+        return (item.title && item.title.toLowerCase().indexOf(q) !== -1) ||
+               (item.content && item.content.toLowerCase().indexOf(q) !== -1);
+      });
+      showResults(results);
+    });
+  }
+
+  var composing = false;
+  input.addEventListener('compositionstart', function() { composing = true; });
+  input.addEventListener('compositionend', function() { composing = false; doSearch(); });
+  input.addEventListener('input', function() { if (!composing) doSearch(); });
+  if (btn) btn.addEventListener('click', doSearch);
+
+  document.addEventListener('click', function(e) {
+    if (!input.contains(e.target) && !resultsList.contains(e.target)) {
+      resultsList.hidden = true;
+    }
+  });
+})();
+</script>
+
+<script>
 // アフィリエイトリンク クリック計測
 document.addEventListener('click', function(e) {
   var link = e.target.closest('a[href]');

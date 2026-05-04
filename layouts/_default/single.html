@@ -72,7 +72,16 @@
     {{- end }}
 
     {{/* ── この記事でわかること（オリジナル） ── */}}
-    {{- if .Summary }}
+    {{- if .Params.summary_points }}
+    <div class="article-summary-box">
+      <div class="article-summary-label">📋 この記事でわかること</div>
+      <ul class="article-summary-points">
+        {{- range .Params.summary_points }}
+        <li>{{ . }}</li>
+        {{- end }}
+      </ul>
+    </div>
+    {{- else if .Summary }}
     <div class="article-summary-box">
       <div class="article-summary-label">📋 この記事でわかること</div>
       <p class="article-summary-text">{{ .Summary | plainify | htmlUnescape }}</p>

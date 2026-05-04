@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>比較テーブル デザイン案</title>
+<style>
+  body {
+    font-family: 'Helvetica Neue', Arial, 'Hiragino Sans', sans-serif;
+    background: #fdf6f0;
+    padding: 32px 20px;
+    color: #333;
+  }
+
+  .comparison-wrap {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+
+  h2 {
+    text-align: center;
+    color: #7a4a56;
+    font-size: 1.1rem;
+    margin-bottom: 24px;
+    letter-spacing: 0.05em;
+  }
+
+  .comparison-table {
+    width: 100%;
+    border-collapse: collapse;
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0 2px 12px rgba(0,0,0,0.08);
+    border: 1px solid #b8a89e;
+  }
+
+  /* ヘッダー行 */
+  .comparison-table thead tr th {
+    padding: 14px 10px;
+    text-align: center;
+    font-weight: 700;
+    font-size: 0.82rem;
+    line-height: 1.4;
+  }
+
+  .th-empty {
+    background: #f2e8e4;
+    width: 110px;
+  }
+
+  .th-answer {
+    background: linear-gradient(135deg, #7a5c1e, #c49a2a);
+    color: white;
+  }
+
+  .th-melt {
+    background: #e8c4ce;
+    color: #7a3a4a;
+  }
+
+  .th-haru {
+    background: #b8d8b8;
+    color: #2a5a2a;
+  }
+
+  .top-badge {
+    background: rgba(255,255,255,0.25);
+    font-size: 0.65rem;
+    padding: 2px 8px;
+    border-radius: 10px;
+    display: inline-block;
+    margin-bottom: 4px;
+    letter-spacing: 0.03em;
+  }
+
+  /* データ行 */
+  .comparison-table tbody tr {
+    border-top: 1px solid #b8a89e;
+  }
+
+  .comparison-table tbody tr:nth-child(even) {
+    background: #faf4f0;
+  }
+  .comparison-table tbody tr:nth-child(odd) {
+    background: #fff;
+  }
+
+  .td-label {
+    background: #f2e8e4 !important;
+    padding: 12px 10px;
+    font-size: 0.76rem;
+    font-weight: 700;
+    color: #6b4a52;
+    white-space: nowrap;
+  }
+
+  .comparison-table tbody td {
+    padding: 12px 10px;
+    text-align: center;
+    font-size: 0.8rem;
+    line-height: 1.4;
+    border-left: 1px solid #b8a89e;
+    vertical-align: middle;
+  }
+
+  .price {
+    font-weight: 800;
+    font-size: 0.95rem;
+  }
+  .price.answer { color: #8b6914; }
+  .price.melt   { color: #b06080; }
+  .price.haru   { color: #2a7a2a; }
+
+  .price small {
+    font-size: 0.7rem;
+    font-weight: 400;
+    display: block;
+    color: #888;
+  }
+
+  .week-badge {
+    background: #fff8e6;
+    color: #7a5a00;
+    border: 1px solid #f0d080;
+    padding: 2px 10px;
+    border-radius: 10px;
+    font-size: 0.75rem;
+    font-weight: 600;
+    display: inline-block;
+  }
+
+  .guarantee-badge {
+    background: #e4f5e4;
+    color: #1e6020;
+    border: 1px solid #90c890;
+    padding: 3px 10px;
+    border-radius: 10px;
+    font-size: 0.75rem;
+    font-weight: 700;
+    line-height: 1.4;
+    display: inline-block;
+  }
+
+  .none-text { color: #bbb; font-size: 0.75rem; }
+
+  .strong-text { font-weight: 700; color: #444; font-size: 0.78rem; }
+
+  @media (max-width: 560px) {
+    .th-empty, .td-label { width: 72px; font-size: 0.65rem; padding: 8px 5px; }
+    .comparison-table thead tr th,
+    .comparison-table tbody td { font-size: 0.68rem; padding: 8px 4px; }
+    .price { font-size: 0.82rem; }
+  }
+</style>
+</head>
+<body>
+<div class="comparison-wrap">
+  <h2>3商品を一覧で比較</h2>
+
+  <table class="comparison-table">
+    <thead>
+      <tr>
+        <th class="th-empty"></th>
+        <th class="th-answer">
+          <div class="top-badge">★ イチ推し</div><br>THE ANSWER
+        </th>
+        <th class="th-melt">melt スムース</th>
+        <th class="th-haru">haru kurokami</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="td-label">💰 価格</td>
+        <td><span class="price answer">¥1,760<small>/ 400mL</small></span></td>
+        <td><span class="price melt">¥1,760<small>/ 480mL</small></span></td>
+        <td><span class="price haru">¥4,940<small>/ 400mL</small></span></td>
+      </tr>
+      <tr>
+        <td class="td-label">🧴 洗浄成分</td>
+        <td>アミノ酸系</td>
+        <td>アミノ酸系</td>
+        <td>天然由来成分</td>
+      </tr>
+      <tr>
+        <td class="td-label">✨ 主な特徴</td>
+        <td><span class="strong-text">スーパーラメラ技術</span></td>
+        <td><span class="strong-text">酸性×アミノ酸系</span></td>
+        <td><span class="strong-text">頭皮ケア特化</span></td>
+      </tr>
+      <tr>
+        <td class="td-label">⏱ 変化まで</td>
+        <td><span class="week-badge">2〜4週間</span></td>
+        <td><span class="week-badge">2〜3週間</span></td>
+        <td>1〜2ヶ月</td>
+      </tr>
+      <tr>
+        <td class="td-label">🛒 購入場所</td>
+        <td>ロフト・EC中心</td>
+        <td><span class="strong-text">ドラッグストアで買える</span></td>
+        <td>公式EC・楽天</td>
+      </tr>
+      <tr>
+        <td class="td-label">👤 向いている方</td>
+        <td>口コミ実績で選びたい</td>
+        <td>うねり＋乾燥の両方が気になる</td>
+        <td>頭皮から本格ケアしたい</td>
+      </tr>
+      <tr>
+        <td class="td-label">🛡 保証</td>
+        <td><span class="none-text">なし</span></td>
+        <td><span class="none-text">なし</span></td>
+        <td><span class="guarantee-badge">30日間<br>全額返金保証</span></td>
+      </tr>
+    </tbody>
+  </table>
+
+</div>
+</body>
+</html>
