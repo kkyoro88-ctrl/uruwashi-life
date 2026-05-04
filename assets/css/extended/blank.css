@@ -1084,17 +1084,17 @@ h1.post-title {
   display: flex;
   align-items: center;
   gap: 5px;
-  background: none;
+  background: rgba(0,0,0,0.28);
   border: none;
   border-left: none;
   border-radius: 0;
-  padding: 0 0 16px;
-  font-size: 0.72rem;
-  color: #aaa;
+  padding: 5px 10px;
+  font-size: 0.68rem;
+  color: #eee;
   margin-bottom: 0;
 }
-.ad-disclosure svg { flex-shrink: 0; color: #bbb; width: 12px; height: 12px; }
-.ad-disclosure a { color: #aaa; text-decoration: underline; }
+.ad-disclosure svg { flex-shrink: 0; color: #ccc; width: 11px; height: 11px; }
+.ad-disclosure a { color: #ddd; text-decoration: underline; }
 
 /* ── カバー画像 ── */
 .single-cover {
