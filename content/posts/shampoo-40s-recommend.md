@@ -231,14 +231,16 @@ summary_points:
 
 迷ったらまず **THE ANSWER** から。使い始めて2〜4週間で、ドライヤー後のまとまりに変化を感じました。
 
-{{< rawhtml >}}
-<div class="btn-lp-cta-wrap">
-  <a href="https://rpx.a8.net/svt/ejp?a8mat=4B1QDP+BQ4COI+2HOM+BWGDT&rakuten=y&a8ejpredirect=https%3A%2F%2Fitem.rakuten.co.jp%2Fkao-haircare%2Fanswer-03%2F" rel="nofollow noopener" target="_blank" class="btn-lp-cta btn-lp-cta--indigo">
-    THE ANSWERの最新価格を楽天で確認する
-    <span class="btn-sub">※本記事はアフィリエイト広告を含みます</span>
-  </a>
-</div>
-{{< /rawhtml >}}
+{{< product
+  title="THE ANSWER スーパーラメラシャンプー（花王）"
+  img="https://thumbnail.image.rakuten.co.jp/@0_mall/kao-haircare/cabinet/11858942/theanswer/products/answer-03_0311.jpg"
+  price="¥1,760 / 400mL"
+  rakuten="https://rpx.a8.net/svt/ejp?a8mat=4B1QDP+BQ4COI+2HOM+BWGDT&rakuten=y&a8ejpredirect=https%3A%2F%2Fitem.rakuten.co.jp%2Fkao-haircare%2Fanswer-03%2F"
+  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B0DSFQNXR9"
+  yahoo="https://shopping.yahoo.co.jp/search?p=THE+ANSWER+%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%A9%E3%83%A1%E3%83%A9+%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%97%E3%83%BC"
+>}}
+
+※本記事はアフィリエイト広告を含みます
 
 ヘアケア全般について、もっと詳しく知りたい方はこちらの記事もどうぞ。
 
