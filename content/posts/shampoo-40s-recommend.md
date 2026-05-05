@@ -269,6 +269,15 @@ summary_points:
 
 価格だけが踏み出せていない理由でした。ただ、**初回30日間全額返金保証**があると知ってから、迷う理由がなくなってきています。
 
+{{< rawhtml >}}
+<div style="text-align:center; margin:1em 0;">
+  <a href="https://px.a8.net/svt/ejp?a8mat=4B1V21+53YYPE+33NQ+699KI" rel="nofollow" target="_blank" style="display:inline-block; background:#e85d8a; color:#fff; padding:14px 36px; border-radius:30px; font-size:1em; font-weight:bold; text-decoration:none;">
+    haru kurokami 公式サイトで見る →
+  </a>
+  <img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4B1V21+53YYPE+33NQ+699KI" alt="">
+</div>
+{{< /rawhtml >}}
+
 {{< product
   title="haru kurokami スカルプ シャンプー"
   img="https://thumbnail.image.rakuten.co.jp/@0_mall/harushop/cabinet/lineup/thumb/10640101_up.jpg"
