@@ -210,7 +210,7 @@ summary_points:
 
 {{< product
   title="スカルプD ボーテ ピュアフリーアイラッシュセラム プレミアム"
-  rakuten="https://search.rakuten.co.jp/search/mall/%E3%82%B9%E3%82%AB%E3%83%AB%E3%83%97D+%E3%83%94%E3%83%A5%E3%82%A2%E3%83%95%E3%83%AA%E3%83%BC+%E3%81%BE%E3%81%A4%E6%AF%9B%E7%BE%8E%E5%AE%B9%E6%B6%B2/"
+  rakuten="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Frusion%2Fmrkk_4580168652960%2F"
   amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B0CWGYFSJB"
   yahoo="https://shopping.yahoo.co.jp/search?p=%E3%82%B9%E3%82%AB%E3%83%AB%E3%83%97D+%E3%83%94%E3%83%A5%E3%82%A2%E3%83%95%E3%83%AA%E3%83%BC+%E3%81%BE%E3%81%A4%E6%AF%9B%E7%BE%8E%E5%AE%B9%E6%B6%B2"
 >}}
@@ -276,7 +276,7 @@ summary_points:
 
 {{< product
   title="ASHADAアイラッシュセラム"
-  rakuten="https://search.rakuten.co.jp/search/mall/ASHADA+%E3%82%A2%E3%82%A4%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5%E3%82%BB%E3%83%A9%E3%83%A0/"
+  rakuten="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fwanted-seikihinonly%2Feye-03%2F"
   amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B0G6JW9Q1N"
   yahoo="https://shopping.yahoo.co.jp/search?p=ASHADA+%E3%82%A2%E3%82%A4%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5%E3%82%BB%E3%83%A9%E3%83%A0"
 >}}
@@ -342,7 +342,7 @@ summary_points:
 
 {{< product
   title="エクストラロングラッシュ まつ毛・まゆ毛美容液"
-  rakuten="https://search.rakuten.co.jp/search/mall/%E3%82%A8%E3%82%AF%E3%82%B9%E3%83%88%E3%83%A9%E3%83%AD%E3%83%B3%E3%82%B0%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5+%E3%81%BE%E3%81%A4%E6%AF%9B%E7%BE%8E%E5%AE%B9%E6%B6%B2/"
+  rakuten="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fyouup%2Fextra_long_lashes%2F"
   amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B0DRBMWLPJ"
   yahoo="https://shopping.yahoo.co.jp/search?p=%E3%82%A8%E3%82%AF%E3%82%B9%E3%83%88%E3%83%A9%E3%83%AD%E3%83%B3%E3%82%B0%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5+%E3%81%BE%E3%81%A4%E6%AF%9B%E7%BE%8E%E5%AE%B9%E6%B6%B2"
 >}}
