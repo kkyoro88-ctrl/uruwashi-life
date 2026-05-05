@@ -158,6 +158,15 @@ summary_points:
 </div>
 {{< /rawhtml >}}
 
+{{< rawhtml >}}
+<div style="text-align:center; margin: 1.5em 0;">
+  <a href="https://px.a8.net/svt/ejp?a8mat=4B1SPW+4DRW36+3FH0+TYBG1" rel="nofollow" target="_blank">
+    <img border="0" width="300" height="250" alt="スカルプD ボーテ ピュアフリーアイラッシュセラム プレミアム" src="https://www28.a8.net/svt/bgt?aid=260424356265&wid=001&eno=01&mid=s00000016002005031000&mc=1">
+  </a>
+  <img border="0" width="1" height="1" src="https://www19.a8.net/0.gif?a8mat=4B1SPW+4DRW36+3FH0+TYBG1" alt="">
+</div>
+{{< /rawhtml >}}
+
 「色素沈着が心配でまつ毛美容液を避けていた」——そういう方にまず試してほしい1本です。
 
 **プロスタグランジン誘導体不使用を公式が明記している**という点で、この3本の中で最も安心感が高い。育毛専門メーカー・アンファーが開発しているので、成分への信頼感も別格です。
@@ -191,12 +200,6 @@ summary_points:
 「色素沈着が怖い」が唯一の理由でまつ毛美容液を先延ばしにしてきたなら、この1本から始めてみてください。
 
 {{< rawhtml >}}
-<div style="text-align:center; margin: 1.5em 0;">
-  <a href="https://px.a8.net/svt/ejp?a8mat=4B1SPW+4DRW36+3FH0+TYBG1" rel="nofollow" target="_blank">
-    <img border="0" width="300" height="250" alt="スカルプD ボーテ ピュアフリーアイラッシュセラム プレミアム" src="https://www28.a8.net/svt/bgt?aid=260424356265&wid=001&eno=01&mid=s00000016002005031000&mc=1">
-  </a>
-  <img border="0" width="1" height="1" src="https://www19.a8.net/0.gif?a8mat=4B1SPW+4DRW36+3FH0+TYBG1" alt="">
-</div>
 <div style="text-align:center; margin:1em 0;">
   <a href="https://px.a8.net/svt/ejp?a8mat=4B1SPW+4DRW36+3FH0+TS3OI" rel="nofollow" target="_blank" style="display:inline-block; background:#e85d8a; color:#fff; padding:14px 36px; border-radius:30px; font-size:1em; font-weight:bold; text-decoration:none;">
     スカルプD ピュアフリー 公式サイトで見る →
@@ -207,7 +210,7 @@ summary_points:
 
 {{< product
   title="スカルプD ボーテ ピュアフリーアイラッシュセラム プレミアム"
-  img="https://www28.a8.net/svt/bgt?aid=260424356265&wid=001&eno=01&mid=s00000016002005031000&mc=1"
+  rakuten="https://search.rakuten.co.jp/search/mall/%E3%82%B9%E3%82%AB%E3%83%AB%E3%83%97D+%E3%83%94%E3%83%A5%E3%82%A2%E3%83%95%E3%83%AA%E3%83%BC+%E3%81%BE%E3%81%A4%E6%AF%9B%E7%BE%8E%E5%AE%B9%E6%B6%B2/"
   amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B0CWGYFSJB"
   yahoo="https://shopping.yahoo.co.jp/search?p=%E3%82%B9%E3%82%AB%E3%83%AB%E3%83%97D+%E3%83%94%E3%83%A5%E3%82%A2%E3%83%95%E3%83%AA%E3%83%BC+%E3%81%BE%E3%81%A4%E6%AF%9B%E7%BE%8E%E5%AE%B9%E6%B6%B2"
 >}}
@@ -220,6 +223,15 @@ summary_points:
     <div class="product-heading-num">No.2</div>
     <div class="product-heading-name">ASHADAアイラッシュセラム</div>
   </div>
+</div>
+{{< /rawhtml >}}
+
+{{< rawhtml >}}
+<div style="text-align:center; margin: 1.5em 0;">
+  <a href="https://px.a8.net/svt/ejp?a8mat=4B1THT+9K4KFM+5UJ6+5YZ75" rel="nofollow" target="_blank">
+    <img border="0" width="300" height="250" alt="ASHADAアイラッシュセラム" src="https://www27.a8.net/svt/bgt?aid=260425361578&wid=001&eno=01&mid=s00000027285001003000&mc=1">
+  </a>
+  <img border="0" width="1" height="1" src="https://www13.a8.net/0.gif?a8mat=4B1THT+9K4KFM+5UJ6+5YZ75" alt="">
 </div>
 {{< /rawhtml >}}
 
@@ -254,12 +266,6 @@ summary_points:
 「育毛の専門家が作ったまつ毛美容液」というコンセプトに共感できる方に、試してほしい1本です。
 
 {{< rawhtml >}}
-<div style="text-align:center; margin: 1.5em 0;">
-  <a href="https://px.a8.net/svt/ejp?a8mat=4B1THT+9K4KFM+5UJ6+5YZ75" rel="nofollow" target="_blank">
-    <img border="0" width="300" height="250" alt="ASHADAアイラッシュセラム" src="https://www27.a8.net/svt/bgt?aid=260425361578&wid=001&eno=01&mid=s00000027285001003000&mc=1">
-  </a>
-  <img border="0" width="1" height="1" src="https://www13.a8.net/0.gif?a8mat=4B1THT+9K4KFM+5UJ6+5YZ75" alt="">
-</div>
 <div style="text-align:center; margin:1em 0;">
   <a href="https://px.a8.net/svt/ejp?a8mat=4B1THT+9K4KFM+5UJ6+5YRHE" rel="nofollow" target="_blank" style="display:inline-block; background:#e85d8a; color:#fff; padding:14px 36px; border-radius:30px; font-size:1em; font-weight:bold; text-decoration:none;">
     ASHADAアイラッシュセラム 公式サイトで見る →
@@ -270,7 +276,7 @@ summary_points:
 
 {{< product
   title="ASHADAアイラッシュセラム"
-  img="https://www27.a8.net/svt/bgt?aid=260425361578&wid=001&eno=01&mid=s00000027285001003000&mc=1"
+  rakuten="https://search.rakuten.co.jp/search/mall/ASHADA+%E3%82%A2%E3%82%A4%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5%E3%82%BB%E3%83%A9%E3%83%A0/"
   amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B0G6JW9Q1N"
   yahoo="https://shopping.yahoo.co.jp/search?p=ASHADA+%E3%82%A2%E3%82%A4%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5%E3%82%BB%E3%83%A9%E3%83%A0"
 >}}
@@ -283,6 +289,15 @@ summary_points:
     <div class="product-heading-num">No.3</div>
     <div class="product-heading-name">エクストラロングラッシュ｜まゆ毛・まつ毛を同時にケア</div>
   </div>
+</div>
+{{< /rawhtml >}}
+
+{{< rawhtml >}}
+<div style="text-align:center; margin: 1.5em 0;">
+  <a href="https://px.a8.net/svt/ejp?a8mat=4B1THT+9T22IA+3142+1BQR01" rel="nofollow" target="_blank">
+    <img border="0" width="300" height="250" alt="エクストラロングラッシュ" src="https://www28.a8.net/svt/bgt?aid=260425361593&wid=001&eno=01&mid=s00000014141008019000&mc=1">
+  </a>
+  <img border="0" width="1" height="1" src="https://www18.a8.net/0.gif?a8mat=4B1THT+9T22IA+3142+1BQR01" alt="">
 </div>
 {{< /rawhtml >}}
 
@@ -317,12 +332,6 @@ summary_points:
 「まゆ毛も気になり始めた」という40代の悩みに、一番素直に応えてくれる1本です。
 
 {{< rawhtml >}}
-<div style="text-align:center; margin: 1.5em 0;">
-  <a href="https://px.a8.net/svt/ejp?a8mat=4B1THT+9T22IA+3142+1BQR01" rel="nofollow" target="_blank">
-    <img border="0" width="300" height="250" alt="エクストラロングラッシュ" src="https://www28.a8.net/svt/bgt?aid=260425361593&wid=001&eno=01&mid=s00000014141008019000&mc=1">
-  </a>
-  <img border="0" width="1" height="1" src="https://www18.a8.net/0.gif?a8mat=4B1THT+9T22IA+3142+1BQR01" alt="">
-</div>
 <div style="text-align:center; margin:1em 0;">
   <a href="https://px.a8.net/svt/ejp?a8mat=4B1THT+9T22IA+3142+1BMW42" rel="nofollow" target="_blank" style="display:inline-block; background:#e85d8a; color:#fff; padding:14px 36px; border-radius:30px; font-size:1em; font-weight:bold; text-decoration:none;">
     エクストラロングラッシュ 公式サイトで見る →
@@ -333,7 +342,7 @@ summary_points:
 
 {{< product
   title="エクストラロングラッシュ まつ毛・まゆ毛美容液"
-  img="https://www28.a8.net/svt/bgt?aid=260425361593&wid=001&eno=01&mid=s00000014141008019000&mc=1"
+  rakuten="https://search.rakuten.co.jp/search/mall/%E3%82%A8%E3%82%AF%E3%82%B9%E3%83%88%E3%83%A9%E3%83%AD%E3%83%B3%E3%82%B0%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5+%E3%81%BE%E3%81%A4%E6%AF%9B%E7%BE%8E%E5%AE%B9%E6%B6%B2/"
   amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B0DRBMWLPJ"
   yahoo="https://shopping.yahoo.co.jp/search?p=%E3%82%A8%E3%82%AF%E3%82%B9%E3%83%88%E3%83%A9%E3%83%AD%E3%83%B3%E3%82%B0%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5+%E3%81%BE%E3%81%A4%E6%AF%9B%E7%BE%8E%E5%AE%B9%E6%B6%B2"
 >}}
