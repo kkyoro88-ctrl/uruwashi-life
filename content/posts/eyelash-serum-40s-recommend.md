@@ -30,12 +30,34 @@ summary_points:
 
 加齢によって、まつ毛にも変化が起きます。
 
-| 変化 | 原因 |
-|------|------|
-| 本数が減る | ホルモンバランスの変化でヘアサイクルが乱れる |
-| 細くなる・短くなる | 毛根への栄養供給が低下 |
-| コシ・ハリがなくなる | コラーゲン・エラスチンの減少 |
-| まゆ毛も同時に薄くなる | 同じホルモン変化が眉毛のサイクルにも影響 |
+{{< rawhtml >}}
+<table style="width:100%; border-collapse:collapse; font-size:0.95em;">
+  <thead>
+    <tr style="background:#b5606a; color:#fff;">
+      <th style="padding:10px 14px; text-align:left; width:32%;">変化</th>
+      <th style="padding:10px 14px; text-align:left;">原因</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="border-bottom:1px solid #e8d8da;">
+      <td style="padding:10px 14px; vertical-align:top; font-weight:600;">本数が減る</td>
+      <td style="padding:10px 14px;">ホルモンバランスの変化でヘアサイクルが乱れる</td>
+    </tr>
+    <tr style="border-bottom:1px solid #e8d8da;">
+      <td style="padding:10px 14px; vertical-align:top; font-weight:600;">細くなる・短くなる</td>
+      <td style="padding:10px 14px;">毛根への栄養供給が低下</td>
+    </tr>
+    <tr style="border-bottom:1px solid #e8d8da;">
+      <td style="padding:10px 14px; vertical-align:top; font-weight:600;">コシ・ハリがなくなる</td>
+      <td style="padding:10px 14px;">コラーゲン・エラスチンの減少</td>
+    </tr>
+    <tr>
+      <td style="padding:10px 14px; vertical-align:top; font-weight:600;">まゆ毛も同時に薄くなる</td>
+      <td style="padding:10px 14px;">同じホルモン変化が眉毛のサイクルにも影響</td>
+    </tr>
+  </tbody>
+</table>
+{{< /rawhtml >}}
 
 まつ毛のヘアサイクルは**約3〜4ヶ月**。この周期に合わせてケアをしていかないと、一度減った本数はなかなか戻りません。美容液で「育てる」ケアを早めに始めることで、その後の変化速度が変わります。
 
