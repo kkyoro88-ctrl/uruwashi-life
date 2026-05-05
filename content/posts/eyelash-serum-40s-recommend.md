@@ -183,6 +183,13 @@ summary_points:
 </div>
 {{< /rawhtml >}}
 
+{{< product
+  title="スカルプD ボーテ ピュアフリーアイラッシュセラム プレミアム"
+  img="https://www28.a8.net/svt/bgt?aid=260424356265&wid=001&eno=01&mid=s00000016002005031000&mc=1"
+  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B0CWGYFSJB"
+  yahoo="https://shopping.yahoo.co.jp/search?p=%E3%82%B9%E3%82%AB%E3%83%AB%E3%83%97D+%E3%83%94%E3%83%A5%E3%82%A2%E3%83%95%E3%83%AA%E3%83%BC+%E3%81%BE%E3%81%A4%E6%AF%9B%E7%BE%8E%E5%AE%B9%E6%B6%B2"
+>}}
+
 ---
 
 {{< rawhtml >}}
@@ -239,6 +246,13 @@ summary_points:
 </div>
 {{< /rawhtml >}}
 
+{{< product
+  title="ASHADAアイラッシュセラム"
+  img="https://www27.a8.net/svt/bgt?aid=260425361578&wid=001&eno=01&mid=s00000027285001003000&mc=1"
+  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B0G6JW9Q1N"
+  yahoo="https://shopping.yahoo.co.jp/search?p=ASHADA+%E3%82%A2%E3%82%A4%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5%E3%82%BB%E3%83%A9%E3%83%A0"
+>}}
+
 ---
 
 {{< rawhtml >}}
@@ -294,6 +308,13 @@ summary_points:
   <img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4B1THT+9T22IA+3142+1BMW42" alt="">
 </div>
 {{< /rawhtml >}}
+
+{{< product
+  title="エクストラロングラッシュ まつ毛・まゆ毛美容液"
+  img="https://www28.a8.net/svt/bgt?aid=260425361593&wid=001&eno=01&mid=s00000014141008019000&mc=1"
+  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B0DRBMWLPJ"
+  yahoo="https://shopping.yahoo.co.jp/search?p=%E3%82%A8%E3%82%AF%E3%82%B9%E3%83%88%E3%83%A9%E3%83%AD%E3%83%B3%E3%82%B0%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5+%E3%81%BE%E3%81%A4%E6%AF%9B%E7%BE%8E%E5%AE%B9%E6%B6%B2"
+>}}
 
 ---
 
