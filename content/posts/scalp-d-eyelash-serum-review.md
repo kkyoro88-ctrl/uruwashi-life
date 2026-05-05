@@ -4,8 +4,13 @@ date: 2026-04-24
 draft: false
 affiliate: true
 categories: ["口コミ・レビュー"]
-tags: ["まつ毛ケア", "目元ケア", "エイジングケア", "口コミ"]
+tags: ["まつ毛ケア", "目元ケア", "エイジングケア", "口コミ", "スカルプD", "まつ毛美容液"]
 description: "スカルプD アイラッシュセラム プレミアムを40代が1ヶ月使った口コミ。まつ毛が細くなった・減った悩みに効くのか、成分・使い方・変化を正直にレビューします。"
+summary_points:
+  - "育毛専門ブランド・アンファーが開発した家庭用まつ毛美容液である理由"
+  - "色素沈着リスク成分（プロスタグランジン誘導体）不使用が公式明記されている唯一の市販品"
+  - "1ヶ月使って実感した変化のタイムライン（1週目・2週目・3〜4週目）"
+  - "向いている方・向いていない方の正直な判断基準"
 cover:
   image: "/images/scalp-d-eyelash-serum-review.png"
   alt: "スカルプD まつ毛美容液 口コミ"
@@ -28,20 +33,37 @@ cover:
 
 **育毛専門ブランドの技術が使われている**：頭皮の育毛ノウハウをまつ毛に応用しているという点が、他のコスメブランドのまつ毛美容液とは違うと感じました。
 
-**プレミアムには補修成分が4倍**：通常品の上位モデルで、ハリ・コシアップ成分と補修成分が強化されています。年齢で細くなったまつ毛には、伸ばすより「補修＋ハリ出し」の方が先決と思ったので。
+**プレミアムには補修成分が充実**：通常品の上位モデルで、ハリ・コシアップ成分と補修成分が強化されています。年齢で細くなったまつ毛には、伸ばすより「補修＋ハリ出し」の方が先決と思ったので。
 
-**色素沈着の心配が少ない**：まつ毛美容液で多いのが目元の色素沈着の副作用。スカルプDは「ピュアフリー処方」で、色素沈着リスクの高い成分を使っていません。
+**色素沈着の心配が少ない**：まつ毛美容液で多いのが目元の色素沈着の副作用。スカルプDは「ピュアフリー処方」で、色素沈着リスクの高い成分（プロスタグランジン誘導体）を使っていないことを公式が明記しています。
 
 ---
 
 ## 商品スペック
 
-**商品名**：スカルプD ボーテ ピュアフリーアイラッシュセラム プレミアム（アンファー）
+{{< rawhtml >}}
+<div class="product-heading product-heading--answer">
+  <div class="product-heading-info">
+    <div class="product-heading-num">レビュー商品</div>
+    <div class="product-heading-name">スカルプD ボーテ ピュアフリーアイラッシュセラム プレミアム</div>
+  </div>
+  <img class="product-heading-img" src="https://thumbnail.image.rakuten.co.jp/@0_mall/rusion/cabinet/4580168652960_1.jpg" alt="スカルプD ボーテ ピュアフリーアイラッシュセラム プレミアム">
+</div>
+{{< /rawhtml >}}
 
-- 内容量：6ml
-- 使用頻度：1日1回（夜推奨）
-- 主な成分：ビオチノイルトリペプチド-1（ハリコシ成分）、加水分解ケラチン（補修）、パンテノール（保湿）
-- 特徴：ピュアフリー処方（色素沈着リスク成分不使用）、ふわふわカールチップ採用
+- **内容量**：6ml
+- **使用頻度**：1日1回（夜推奨）
+- **主な成分**：ビオチノイルトリペプチド-1（ハリコシ成分）、加水分解ケラチン（補修）、パンテノール（保湿）
+- **特徴**：ピュアフリー処方（色素沈着リスク成分不使用を公式明記）、ふわふわカールチップ採用
+
+{{< rawhtml >}}
+<div style="text-align:center; margin:1em 0;">
+  <a href="https://px.a8.net/svt/ejp?a8mat=4B1SPW+4DRW36+3FH0+TS3OI" rel="nofollow" target="_blank" style="display:inline-block; background:#e85d8a; color:#fff; padding:14px 36px; border-radius:30px; font-size:1em; font-weight:bold; text-decoration:none;">
+    スカルプD ピュアフリー 公式サイトで見る →
+  </a>
+  <img border="0" width="1" height="1" src="https://www13.a8.net/0.gif?a8mat=4B1SPW+4DRW36+3FH0+TS3OI" alt="">
+</div>
+{{< /rawhtml >}}
 
 ---
 
@@ -74,7 +96,7 @@ cover:
 
 **気になった点**
 - 効果が出るまでは少し時間がかかる（即効性はない）
-- 6mlで価格はやや高め（コスパは平均的）
+- 6mlで価格はやや高め
 - 劇的に本数が増えた、という感覚は今のところない
 
 ---
@@ -86,10 +108,15 @@ cover:
 - まつ毛パーマ・マツエクをしていて毛の細さが気になる方
 - 毎日コツコツ続けられる方
 
-**向かない方**
-
-- 1〜2週間で劇的な変化を求める方
-- 本数を大幅に増やしたい方（育毛剤ではなく美容液なので）
+{{< rawhtml >}}
+<div class="caution-box">
+  <div class="caution-box-title">正直、向かない方もいます</div>
+  <ul>
+    <li>1〜2週間で劇的な変化を求める方（まつ毛のヘアサイクルは3〜4ヶ月）</li>
+    <li>本数を大幅に増やしたい方（育毛剤ではなく美容液）</li>
+  </ul>
+</div>
+{{< /rawhtml >}}
 
 ---
 
@@ -129,16 +156,40 @@ cover:
 
 色素沈着の心配なく続けられるのが、私には一番大事でした。まつ毛美容液をためらっていた方こそ、まず試してほしい一本です。
 
-<a href="https://px.a8.net/svt/ejp?a8mat=4B1SPW+4DRW36+3FH0+TYBG1" rel="nofollow"><img border="0" width="300" height="250" alt="スカルプD ボーテ ピュアフリーアイラッシュセラム プレミアム" src="https://www28.a8.net/svt/bgt?aid=260424356265&wid=001&eno=01&mid=s00000016002005031000&mc=1"></a><img border="0" width="1" height="1" src="https://www19.a8.net/0.gif?a8mat=4B1SPW+4DRW36+3FH0+TYBG1" alt="">
+{{< rawhtml >}}
+<div style="text-align:center; margin: 1.5em 0;">
+  <a href="https://px.a8.net/svt/ejp?a8mat=4B1SPW+4DRW36+3FH0+TYBG1" rel="nofollow" target="_blank">
+    <img border="0" width="300" height="250" alt="スカルプD ボーテ ピュアフリーアイラッシュセラム プレミアム" src="https://www28.a8.net/svt/bgt?aid=260424356265&wid=001&eno=01&mid=s00000016002005031000&mc=1">
+  </a>
+  <img border="0" width="1" height="1" src="https://www19.a8.net/0.gif?a8mat=4B1SPW+4DRW36+3FH0+TYBG1" alt="">
+</div>
+<div style="text-align:center; margin:1em 0;">
+  <a href="https://px.a8.net/svt/ejp?a8mat=4B1SPW+4DRW36+3FH0+TS3OI" rel="nofollow" target="_blank" style="display:inline-block; background:#e85d8a; color:#fff; padding:16px 40px; border-radius:30px; font-size:1.1em; font-weight:bold; text-decoration:none;">
+    スカルプD ピュアフリー 公式サイトで見る →
+  </a>
+  <img border="0" width="1" height="1" src="https://www13.a8.net/0.gif?a8mat=4B1SPW+4DRW36+3FH0+TS3OI" alt="">
+</div>
+{{< /rawhtml >}}
 
-> <a href="https://px.a8.net/svt/ejp?a8mat=4B1SPW+4DRW36+3FH0+TS3OI" rel="nofollow">スカルプDのまつ毛美容液プレミアム　アイラッシュセラム プレミアムを公式サイトで見る →</a><img border="0" width="1" height="1" src="https://www13.a8.net/0.gif?a8mat=4B1SPW+4DRW36+3FH0+TS3OI" alt="">
+{{< rawhtml >}}
+<div class="featured-card-wrap">
+<span class="rank1-badge">★ この記事のレビュー商品</span>
+{{< /rawhtml >}}
+{{< product
+  title="スカルプD ボーテ ピュアフリーアイラッシュセラム プレミアム"
+  img="https://thumbnail.image.rakuten.co.jp/@0_mall/rusion/cabinet/4580168652960_1.jpg"
+  rakuten="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Frusion%2Fmrkk_4580168652960%2F"
+  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B0CWGYFSJB"
+  yahoo="https://shopping.yahoo.co.jp/search?p=%E3%82%B9%E3%82%AB%E3%83%AB%E3%83%97D+%E3%83%94%E3%83%A5%E3%82%A2%E3%83%95%E3%83%AA%E3%83%BC+%E3%81%BE%E3%81%A4%E6%AF%9B%E7%BE%8E%E5%AE%B9%E6%B6%B2"
+>}}
+{{< rawhtml >}}
+</div>
+{{< /rawhtml >}}
 
 ---
 
-目元ケアと合わせて、マスカラも見直してみませんか。
+> 他のまつ毛美容液とも比較したい方は[まつ毛美容液おすすめ40代向け3選](/posts/eyelash-serum-40s-recommend/)もあわせてどうぞ。
 
-> 40代のまつ毛悩みに合うマスカラは[マスカラおすすめ5選の記事](/posts/mascara-recommend/)にまとめています。
+> 目元のシワ・たるみにも同時アプローチしたい方は[アイクリームおすすめ40代向け3選](/posts/eye-cream-40s-recommend/)もご覧ください。
 
-> 目元に優しいクレンジングを探している方は[オルビス ザ クレンジングオイルの口コミ](/posts/orbis-cleansing-review/)もあわせてどうぞ。
-
-> スカルプD以外のまつ毛美容液も比較したい方は[まつ毛美容液おすすめ40代向け3選](/posts/eyelash-serum-40s-recommend/)もご覧ください。
+> 目元ケアと合わせてマスカラも見直したい方は[マスカラおすすめ5選](/posts/mascara-recommend/)もどうぞ。
