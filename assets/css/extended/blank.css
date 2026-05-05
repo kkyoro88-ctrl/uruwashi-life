@@ -2170,9 +2170,10 @@ details.single-toc[open] .single-toc-title::after { content: '▴'; }
 }
 .comparison-table {
   width: 100%;
+  table-layout: fixed;
   border-collapse: collapse;
   border-radius: 12px;
-  overflow: hidden;
+  overflow: visible;
   box-shadow: 0 2px 12px rgba(0,0,0,0.08);
   border: 1px solid #b8a89e;
   font-size: 0.82rem;
@@ -2187,7 +2188,7 @@ details.single-toc[open] .single-toc-title::after { content: '▴'; }
 }
 .comparison-table .th-empty {
   background: #f2e8e4;
-  width: 110px;
+  width: 22%;
 }
 .comparison-table .th-answer {
   background: linear-gradient(135deg, #7a5c1e, #c49a2a);
@@ -2229,6 +2230,8 @@ details.single-toc[open] .single-toc-title::after { content: '▴'; }
   line-height: 1.4;
   border-left: 1px solid #b8a89e;
   vertical-align: middle;
+  word-break: break-word;
+  overflow-wrap: break-word;
 }
 .cmp-price {
   font-weight: 800;
