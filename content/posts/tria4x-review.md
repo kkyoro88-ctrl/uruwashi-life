@@ -102,6 +102,26 @@ cover:
 
 ---
 
+## 【期間限定】ゴールデンウィークセール開催中
+
+{{< rawhtml >}}
+<div style="background:#fff5f8; border:2px solid #e85d8a; border-radius:12px; padding:20px; margin:1.5em 0;">
+  <p style="font-weight:bold; color:#e85d8a; margin:0 0 10px;">🎉 GWセール：4月25日〜5月11日</p>
+  <ul style="margin:0; padding-left:1.2em;">
+    <li>クーポンコード <strong>【TRIAFAN4X】</strong> で <strong>20%オフ</strong></li>
+  </ul>
+</div>
+
+<div style="text-align:center; margin: 1.5em 0;">
+  <a href="https://px.a8.net/svt/ejp?a8mat=4B1R5P+FUYPWY+54TM+HY7W1" target="_blank" rel="nofollow noopener">
+    <img border="0" width="300" height="250" alt="トリア4X" src="https://www20.a8.net/svt/bgt?aid=260422333959&wid=001&eno=01&mid=s00000023953003015000&mc=1">
+  </a>
+  <img border="0" width="1" height="1" src="https://www13.a8.net/0.gif?a8mat=4B1R5P+FUYPWY+54TM+HY7W1" alt="">
+</div>
+{{< /rawhtml >}}
+
+---
+
 ## 使っている方に多い声
 
 トリア4Xを使い続けている方からよく聞かれる体感を整理するとこういった声が多いです。
@@ -137,6 +157,8 @@ cover:
 トリア4Xは「本気で自己処理をやめたい」方のための脱毛器です。
 
 痛みや価格という壁はありますが、効果の確かさはIPL方式とは別次元。エステ代と比較すれば、長期的には圧倒的にコスパが良くなります。
+
+GWセール期間中（4/25〜5/11）はクーポンコード**【TRIAFAN4X】**で20%オフになります。検討中の方は、このタイミングが一番お得です。
 
 > 光脱毛器との比較が気になる方は[Ulike Air10のレビュー記事](/posts/ulike-air10-review/)もあわせてどうぞ。
 
