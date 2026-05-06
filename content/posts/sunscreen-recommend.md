@@ -104,6 +104,21 @@ cover:
 - 超耐水・超汗耐性
 - コスパ優秀
 
+{{< rawhtml >}}
+<div class="featured-card-wrap">
+<span class="rank1-badge">★ 4位おすすめ商品</span>
+{{< /rawhtml >}}
+{{< product
+  title="ビオレUV アクアリッチ ウォータリーエッセンス 70g"
+  img="https://thumbnail.image.rakuten.co.jp/@0_mall/manro-store/cabinet/09992123/7647-1.jpg"
+  rakuten="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fmanro-store%2F4901301447647%2F"
+  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B0DS7WX8QS"
+  yahoo="https://shopping.yahoo.co.jp/search?p=%E3%83%93%E3%82%AA%E3%83%ACUV+%E3%82%A2%E3%82%AF%E3%82%A2%E3%83%AA%E3%83%83%E3%83%81+%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%BF%E3%83%AA%E3%83%BC%E3%82%A8%E3%83%83%E3%82%BB%E3%83%B3%E3%82%B9"
+>}}
+{{< rawhtml >}}
+</div>
+{{< /rawhtml >}}
+
 ---
 
 ### 5位：DECIEM サンスクリーン SPF50
