@@ -57,8 +57,18 @@ cover:
 - 石けんで落とせる
 
 {{< rawhtml >}}
-<table cellpadding="0" cellspacing="0" border="0" style=" border:1px solid #ccc; width:300px;"><tbody><tr style="border-style:none;"><td style="vertical-align:top; border-style:none; padding:10px; width:44px;"><a href="https://rpx.a8.net/svt/ejp?a8mat=4B1QDP+BQ4COI+2HOM+BWGDT&rakuten=y&a8ejpredirect=https%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2Fg00ugyn4.2bo115dc.g00ugyn4.2bo127a7%2Fa26042104339_4B1QDP_BQ4COI_2HOM_BWGDT%3Fpc%3Dhttps%253A%252F%252Fitem.rakuten.co.jp%252Frakutensokuhaimart%252F4909978147105%252F%26m%3Dhttp%253A%252F%252Fm.rakuten.co.jp%252Frakutensokuhaimart%252Fi%252F10020043%252F%26rafcid%3Dwsc_i_is_33f72da33714639c415e592c9633ecd7" rel="nofollow"><img style="max-width: initial;" border="0" alt="" src="https://thumbnail.image.rakuten.co.jp/@0_mall/rakutensokuhaimart/cabinet/rakuten24/105/4909978147105.jpg?_ex=64x64"></a></td><td style="font-size:12px; vertical-align:middle; border-style:none; padding:10px;"><p style="padding:0; margin:0;"><a href="https://rpx.a8.net/svt/ejp?a8mat=4B1QDP+BQ4COI+2HOM+BWGDT&rakuten=y&a8ejpredirect=https%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2Fg00ugyn4.2bo115dc.g00ugyn4.2bo127a7%2Fa26042104339_4B1QDP_BQ4COI_2HOM_BWGDT%3Fpc%3Dhttps%253A%252F%252Fitem.rakuten.co.jp%252Frakutensokuhaimart%252F4909978147105%252F%26m%3Dhttp%253A%252F%252Fm.rakuten.co.jp%252Frakutensokuhaimart%252Fi%252F10020043%252F%26rafcid%3Dwsc_i_is_33f72da33714639c415e592c9633ecd7" rel="nofollow">アネッサ パーフェクトUV スキンケアミルク NA 60ml 【アネッサ】 日焼け止め</a></p><p style="color:#666; margin-top:5px; line-height:1.5;">価格:<span style="font-size:14px; color:#C00; font-weight:bold;">2355円</span><br><span style="font-size:10px; font-weight:normal;">(2026/4/24 時点)</span><br><span style="font-weight:bold;">感想(2件)</span></p></td></tr></tbody></table>
-<img border="0" width="1" height="1" src="https://www19.a8.net/0.gif?a8mat=4B1QDP+BQ4COI+2HOM+BWGDT" alt="">
+<div class="featured-card-wrap">
+<span class="rank1-badge">★ 1位おすすめ商品</span>
+{{< /rawhtml >}}
+{{< product
+  title="アネッサ パーフェクトUV スキンケアミルク NA 60ml"
+  img="https://thumbnail.image.rakuten.co.jp/@0_mall/rakutensokuhaimart/cabinet/rakuten24/105/4909978147105.jpg"
+  rakuten="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Frakutensokuhaimart%2F4909978147105%2F"
+  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B0CSSVF9GQ"
+  yahoo="https://shopping.yahoo.co.jp/search?p=%E3%82%A2%E3%83%8D%E3%83%83%E3%82%B5+%E3%83%91%E3%83%BC%E3%83%95%E3%82%A7%E3%82%AF%E3%83%88UV+%E3%82%B9%E3%82%AD%E3%83%B3%E3%82%B1%E3%82%A2%E3%83%9F%E3%83%AB%E3%82%AF"
+>}}
+{{< rawhtml >}}
+</div>
 {{< /rawhtml >}}
 
 ---
