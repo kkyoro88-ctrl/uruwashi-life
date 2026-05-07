@@ -79,63 +79,162 @@ cover:
 
 ## 【40代初心者向け】おすすめレチノール美容液3選
 
+| | No46.ピュアRTセラム | b.glen QuSomeレチノA | レチベイビー |
+|--|--|--|--|
+| 向いている人 | 本格ケアを始めたい | 敏感肌・刺激が心配 | 角質ケアも同時にしたい |
+| レチノール処方 | 純粋レチノール高濃度 | QuSomeカプセル処方 | 刺激最小限の処方 |
+| 刺激レベル | 中〜高（量で調整） | 低（設計が低刺激） | 低（角質ケアとセット） |
+| こだわり | 日本製・老舗140年 | 皮膚科推薦・サイエンス | 銀座ハリッチ監修 |
+
+---
+
 ### 1位：No46.ピュアRTセラム｜140年の肌研究が生んだ高濃度×低刺激
 
-<a href="https://px.a8.net/svt/ejp?a8mat=4B1SPX+12P73M+3Q7E+1NLHNL" rel="nofollow"><img border="0" width="300" height="250" alt="" src="https://www22.a8.net/svt/bgt?aid=260424357065&wid=001&eno=01&mid=s00000017393010010000&mc=1"></a><img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4B1SPX+12P73M+3Q7E+1NLHNL" alt="">
+{{< rawhtml >}}
+<div class="product-heading product-heading--answer">
+  <div class="product-heading-info">
+    <div class="product-heading-rank">★ イチ推し</div>
+    <h3>No46. ピュアRTセラム</h3>
+    <p>桃谷順天館・創業140年の純粋レチノール高濃度美容液</p>
+  </div>
+  <div class="product-heading-img">
+    <a href="https://px.a8.net/svt/ejp?a8mat=4B1SPX+12P73M+3Q7E+1NLHNL" rel="nofollow"><img border="0" width="300" height="250" alt="No46.ピュアRTセラム" src="https://www22.a8.net/svt/bgt?aid=260424357065&wid=001&eno=01&mid=s00000017393010010000&mc=1"></a><img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4B1SPX+12P73M+3Q7E+1NLHNL" alt="">
+  </div>
+</div>
+{{< /rawhtml >}}
 
-創業140年の老舗化粧品メーカー・桃谷順天館が、6万件の処方データをもとに開発したレチノール美容液です。
+創業140年の老舗化粧品メーカー・桃谷順天館が、6万件の処方データをもとに開発したレチノール美容液です。純粋レチノールを高濃度配合しながら、なめらかなテクスチャーで肌への負担を抑えた設計。本格的なエイジングケアを求める40代に特におすすめです。
 
-**こんな人におすすめ**
-- 本格的なエイジングケアを始めたい40代
-- 高濃度レチノールを安全に使いたい
-- 日本製・老舗ブランドの信頼性を重視する
+{{< rawhtml >}}
+<div class="caution-box">
+  <p class="caution-box-title">⚠️ こんな点は注意</p>
+  <ul>
+    <li>純粋レチノール高濃度のため、最初は少量から様子を見て使う</li>
+    <li>A反応（赤み・乾燥）が出た場合は使用頻度を落とす</li>
+    <li>夜専用・翌朝の日焼け止めは必須</li>
+  </ul>
+</div>
+{{< /rawhtml >}}
 
-**特徴**
-- 純粋レチノール高濃度配合
-- なめらかなテクスチャーで伸びが良く、肌への負担が少ない
-- 現在初回55%OFFキャンペーン中
+{{< rawhtml >}}
+<div class="fit-box">
+  <p class="fit-box-title">✅ こんな方に向いています</p>
+  <ul>
+    <li>本格的なエイジングケアを始めたい40代</li>
+    <li>高濃度レチノールを安全に使いたい方</li>
+    <li>日本製・老舗ブランドの信頼性を重視する方</li>
+  </ul>
+</div>
+{{< /rawhtml >}}
 
-> <a href="https://px.a8.net/svt/ejp?a8mat=4B1SPX+12P73M+3Q7E+1NMZO2" rel="nofollow">肌研究140年。6万処方からたどり着いた純粋レチノール 高濃度美容液【REGLAGE ピュアRTセラム】</a><img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4B1SPX+12P73M+3Q7E+1NMZO2" alt="">
+{{< rawhtml >}}
+<div style="text-align:center; margin: 1.5em 0;">
+  <a href="https://px.a8.net/svt/ejp?a8mat=4B1SPX+12P73M+3Q7E+1NMZO2" rel="nofollow" style="display:inline-block; background:#c97d7d; color:#fff; padding:14px 36px; border-radius:30px; font-size:1em; font-weight:bold; text-decoration:none;">
+    No46. ピュアRTセラムを公式で見る →
+  </a>
+  <img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4B1SPX+12P73M+3Q7E+1NMZO2" alt="">
+</div>
+{{< /rawhtml >}}
 
 ---
 
 ### 2位：b.glen（ビーグレン）｜浸透技術で敏感肌でも使いやすいサイエンスコスメ
 
-<a href="https://px.a8.net/svt/ejp?a8mat=4B1THT+6NXPKI+YPG+71CDD" rel="nofollow"><img border="0" width="336" height="280" alt="" src="https://www25.a8.net/svt/bgt?aid=260425361403&wid=001&eno=01&mid=s00000004498001182000&mc=1"></a><img border="0" width="1" height="1" src="https://www19.a8.net/0.gif?a8mat=4B1THT+6NXPKI+YPG+71CDD" alt="">
+{{< rawhtml >}}
+<div class="product-heading product-heading--melt">
+  <div class="product-heading-info">
+    <div class="product-heading-rank">2位</div>
+    <h3>b.glen QuSomeレチノA</h3>
+    <p>独自カプセル処方で刺激を最小化・敏感肌でも使いやすいサイエンスコスメ</p>
+  </div>
+  <div class="product-heading-img">
+    <a href="https://px.a8.net/svt/ejp?a8mat=4B1THT+6NXPKI+YPG+71CDD" rel="nofollow"><img border="0" width="336" height="280" alt="b.glen QuSomeレチノA" src="https://www25.a8.net/svt/bgt?aid=260425361403&wid=001&eno=01&mid=s00000004498001182000&mc=1"></a><img border="0" width="1" height="1" src="https://www19.a8.net/0.gif?a8mat=4B1THT+6NXPKI+YPG+71CDD" alt="">
+  </div>
+</div>
+{{< /rawhtml >}}
 
-ビーグレン独自の「QuSome（キューソーム）技術」でレチノールをカプセル化し、肌の奥にじわじわ届ける設計。一気に高濃度が当たらないため、刺激を感じにくいのが特徴です。
+ビーグレン独自の「QuSome（キューソーム）技術」でレチノールをカプセル化し、肌の奥にじわじわ届ける設計。一気に高濃度が当たらないため、A反応が起きにくいのが最大の特徴です。皮膚科推薦多数の実績があり、「レチノールで以前荒れた」という方にも安心して使えます。
 
-**こんな人におすすめ**
-- これまでレチノールで赤みや刺激を感じたことがある
-- 敏感肌・乾燥肌で刺激が心配
-- シミ・毛穴・ニキビ跡も一緒にケアしたい
+{{< rawhtml >}}
+<div class="caution-box">
+  <p class="caution-box-title">⚠️ こんな点は注意</p>
+  <ul>
+    <li>カプセル処方のため効果がゆっくり出る（即効性は低め）</li>
+    <li>定期便での購入が基本になる</li>
+    <li>夜専用・翌朝の日焼け止めは必須</li>
+  </ul>
+</div>
+{{< /rawhtml >}}
 
-**特徴**
-- QuSomeカプセル処方でA反応が出にくい
-- シミ・たるみ・毛穴・ニキビ跡など悩み別LP誘導あり
-- 皮膚科推薦多数の信頼ブランド
+{{< rawhtml >}}
+<div class="fit-box">
+  <p class="fit-box-title">✅ こんな方に向いています</p>
+  <ul>
+    <li>これまでレチノールで赤みや刺激を感じたことがある方</li>
+    <li>敏感肌・乾燥肌でレチノールの刺激が心配な方</li>
+    <li>シミ・毛穴・ニキビ跡も一緒にケアしたい方</li>
+  </ul>
+</div>
+{{< /rawhtml >}}
 
-> <a href="https://px.a8.net/svt/ejp?a8mat=4B1THT+6NXPKI+YPG+61Z82" rel="nofollow">エイジングケア｜b.glen（ビーグレン）公式サイト</a><img border="0" width="1" height="1" src="https://www19.a8.net/0.gif?a8mat=4B1THT+6NXPKI+YPG+61Z82" alt="">
+{{< rawhtml >}}
+<div style="text-align:center; margin: 1.5em 0;">
+  <a href="https://px.a8.net/svt/ejp?a8mat=4B1THT+6NXPKI+YPG+61Z82" rel="nofollow" style="display:inline-block; background:#c97d7d; color:#fff; padding:14px 36px; border-radius:30px; font-size:1em; font-weight:bold; text-decoration:none;">
+    b.glen 公式サイトで詳しく見る →
+  </a>
+  <img border="0" width="1" height="1" src="https://www19.a8.net/0.gif?a8mat=4B1THT+6NXPKI+YPG+61Z82" alt="">
+</div>
+{{< /rawhtml >}}
 
 ---
 
 ### 3位：レチベイビー｜レチノールのデメリットを最大限排除した角質ケアクリーム
 
-<a href="https://px.a8.net/svt/ejp?a8mat=4B1THT+6PQ0DU+4GNW+HVV0H" rel="nofollow"><img border="0" width="300" height="250" alt="" src="https://www28.a8.net/svt/bgt?aid=260425361406&wid=001&eno=01&mid=s00000020822003004000&mc=1"></a><img border="0" width="1" height="1" src="https://www19.a8.net/0.gif?a8mat=4B1THT+6PQ0DU+4GNW+HVV0H" alt="">
+{{< rawhtml >}}
+<div class="product-heading product-heading--haru">
+  <div class="product-heading-info">
+    <div class="product-heading-rank">3位</div>
+    <h3>レチベイビー</h3>
+    <p>銀座ハリッチ監修・角質ケア×エイジングケアを1本で</p>
+  </div>
+  <div class="product-heading-img">
+    <a href="https://px.a8.net/svt/ejp?a8mat=4B1THT+6PQ0DU+4GNW+HVV0H" rel="nofollow"><img border="0" width="300" height="250" alt="レチベイビー" src="https://www28.a8.net/svt/bgt?aid=260425361406&wid=001&eno=01&mid=s00000020822003004000&mc=1"></a><img border="0" width="1" height="1" src="https://www19.a8.net/0.gif?a8mat=4B1THT+6PQ0DU+4GNW+HVV0H" alt="">
+  </div>
+</div>
+{{< /rawhtml >}}
 
-「角質をやわらかくしながらレチノールを届ける」という新発想の処方。銀座ハリッチが開発した本格派で、レチノールの刺激を極限まで抑えながらエイジングケアができます。
+「角質をやわらかくしながらレチノールを届ける」という新発想の処方。銀座ハリッチが開発した本格派で、レチノールの刺激を極限まで抑えながらエイジングケアができます。毛穴の開き・黒ずみ・くすみと小ジワが気になる方に向いています。
 
-**こんな人におすすめ**
-- 毛穴の開き・黒ずみが気になる40代
-- くすみと小ジワを同時にケアしたい
-- レチノールの刺激が心配で今まで避けていた
+{{< rawhtml >}}
+<div class="caution-box">
+  <p class="caution-box-title">⚠️ こんな点は注意</p>
+  <ul>
+    <li>クリームタイプのため、テクスチャーが重めに感じる場合がある</li>
+    <li>角質ケア成分との組み合わせのため、最初は様子を見ながら使う</li>
+    <li>夜専用・翌朝の日焼け止めは必須</li>
+  </ul>
+</div>
+{{< /rawhtml >}}
 
-**特徴**
-- レチノールのデメリット（刺激・乾燥）を最大限排除した処方
-- 角質ケアとエイジングケアが1本で同時にできる
-- TV・雑誌で話題の銀座ハリッチ監修
+{{< rawhtml >}}
+<div class="fit-box">
+  <p class="fit-box-title">✅ こんな方に向いています</p>
+  <ul>
+    <li>毛穴の開き・黒ずみが気になる40代</li>
+    <li>くすみと小ジワを同時にケアしたい方</li>
+    <li>レチノールの刺激が心配で今まで避けていた方</li>
+  </ul>
+</div>
+{{< /rawhtml >}}
 
-> <a href="https://px.a8.net/svt/ejp?a8mat=4B1THT+6PQ0DU+4GNW+HWPVM" rel="nofollow">レチノールのデメリットを最大限排除した「角質ケアクリーム」レチベイビー</a><img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4B1THT+6PQ0DU+4GNW+HWPVM" alt="">
+{{< rawhtml >}}
+<div style="text-align:center; margin: 1.5em 0;">
+  <a href="https://px.a8.net/svt/ejp?a8mat=4B1THT+6PQ0DU+4GNW+HWPVM" rel="nofollow" style="display:inline-block; background:#c97d7d; color:#fff; padding:14px 36px; border-radius:30px; font-size:1em; font-weight:bold; text-decoration:none;">
+    レチベイビーを公式で見る →
+  </a>
+  <img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4B1THT+6PQ0DU+4GNW+HWPVM" alt="">
+</div>
+{{< /rawhtml >}}
 
 ---
 
