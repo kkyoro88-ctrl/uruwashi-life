@@ -46,18 +46,18 @@
     <h3 class="widget-title">人気記事</h3>
     <ol class="popular-list">
       {{- $pages := where site.RegularPages "Type" "in" site.Params.mainSections }}
-      {{- range first 7 $pages }}
+      {{- range $i, $p := first 7 $pages }}
       <li class="popular-item">
-        <span class="popular-rank">{{ .ReadingTime | default 1 }}</span>
+        <span class="popular-rank">{{ add $i 1 }}</span>
         <div class="popular-body">
-          {{- if .Params.cover.image }}
-          <img class="popular-thumb" src="{{ .Params.cover.image }}" alt="{{ .Title }}" loading="lazy">
+          {{- if $p.Params.cover.image }}
+          <img class="popular-thumb" src="{{ $p.Params.cover.image }}" alt="{{ $p.Title }}" loading="lazy">
           {{- else }}
           <div class="popular-thumb popular-thumb--gradient"></div>
           {{- end }}
           <div class="popular-info">
-            <a href="{{ .Permalink }}" class="popular-title">{{ .Title | truncate 40 }}</a>
-            {{- with index .Params.categories 0 }}
+            <a href="{{ $p.Permalink }}" class="popular-title">{{ $p.Title | truncate 40 }}</a>
+            {{- with index $p.Params.categories 0 }}
             <span class="popular-cat">{{ . }}</span>
             {{- end }}
           </div>
