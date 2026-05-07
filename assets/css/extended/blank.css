@@ -2463,3 +2463,31 @@ details.single-toc[open] .single-toc-title::after { content: '▴'; }
   font-size: 1rem;
   flex-shrink: 0;
 }
+
+/* ── 追加ブランドカラー（2026-05-07） ── */
+.product-heading--amber      { background: #fff5f0; border-left: 5px solid #c87060; }
+.product-heading--amber      .product-heading-num { color: #9a3820; }
+.product-heading--cleansing  { background: #f0f8ff; border-left: 5px solid #5090b8; }
+.product-heading--cleansing  .product-heading-num { color: #2060a0; }
+.product-heading--urunon     { background: #f0f5ff; border-left: 5px solid #4a70c0; }
+.product-heading--urunon     .product-heading-num { color: #2050a0; }
+.product-heading--moagrow    { background: #f8f0ff; border-left: 5px solid #8058c0; }
+.product-heading--moagrow    .product-heading-num { color: #5030a0; }
+.product-heading--hairbirth  { background: #f0faf5; border-left: 5px solid #3a9a7a; }
+.product-heading--hairbirth  .product-heading-num { color: #1a6050; }
+.product-heading--kissme     { background: #fff0f5; border-left: 5px solid #cc4466; }
+.product-heading--kissme     .product-heading-num { color: #aa2248; }
+.product-heading--rimmel     { background: #f5f0ff; border-left: 5px solid #7060aa; }
+.product-heading--rimmel     .product-heading-num { color: #4a3a88; }
+.product-heading--chanel     { background: #fffcf0; border-left: 5px solid #aa8a00; }
+.product-heading--chanel     .product-heading-num { color: #886800; }
+.product-heading--visse      { background: #fdf5ff; border-left: 5px solid #9060b8; }
+.product-heading--visse      .product-heading-num { color: #6a3090; }
+.product-heading--suqqu      { background: #f0faf5; border-left: 5px solid #4a8a6a; }
+.product-heading--suqqu      .product-heading-num { color: #2a6048; }
+.product-heading--equelle    { background: #f0f8ff; border-left: 5px solid #2a80b0; }
+.product-heading--equelle    .product-heading-num { color: #0a5880; }
+.product-heading--dhcequol   { background: #fff5ec; border-left: 5px solid #c07040; }
+.product-heading--dhcequol   .product-heading-num { color: #8a4010; }
+.product-heading--berta      { background: #fff0f5; border-left: 5px solid #c85878; }
+.product-heading--berta      .product-heading-num { color: #8a2850; }

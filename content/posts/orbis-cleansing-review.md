@@ -17,6 +17,21 @@ cover:
 
 そのジレンマを解消してくれたのが、**オルビス ザ クレンジングオイル**でした。
 
+{{< rawhtml >}}
+<div class="product-heading product-heading--cleansing">
+  <div class="product-heading-info">
+    <div class="product-heading-rank">★イチ推し</div>
+    <h3>オルビス ザ クレンジングオイル</h3>
+    <p>美容液成分80%以上・落としながらうるおう次世代クレンジング</p>
+  </div>
+  <div class="product-heading-img">
+    <a href="https://px.a8.net/svt/ejp?a8mat=4B1RXR+DVIPBM+1USQ+4YM976" target="_blank" rel="nofollow noopener">
+      <img src="https://www22.a8.net/svt/bgt?aid=260423343839&wid=001&eno=01&mid=s00000008657030008000&mc=1" alt="オルビス ザ クレンジングオイル">
+    </a>
+  </div>
+</div>
+{{< /rawhtml >}}
+
 ---
 
 ## オルビス ザ クレンジングオイルとは？
@@ -81,17 +96,27 @@ cover:
 
 ---
 
-## こんな方におすすめします
+{{< rawhtml >}}
+<div class="fit-box">
+  <p class="fit-box-title">✅ こんな方に向いています</p>
+  <ul>
+    <li>クレンジング後の乾燥・つっぱりが気になる30〜40代</li>
+    <li>スキンケアの浸透感がいまひとつだと感じている</li>
+    <li>敏感肌で、刺激の少ないクレンジングを探している</li>
+    <li>初回お試しで気軽に試したい</li>
+  </ul>
+</div>
+{{< /rawhtml >}}
 
-- クレンジング後の乾燥・つっぱりが気になる30〜40代
-- スキンケアの浸透感がいまひとつだと感じている
-- 敏感肌で、刺激の少ないクレンジングを探している
-- 初回お試しで気軽に試したい
-
-## こんな方には、正直向いていないかもしれません
-
-- ミルク・バームタイプのテクスチャーが好きな方
-- ウォータープルーフのアイメイクが多い方（別途アイメイクリムーバーの併用を）
+{{< rawhtml >}}
+<div class="caution-box">
+  <p class="caution-box-title">⚠️ こんな方には向いていないかもしれません</p>
+  <ul>
+    <li>ミルク・バームタイプのテクスチャーが好きな方</li>
+    <li>ウォータープルーフのアイメイクが多い方（別途アイメイクリムーバーの併用を）</li>
+  </ul>
+</div>
+{{< /rawhtml >}}
 
 ---
 

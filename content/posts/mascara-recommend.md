@@ -34,6 +34,16 @@ cover:
 
 ### 1位：KISSME ヒロインメイク ロング＆カールマスカラ アドバンストフィルム
 
+{{< rawhtml >}}
+<div class="product-heading product-heading--kissme">
+  <div class="product-heading-info">
+    <div class="product-heading-rank">1位</div>
+    <h3>ヒロインメイク ロング＆カール アドバンストフィルム</h3>
+    <p>花粉症でこすっても落ちない・お湯落ちフィルムタイプ</p>
+  </div>
+</div>
+{{< /rawhtml >}}
+
 「泣いても落ちない」という口コミは本当でした。花粉症で目がかゆくてこすっても、パンダ目にならない。お湯でするっと落とせるから目元が荒れにくいのも嬉しいポイントです。コスパも優秀でリピートしやすい。
 
 **使った感想**
@@ -52,6 +62,16 @@ cover:
 
 ### 2位：リンメル スキャンダルアイズ ウォータープルーフマスカラ
 
+{{< rawhtml >}}
+<div class="product-heading product-heading--rimmel">
+  <div class="product-heading-info">
+    <div class="product-heading-rank">2位</div>
+    <h3>リンメル スキャンダルアイズ ウォータープルーフ</h3>
+    <p>プール・海でも落ちない・ボリューム感重視のウォータープルーフ</p>
+  </div>
+</div>
+{{< /rawhtml >}}
+
 プールや海など「絶対落としたくない」シーンに頼れる一本。ボリュームのある仕上がりが好みの方に。落とすときは専用リムーバーが必要なので、そこだけ覚えておいてください。
 
 **使った感想**
@@ -64,6 +84,16 @@ cover:
 ---
 
 ### 3位：シャネル ル ボリューム ドゥ シャネル
+
+{{< rawhtml >}}
+<div class="product-heading product-heading--chanel">
+  <div class="product-heading-info">
+    <div class="product-heading-rank">3位</div>
+    <h3>シャネル ル ボリューム ドゥ シャネル</h3>
+    <p>デパコスの定番・繊細なまつ毛にフィットする上品なボリューム</p>
+  </div>
+</div>
+{{< /rawhtml >}}
 
 デパコスに迷ったらまずこれ、というくらいの定番。ブラシが使いやすくて繊細なまつ毛にもきれいにフィットします。「上品なボリューム」という表現がぴったりで、ナチュラルメイクにも合わせやすいです。
 
@@ -78,6 +108,16 @@ cover:
 
 ### 4位：ヴィセ リシェ ボリュームマスカラ EX
 
+{{< rawhtml >}}
+<div class="product-heading product-heading--visse">
+  <div class="product-heading-info">
+    <div class="product-heading-rank">4位</div>
+    <h3>ヴィセ リシェ ボリュームマスカラ EX</h3>
+    <p>プチプラで高品質・夕方まで崩れない自然なボリューム</p>
+  </div>
+</div>
+{{< /rawhtml >}}
+
 「プチプラなのにこのクオリティ？」と思わず二度見した一本。自然なボリュームで夕方まで崩れない。まず試してみたいけど高いものにはまだ手が出ない、という方にぴったりです。
 
 **使った感想**
@@ -90,6 +130,16 @@ cover:
 ---
 
 ### 5位：SUQQU マスカラ
+
+{{< rawhtml >}}
+<div class="product-heading product-heading--suqqu">
+  <div class="product-heading-info">
+    <div class="product-heading-rank">5位</div>
+    <h3>SUQQU マスカラ</h3>
+    <p>保湿成分入り・目が敏感な方にも使いやすい上品な仕上がり</p>
+  </div>
+</div>
+{{< /rawhtml >}}
 
 目が敏感でしみやすい方に、ぜひ試してほしい一本。保湿成分入りでまつ毛を労わりながら使えます。細い筆で一本一本丁寧にコーティングできて、仕上がりが上品。特別な日のメイクにも使えます。
 

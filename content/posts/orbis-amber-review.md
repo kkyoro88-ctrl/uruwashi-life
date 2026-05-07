@@ -15,6 +15,21 @@ cover:
 
 そう感じ始めたのが40代に入ってからです。外側のケアだけでは追いつかない感覚が出てきたとき、「内側からのアプローチ」として試してみたのが**オルビス アンバー**でした。
 
+{{< rawhtml >}}
+<div class="product-heading product-heading--amber">
+  <div class="product-heading-info">
+    <div class="product-heading-rank">★イチ推し</div>
+    <h3>オルビス アンバー</h3>
+    <p>コラーゲン×NMN配合・スキンケアブランド発の飲む美容液</p>
+  </div>
+  <div class="product-heading-img">
+    <a href="https://px.a8.net/svt/ejp?a8mat=4B1RXS+JNBQQ+1USQ+4AV9VM" target="_blank" rel="nofollow noopener">
+      <img src="https://www29.a8.net/svt/bgt?aid=260423344033&wid=001&eno=01&mid=s00000008657026006000&mc=1" alt="オルビス アンバー">
+    </a>
+  </div>
+</div>
+{{< /rawhtml >}}
+
 ---
 
 ## オルビス アンバーとは？
@@ -83,17 +98,27 @@ cover:
 
 ---
 
-## こんな方におすすめします
+{{< rawhtml >}}
+<div class="fit-box">
+  <p class="fit-box-title">✅ こんな方に向いています</p>
+  <ul>
+    <li>スキンケアに加えて、内側からのケアも試してみたい30〜40代</li>
+    <li>コラーゲンやNMNを手軽に継続して摂りたい</li>
+    <li>更年期前後でホルモンバランスの変化を感じている</li>
+    <li>オルビスのスキンケアが合っていて、インナーケアも同ブランドで揃えたい</li>
+  </ul>
+</div>
+{{< /rawhtml >}}
 
-- スキンケアに加えて、内側からのケアも試してみたい30〜40代
-- コラーゲンやNMNを手軽に継続して摂りたい
-- 更年期前後でホルモンバランスの変化を感じている
-- オルビスのスキンケアが合っていて、インナーケアも同ブランドで揃えたい
-
-## こんな方には、正直向いていないかもしれません
-
-- 短期間で目に見える変化を求めている
-- サプリメント・ドリンクタイプが苦手な方
+{{< rawhtml >}}
+<div class="caution-box">
+  <p class="caution-box-title">⚠️ こんな方には向いていないかもしれません</p>
+  <ul>
+    <li>短期間で目に見える変化を求めている</li>
+    <li>サプリメント・ドリンクタイプが苦手な方</li>
+  </ul>
+</div>
+{{< /rawhtml >}}
 
 ---
 

@@ -38,23 +38,35 @@ cover:
 
 ## おすすめ：オルビス アンバー
 
+{{< rawhtml >}}
+<div class="product-heading product-heading--amber">
+  <div class="product-heading-info">
+    <div class="product-heading-rank">★イチ推し</div>
+    <h3>オルビス アンバー</h3>
+    <p>コラーゲン×NMN配合・スキンケアブランド発の飲む美容液</p>
+  </div>
+  <div class="product-heading-img">
+    <a href="https://px.a8.net/svt/ejp?a8mat=4B1RXS+JNBQQ+1USQ+4AV9VM" target="_blank" rel="nofollow noopener">
+      <img src="https://www29.a8.net/svt/bgt?aid=260423344033&wid=001&eno=01&mid=s00000008657026006000&mc=1" alt="オルビス アンバー">
+    </a>
+  </div>
+</div>
+{{< /rawhtml >}}
+
 スキンケアブランドとして40年以上の実績を持つオルビスが開発した飲む美容液です。
 
 コラーゲン×NMN配合で、外側のスキンケアだけでは補いにくい成分を内側から届ける設計になっています。オルビスのスキンケアを使っている方が、同ブランドのインナーケアを組み合わせる使い方にも自然にはまります。
 
 {{< rawhtml >}}
-<div style="text-align:center; margin: 1.5em 0;">
-  <a href="https://px.a8.net/svt/ejp?a8mat=4B1RXS+JNBQQ+1USQ+4ATZKX" target="_blank" rel="nofollow noopener">
-    <img border="0" width="300" height="250" alt="オルビス アンバー" src="https://www29.a8.net/svt/bgt?aid=260423344033&wid=001&eno=01&mid=s00000008657026006000&mc=1">
-  </a>
-  <img border="0" width="1" height="1" src="https://www18.a8.net/0.gif?a8mat=4B1RXS+JNBQQ+1USQ+4ATZKX" alt="">
+<div class="fit-box">
+  <p class="fit-box-title">✅ おすすめポイント</p>
+  <ul>
+    <li>コラーゲン×NMN配合で内側から多角的にアプローチ</li>
+    <li>1日1本・飲みやすく続けやすい</li>
+    <li>スキンケアブランドとしての処方への信頼感</li>
+  </ul>
 </div>
 {{< /rawhtml >}}
-
-**おすすめポイント**
-- コラーゲン×NMN配合で内側から多角的にアプローチ
-- 1日1本・飲みやすく続けやすい
-- スキンケアブランドとしての処方への信頼感
 
 > 詳しい使用感・メリット・デメリットは[オルビス アンバーの口コミ・レビュー記事](/posts/orbis-amber-review/)をご覧ください。
 

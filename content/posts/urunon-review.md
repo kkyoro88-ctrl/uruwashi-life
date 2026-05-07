@@ -17,6 +17,21 @@ cover:
 
 この記事では、選んだ理由とリアルな感想を正直に書きます。
 
+{{< rawhtml >}}
+<div class="product-heading product-heading--urunon">
+  <div class="product-heading-info">
+    <div class="product-heading-rank">★イチ推し</div>
+    <h3>うるのん 富士山バナジウム天然水</h3>
+    <p>TOKAIグループ運営・全国17万件の実績を持つ宅配ウォーターサーバー</p>
+  </div>
+  <div class="product-heading-img">
+    <a href="https://px.a8.net/svt/ejp?a8mat=4B1RXP+DPKD9U+1IGA+TVBF6" target="_blank" rel="nofollow noopener">
+      <img src="https://www26.a8.net/svt/bgt?aid=260423341829&wid=001&eno=01&mid=s00000007057005037000&mc=1" alt="うるのん 宅配天然水">
+    </a>
+  </div>
+</div>
+{{< /rawhtml >}}
+
 ---
 
 ## うるのんとは？
@@ -79,18 +94,28 @@ cover:
 
 ---
 
-## こんな方におすすめします
+{{< rawhtml >}}
+<div class="fit-box">
+  <p class="fit-box-title">✅ こんな方に向いています</p>
+  <ul>
+    <li>富士山の天然水にこだわって選びたい</li>
+    <li>バナジウムなどのミネラルを日常的に摂りたい</li>
+    <li>実績・信頼のあるサービスを選びたい</li>
+    <li>大手グループ運営の安心感を重視する</li>
+    <li>キャンペーンやオリジナルサービスを活用したい</li>
+  </ul>
+</div>
+{{< /rawhtml >}}
 
-- 富士山の天然水にこだわって選びたい
-- バナジウムなどのミネラルを日常的に摂りたい
-- 実績・信頼のあるサービスを選びたい
-- 大手グループ運営の安心感を重視する
-- キャンペーンやオリジナルサービスを活用したい
-
-## こんな方には、正直向いていないかもしれません
-
-- とにかく水代を最安にしたい（RO水でよい）方
-- 配送エリアが対応していない地域の方（要確認）
+{{< rawhtml >}}
+<div class="caution-box">
+  <p class="caution-box-title">⚠️ こんな方には向いていないかもしれません</p>
+  <ul>
+    <li>とにかく水代を最安にしたい（RO水でよい）方</li>
+    <li>配送エリアが対応していない地域の方（要確認）</li>
+  </ul>
+</div>
+{{< /rawhtml >}}
 
 ---
 

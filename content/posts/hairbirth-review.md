@@ -15,16 +15,22 @@ cover:
 
 外側からのケア（育毛剤・シャンプー）と並行して、内側からアプローチする手段として注目されているのが**育毛サプリ**です。その中でも「続けやすさ」と「成分の充実度」で選ばれているのが**ヘアバース（HAIRBIRTH）**です。
 
----
-
 {{< rawhtml >}}
-<div style="text-align:center; margin: 2em 0;">
-  <a href="https://rpx.a8.net/svt/ejp?a8mat=4B1QDP+BQ4COI+2HOM+BWGDT&rakuten=y&a8ejpredirect=https%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2Fg00skwj4.2bo1117e.g00skwj4.2bo12ced%2Fa26042104339_4B1QDP_BQ4COI_2HOM_BWGDT%3Fpc%3Dhttps%253A%252F%252Fitem.rakuten.co.jp%252Flove-dream%252F100000401%252F%26m%3Dhttp%253A%252F%252Fm.rakuten.co.jp%252Flove-dream%252Fi%252F10000296%252F%26rafcid%3Dwsc_i_is_33f72da33714639c415e592c9633ecd7" target="_blank" rel="nofollow noopener" style="display:inline-block; background:#5b9bd5; color:#fff; padding:16px 40px; border-radius:30px; font-size:1.1em; font-weight:bold; text-decoration:none;">
-    ヘアバースを楽天で見る →
-  </a>
-  <img border="0" width="1" height="1" src="https://www19.a8.net/0.gif?a8mat=4B1QDP+BQ4COI+2HOM+BWGDT" alt="">
+<div class="product-heading product-heading--hairbirth">
+  <div class="product-heading-info">
+    <div class="product-heading-rank">★イチ推し</div>
+    <h3>ヘアバース（HAIRBIRTH）</h3>
+    <p>育毛をサポートする成分を凝縮・内側からアプローチする育毛サプリ</p>
+  </div>
+  <div class="product-heading-img">
+    <a href="https://rpx.a8.net/svt/ejp?a8mat=4B1QDP+BQ4COI+2HOM+BWGDT&rakuten=y&a8ejpredirect=https%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2Fg00skwj4.2bo1117e.g00skwj4.2bo12ced%2Fa26042104339_4B1QDP_BQ4COI_2HOM_BWGDT%3Fpc%3Dhttps%253A%252F%252Fitem.rakuten.co.jp%252Flove-dream%252F100000401%252F%26m%3Dhttp%253A%252F%252Fm.rakuten.co.jp%252Flove-dream%252Fi%252F10000296%252F%26rafcid%3Dwsc_i_is_33f72da33714639c415e592c9633ecd7" target="_blank" rel="nofollow noopener">
+      <img src="https://thumbnail.image.rakuten.co.jp/@0_mall/love-dream/cabinet/biiino/item/main-image/20251008105041_1.jpg?_ex=300x300" alt="ヘアバース HAIRBIRTH">
+    </a>
+  </div>
 </div>
 {{< /rawhtml >}}
+
+---
 
 ## ヘアバースとは？
 
@@ -116,17 +122,27 @@ cover:
 
 ---
 
-## こんな方におすすめします
+{{< rawhtml >}}
+<div class="fit-box">
+  <p class="fit-box-title">✅ こんな方に向いています</p>
+  <ul>
+    <li>最近、抜け毛や薄毛が気になりはじめた30・40代</li>
+    <li>シャンプー・育毛剤に加えて、内側からもアプローチしたい</li>
+    <li>忙しくて食事が偏りがちで、髪のための栄養が不足していると感じる</li>
+    <li>毎日続けやすい形でのケアを探している</li>
+  </ul>
+</div>
+{{< /rawhtml >}}
 
-- 最近、抜け毛や薄毛が気になりはじめた30・40代
-- シャンプー・育毛剤に加えて、内側からもアプローチしたい
-- 忙しくて食事が偏りがちで、髪のための栄養が不足していると感じる
-- 毎日続けやすい形でのケアを探している
-
-## こんな方には、正直向いていないかもしれません
-
-- 短期間で目に見える変化を求めている方
-- サプリメント全般が苦手な方
+{{< rawhtml >}}
+<div class="caution-box">
+  <p class="caution-box-title">⚠️ こんな方には向いていないかもしれません</p>
+  <ul>
+    <li>短期間で目に見える変化を求めている方</li>
+    <li>サプリメント全般が苦手な方</li>
+  </ul>
+</div>
+{{< /rawhtml >}}
 
 ---
 

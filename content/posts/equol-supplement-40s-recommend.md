@@ -56,6 +56,16 @@ cover:
 
 ### 1位：エクエル パウチ（大塚製薬）｜婦人科推薦・臨床研究あり
 
+{{< rawhtml >}}
+<div class="product-heading product-heading--equelle">
+  <div class="product-heading-info">
+    <div class="product-heading-rank">1位</div>
+    <h3>エクエル パウチ（大塚製薬）</h3>
+    <p>日本初エクオール含有食品・婦人科推薦・多数の臨床研究データあり</p>
+  </div>
+</div>
+{{< /rawhtml >}}
+
 <!-- START MoshimoAffiliateEasyLink -->
 <script type="text/javascript">
 (function(b,c,f,g,a,d,e){b.MoshimoAffiliateObject=a;
@@ -77,6 +87,16 @@ msmaflink({"n":"エクエル パウチ 120粒 約30日分","b":"","t":"","d":"ht
 
 ### 2位：DHC 大豆イソフラボン エクオール 30日分｜DHC直販・コスパ重視
 
+{{< rawhtml >}}
+<div class="product-heading product-heading--dhcequol">
+  <div class="product-heading-info">
+    <div class="product-heading-rank">2位</div>
+    <h3>DHC 大豆イソフラボン エクオール</h3>
+    <p>1日1粒でエクオール10mg・DHC直販のコスパ重視モデル</p>
+  </div>
+</div>
+{{< /rawhtml >}}
+
 <!-- START MoshimoAffiliateEasyLink -->
 <script type="text/javascript">
 (function(b,c,f,g,a,d,e){b.MoshimoAffiliateObject=a;
@@ -97,6 +117,16 @@ msmaflink({"n":"DHC 大豆イソフラボン エクオール 30日分","b":"","t
 ---
 
 ### 3位：ベルタエクリズム｜エクオール＋複合成分設計
+
+{{< rawhtml >}}
+<div class="product-heading product-heading--berta">
+  <div class="product-heading-info">
+    <div class="product-heading-rank">3位</div>
+    <h3>ベルタエクリズム</h3>
+    <p>エクオール＋複合成分設計・更年期の複合的な不調にアプローチ</p>
+  </div>
+</div>
+{{< /rawhtml >}}
 
 <!-- アフィリエイトリンク: ベルタ A8承認待ち・差し替え予定 -->
 
