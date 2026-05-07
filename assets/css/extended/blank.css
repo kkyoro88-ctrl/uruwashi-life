@@ -2491,3 +2491,7 @@ details.single-toc[open] .single-toc-title::after { content: '▴'; }
 .product-heading--dhcequol   .product-heading-num { color: #8a4010; }
 .product-heading--berta      { background: #fff0f5; border-left: 5px solid #c85878; }
 .product-heading--berta      .product-heading-num { color: #8a2850; }
+.product-heading--cbmask     { background: #fff5f5; border-left: 5px solid #c97d7d; }
+.product-heading--cbmask     .product-heading-num { color: #9a3030; }
+.product-heading--cbhair     { background: #f8f5ff; border-left: 5px solid #8060b8; }
+.product-heading--cbhair     .product-heading-num { color: #5030a0; }
