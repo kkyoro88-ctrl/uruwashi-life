@@ -359,4 +359,7 @@ A. 40代であれば今すぐが最適のタイミングです。ヘアサイク
 <a href="/posts/serum-recommend/" class="related-link">美容液おすすめ40代向け3選</a>
 <a href="/posts/face-wash-40s-recommend/" class="related-link">洗顔料おすすめ40代向け3選</a>
 <a href="/posts/haircare-40s-guide/" class="related-link">40代ヘアケアおすすめガイド</a>
+<a href="/posts/hairbirth-review/" class="related-link">ヘアバース（育毛サプリ）口コミ・評価</a>
+<a href="/posts/moagrowsup-review/" class="related-link">モアグロースアップ育毛剤の口コミ・評価</a>
+<a href="/posts/currentbody-led-hair-review/" class="related-link">CurrentBody LED頭皮ケアデバイスの口コミ</a>
 {{< /rawhtml >}}
