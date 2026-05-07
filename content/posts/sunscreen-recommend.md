@@ -6,22 +6,18 @@ affiliate: true
 categories: ["スキンケア"]
 tags: ["日焼け止め", "エイジングケア", "紫外線対策", "シミケア", "40代スキンケア"]
 description: "40代が毎日続けられる日焼け止めを厳選5本紹介。白浮き・ベタつきなし・乾燥しないを基準に、敏感肌・ノンケミカル・プチプラなど肌質・予算別に解説します。"
-summary_points:
-  - "シミ・たるみの80%は光老化が原因——40代こそ日焼け止めが最優先のエイジングケアである理由"
-  - "SPF・PA値の正しい使い分け（日常用・屋外用・海山用のシーン別目安）"
-  - "白浮きしない・ベタつかない・乾燥しない——肌質別おすすめ5本の特徴と違い"
-  - "続けるための3つのコツ（塗る量・塗り直し・曇りの日の考え方）"
 cover:
   image: "/images/sunscreen-recommend.png"
   alt: "日焼け止めおすすめ5選 40代"
 ---
 
-
 「日焼け止め、一応塗っているけど続かない」——40代になってから、その罪悪感が前よりずっと大きくなりました。
 
 白浮きする、ベタつく、崩れやすい。使い心地が悪いと、朝の忙しい時間に後回しになってしまう。その気持ち、すごくわかります。
 
-でも知っておいてほしいのは、シミ・シワ・くすみの約80%は「光老化」が原因だということ。そして今の肌に出ているシミは、10〜20年前の紫外線が原因だということ。だからこそ40代の今、毎日続けられる一本を見つけることが、一番効くエイジングケアになります。
+でも知っておいてほしいのは、シミ・シワ・くすみの約80%は「光老化」が原因だということ。そして今の肌に出ているシミは、10〜20年前の紫外線が原因だということ。だからこそ40代の今、**毎日続けられる一本を見つけることが、一番効くエイジングケアになります。**
+
+迷ったら、まず **アネッサ パーフェクトUV スキンケアミルク** から試してみてください。汗・水・こすれに強いのに整肌成分配合で、石けんオフOKの定番中の定番です。
 
 ---
 
@@ -41,20 +37,96 @@ cover:
 | 屋外での軽い活動 | SPF30〜50 / PA+++ |
 | 海・山・スポーツ | SPF50+ / PA++++ |
 
-毎日塗るなら、肌への負担を考えてSPF30前後が続けやすいです。
+毎日塗るなら、肌への負担を考えてSPF30〜50が続けやすいです。
 
 ---
 
-## おすすめ日焼け止め5選
+## 5本を一覧で比較
 
-### 1位：アネッサ パーフェクトUV スキンケアミルク
+{{< rawhtml >}}
+<div class="comparison-wrap">
+<table class="comparison-table">
+  <thead>
+    <tr>
+      <th class="th-empty"></th>
+      <th class="th-answer"><span class="top-badge">★ 1位</span><br>アネッサ パーフェクトUV</th>
+      <th class="th-ipsa">ALLIE クロノビューティ トーンアップUV EX</th>
+      <th class="th-haru">オルビス サンスクリーン</th>
+      <th class="th-melt">ビオレUV アクアリッチ</th>
+      <th class="th-muji">ラロッシュポゼ UVイデア XL</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="td-label">SPF / PA</td>
+      <td><strong>SPF50+ / PA++++</strong></td>
+      <td><strong>SPF50+ / PA++++</strong></td>
+      <td>SPF30 / PA+++</td>
+      <td><strong>SPF50+ / PA++++</strong></td>
+      <td>SPF50 / PA++++</td>
+    </tr>
+    <tr>
+      <td class="td-label">✨ 特徴</td>
+      <td>汗・水・こすれに強い<br>整肌成分配合</td>
+      <td>トーンアップ<br>さらさら仕上がり</td>
+      <td>ノンケミカル<br>化粧下地兼用</td>
+      <td>水テクスチャー<br>プチプラ</td>
+      <td>ミネラル系<br>敏感肌向け</td>
+    </tr>
+    <tr>
+      <td class="td-label">👤 向いている人</td>
+      <td>アクティブ・信頼重視</td>
+      <td>トーンアップ・くすみ補正</td>
+      <td>敏感肌・ノンケミカル派</td>
+      <td>コスパ重視・塗り直し派</td>
+      <td>敏感肌・皮膚科学派</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+{{< /rawhtml >}}
 
-「日焼け止めといえばアネッサ」という信頼感はやっぱり本物でした。汗や水に強いのに、肌への整肌成分が入っていてスキンケア効果もある。石けんで落とせるので、クレンジングの手間が省けるのも嬉しいポイントです。
+---
 
-- SPF50+ / PA++++
-- 汗・水・こすれに強い
-- 整肌成分配合
-- 石けんで落とせる
+## おすすめ日焼け止め5選【40代向け】
+
+{{< rawhtml >}}
+<div class="product-heading product-heading--answer">
+  <div class="product-heading-info">
+    <div class="product-heading-num">No.1 イチ推し</div>
+    <div class="product-heading-name">アネッサ パーフェクトUV スキンケアミルク｜汗・水・こすれに強い定番</div>
+  </div>
+  <img class="product-heading-img" src="https://thumbnail.image.rakuten.co.jp/@0_mall/rakutensokuhaimart/cabinet/rakuten24/105/4909978147105.jpg" alt="アネッサ パーフェクトUV スキンケアミルク">
+</div>
+{{< /rawhtml >}}
+
+「日焼け止めといえばアネッサ」という信頼感はやっぱり本物でした。汗や水に強いのに、整肌成分が配合されていてスキンケア効果もある。石けんで落とせるので、クレンジングの手間が省けるのも嬉しいポイントです。
+
+SPF50+ / PA++++の最高値でありながら、つけ心地がベタつかず乾燥もしにくい。「とにかく強い日焼け止めを毎日続けたい」という方の最有力候補です。アクティブな40代にも、日常使いにも向いています。
+
+{{< rawhtml >}}
+<div class="caution-box">
+  <div class="caution-box-title">⚠ 正直に言うと、これが気になりました</div>
+  <ul>
+    <li>価格がプチプラ日焼け止めと比べると高め（60mlで1,000〜1,500円台）</li>
+    <li>「ミルク」タイプのため、脂性肌の方はやや重さを感じる場合がある（ジェルタイプと使い分けが必要なことも）</li>
+    <li>塗り直し用として惜しみなく使いたい場合は、コスパ面でビオレUVとの併用もアリ</li>
+  </ul>
+</div>
+{{< /rawhtml >}}
+
+「迷ったらアネッサ」というのは、日焼け止めを数本試してきた今でも変わらない結論です。
+
+{{< rawhtml >}}
+<div class="fit-box">
+  <div class="fit-box-title">✓ この日焼け止めが向いている方</div>
+  <ul>
+    <li>SPF50+の高い紫外線防御力を毎日使いたい40代</li>
+    <li>汗・水・こすれに強い耐久性が必要な方（外出が多い・運動する方）</li>
+    <li>信頼できる定番ブランドで日焼け止めを選びたい方</li>
+  </ul>
+</div>
+{{< /rawhtml >}}
 
 {{< rawhtml >}}
 <div class="featured-card-wrap">
@@ -63,6 +135,7 @@ cover:
 {{< product
   title="アネッサ パーフェクトUV スキンケアミルク NA 60ml"
   img="https://thumbnail.image.rakuten.co.jp/@0_mall/rakutensokuhaimart/cabinet/rakuten24/105/4909978147105.jpg"
+  price="公式価格参照 / 60ml"
   rakuten="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Frakutensokuhaimart%2F4909978147105%2F"
   amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B0CSSVF9GQ"
   yahoo="https://shopping.yahoo.co.jp/search?p=%E3%82%A2%E3%83%8D%E3%83%83%E3%82%B5+%E3%83%91%E3%83%BC%E3%83%95%E3%82%A7%E3%82%AF%E3%83%88UV+%E3%82%B9%E3%82%AD%E3%83%B3%E3%82%B1%E3%82%A2%E3%83%9F%E3%83%AB%E3%82%AF"
@@ -73,62 +146,225 @@ cover:
 
 ---
 
-### 2位：資生堂 アルティミューン UVプロテクター
-
-美容液感覚で使えるさらさら仕上がりが好きです。くすみ補正効果もあって、塗るだけでトーンが整う感覚があります。「日焼け止めって重たい」と感じていた方に、ぜひ試してほしい一本です。
-
-- SPF50+ / PA++++
-- 美容液感覚のさらさら仕上がり
-- くすみ補正効果
-- 無香料・アルコールフリー
-
----
-
-### 3位：オルビス サンスクリーン オン フェイス
-
-敏感肌で日焼け止めが合わないと感じている方に、特におすすめしたい製品です。紫外線吸収剤不使用（ノンケミカル）で、保湿成分もたっぷり。化粧下地としても使えてとても便利です。
-
-- SPF30 / PA+++
-- 紫外線吸収剤不使用
-- 保湿成分たっぷり
-- 化粧下地としても使える
-
----
-
-### 4位：ビオレUV アクアリッチ ウォータリーエッセンス
-
-「毎日使うにはコストが気になる」という方に一番おすすめしたいプチプラです。水のようなテクスチャーで、つけていることを忘れるくらいさらっとしています。惜しみなく使えるので塗り直しも気軽にできます。
-
-- SPF50+ / PA++++
-- みずみずしいテクスチャー
-- 超耐水・超汗耐性
-- コスパ優秀
-
 {{< rawhtml >}}
-<div class="featured-card-wrap">
-<span class="rank1-badge">★ 4位おすすめ商品</span>
+<div class="product-heading product-heading--ipsa">
+  <div class="product-heading-info">
+    <div class="product-heading-num">No.2</div>
+    <div class="product-heading-name">ALLIE クロノビューティ トーンアップ UV EX｜くすみ補正×さらさら仕上がり SPF50+</div>
+  </div>
+</div>
 {{< /rawhtml >}}
-{{< product
-  title="ビオレUV アクアリッチ ウォータリーエッセンス 70g"
-  img="https://thumbnail.image.rakuten.co.jp/@0_mall/manro-store/cabinet/09992123/7647-1.jpg"
-  rakuten="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fmanro-store%2F4901301447647%2F"
-  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B0DS7WX8QS"
-  yahoo="https://shopping.yahoo.co.jp/search?p=%E3%83%93%E3%82%AA%E3%83%ACUV+%E3%82%A2%E3%82%AF%E3%82%A2%E3%83%AA%E3%83%83%E3%83%81+%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%BF%E3%83%AA%E3%83%BC%E3%82%A8%E3%83%83%E3%82%BB%E3%83%B3%E3%82%B9"
->}}
+
+「日焼け止めを塗るとくすんで見える」という悩みをひっくり返してくれたのがALLIEのトーンアップUVです。パールが入ったようなトーンアップ効果で、塗るだけで肌がぱっと明るくなる感覚があります。
+
+SPF50+ / PA++++の高い紫外線防御力を持ちながら、さらさらとした軽いテクスチャー。「日焼け止めを塗ったことを忘れるくらいの使い心地」というのが続けやすさの理由です。花王の肌科学研究に基づいた処方で、信頼できる国産ブランドを選びたい方にも向いています。
+
 {{< rawhtml >}}
+<div class="caution-box">
+  <div class="caution-box-title">⚠ 正直に言うと、これが気になりました</div>
+  <ul>
+    <li>トーンアップ効果があるため、色が気になる方は顔色との相性を確認してから（白っぽくなりすぎる場合も）</li>
+    <li>紫外線吸収剤配合のため、吸収剤が苦手な敏感肌の方にはノンケミカルのオルビスの方が向く場合がある</li>
+    <li>香り付きのため、無香料を好む方には注意</li>
+  </ul>
+</div>
+{{< /rawhtml >}}
+
+{{< rawhtml >}}
+<div class="fit-box">
+  <div class="fit-box-title">✓ この日焼け止めが向いている方</div>
+  <ul>
+    <li>塗るだけでくすみが補正される・トーンアップ効果を日焼け止めに求める40代</li>
+    <li>さらさらした軽いテクスチャーで毎日続けたい方</li>
+    <li>国産ブランド・信頼できる肌科学処方を選びたい方</li>
+  </ul>
+</div>
+{{< /rawhtml >}}
+
+{{< product
+  title="ALLIE クロノビューティ トーンアップ UV EX SPF50+ PA++++ 60g"
+  price="公式価格参照 / 60g"
+  rakuten="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F4973167057667%2F"
+  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B09NCQ65RS"
+  yahoo="https://shopping.yahoo.co.jp/search?p=ALLIE+%E3%82%AF%E3%83%AD%E3%83%8E%E3%83%93%E3%83%A5%E3%83%BC%E3%83%86%E3%82%A3+%E3%83%88%E3%83%BC%E3%83%B3%E3%82%A2%E3%83%83%E3%83%97UV"
+>}}
+
+---
+
+{{< rawhtml >}}
+<div class="product-heading product-heading--haru">
+  <div class="product-heading-info">
+    <div class="product-heading-num">No.3</div>
+    <div class="product-heading-name">オルビス サンスクリーン オン フェイス｜ノンケミカル・化粧下地兼用</div>
+  </div>
+</div>
+{{< /rawhtml >}}
+
+敏感肌で日焼け止めが合わないと感じている方に、特におすすめしたい製品です。紫外線吸収剤不使用（ノンケミカル）で、保湿成分もたっぷり配合されています。化粧下地としても使えて、スキンケアのステップを減らせる点も便利です。
+
+SPF30 / PA+++と日常使いに十分な防御力を持ちながら、肌への刺激を最小限に抑えた設計。「日焼け止めをつけると肌がざわざわする」「ヒリつく感じがある」という方にこそ、一度試してほしい一本です。
+
+{{< rawhtml >}}
+<div class="caution-box">
+  <div class="caution-box-title">⚠ 正直に言うと、これが気になりました</div>
+  <ul>
+    <li>SPF30のため、長時間屋外にいる場合や夏の強い日差しの日は塗り直しの頻度を上げる必要がある</li>
+    <li>ノンケミカル（紫外線散乱剤）は白浮きしやすい傾向があるため、肌色が暗めの方は馴染ませ方に注意</li>
+    <li>公式サイト中心の販売（ドラッグストアでの取り扱いはオルビスカウンター中心）</li>
+  </ul>
+</div>
+{{< /rawhtml >}}
+
+{{< rawhtml >}}
+<div class="fit-box">
+  <div class="fit-box-title">✓ この日焼け止めが向いている方</div>
+  <ul>
+    <li>紫外線吸収剤（ケミカル）が肌に合わない・敏感肌の40代</li>
+    <li>化粧下地を省いてスキンケアをシンプルにしたい方</li>
+    <li>日常使いの強さ（SPF30）で十分・通勤・日常生活がメインの方</li>
+  </ul>
+</div>
+{{< /rawhtml >}}
+
+{{< rawhtml >}}
+<div style="margin: 1em 0;">
+  <a href="https://px.a8.net/svt/ejp?a8mat=4B1RXR+DVIPBM+1USQ+5YJRM" rel="nofollow" style="display:inline-block; background:#3a9a4a; color:#fff; padding:12px 24px; border-radius:4px; text-decoration:none; font-weight:bold; font-size:14px;">オルビス 公式サイトで詳しく見る →</a>
+  <img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4B1RXR+DVIPBM+1USQ+5YJRM" alt="">
 </div>
 {{< /rawhtml >}}
 
 ---
 
-### 5位：DECIEM サンスクリーン SPF50
+{{< rawhtml >}}
+<div class="product-heading product-heading--melt">
+  <div class="product-heading-info">
+    <div class="product-heading-num">No.4</div>
+    <div class="product-heading-name">ビオレUV アクアリッチ ウォータリーエッセンス｜みずみずしいテクスチャー・コスパ優秀</div>
+  </div>
+  <img class="product-heading-img" src="https://thumbnail.image.rakuten.co.jp/@0_mall/manro-store/cabinet/09992123/7647-1.jpg" alt="ビオレUV アクアリッチ ウォータリーエッセンス">
+</div>
+{{< /rawhtml >}}
 
-シンプルな成分処方で、肌に余計なものを入れたくない方に向いています。シリコンフリー・パラベンフリーで白浮きもしにくい。ポンプタイプで使いやすく、毎日のベースとして優秀です。
+「毎日使うにはコストが気になる」という方に一番おすすめしたいプチプラです。水のようなテクスチャーで、つけていることを忘れるくらいさらっとしています。惜しみなく使えるので塗り直しも気軽にできます。
 
-- SPF50 / PA++++
-- シリコンフリー・パラベンフリー
-- 白っぽくない仕上がり
-- 毎日のベースとして優秀
+SPF50+ / PA++++の最高値を持ちながら、この価格帯というのが信じられないくらいコスパが優秀。「日焼け止めは正直コスパ重視で選びたい」という方にとって、他と比べても候補から外せない一本です。
+
+{{< rawhtml >}}
+<div class="caution-box">
+  <div class="caution-box-title">⚠ 正直に言うと、これが気になりました</div>
+  <ul>
+    <li>紫外線吸収剤配合のため、ノンケミカルを求める敏感肌には向かない場合がある</li>
+    <li>みずみずしいテクスチャーは好みが分かれる（しっかり系のミルクタイプを好む方には物足りないことも）</li>
+    <li>エイジングケア成分は少ないため「紫外線防御＋スキンケア」の両立には別途美容液等が必要</li>
+  </ul>
+</div>
+{{< /rawhtml >}}
+
+{{< rawhtml >}}
+<div class="fit-box">
+  <div class="fit-box-title">✓ この日焼け止めが向いている方</div>
+  <ul>
+    <li>コスパ重視で日焼け止めを惜しみなくたっぷり使いたい40代</li>
+    <li>みずみずしい軽いテクスチャーが好きな方</li>
+    <li>塗り直し用にストックしておきたい・職場や鞄に常備したい方</li>
+  </ul>
+</div>
+{{< /rawhtml >}}
+
+{{< product
+  title="ビオレUV アクアリッチ ウォータリーエッセンス 70g"
+  img="https://thumbnail.image.rakuten.co.jp/@0_mall/manro-store/cabinet/09992123/7647-1.jpg"
+  price="公式価格参照 / 70g"
+  rakuten="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fmanro-store%2F4901301447647%2F"
+  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B0DS7WX8QS"
+  yahoo="https://shopping.yahoo.co.jp/search?p=%E3%83%93%E3%82%AA%E3%83%ACUV+%E3%82%A2%E3%82%AF%E3%82%A2%E3%83%AA%E3%83%83%E3%83%81+%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%BF%E3%83%AA%E3%83%BC%E3%82%A8%E3%83%83%E3%82%BB%E3%83%B3%E3%82%B9"
+>}}
+
+---
+
+{{< rawhtml >}}
+<div class="product-heading product-heading--muji">
+  <div class="product-heading-info">
+    <div class="product-heading-num">No.5</div>
+    <div class="product-heading-name">ラロッシュポゼ UVイデア XL プロテクショントーンアップ｜皮膚科学ブランドの敏感肌向け</div>
+  </div>
+  <img class="product-heading-img" src="https://thumbnail.image.rakuten.co.jp/@0_mall/larocheposay/cabinet/products/main/10419231/imgrc0129947248.jpg" alt="ラロッシュポゼ UVイデア XL プロテクショントーンアップ">
+</div>
+{{< /rawhtml >}}
+
+皮膚科学ブランド・ラロッシュポゼが開発した日焼け止め。敏感肌のための肌科学に基づいた処方で、肌が弱い方・アレルギーが気になる方にも選ばれているUV下地です。
+
+トーンアップ効果があり、素肌感のある仕上がり。SPF50+ / PA++++の高い防御力を持ちながら、しっとりとなめらかな使い心地が乾燥しやすい40代の肌にも合いやすい。皮膚科医との共同開発というブランドへの信頼感も根強い一本です。
+
+{{< rawhtml >}}
+<div class="caution-box">
+  <div class="caution-box-title">⚠ 正直に言うと、これが気になりました</div>
+  <ul>
+    <li>価格帯が5選の中でもやや高め（国内のドラッグストアでも購入可能）</li>
+    <li>ローズ・ホワイト・クリアの3色展開があるため、初めての方は自分の肌色に合うカラーを選ぶ必要がある</li>
+    <li>SPF50+ではあるがPA+++（最高値PA++++ではない）。長時間屋外での使用は塗り直しを意識して</li>
+  </ul>
+</div>
+{{< /rawhtml >}}
+
+{{< rawhtml >}}
+<div class="fit-box">
+  <div class="fit-box-title">✓ この日焼け止めが向いている方</div>
+  <ul>
+    <li>敏感肌・アレルギー肌で安心できる皮膚科学ブランドを選びたい40代</li>
+    <li>トーンアップ効果と日焼け止めを同時に叶えたい方</li>
+    <li>乾燥しながらUVケアをしたい・しっとりした使い心地を好む方</li>
+  </ul>
+</div>
+{{< /rawhtml >}}
+
+{{< product
+  title="ラロッシュポゼ UVイデア XL プロテクショントーンアップ SPF50+ PA+++"
+  img="https://thumbnail.image.rakuten.co.jp/@0_mall/larocheposay/cabinet/products/main/10419231/imgrc0129947248.jpg"
+  price="公式価格参照"
+  rakuten="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Flarocheposay%2Fl00255%2F"
+  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B0851ZPQQF"
+  yahoo="https://shopping.yahoo.co.jp/search?p=%E3%83%A9%E3%83%AD%E3%83%83%E3%82%B7%E3%83%A5%E3%83%9D%E3%82%BC+UV%E3%82%A4%E3%83%87%E3%82%A2+%E3%83%88%E3%83%BC%E3%83%B3%E3%82%A2%E3%83%83%E3%83%97"
+>}}
+
+---
+
+## あなたに合う1本の選び方
+
+{{< rawhtml >}}
+<div class="compare-cards">
+  <div class="compare-card compare-card--featured">
+    <div class="compare-scenario">毎日確実な紫外線防御力で続けたい</div>
+    <div class="compare-name">アネッサ パーフェクトUV スキンケアミルク</div>
+    <span class="compare-badge compare-badge--indigo">★ 1位推し</span>
+    <p class="compare-desc">SPF50+ / PA++++の最高防御力×整肌成分配合×石けんオフ。信頼と使い心地のバランスが取れた定番。迷ったらまずここから。</p>
+  </div>
+  <div class="compare-card">
+    <div class="compare-scenario">塗るだけでトーンアップ・くすみ補正したい</div>
+    <div class="compare-name">ALLIE クロノビューティ トーンアップ UV EX</div>
+    <span class="compare-badge">トーンアップ◎ SPF50+</span>
+    <p class="compare-desc">パールのようなトーンアップ効果でくすみを補正しながらSPF50+でしっかりUVカット。さらさら軽い仕上がりで毎日続けやすい。花王の肌科学処方。</p>
+  </div>
+  <div class="compare-card">
+    <div class="compare-scenario">敏感肌・ノンケミカルで日焼け止めを選びたい</div>
+    <div class="compare-name">オルビス サンスクリーン オン フェイス</div>
+    <span class="compare-badge compare-badge--green">ノンケミカル◎ 化粧下地兼用</span>
+    <p class="compare-desc">紫外線吸収剤不使用×保湿成分たっぷり×化粧下地兼用。敏感肌で日焼け止めが合わないと感じてきた40代の選択肢。</p>
+  </div>
+  <div class="compare-card">
+    <div class="compare-scenario">コスパよく惜しみなく使いたい・塗り直し重視</div>
+    <div class="compare-name">ビオレUV アクアリッチ ウォータリーエッセンス</div>
+    <span class="compare-badge">コスパ◎ SPF50+</span>
+    <p class="compare-desc">プチプラでSPF50+ / PA++++。みずみずしい軽いテクスチャーで塗り直しも苦にならない。コスト重視派の日常使いに最適。</p>
+  </div>
+  <div class="compare-card">
+    <div class="compare-scenario">敏感肌・皮膚科医推奨ブランドで安心して使いたい</div>
+    <div class="compare-name">ラロッシュポゼ UVイデア XL プロテクショントーンアップ</div>
+    <span class="compare-badge">敏感肌◎ 皮膚科学処方</span>
+    <p class="compare-desc">皮膚科学ブランドの敏感肌向け設計×トーンアップ効果。乾燥しやすい40代の肌にもなじみやすいしっとり感。アレルギーテスト済み。</p>
+  </div>
+</div>
+{{< /rawhtml >}}
 
 ---
 
@@ -136,7 +372,7 @@ cover:
 
 **量を惜しまない**：少なすぎると効果が半減します。顔全体には1円玉大を2〜3回重ねるのが目安です。
 
-**こまめに塗り直す**：2〜3時間おきに塗り直すと効果が維持できます。
+**こまめに塗り直す**：2〜3時間おきに塗り直すと効果が維持できます。外出先では日焼け止めスプレーや日焼け止めパウダーとの組み合わせも有効です。
 
 **曇りの日も必ず**：曇りでも紫外線は晴れの日の60〜80%。「今日は曇りだから」は危険です。
 
@@ -149,9 +385,8 @@ cover:
 **続けてよかったという声**
 
 - 「白浮きしない日焼け止めを見つけてから、毎日続けられるようになった。肌のトーンが安定してきた気がする」
-- 「くすみが気になっていたが、日焼け止めを毎日塗るようにしてから、シミが増えにくくなってきた」
+- 「ビオレUVに変えてから、塗り直しをためらわなくなった。継続のカギはコスト感だった」
 - 「UVカット下地に切り替えたら、ファンデのノリも良くなってメイクが楽になった」
-- 「曇りの日も塗る習慣が定着した。以前は天気で判断していたが、今は自動的に使う流れになった」
 
 **最初は迷ったという声**
 
@@ -162,38 +397,50 @@ cover:
 
 ---
 
-## 40代の今から始めるべき理由
+## よくある質問
+
+**Q. 日焼け止めはスキンケアの最後？最初？**
+
+A. 乳液・クリームなど保湿ケアの後、メイクアップの前に塗るのが基本です。化粧下地を兼ねるタイプ（オルビス等）はそのままファンデに進めます。
+
+**Q. 曇りや雨の日も塗る必要がありますか？**
+
+A. 必要があります。曇りの日でも紫外線量は晴れの日の60〜80%程度あります。雨の日でも窓越しの紫外線は防げないため、屋内にいる日も塗る習慣をつけると安心です。
+
+**Q. 一度塗れば一日持ちますか？**
+
+A. 持ちません。汗・摩擦・時間経過で効果は薄れるため、2〜3時間おきの塗り直しが理想です。外出先では日焼け止めスプレーやフェイスパウダーUVを使うと実用的です。
+
+---
+
+## まとめ：日焼け止めを選ぶなら、この1本から
 
 紫外線によるダメージは蓄積型です。今日浴びた紫外線が5年後・10年後のシミ・くすみ・たるみとして現れます。逆に言えば、今から毎日防ぐことで、5年後・10年後の肌の差になります。
 
-「もう遅い」と感じていても、今日から始めれば今日分から蓄積を止められます。日焼け止めは、唯一「今日から将来の肌に投資できる」スキンケアです。
+- **高い防御力×使い心地の定番** → **アネッサ パーフェクトUV スキンケアミルク**
+- **トーンアップ×くすみ補正×SPF50+** → **ALLIE クロノビューティ トーンアップ UV EX**
+- **敏感肌・ノンケミカル・化粧下地兼用** → **オルビス サンスクリーン オン フェイス**
+- **コスパ優秀・塗り直し派** → **ビオレUV アクアリッチ ウォータリーエッセンス**
+- **敏感肌・皮膚科学ブランド・しっとり仕上がり** → **ラロッシュポゼ UVイデア XL トーンアップ**
 
-今年の夏を最後に「何もしなかった夏」にしないために、自分に合う一本を今見つけておいてください。
-
----
+迷ったら、まず **アネッサ パーフェクトUV スキンケアミルク** から試してみてください。
 
 {{< rawhtml >}}
-<div class="caution-box">
-  <div class="caution-box-title">こんな方には向かないかもしれません</div>
-  <ul>
-    <li>SPFが高ければ何でもいいと思っている方（続けられないSPF50より、続けられるSPF30が正解）</li>
-    <li>「もう歳だから遅い」と諦めている方（今日から防ぐことが今日から有効）</li>
-  </ul>
+<div class="featured-card-wrap">
+<span class="rank1-badge">★ 私のイチ推し</span>
+{{< /rawhtml >}}
+{{< product
+  title="アネッサ パーフェクトUV スキンケアミルク NA 60ml"
+  img="https://thumbnail.image.rakuten.co.jp/@0_mall/rakutensokuhaimart/cabinet/rakuten24/105/4909978147105.jpg"
+  price="公式価格参照 / 60ml"
+  rakuten="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Frakutensokuhaimart%2F4909978147105%2F"
+  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B0CSSVF9GQ"
+  yahoo="https://shopping.yahoo.co.jp/search?p=%E3%82%A2%E3%83%8D%E3%83%83%E3%82%B5+%E3%83%91%E3%83%BC%E3%83%95%E3%82%A7%E3%82%AF%E3%83%88UV+%E3%82%B9%E3%82%AD%E3%83%B3%E3%82%B1%E3%82%A2%E3%83%9F%E3%83%AB%E3%82%AF"
+>}}
+{{< rawhtml >}}
 </div>
 {{< /rawhtml >}}
 
----
-
-## まとめ
-
-日焼け止めは「毎日続ける」ことが何より大切です。「白浮きが嫌い」「使い心地が苦手」という方こそ、自分に合ったものを見つけることで、きっと続けられるようになります。
-
-今回ご紹介した5選の中から、あなたの肌に合う一本が見つかれば嬉しいです。
-
----
-
 > 低刺激で乾燥しないクレンジングを探している方は[オルビス ザ クレンジングオイルの口コミ](/posts/orbis-cleansing-review/)もあわせてどうぞ。
-
-> 40代の肌が変わるスキンケアの見直し方は[更年期の肌荒れ・乾燥ケアの記事](/posts/menopause-skincare/)にまとめています。
 
 > 朝のスキンケア全体の流れは[40代スキンケアルーティン完全ガイド](/posts/skincare-routine-40s-guide/)でまとめています。

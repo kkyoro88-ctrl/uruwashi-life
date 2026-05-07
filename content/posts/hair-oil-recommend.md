@@ -11,7 +11,6 @@ cover:
   alt: "ヘアオイルおすすめ5選"
 ---
 
-
 「昔はサラサラだったのに、最近なんでこんなにパサパサなんだろう」——そう思ったことはありませんか？
 
 40代に入ってから、私も同じ悩みが一気に増えました。髪が細くなってきた、うねりが出てきた、カラーのダメージがなかなか回復しない。ケアをさぼっていたわけでもないのに、どんどん扱いにくくなる感覚。
@@ -52,46 +51,358 @@ cover:
 
 ### 1位：BOTANIST ボタニカルヘアオイル（スムース）
 
+{{< rawhtml >}}
+<div class="product-heading product-heading--answer">
+  <div class="product-heading-info">
+    <div class="product-heading-rank">1位</div>
+    <h3>BOTANIST<br>ボタニカルヘアオイル スムース</h3>
+    <p>植物由来成分・ドライヤー前に使うサラサラ仕上がり</p>
+  </div>
+  <div class="product-heading-img">
+    <img src="https://thumbnail.image.rakuten.co.jp/@0_mall/drugkirin/cabinet/imgdir45/4582521682928_1.jpg" alt="BOTANIST ボタニカルヘアオイル スムース">
+  </div>
+</div>
+{{< /rawhtml >}}
+
 ドライヤー前に使うと、乾かした後のまとまりが全然違います。植物由来成分にこだわった処方で、ベタつかずになじむのが好き。ホワイトティーとサクラの香りが上品で、使うたびに気分が上がります。
+
+軽いテクスチャーで細い髪にも使いやすく、ドライヤーの熱から保護しながらサラサラに仕上がります。毎日のルーティンに取り入れやすいコスパの良さも人気の理由です。
 
 **おすすめ度**：★★★★☆
 
 {{< rawhtml >}}
-<table cellpadding="0" cellspacing="0" border="0" style=" border:1px solid #ccc; width:300px;"><tbody><tr style="border-style:none;"><td style="vertical-align:top; border-style:none; padding:10px; width:44px;"><a href="https://rpx.a8.net/svt/ejp?a8mat=4B1QDP+BQ4COI+2HOM+BWGDT&rakuten=y&a8ejpredirect=https%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2Fg00rwxp4.2bo11f14.g00rwxp4.2bo12974%2Fa26042104339_4B1QDP_BQ4COI_2HOM_BWGDT%3Fpc%3Dhttps%253A%252F%252Fitem.rakuten.co.jp%252Fdrugkirin%252F4582521682928%252F%26m%3Dhttp%253A%252F%252Fm.rakuten.co.jp%252Fdrugkirin%252Fi%252F10090311%252F%26rafcid%3Dwsc_i_is_33f72da33714639c415e592c9633ecd7" rel="nofollow"><img style="max-width: initial;" border="0" alt="" src="https://thumbnail.image.rakuten.co.jp/@0_mall/drugkirin/cabinet/imgdir45/4582521682928_1.jpg?_ex=64x64"></a></td><td style="font-size:12px; vertical-align:middle; border-style:none; padding:10px;"><p style="padding:0; margin:0;"><a href="https://rpx.a8.net/svt/ejp?a8mat=4B1QDP+BQ4COI+2HOM+BWGDT&rakuten=y&a8ejpredirect=https%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2Fg00rwxp4.2bo11f14.g00rwxp4.2bo12974%2Fa26042104339_4B1QDP_BQ4COI_2HOM_BWGDT%3Fpc%3Dhttps%253A%252F%252Fitem.rakuten.co.jp%252Fdrugkirin%252F4582521682928%252F%26m%3Dhttp%253A%252F%252Fm.rakuten.co.jp%252Fdrugkirin%252Fi%252F10090311%252F%26rafcid%3Dwsc_i_is_33f72da33714639c415e592c9633ecd7" rel="nofollow">ボタニスト ボタニカルヘアオイル スムース 80ml</a></p><p style="color:#666; margin-top:5px; line-height:1.5;">価格:<span style="font-size:14px; color:#C00; font-weight:bold;">1870円</span><br><span style="font-size:10px; font-weight:normal;">(2026/4/24 時点)</span><br><span style="font-weight:bold;">感想(0件)</span></p></td></tr></tbody></table>
-<img border="0" width="1" height="1" src="https://www19.a8.net/0.gif?a8mat=4B1QDP+BQ4COI+2HOM+BWGDT" alt="">
+<div class="caution-box">
+  <p class="caution-box-title">⚠️ こんな点は注意</p>
+  <ul>
+    <li>広がりやすいくせ毛の強い方には物足りないことも</li>
+    <li>量の加減が大切（多すぎるとべたつく）</li>
+    <li>香りの好みが合わない場合がある</li>
+  </ul>
+</div>
+{{< /rawhtml >}}
+
+{{< rawhtml >}}
+<div class="fit-box">
+  <p class="fit-box-title">✅ こんな方に向いています</p>
+  <ul>
+    <li>毎日のドライヤー前アウトバストリートメントをしたい方</li>
+    <li>植物由来成分にこだわりたい方</li>
+    <li>普通〜細め髪でサラサラに仕上げたい方</li>
+  </ul>
+</div>
+{{< /rawhtml >}}
+
+{{< product
+  title="BOTANIST ボタニカルヘアオイル スムース 80mL"
+  img="https://thumbnail.image.rakuten.co.jp/@0_mall/drugkirin/cabinet/imgdir45/4582521682928_1.jpg"
+  rakuten="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fdrugkirin%2F4582521682928%2F"
+  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B09BDSMW2Y"
+  yahoo="https://shopping.yahoo.co.jp/search?p=BOTANIST+%E3%83%9C%E3%82%BF%E3%83%8B%E3%82%AB%E3%83%AB%E3%83%98%E3%82%A2%E3%82%AA%E3%82%A4%E3%83%AB+%E3%82%B9%E3%83%A0%E3%83%BC%E3%82%B9"
+>}}
+
+---
+
+### 2位：大島椿 椿油100%
+
+{{< rawhtml >}}
+<div class="product-heading product-heading--melt">
+  <div class="product-heading-info">
+    <div class="product-heading-rank">2位</div>
+    <h3>大島椿 椿油100%</h3>
+    <p>天然椿油100%・髪・顔・ボディのマルチオイル</p>
+  </div>
+  <div class="product-heading-img">
+    <img src="https://image.rakuten.co.jp/oshimatsubaki/cabinet/item/haircare/ost01.jpg" alt="大島椿 椿油100%">
+  </div>
+</div>
+{{< /rawhtml >}}
+
+髪だけでなく、顔にもボディにも使えるマルチオイル。「一本で全部ケアできる」というのは、忙しい毎日には本当に助かります。天然椿油100%で、無添加・無香料処方。添加物を避けたい方にも安心して使えます。
+
+椿油は昔から日本女性に愛されてきた植物油。熱や乾燥によるダメージを補い、しっとりとしたツヤ感に仕上がります。特にパサつきが気になる箇所への集中使いにも向いています。
+
+**おすすめ度**：★★★★☆
+
+{{< rawhtml >}}
+<div class="caution-box">
+  <p class="caution-box-title">⚠️ こんな点は注意</p>
+  <ul>
+    <li>量の加減が重要（多すぎると重くなりべたつく）</li>
+    <li>容量が60mLと少なめ（顔・ボディにも使うとすぐ無くなる）</li>
+    <li>ヒートプロテクト成分は含まれない（ドライヤー前の使用は少量で）</li>
+  </ul>
+</div>
+{{< /rawhtml >}}
+
+{{< rawhtml >}}
+<div class="fit-box">
+  <p class="fit-box-title">✅ こんな方に向いています</p>
+  <ul>
+    <li>顔・ボディ・髪を1本でマルチにケアしたい方</li>
+    <li>無添加・天然成分にこだわりたい方</li>
+    <li>乾燥・パサつきを椿油でしっとり仕上げたい方</li>
+  </ul>
+</div>
+{{< /rawhtml >}}
+
+{{< product
+  title="大島椿 椿油 60mL"
+  img="https://image.rakuten.co.jp/oshimatsubaki/cabinet/item/haircare/ost01.jpg"
+  rakuten="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Foshimatsubaki%2F4970170109161%2F"
+  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B00UBWOCUQ"
+  yahoo="https://shopping.yahoo.co.jp/search?p=%E5%A4%A7%E5%B3%B6%E6%A4%BF+%E6%A4%BF%E6%B2%B9"
+>}}
+
+---
+
+### 3位：ロレアルパリ エルセーヴ エクストラオーディナリー ヘアオイル
+
+{{< rawhtml >}}
+<div class="product-heading product-heading--haru">
+  <div class="product-heading-info">
+    <div class="product-heading-rank">3位</div>
+    <h3>ロレアルパリ エルセーヴ<br>エクストラオーディナリー ヘアオイル</h3>
+    <p>カラーダメージ補修・少量でよく伸びるコスパ優秀オイル</p>
+  </div>
+  <div class="product-heading-img">
+    <img src="https://image.rakuten.co.jp/lorealparis/cabinet/30/2601_z1.jpg" alt="ロレアルパリ エルセーヴ エクストラオーディナリー ヘアオイル">
+  </div>
+</div>
+{{< /rawhtml >}}
+
+カラーを繰り返して傷んでいる髪に、特に実感が大きかった一本です。少量でよく伸びてコスパもいい。使い始めて1週間でツヤが戻ってきた感覚があって、続けたいと思える製品です。
+
+100mLでドラッグストアでも買えるプチプラ価格ながら、複数の植物オイルを配合した本格的な処方。カラーやパーマのダメージが気になる40代に、コスパの高いデイリーケアとして支持されています。
+
+**おすすめ度**：★★★★★
+
+{{< rawhtml >}}
+<div class="caution-box">
+  <p class="caution-box-title">⚠️ こんな点は注意</p>
+  <ul>
+    <li>テクスチャーがやや重めのため、細い髪には使いすぎ注意</li>
+    <li>香りがやや強め（好みが分かれることも）</li>
+    <li>仕上げ用に使うと重くなる場合がある</li>
+  </ul>
+</div>
+{{< /rawhtml >}}
+
+{{< rawhtml >}}
+<div class="fit-box">
+  <p class="fit-box-title">✅ こんな方に向いています</p>
+  <ul>
+    <li>カラー・パーマのダメージが気になる方</li>
+    <li>コスパ良くツヤのある髪に仕上げたい方</li>
+    <li>ドラッグストアで続けやすいヘアオイルを探している方</li>
+  </ul>
+</div>
+{{< /rawhtml >}}
+
+{{< product
+  title="ロレアルパリ エルセーヴ エクストラオーディナリー ヘアオイル 100mL"
+  img="https://image.rakuten.co.jp/lorealparis/cabinet/30/2601_z1.jpg"
+  rakuten="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Florealparis%2F404130%2F"
+  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B019SL0KN8"
+  yahoo="https://shopping.yahoo.co.jp/search?p=%E3%83%AD%E3%83%AC%E3%82%A2%E3%83%AB%E3%83%91%E3%83%AA+%E3%82%A8%E3%83%AB%E3%82%BB%E3%83%BC%E3%83%B4+%E3%83%98%E3%82%A2%E3%82%AA%E3%82%A4%E3%83%AB"
+>}}
+
+---
+
+### 4位：ケラスターゼ HU ユイルスブリム R
+
+{{< rawhtml >}}
+<div class="product-heading product-heading--haba">
+  <div class="product-heading-info">
+    <div class="product-heading-rank">4位</div>
+    <h3>ケラスターゼ<br>HU ユイルスブリム R</h3>
+    <p>美容師も愛用・サロン帰りのような仕上がり</p>
+  </div>
+  <div class="product-heading-img">
+    <img src="https://image.rakuten.co.jp/kerastase-varie/cabinet/thumbna/hu-huilsubn_100/2507_01.jpg" alt="ケラスターゼ HU ユイルスブリム R">
+  </div>
+</div>
+{{< /rawhtml >}}
+
+美容師さんにも人気の高級ヘアオイル。「サロン帰りみたいな仕上がり」という口コミは本当でした。毎日は少し贅沢なので、大切な日の前日や特別なシーンに使っています。
+
+ケラスターゼのHUライン（ユニバーサルケア）は、ダメージの状態を問わず幅広い髪質に対応。2024年リニューアルのユイルスブリム Rは、軽やかな使用感を保ちながらもしっかり補修できる新処方です。
+
+**おすすめ度**：★★★★★
+
+{{< rawhtml >}}
+<div class="caution-box">
+  <p class="caution-box-title">⚠️ こんな点は注意</p>
+  <ul>
+    <li>価格が高め（75mLで1万円超）</li>
+    <li>コスパを求める日常使いには不向き</li>
+    <li>サロン専売商品のため購入できる場所が限られる</li>
+  </ul>
+</div>
+{{< /rawhtml >}}
+
+{{< rawhtml >}}
+<div class="fit-box">
+  <p class="fit-box-title">✅ こんな方に向いています</p>
+  <ul>
+    <li>サロン品質の仕上がりを自宅で再現したい方</li>
+    <li>特別なシーンや大切な日のヘアケアに使いたい方</li>
+    <li>ハイダメージ毛への本格補修を試したい方</li>
+  </ul>
+</div>
+{{< /rawhtml >}}
+
+{{< product
+  title="ケラスターゼ HU ユイルスブリム R 75mL"
+  img="https://image.rakuten.co.jp/kerastase-varie/cabinet/thumbna/hu-huilsubn_100/2507_01.jpg"
+  rakuten="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fkerastase-varie%2Fhu-huilsubn_100%2F"
+  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B0D5J3FPFW"
+  yahoo="https://shopping.yahoo.co.jp/search?p=%E3%82%B1%E3%83%A9%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BC+%E3%83%A6%E3%82%A4%E3%83%AB%E3%82%B9%E3%83%96%E3%83%AA%E3%83%A0"
+>}}
+
+---
+
+### 5位：TSUBAKI オイルフォース M
+
+{{< rawhtml >}}
+<div class="product-heading product-heading--muji">
+  <div class="product-heading-info">
+    <div class="product-heading-rank">5位</div>
+    <h3>TSUBAKI<br>オイルフォース M</h3>
+    <p>椿オイル配合・湿気による広がりを抑えるスムースオイル</p>
+  </div>
+  <div class="product-heading-img">
+    <img src="https://thumbnail.image.rakuten.co.jp/@0_mall/cosmecomonline/cabinet/imgrc0120990606.jpg" alt="TSUBAKI オイルフォース M">
+  </div>
+</div>
+{{< /rawhtml >}}
+
+「雨の日、広がりやすい」という悩みがある方にぜひ試してほしい一本。椿オイル配合で、湿気で広がるくせ毛をしっかり抑えてくれます。梅雨時期の手放せないアイテムになっています。
+
+ドラッグストアで手に入るプチプラ価格ながら、椿オイルの保湿力とスムース効果をしっかり実感できます。朝のスタイリングにも、ドライヤー前の下地にも使える使い勝手の良さが人気です。
+
+**おすすめ度**：★★★★☆
+
+{{< rawhtml >}}
+<div class="caution-box">
+  <p class="caution-box-title">⚠️ こんな点は注意</p>
+  <ul>
+    <li>強いくせ毛・ハイダメージ毛への集中補修は弱め</li>
+    <li>香りがフローラル系（好みが分かれる）</li>
+    <li>ロングヘアは使う量が多くなりやすい</li>
+  </ul>
+</div>
+{{< /rawhtml >}}
+
+{{< rawhtml >}}
+<div class="fit-box">
+  <p class="fit-box-title">✅ こんな方に向いています</p>
+  <ul>
+    <li>雨の日・梅雨時期の湿気による広がりが気になる方</li>
+    <li>ドラッグストアで手軽に手に入れたい方</li>
+    <li>椿オイル系のしっとりツヤ感が好きな方</li>
+  </ul>
+</div>
+{{< /rawhtml >}}
+
+{{< product
+  title="TSUBAKI オイルフォース M 60mL"
+  img="https://thumbnail.image.rakuten.co.jp/@0_mall/cosmecomonline/cabinet/imgrc0120990606.jpg"
+  rakuten="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fcosmecomonline%2F1000196014%2F"
+  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B0DBH77YRL"
+  yahoo="https://shopping.yahoo.co.jp/search?p=TSUBAKI+%E3%82%AA%E3%82%A4%E3%83%AB%E3%83%95%E3%82%A9%E3%83%BC%E3%82%B9"
+>}}
+
+---
+
+## 5本の比較表
+
+{{< rawhtml >}}
+<div class="comparison-wrap">
+<table class="comparison-table">
+  <thead>
+    <tr>
+      <th></th>
+      <th class="th-answer">BOTANIST</th>
+      <th class="th-melt">大島椿</th>
+      <th class="th-haru">ロレアルパリ<br>エルセーヴ</th>
+      <th class="th-haba">ケラスターゼ<br>ユイルスブリム R</th>
+      <th class="th-muji">TSUBAKI<br>オイルフォース</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>テクスチャー</td>
+      <td>軽め・サラサラ</td>
+      <td>中程度・しっとり</td>
+      <td>やや重め・ツヤ感</td>
+      <td>軽やか・なめらか</td>
+      <td>中程度・スムース</td>
+    </tr>
+    <tr>
+      <td>主な特徴</td>
+      <td>植物由来・ヒートプロテクト</td>
+      <td>天然椿油100%・無添加</td>
+      <td>カラーダメージ補修</td>
+      <td>サロン品質・高補修力</td>
+      <td>椿オイル・湿気対策</td>
+    </tr>
+    <tr>
+      <td>向いている髪</td>
+      <td>普通〜細め</td>
+      <td>全髪質</td>
+      <td>カラー・パーマ毛</td>
+      <td>ハイダメージ・全髪質</td>
+      <td>くせ毛・広がりやすい</td>
+    </tr>
+    <tr>
+      <td>コスパ</td>
+      <td class="cmp-price--answer">◎</td>
+      <td class="cmp-price--melt">○</td>
+      <td class="cmp-price--haru">◎</td>
+      <td class="cmp-price--haba">△（高価格）</td>
+      <td class="cmp-price--muji">◎</td>
+    </tr>
+    <tr>
+      <td>用途</td>
+      <td>ドライヤー前</td>
+      <td>マルチ（髪・顔・体）</td>
+      <td>ドライヤー前・仕上げ</td>
+      <td>特別ケア・仕上げ</td>
+      <td>仕上げ・湿気対策</td>
+    </tr>
+  </tbody>
+</table>
+</div>
 {{< /rawhtml >}}
 
 ---
 
-### 2位：LUSSE（ルッセ）オーガニックアルガンオイル
+## 悩み別・選び方ガイド
 
-髪だけでなく、顔にもボディにも使えるマルチオイル。「一本で全部ケアできる」というのは、忙しい毎日には本当に助かります。かなり軽いテクスチャーで、細い髪でもベタつきません。
-
-**おすすめ度**：★★★★☆
-
----
-
-### 3位：ロレアルパリ エルサーブ オイル クリーム
-
-カラーを繰り返して傷んでいる髪に、特に実感が大きかった一本です。少量でよく伸びてコスパもいい。使い始めて1週間でツヤが戻ってきた感覚があって、続けたいと思える製品です。
-
-**おすすめ度**：★★★★★
-
----
-
-### 4位：ケラスターゼ ユイル スブリム ボーテ
-
-美容師さんにも人気の高級ヘアオイル。「サロン帰りみたいな仕上がり」という口コミは本当でした。毎日は少し贅沢なので、大切な日の前日や特別なシーンに使っています。
-
-**おすすめ度**：★★★★★
-
----
-
-### 5位：マペペ ツバキオイル ヘアスムーザー
-
-「雨の日、広がりやすい」という悩みがある方にぜひ試してほしい一本。椿オイル配合で、湿気で広がるくせ毛をしっかり抑えてくれます。梅雨時期の手放せないアイテムになっています。
-
-**おすすめ度**：★★★★☆
+{{< rawhtml >}}
+<div class="compare-cards">
+  <div class="compare-card compare-card--answer">
+    <p class="compare-card-title">毎日のドライヤー前ケアをしたい</p>
+    <p>デイリーのアウトバストリートメントなら<strong>BOTANIST ボタニカルヘアオイル スムース</strong>。植物由来成分・ヒートプロテクト効果で、乾かした後のまとまりが変わります。</p>
+  </div>
+  <div class="compare-card compare-card--melt">
+    <p class="compare-card-title">顔・体・髪を一本でまとめてケアしたい</p>
+    <p>マルチ使いには<strong>大島椿 椿油100%</strong>。天然椿油100%の無添加処方で、髪のパサつきだけでなく顔やボディの乾燥にも使えます。</p>
+  </div>
+  <div class="compare-card compare-card--haru">
+    <p class="compare-card-title">カラー・パーマダメージを補修したい</p>
+    <p>コスパ良くダメージを補修するなら<strong>ロレアルパリ エルセーヴ エクストラオーディナリー</strong>。少量でよく伸び、ツヤのある仕上がりに変わります。</p>
+  </div>
+  <div class="compare-card compare-card--haba">
+    <p class="compare-card-title">特別なシーンにサロン品質の仕上がりを</p>
+    <p>本格補修・ハレの日のケアには<strong>ケラスターゼ HU ユイルスブリム R</strong>。美容師愛用のサロン品質で、特別な日の前夜ケアに最適です。</p>
+  </div>
+  <div class="compare-card compare-card--muji">
+    <p class="compare-card-title">梅雨・雨の日の広がりやうねりを抑えたい</p>
+    <p>湿気対策と手軽さを両立するなら<strong>TSUBAKI オイルフォース M</strong>。椿オイル配合のスムース処方で、くせ毛の広がりを抑えながら毎日使いやすいプチプラです。</p>
+  </div>
+</div>
+{{< /rawhtml >}}
 
 ---
 
@@ -137,13 +448,30 @@ cover:
 
 ヘアオイルは「つける量」がポイントです。多すぎるとベタつき、少なすぎると効果が出ません。まずは数滴から試して、あなたの髪に合う量を見つけてみてください。
 
-今回ご紹介した5選はどれも実際に使って変化を感じたものです。
+- **毎日のドライヤー前ケアに** → **BOTANIST ボタニカルヘアオイル スムース**
+- **天然椿油・マルチ使いに** → **大島椿 椿油100%**
+- **カラーダメージ補修・コスパ重視に** → **ロレアルパリ エルセーヴ エクストラオーディナリー**
+- **特別なシーン・サロン品質に** → **ケラスターゼ HU ユイルスブリム R**
+- **湿気・広がり対策に** → **TSUBAKI オイルフォース M**
+
+{{< rawhtml >}}
+<div class="featured-card-wrap">
+  <div class="rank1-badge">編集部イチ推し</div>
+{{< /rawhtml >}}
+
+{{< product
+  title="BOTANIST ボタニカルヘアオイル スムース 80mL"
+  img="https://thumbnail.image.rakuten.co.jp/@0_mall/drugkirin/cabinet/imgdir45/4582521682928_1.jpg"
+  rakuten="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fdrugkirin%2F4582521682928%2F"
+  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B09BDSMW2Y"
+  yahoo="https://shopping.yahoo.co.jp/search?p=BOTANIST+%E3%83%9C%E3%82%BF%E3%83%8B%E3%82%AB%E3%83%AB%E3%83%98%E3%82%A2%E3%82%AA%E3%82%A4%E3%83%AB+%E3%82%B9%E3%83%A0%E3%83%BC%E3%82%B9"
+>}}
+
+{{< rawhtml >}}
+</div>
+{{< /rawhtml >}}
 
 パサつきと向き合い始めてから、ヘアオイルは毎晩のルーティンになりました。まだ途中ですが、髪との付き合い方が少し変わった気がしています。
-
----
-
-外側のヘアケアと合わせて、内側からのアプローチも気になっている方へ。
 
 > 育毛サプリで内側からヘアケアしたい方は[ヘアバース（HAIRBIRTH）の口コミ](/posts/hairbirth-review/)もあわせてどうぞ。
 

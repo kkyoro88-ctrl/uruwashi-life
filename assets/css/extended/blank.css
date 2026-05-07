@@ -2202,6 +2202,17 @@ details.single-toc[open] .single-toc-title::after { content: '▴'; }
   background: #b8d8b8;
   color: #2a5a2a;
 }
+/* 化粧水記事用 */
+.comparison-table .th-haba       { background: linear-gradient(135deg, #4a4a99, #8888cc); color: white; }
+.comparison-table .th-ipsa       { background: linear-gradient(135deg, #1a6080, #3a9aaa); color: white; }
+.comparison-table .th-muji       { background: linear-gradient(135deg, #6a4a30, #9a8060); color: white; }
+/* NMN記事用 */
+.comparison-table .th-gaah       { background: linear-gradient(135deg, #a03050, #c0556e); color: white; }
+.comparison-table .th-premium    { background: linear-gradient(135deg, #7a5c1e, #c49a2a); color: white; }
+.comparison-table .th-nonlie     { background: linear-gradient(135deg, #0e5a5a, #1a9a9a); color: white; }
+.comparison-table .th-oirost     { background: linear-gradient(135deg, #2a5a90, #4a7ab8); color: white; }
+.comparison-table .th-brainsleep { background: linear-gradient(135deg, #4a3a88, #7a5abb); color: white; }
+.comparison-table--5col .th-empty { width: 14%; }
 .comparison-table .top-badge {
   background: rgba(255,255,255,0.25);
   font-size: 0.65rem;
@@ -2244,9 +2255,17 @@ details.single-toc[open] .single-toc-title::after { content: '▴'; }
   display: block;
   color: #888;
 }
-.cmp-price--answer { color: #8b6914; }
-.cmp-price--melt   { color: #b06080; }
-.cmp-price--haru   { color: #2a7a2a; }
+.cmp-price--answer     { color: #8b6914; }
+.cmp-price--melt       { color: #b06080; }
+.cmp-price--haru       { color: #2a7a2a; }
+.cmp-price--haba       { color: #4a4a99; }
+.cmp-price--ipsa       { color: #1a6080; }
+.cmp-price--muji       { color: #6a4a30; }
+.cmp-price--gaah       { color: #9a2a48; }
+.cmp-price--premium    { color: #8b6914; }
+.cmp-price--nonlie     { color: #0e5a5a; }
+.cmp-price--oirost     { color: #2a5a90; }
+.cmp-price--brainsleep { color: #5a3a9a; }
 .cmp-week-badge {
   background: #fff8e6;
   color: #7a5a00;
@@ -2286,9 +2305,22 @@ details.single-toc[open] .single-toc-title::after { content: '▴'; }
   border-radius: 0 10px 10px 0;
   margin: 36px 0 20px;
 }
-.product-heading--answer { background: #fffbf0; border-left: 5px solid #c49a2a; }
-.product-heading--melt   { background: #fff8fb; border-left: 5px solid #c06080; }
-.product-heading--haru   { background: #f6fff8; border-left: 5px solid #3a9a4a; }
+.product-heading--answer     { background: #fffbf0; border-left: 5px solid #c49a2a; }
+.product-heading--melt       { background: #fff8fb; border-left: 5px solid #c06080; }
+.product-heading--haru       { background: #f6fff8; border-left: 5px solid #3a9a4a; }
+/* 化粧水記事用追加バリアント */
+.product-heading--haba       { background: #f5f5ff; border-left: 5px solid #8888cc; }
+.product-heading--ipsa       { background: #f0f8ff; border-left: 5px solid #3a8aaa; }
+.product-heading--muji       { background: #f8f4ee; border-left: 5px solid #9a8060; }
+.product-heading--haba       .product-heading-num { color: #4a4a99; }
+.product-heading--ipsa       .product-heading-num { color: #1a6080; }
+.product-heading--muji       .product-heading-num { color: #6a4a30; }
+/* NMN記事用追加バリアント */
+.product-heading--gaah       { background: #fff5f7; border-left: 5px solid #c0556e; }
+.product-heading--premium    { background: #fef8e8; border-left: 5px solid #c49a2a; }
+.product-heading--nonlie     { background: #f0fafa; border-left: 5px solid #1a8a8a; }
+.product-heading--oirost     { background: #f0f4ff; border-left: 5px solid #4a7ab8; }
+.product-heading--brainsleep { background: #f5f0ff; border-left: 5px solid #7a5abb; }
 .product-heading-info { flex: 1; }
 .product-heading-num {
   font-size: 0.7rem;
@@ -2296,9 +2328,14 @@ details.single-toc[open] .single-toc-title::after { content: '▴'; }
   letter-spacing: 0.08em;
   margin-bottom: 5px;
 }
-.product-heading--answer .product-heading-num { color: #8a6800; }
-.product-heading--melt   .product-heading-num { color: #9a3060; }
-.product-heading--haru   .product-heading-num { color: #1e6030; }
+.product-heading--answer     .product-heading-num { color: #8a6800; }
+.product-heading--melt       .product-heading-num { color: #9a3060; }
+.product-heading--haru       .product-heading-num { color: #1e6030; }
+.product-heading--gaah       .product-heading-num { color: #8a2848; }
+.product-heading--premium    .product-heading-num { color: #8a6800; }
+.product-heading--nonlie     .product-heading-num { color: #0e5a5a; }
+.product-heading--oirost     .product-heading-num { color: #2a5a90; }
+.product-heading--brainsleep .product-heading-num { color: #5a3a9a; }
 .product-heading-name {
   font-size: 1.05rem;
   font-weight: 700;
