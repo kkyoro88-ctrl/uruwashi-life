@@ -244,7 +244,7 @@ LEDデバイスは即効性こそありませんが、週3〜4回の光刺激が
 {{< rawhtml >}}
 <div style="text-align:center; margin: 2em 0;">
   <a href="https://px.a8.net/svt/ejp?a8mat=4B1R5P+FYJBJM+54TM+60OXE" target="_blank" rel="nofollow noopener" style="display:inline-block; background:#c97d7d; color:#fff; padding:16px 40px; border-radius:30px; font-size:1.1em; font-weight:bold; text-decoration:none;">
-    CurrentBody LED頭皮ケアデバイスをGWセール価格で見てみる →
+    CurrentBody LED頭皮ケアデバイスを公式サイトで見てみる →
   </a>
   <img border="0" width="1" height="1" src="https://www13.a8.net/0.gif?a8mat=4B1R5P+FYJBJM+54TM+60OXE" alt="">
 </div>
