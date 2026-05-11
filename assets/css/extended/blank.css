@@ -263,26 +263,48 @@ header.header { display: none !important; }
 .post-section { margin-bottom: 52px; }
 
 /* ── うるわしメモ（オリジナル） ── */
-.editor-tip {
-  background: linear-gradient(135deg, #fff0eb 0%, #fde8e0 100%);
-  border-left: 4px solid var(--accent);
-  border-radius: 0 var(--radius) var(--radius) 0;
-  padding: 14px 18px;
-  margin: -12px 0 40px;
+/* ── 人気まとめ記事カード ── */
+.popular-summary {
+  margin: 0 0 40px;
 }
-.editor-tip-label {
-  display: inline-block;
-  font-size: 0.72rem;
+.popular-summary-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 12px;
+}
+@media (max-width: 640px) {
+  .popular-summary-grid {
+    grid-template-columns: 1fr;
+  }
+}
+.popular-summary-card {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  padding: 16px 14px;
+  background: #fff;
+  border: 1.5px solid #f0dede;
+  border-radius: 10px;
+  text-decoration: none;
+  transition: border-color 0.2s, box-shadow 0.2s;
+}
+.popular-summary-card:hover {
+  border-color: var(--accent);
+  box-shadow: 0 3px 10px rgba(180,80,80,0.10);
+}
+.popular-summary-icon {
+  font-size: 1.4rem;
+}
+.popular-summary-title {
+  font-size: 0.88rem;
   font-weight: 700;
-  color: var(--accent-dark);
-  letter-spacing: 0.1em;
-  margin-bottom: 6px;
-}
-.editor-tip-text {
-  margin: 0;
-  font-size: 0.85rem;
   color: var(--primary);
-  line-height: 1.75;
+  line-height: 1.45;
+}
+.popular-summary-sub {
+  font-size: 0.75rem;
+  color: #888;
+  line-height: 1.4;
 }
 
 /* ── カテゴリ2列グリッド（cosme-funese参考） ── */
