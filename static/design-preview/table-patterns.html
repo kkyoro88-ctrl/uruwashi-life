@@ -1,0 +1,443 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>テーブルデザイン 5パターン提案</title>
+<style>
+  :root {
+    --accent: #b85c70;
+    --accent-light: #f5e8ec;
+    --accent-pale: #fdf4f6;
+  }
+  body {
+    font-family: 'Noto Sans JP', sans-serif;
+    background: #f8f4f0;
+    color: #2a2a2a;
+    margin: 0;
+    padding: 24px 16px;
+  }
+  .pattern-block {
+    background: #fff;
+    border-radius: 14px;
+    padding: 28px 24px;
+    margin-bottom: 40px;
+    box-shadow: 0 2px 16px rgba(0,0,0,0.07);
+  }
+  .pattern-label {
+    display: inline-block;
+    background: var(--accent);
+    color: #fff;
+    font-size: 0.75rem;
+    font-weight: 700;
+    padding: 4px 14px;
+    border-radius: 20px;
+    margin-bottom: 6px;
+    letter-spacing: 0.05em;
+  }
+  .pattern-name {
+    font-size: 1.1rem;
+    font-weight: 700;
+    margin: 0 0 6px;
+    color: #1a1a1a;
+  }
+  .pattern-desc {
+    font-size: 0.8rem;
+    color: #888;
+    margin: 0 0 20px;
+  }
+
+  /* ──────────────────────────────── */
+  /* Pattern A: フルワイド・左列強調  */
+  /* ──────────────────────────────── */
+  .table-a {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.9rem;
+    border-radius: 10px;
+    overflow: hidden;
+  }
+  .table-a thead tr {
+    background: var(--accent);
+  }
+  .table-a th {
+    color: #fff;
+    padding: 13px 20px;
+    font-weight: 700;
+    font-size: 0.85rem;
+    text-align: left;
+  }
+  .table-a td {
+    padding: 12px 20px;
+    border-bottom: 1px solid #f0e0e5;
+    vertical-align: middle;
+  }
+  .table-a td:first-child {
+    font-weight: 700;
+    color: var(--accent);
+    background: var(--accent-pale);
+    width: 38%;
+  }
+  .table-a tr:last-child td { border-bottom: none; }
+  .table-a tr:hover td { background: #fef5f7; }
+  .table-a tr:hover td:first-child { background: #fae8ed; }
+
+  /* ──────────────────────────────── */
+  /* Pattern B: カード行スタイル      */
+  /* ──────────────────────────────── */
+  .table-b-wrap {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  .table-b-header {
+    display: grid;
+    grid-template-columns: 1fr 1.8fr;
+    background: var(--accent);
+    border-radius: 8px;
+    padding: 10px 18px;
+    color: #fff;
+    font-weight: 700;
+    font-size: 0.85rem;
+  }
+  .table-b-row {
+    display: grid;
+    grid-template-columns: 1fr 1.8fr;
+    background: #fff;
+    border: 1.5px solid #f0e0e5;
+    border-radius: 8px;
+    overflow: hidden;
+    font-size: 0.88rem;
+  }
+  .table-b-cell-left {
+    background: var(--accent-pale);
+    padding: 12px 16px;
+    font-weight: 700;
+    color: var(--accent);
+    border-right: 2px solid #f0e0e5;
+    display: flex;
+    align-items: center;
+  }
+  .table-b-cell-right {
+    padding: 12px 16px;
+    display: flex;
+    align-items: center;
+    color: #333;
+  }
+
+  /* ──────────────────────────────── */
+  /* Pattern C: ドットバッジ付きリスト */
+  /* ──────────────────────────────── */
+  .table-c {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.9rem;
+  }
+  .table-c thead tr {
+    background: linear-gradient(90deg, var(--accent) 0%, #c87090 100%);
+    border-radius: 10px 10px 0 0;
+  }
+  .table-c th {
+    color: #fff;
+    padding: 13px 20px;
+    font-weight: 700;
+    font-size: 0.85rem;
+    text-align: left;
+  }
+  .table-c tr:nth-child(odd) td { background: #fffbfc; }
+  .table-c tr:nth-child(even) td { background: var(--accent-pale); }
+  .table-c td {
+    padding: 13px 20px;
+    border-bottom: 1px solid #f2e5e9;
+    vertical-align: middle;
+    font-size: 0.88rem;
+  }
+  .table-c td:first-child {
+    padding-left: 14px;
+  }
+  .table-c .dot {
+    display: inline-block;
+    width: 8px; height: 8px;
+    background: var(--accent);
+    border-radius: 50%;
+    margin-right: 8px;
+    vertical-align: middle;
+    flex-shrink: 0;
+  }
+  .table-c td:first-child { display: flex; align-items: center; gap: 0; font-weight: 600; }
+  .table-c tr:last-child td { border-bottom: none; }
+
+  /* ──────────────────────────────── */
+  /* Pattern D: ミニマル罫線スタイル  */
+  /* ──────────────────────────────── */
+  .table-d {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.9rem;
+  }
+  .table-d th {
+    border-bottom: 2.5px solid var(--accent);
+    padding: 10px 16px;
+    font-weight: 700;
+    font-size: 0.83rem;
+    color: var(--accent);
+    text-align: left;
+    letter-spacing: 0.04em;
+  }
+  .table-d td {
+    padding: 13px 16px;
+    border-bottom: 1px solid #ecdde2;
+    vertical-align: middle;
+    font-size: 0.88rem;
+  }
+  .table-d td:first-child {
+    font-weight: 700;
+    color: #2a2a2a;
+  }
+  .table-d tr:last-child td { border-bottom: none; }
+  .table-d tr:hover td { background: #fdf7f8; }
+
+  /* ──────────────────────────────── */
+  /* Pattern E: タイル型（スマホ最適）*/
+  /* ──────────────────────────────── */
+  .table-e-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 10px;
+  }
+  .table-e-header {
+    background: var(--accent);
+    color: #fff;
+    border-radius: 8px;
+    padding: 10px 16px;
+    font-weight: 700;
+    font-size: 0.83rem;
+    text-align: center;
+    grid-column: span 2;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 0;
+  }
+  .table-e-header span { display: block; text-align: left; }
+  .table-e-card {
+    background: #fff;
+    border: 1.5px solid #f0e0e5;
+    border-radius: 8px;
+    padding: 12px 14px;
+  }
+  .table-e-card-label {
+    font-size: 0.7rem;
+    font-weight: 700;
+    color: var(--accent);
+    letter-spacing: 0.06em;
+    margin-bottom: 4px;
+    text-transform: uppercase;
+  }
+  .table-e-card-value {
+    font-size: 0.88rem;
+    font-weight: 700;
+    color: #2a2a2a;
+    margin-bottom: 6px;
+    line-height: 1.4;
+  }
+  .table-e-card-desc {
+    font-size: 0.8rem;
+    color: #666;
+    line-height: 1.5;
+    border-top: 1px solid #f0e0e5;
+    padding-top: 6px;
+  }
+
+  .note {
+    font-size: 0.75rem;
+    color: #aaa;
+    margin-top: 12px;
+    padding-top: 12px;
+    border-top: 1px dashed #e0ccd3;
+  }
+</style>
+</head>
+<body>
+
+<h2 style="text-align:center; color:#b85c70; margin-bottom:8px;">テーブルデザイン 5パターン提案</h2>
+<p style="text-align:center; font-size:0.82rem; color:#888; margin-bottom:32px;">うるわし生活 ブログ全記事共通テーブルスタイル</p>
+
+<!-- ═══════════════════════════════ -->
+<!-- Pattern A                       -->
+<!-- ═══════════════════════════════ -->
+<div class="pattern-block">
+  <span class="pattern-label">Pattern A</span>
+  <p class="pattern-name">フルワイド・左列ピンク強調</p>
+  <p class="pattern-desc">左列を常にピンク背景で強調。ヘッダーは単色でシンプルに。幅の問題も完全解消。</p>
+
+  <table class="table-a">
+    <thead>
+      <tr><th>変化</th><th>原因</th></tr>
+    </thead>
+    <tbody>
+      <tr><td>乾燥がひどくなる</td><td>皮脂分泌の低下・バリア機能の衰え</td></tr>
+      <tr><td>シワが深くなる</td><td>コラーゲン・エラスチン減少</td></tr>
+      <tr><td>血管・骨が目立つ</td><td>皮下脂肪の減少・皮膚の薄化</td></tr>
+    </tbody>
+  </table>
+
+  <table class="table-a" style="margin-top:16px;">
+    <thead>
+      <tr><th>成分</th><th>働き</th></tr>
+    </thead>
+    <tbody>
+      <tr><td>セラミド</td><td>バリア機能を補い水分を保持</td></tr>
+      <tr><td>ヒアルロン酸・コラーゲン</td><td>角層への保湿・ハリ感</td></tr>
+      <tr><td>ナイアシンアミド</td><td>シミ・くすみ・シワ改善（医薬部外品のもの）</td></tr>
+      <tr><td>スクワラン・ホホバオイル</td><td>油分補給・しっとり感の持続</td></tr>
+      <tr><td>尿素</td><td>角質を柔らかくし保湿力を高める</td></tr>
+    </tbody>
+  </table>
+  <p class="note">→ 左列の固定背景色で読み取りやすくなる。現状との差分は左列CSS追加のみ。実装コスト：低</p>
+</div>
+
+<!-- ═══════════════════════════════ -->
+<!-- Pattern B                       -->
+<!-- ═══════════════════════════════ -->
+<div class="pattern-block">
+  <span class="pattern-label">Pattern B</span>
+  <p class="pattern-name">カード行スタイル（テーブルレス）</p>
+  <p class="pattern-desc">HTMLのtableタグを使わずCSSグリッドで再現。行ごとにカード感が出る。</p>
+
+  <div class="table-b-wrap">
+    <div class="table-b-header">
+      <span>変化</span><span>原因</span>
+    </div>
+    <div class="table-b-row">
+      <div class="table-b-cell-left">乾燥がひどくなる</div>
+      <div class="table-b-cell-right">皮脂分泌の低下・バリア機能の衰え</div>
+    </div>
+    <div class="table-b-row">
+      <div class="table-b-cell-left">シワが深くなる</div>
+      <div class="table-b-cell-right">コラーゲン・エラスチン減少</div>
+    </div>
+    <div class="table-b-row">
+      <div class="table-b-cell-left">血管・骨が目立つ</div>
+      <div class="table-b-cell-right">皮下脂肪の減少・皮膚の薄化</div>
+    </div>
+  </div>
+  <p class="note">→ tableタグ非依存なので幅の問題が根本解決。shortcode化できる。実装コスト：中</p>
+</div>
+
+<!-- ═══════════════════════════════ -->
+<!-- Pattern C                       -->
+<!-- ═══════════════════════════════ -->
+<div class="pattern-block">
+  <span class="pattern-label">Pattern C</span>
+  <p class="pattern-name">グラデーションヘッダー＋ドット付き</p>
+  <p class="pattern-desc">ヘッダーにグラデーション。左列にドットアクセントで視線誘導。</p>
+
+  <table class="table-c" style="width:100%; border-radius:10px; overflow:hidden;">
+    <thead>
+      <tr><th>成分</th><th>働き</th></tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="dot"></span>セラミド</td>
+        <td>バリア機能を補い水分を保持</td>
+      </tr>
+      <tr>
+        <td><span class="dot"></span>ヒアルロン酸・コラーゲン</td>
+        <td>角層への保湿・ハリ感</td>
+      </tr>
+      <tr>
+        <td><span class="dot"></span>ナイアシンアミド</td>
+        <td>シミ・くすみ・シワ改善（医薬部外品のもの）</td>
+      </tr>
+      <tr>
+        <td><span class="dot"></span>スクワラン・ホホバオイル</td>
+        <td>油分補給・しっとり感の持続</td>
+      </tr>
+      <tr>
+        <td><span class="dot"></span>尿素</td>
+        <td>角質を柔らかくし保湿力を高める</td>
+      </tr>
+    </tbody>
+  </table>
+  <p class="note">→ 視覚的に華やかになる。グラデーション＋ドットで「美容サイトらしさ」が増す。実装コスト：低</p>
+</div>
+
+<!-- ═══════════════════════════════ -->
+<!-- Pattern D                       -->
+<!-- ═══════════════════════════════ -->
+<div class="pattern-block">
+  <span class="pattern-label">Pattern D</span>
+  <p class="pattern-name">ミニマル罫線スタイル（テキスト重視）</p>
+  <p class="pattern-desc">背景色を使わず罫線だけでまとめる。文章量が多いページでも圧迫感なし。</p>
+
+  <table class="table-d">
+    <thead>
+      <tr><th>変化</th><th>原因</th></tr>
+    </thead>
+    <tbody>
+      <tr><td>乾燥がひどくなる</td><td>皮脂分泌の低下・バリア機能の衰え</td></tr>
+      <tr><td>シワが深くなる</td><td>コラーゲン・エラスチン減少</td></tr>
+      <tr><td>血管・骨が目立つ</td><td>皮下脂肪の減少・皮膚の薄化</td></tr>
+    </tbody>
+  </table>
+
+  <table class="table-d" style="margin-top:16px;">
+    <thead>
+      <tr><th>成分</th><th>働き</th></tr>
+    </thead>
+    <tbody>
+      <tr><td>セラミド</td><td>バリア機能を補い水分を保持</td></tr>
+      <tr><td>ヒアルロン酸・コラーゲン</td><td>角層への保湿・ハリ感</td></tr>
+      <tr><td>ナイアシンアミド</td><td>シミ・くすみ・シワ改善（医薬部外品のもの）</td></tr>
+      <tr><td>スクワラン・ホホバオイル</td><td>油分補給・しっとり感の持続</td></tr>
+      <tr><td>尿素</td><td>角質を柔らかくし保湿力を高める</td></tr>
+    </tbody>
+  </table>
+  <p class="note">→ 最もシンプル。読み物コンテンツに溶け込みやすい。比較表には少し物足りないかも。実装コスト：低</p>
+</div>
+
+<!-- ═══════════════════════════════ -->
+<!-- Pattern E                       -->
+<!-- ═══════════════════════════════ -->
+<div class="pattern-block">
+  <span class="pattern-label">Pattern E</span>
+  <p class="pattern-name">タイル型カード（スマホ特化・2列グリッド）</p>
+  <p class="pattern-desc">スマホで「左右に2列」のカード表示。各カードに見出し＋説明の縦構造で情報が整理しやすい。</p>
+
+  <div class="table-e-grid">
+    <div class="table-e-card">
+      <div class="table-e-card-label">変化</div>
+      <div class="table-e-card-value">乾燥がひどくなる</div>
+      <div class="table-e-card-desc">皮脂分泌の低下・バリア機能の衰え</div>
+    </div>
+    <div class="table-e-card">
+      <div class="table-e-card-label">変化</div>
+      <div class="table-e-card-value">シワが深くなる</div>
+      <div class="table-e-card-desc">コラーゲン・エラスチン減少</div>
+    </div>
+    <div class="table-e-card">
+      <div class="table-e-card-label">変化</div>
+      <div class="table-e-card-value">血管・骨が目立つ</div>
+      <div class="table-e-card-desc">皮下脂肪の減少・皮膚の薄化</div>
+    </div>
+    <div class="table-e-card">
+      <div class="table-e-card-label">成分</div>
+      <div class="table-e-card-value">セラミド</div>
+      <div class="table-e-card-desc">バリア機能を補い水分を保持</div>
+    </div>
+    <div class="table-e-card">
+      <div class="table-e-card-label">成分</div>
+      <div class="table-e-card-value">ナイアシンアミド</div>
+      <div class="table-e-card-desc">シミ・くすみ・シワ改善（医薬部外品のもの）</div>
+    </div>
+    <div class="table-e-card">
+      <div class="table-e-card-label">成分</div>
+      <div class="table-e-card-value">尿素</div>
+      <div class="table-e-card-desc">角質を柔らかくし保湿力を高める</div>
+    </div>
+  </div>
+  <p class="note">→ テーブルの幅問題を根本的に回避。shortcode化して記事側で使う形になる。実装コスト：高（記事側の書き換えも必要）</p>
+</div>
+
+</body>
+</html>
