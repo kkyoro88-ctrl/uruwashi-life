@@ -2321,6 +2321,8 @@ details.single-toc[open] .single-toc-title::after { content: '▴'; }
 .product-heading--nonlie     { background: #f0fafa; border-left: 5px solid #1a8a8a; }
 .product-heading--oirost     { background: #f0f4ff; border-left: 5px solid #4a7ab8; }
 .product-heading--brainsleep { background: #f5f0ff; border-left: 5px solid #7a5abb; }
+.product-heading--nmn15000   { background: #fff8fc; border-left: 5px solid #c97d7d; }
+.product-heading--kenon      { background: #fff6f5; border-left: 5px solid #c85048; }
 .product-heading-info { flex: 1; }
 .product-heading-num {
   font-size: 0.7rem;
@@ -2336,6 +2338,8 @@ details.single-toc[open] .single-toc-title::after { content: '▴'; }
 .product-heading--nonlie     .product-heading-num { color: #0e5a5a; }
 .product-heading--oirost     .product-heading-num { color: #2a5a90; }
 .product-heading--brainsleep .product-heading-num { color: #5a3a9a; }
+.product-heading--nmn15000   .product-heading-num { color: #9a4d4d; }
+.product-heading--kenon      .product-heading-num { color: #9a2820; }
 .product-heading-name {
   font-size: 1.05rem;
   font-weight: 700;
