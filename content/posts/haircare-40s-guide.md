@@ -53,6 +53,8 @@ draft: false
 - うねり・乾燥タイプ → [40代のシャンプーおすすめ3選（うねり・乾燥向け）](/posts/shampoo-40s-recommend/)
 - 薄毛・抜け毛タイプ → [頭皮ケアシャンプーおすすめ40代向け3選](/posts/scalp-shampoo-40s-recommend/)
 
+特にヘアケア成分で評価が高い「haru kurokami スカルプ」の詳しい使用感・きしみ期間・返金保証については[haru kurokami スカルプ 口コミ・レビュー](/posts/haru-kurokami-review/)でまとめています。
+
 ### 洗い方を変えるだけで変わることがある
 
 シャンプーを変えても効果がなかった、という方の多くは「洗い方」に原因があります。
