@@ -1,6 +1,7 @@
 ---
 title: "母の日に贈る美容ギフト5選【40代・50代のお母さんが自分では買わないけど嬉しいもの】"
 date: 2026-04-24
+lastmod: 2026-05-14
 draft: false
 affiliate: true
 categories: ["ギフト・プレゼント"]
@@ -21,11 +22,17 @@ cover:
 今回は「もらったら素直に嬉しいけど自分では買わない」美容ギフトを5つ厳選しました。毎日使うたびに思い出してもらえる、そんなプレゼントです。
 
 {{< rawhtml >}}
-<div style="text-align:center; margin:1.5em 0;">
-  <a href="https://px.a8.net/svt/ejp?a8mat=4B1SPW+D15LGY+5KAA+5YJRM" rel="nofollow noopener" target="_blank" style="display:inline-block; background:#c97d7d; color:#fff; padding:14px 36px; border-radius:30px; font-size:1em; font-weight:bold; text-decoration:none;">
-    おすすめギフトをAmazonで見る →
-  </a>
-</div>
+<!-- START MoshimoAffiliateEasyLink -->
+<script type="text/javascript">
+(function(b,c,f,g,a,d,e){b.MoshimoAffiliateObject=a;
+b[a]=b[a]||function(){arguments.currentScript=c.currentScript
+||c.scripts[c.scripts.length-2];(b[a].q=b[a].q||[]).push(arguments)};
+c.getElementById(a)||(d=c.createElement(f),d.src=g,
+d.id=a,e=c.getElementsByTagName("body")[0],e.appendChild(d)})(window,document,"script","//dn.msmstatic.com/site/cardlink/bundle.js?20220329","msmaflink");
+msmaflink({"n":"ハウスオブローゼ Oh!Baby ボディケア 3点セット","b":"HOUSE OF ROSE（ハウスオブローゼ）","t":"B0G1S9PG9V","d":"https:\/\/m.media-amazon.com","c_p":"\/images\/I","p":["\/51frd99cYKL._SL500_.jpg"],"u":{"u":"https:\/\/www.amazon.co.jp\/dp\/B0G1S9PG9V","t":"amazon","r_v":""},"v":"2.1","b_l":[{"id":1,"u_tx":"Amazonで見る","u_bc":"#f79256","u_url":"https:\/\/www.amazon.co.jp\/dp\/B0G1S9PG9V","a_id":5525308,"p_id":170,"pl_id":27060,"pc_id":185,"s_n":"amazon","u_so":1},{"id":2,"u_tx":"楽天市場で見る","u_bc":"#f76956","u_url":"https:\/\/search.rakuten.co.jp\/search\/mall\/%E3%83%8F%E3%82%A6%E3%82%B9%E3%82%AA%E3%83%96%E3%83%AD%E3%83%BC%E3%82%BC%20%E3%82%AE%E3%83%95%E3%83%88%E3%82%BB%E3%83%83%E3%83%88\/","a_id":5520409,"p_id":54,"pl_id":27059,"pc_id":54,"s_n":"rakuten","u_so":2},{"id":3,"u_tx":"Yahoo!ショッピングで見る","u_bc":"#66a7ff","u_url":"https:\/\/shopping.yahoo.co.jp\/search?first=1&p=%E3%83%8F%E3%82%A6%E3%82%B9%E3%82%AA%E3%83%96%E3%83%AD%E3%83%BC%E3%82%BC%20%E3%82%AE%E3%83%95%E3%83%88%E3%82%BB%E3%83%83%E3%83%88","a_id":5525312,"p_id":1225,"pl_id":27061,"pc_id":1925,"s_n":"yahoo","u_so":3}],"eid":"5c2sq","s":"s"});
+</script>
+<div id="msmaflink-5c2sq">リンク</div>
+<!-- MoshimoAffiliateEasyLink END -->
 {{< /rawhtml >}}
 
 
