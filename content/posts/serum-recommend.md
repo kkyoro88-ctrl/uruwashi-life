@@ -1,6 +1,7 @@
 ---
 title: "美容液おすすめ40代向け3選｜導入・浸透・エイジングケアタイプ別の選び方"
 date: 2026-05-01
+lastmod: 2026-05-14
 draft: false
 affiliate: true
 categories: ["スキンケア"]
@@ -22,11 +23,17 @@ cover:
 迷ったら、まず **HABA スクワランオイル** から試してみてください。シンプルなスクワラン1成分で、導入オイルとしてスキンケアの浸透感を変えてくれる、敏感肌・乾燥肌の定番品です。
 
 {{< rawhtml >}}
-<div style="text-align:center; margin:1.5em 0;">
-  <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B000EZU948" rel="nofollow noopener" target="_blank" style="display:inline-block; background:#c97d7d; color:#fff; padding:14px 36px; border-radius:30px; font-size:1em; font-weight:bold; text-decoration:none;">
-    No.1 美容液をAmazonで見る →
-  </a>
-</div>
+<!-- START MoshimoAffiliateEasyLink -->
+<script type="text/javascript">
+(function(b,c,f,g,a,d,e){b.MoshimoAffiliateObject=a;
+b[a]=b[a]||function(){arguments.currentScript=c.currentScript
+||c.scripts[c.scripts.length-2];(b[a].q=b[a].q||[]).push(arguments)};
+c.getElementById(a)||(d=c.createElement(f),d.src=g,
+d.id=a,e=c.getElementsByTagName("body")[0],e.appendChild(d))})(window,document,"script","//dn.msmstatic.com/site/cardlink/bundle.js?20220329","msmaflink");
+msmaflink({"n":"HABA スクワランオイル 30ml","b":"HABA","t":"B000EZU948","d":"https:\/\/m.media-amazon.com","c_p":"\/images\/I","p":["\/515TdeKrQdL._SL500_.jpg"],"u":{"u":"https:\/\/www.amazon.co.jp\/dp\/B000EZU948","t":"amazon","r_v":""},"v":"2.1","b_l":[{"id":1,"u_tx":"Amazonで見る","u_bc":"#f79256","u_url":"https:\/\/www.amazon.co.jp\/dp\/B000EZU948","a_id":5525308,"p_id":170,"pl_id":27060,"pc_id":185,"s_n":"amazon","u_so":1},{"id":2,"u_tx":"楽天市場で見る","u_bc":"#f76956","u_url":"https:\/\/search.rakuten.co.jp\/search\/mall\/HABA%20%E3%82%B9%E3%82%AF%E3%83%AF%E3%83%A9%E3%83%B3%E3%82%AA%E3%82%A4%E3%83%AB\/","a_id":5520409,"p_id":54,"pl_id":27059,"pc_id":54,"s_n":"rakuten","u_so":2},{"id":3,"u_tx":"Yahoo!ショッピングで見る","u_bc":"#66a7ff","u_url":"https:\/\/shopping.yahoo.co.jp\/search?first=1&p=HABA%20%E3%82%B9%E3%82%AF%E3%83%AF%E3%83%A9%E3%83%B3%E3%82%AA%E3%82%A4%E3%83%AB","a_id":5525312,"p_id":1225,"pl_id":27061,"pc_id":1925,"s_n":"yahoo","u_so":3}],"eid":"yOYLA","s":"s"});
+</script>
+<div id="msmaflink-yOYLA">リンク</div>
+<!-- MoshimoAffiliateEasyLink END -->
 {{< /rawhtml >}}
 
 
