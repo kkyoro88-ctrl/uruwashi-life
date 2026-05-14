@@ -1,6 +1,7 @@
 ---
 title: "レチノール美容液、初心者が失敗しない選び方【40代向け3選】刺激なしで始める方法"
 date: 2026-04-25
+lastmod: 2026-05-14
 description: "レチノール美容液を初めて使う40代向けに、失敗しない選び方と正しい始め方を解説。刺激を抑えながらシワ・ハリ・毛穴にアプローチできる厳選3商品を紹介します。"
 tags: ["レチノール", "美容液", "40代", "エイジングケア"]
 draft: false
@@ -18,11 +19,17 @@ cover:
 この記事では、初心者が陥りやすい失敗と、40代の敏感になりがちな肌でも使いやすいレチノール美容液を3つ厳選して紹介します。
 
 {{< rawhtml >}}
-<div style="text-align:center; margin:1.5em 0;">
-  <a href="https://px.a8.net/svt/ejp?a8mat=4B1SPX+12P73M+3Q7E+1NLHNL" rel="nofollow noopener" target="_blank" style="display:inline-block; background:#c97d7d; color:#fff; padding:14px 36px; border-radius:30px; font-size:1em; font-weight:bold; text-decoration:none;">
-    No.1 レチノール美容液をAmazonで見る →
-  </a>
-</div>
+<!-- START MoshimoAffiliateEasyLink -->
+<script type="text/javascript">
+(function(b,c,f,g,a,d,e){b.MoshimoAffiliateObject=a;
+b[a]=b[a]||function(){arguments.currentScript=c.currentScript
+||c.scripts[c.scripts.length-2];(b[a].q=b[a].q||[]).push(arguments)};
+c.getElementById(a)||(d=c.createElement(f),d.src=g,
+d.id=a,e=c.getElementsByTagName("body")[0],e.appendChild(d)})(window,document,"script","//dn.msmstatic.com/site/cardlink/bundle.js?20220329","msmaflink");
+msmaflink({"n":"No46. ピュアRTセラム","b":"No46.","t":"B0F18BNLL6","d":"https:\/\/m.media-amazon.com","c_p":"\/images\/I","p":["\/41rh+P02lNL._SL500_.jpg"],"u":{"u":"https:\/\/www.amazon.co.jp\/dp\/B0F18BNLL6","t":"amazon","r_v":""},"v":"2.1","b_l":[{"id":1,"u_tx":"Amazonで見る","u_bc":"#f79256","u_url":"https:\/\/www.amazon.co.jp\/dp\/B0F18BNLL6","a_id":5525308,"p_id":170,"pl_id":27060,"pc_id":185,"s_n":"amazon","u_so":1},{"id":2,"u_tx":"楽天市場で見る","u_bc":"#f76956","u_url":"https:\/\/search.rakuten.co.jp\/search\/mall\/No46%20%E3%83%94%E3%83%A5%E3%82%A2RT%E3%82%BB%E3%83%A9%E3%83%A0%20%E3%83%AC%E3%83%81%E3%83%8E%E3%83%BC%E3%83%AB\/","a_id":5520409,"p_id":54,"pl_id":27059,"pc_id":54,"s_n":"rakuten","u_so":2},{"id":3,"u_tx":"Yahoo!ショッピングで見る","u_bc":"#66a7ff","u_url":"https:\/\/shopping.yahoo.co.jp\/search?first=1&p=No46%20%E3%83%94%E3%83%A5%E3%82%A2RT%E3%82%BB%E3%83%A9%E3%83%A0%20%E3%83%AC%E3%83%81%E3%83%8E%E3%83%BC%E3%83%AB","a_id":5525312,"p_id":1225,"pl_id":27061,"pc_id":1925,"s_n":"yahoo","u_so":3}],"eid":"9chi1","s":"s"});
+</script>
+<div id="msmaflink-9chi1">リンク</div>
+<!-- MoshimoAffiliateEasyLink END -->
 {{< /rawhtml >}}
 
 
