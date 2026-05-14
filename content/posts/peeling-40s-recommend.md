@@ -1,6 +1,7 @@
 ---
 title: "ピーリングおすすめ40代【2026年】くすみ・毛穴・ざらつきに週1ケアで変わる3選"
 date: 2026-05-14
+lastmod: 2026-05-14
 description: "40代のくすみ・毛穴・角質ざらつきに向くピーリング・角質ケアを比較。酵素洗顔・ピーリングジェルの選び方と、肌質別おすすめ3選をまとめました。"
 tags: ["ピーリング", "角質ケア", "40代", "エイジングケア", "くすみケア", "毛穴ケア", "スキンケア"]
 categories: ["スキンケア"]
@@ -14,6 +15,14 @@ draft: false
 **スキンケアを丁寧にしているのに、くすみやざらつきが気になる**——それは古い角質が肌表面に残っているサインかもしれません。40代はターンオーバーが遅くなり、角質が厚くなりやすい時期です。週1のピーリングケアを取り入れるだけで、日々のスキンケアの浸透感が変わったという方も多くいます。
 
 この記事では、**40代の角質ケアの選び方とおすすめ3選**をまとめました。
+
+{{< rawhtml >}}
+<div style="text-align:center; margin:1.5em 0;">
+  <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B0831M4M3B" rel="nofollow noopener" target="_blank" style="display:inline-block; background:#c97d7d; color:#fff; padding:14px 36px; border-radius:30px; font-size:1em; font-weight:bold; text-decoration:none;">
+    【No.1】suisai パウダーウォッシュをAmazonで見る →
+  </a>
+</div>
+{{< /rawhtml >}}
 
 ---
 
@@ -36,7 +45,7 @@ draft: false
 
 ### ① 刺激が強すぎないものを選ぶ
 
-40代の肌はバリア機能が低下しています。ピーリング酸（AHA・BHA）濃度が高いものや、スクラブ系は摩擦ダメージになるリスクがあります。まずは**酵素洗顔**や**ピーリングジェル（こするだけで角質をからめとるタイプ）**から始めるのが安心です。
+40代の肌はバリア機能が低下しています。スクラブ系は摩擦ダメージになるリスクがあります。まずは**酵素洗顔**や**ピーリングジェル（こするだけで角質をからめとるタイプ）**から始めるのが安心です。
 
 ### ② 頻度は週1〜2回まで
 
@@ -58,6 +67,9 @@ draft: false
     <div class="product-heading-num">No.1</div>
     <div class="product-heading-name">suisai ビューティークリア パウダーウォッシュ</div>
   </div>
+  <div class="product-heading-img">
+    <img src="https://m.media-amazon.com/images/I/810xcmuK8QL._SL500_.jpg" alt="suisai ビューティークリア パウダーウォッシュN">
+  </div>
 </div>
 {{< /rawhtml >}}
 
@@ -71,7 +83,7 @@ draft: false
   <ul>
     <li>はじめて角質ケアを取り入れたい方</li>
     <li>敏感肌・乾燥肌でスクラブが使えない方</li>
-    <li>朝洗顔と同じ流れで使いたい方</li>
+    <li>洗顔の流れで使いたい方</li>
   </ul>
 </div>
 {{< /rawhtml >}}
@@ -88,7 +100,7 @@ draft: false
 
 {{< rawhtml >}}
 <div style="text-align:center; margin:1.5em 0;">
-  <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3Dsuisai+%E3%83%93%E3%83%A5%E3%83%BC%E3%83%86%E3%82%A3%E3%82%AF%E3%83%AA%E3%82%A2+%E3%83%91%E3%82%A6%E3%83%80%E3%83%BC%E3%82%A6%E3%82%A9%E3%83%83%E3%82%B7%E3%83%A5" rel="nofollow noopener" target="_blank" style="display:inline-block; background:#c97d7d; color:#fff; padding:14px 36px; border-radius:30px; font-size:1em; font-weight:bold; text-decoration:none;">
+  <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B0831M4M3B" rel="nofollow noopener" target="_blank" style="display:inline-block; background:#c97d7d; color:#fff; padding:14px 36px; border-radius:30px; font-size:1em; font-weight:bold; text-decoration:none;">
     Amazonで詳しく見る →
   </a>
 </div>
@@ -96,20 +108,23 @@ draft: false
 
 ---
 
-### No.2｜ソフィーナ iP ベースケア エッセンス（花王）
+### No.2｜ソフィーナ iP 角層トリートメント 基礎化粧液（花王）
 
 {{< rawhtml >}}
 <div class="product-heading product-heading--melt">
   <div class="product-heading-info">
     <div class="product-heading-num">No.2</div>
-    <div class="product-heading-name">ソフィーナ iP ベースケア エッセンス</div>
+    <div class="product-heading-name">ソフィーナ iP 角層トリートメント 基礎化粧液</div>
+  </div>
+  <div class="product-heading-img">
+    <img src="https://m.media-amazon.com/images/I/71OEm5o1xIL._SL500_.jpg" alt="ソフィーナiP 角層トリートメント 基礎化粧液">
   </div>
 </div>
 {{< /rawhtml >}}
 
-花王ソフィーナの「iP（アイピー）」シリーズの角質美容水。ピーリングというよりも「角質層を整えながら美容成分を届ける」アプローチで、**AHA（ヒドロキシ酸系成分）とうるおい成分**を組み合わせた処方です。
+花王ソフィーナの「iP（アイピー）」シリーズの基礎化粧液。洗顔後のファーストステップとして使うタイプで、**角層をやわらかくうるおし、次のスキンケアの浸透をサポート**する設計です。毎日使いできる穏やかな処方が特徴で、Amazonでもロングセラーとして人気の定番アイテム。
 
-スキンケアのファーストステップとして化粧水前に使うタイプで、毎日使いできる穏やかな処方が特徴。刺激が少なく、乾燥しがちな40代の肌に取り入れやすいアイテムです。
+角質ケアというよりも「角層環境を整える」アプローチで、長期的に肌の土台を変えたい方に向いています。価格帯もリーズナブルで、40代の入門アイテムとして取り入れやすい一品です。
 
 {{< rawhtml >}}
 <div class="fit-box">
@@ -134,7 +149,7 @@ draft: false
 
 {{< rawhtml >}}
 <div style="text-align:center; margin:1.5em 0;">
-  <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%E3%82%BD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%8AiP+%E3%83%99%E3%83%BC%E3%82%B9%E3%82%B1%E3%82%A2%E3%82%A8%E3%83%83%E3%82%BB%E3%83%B3%E3%82%B9" rel="nofollow noopener" target="_blank" style="display:inline-block; background:#c97d7d; color:#fff; padding:14px 36px; border-radius:30px; font-size:1em; font-weight:bold; text-decoration:none;">
+  <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B0CGXDVN78" rel="nofollow noopener" target="_blank" style="display:inline-block; background:#c97d7d; color:#fff; padding:14px 36px; border-radius:30px; font-size:1em; font-weight:bold; text-decoration:none;">
     Amazonで詳しく見る →
   </a>
 </div>
@@ -142,20 +157,23 @@ draft: false
 
 ---
 
-### No.3｜ソフティモ スピード角質ケア ピーリングジェル（コーセー）
+### No.3｜DETクリア ブライト&ピール ピーリングジェリー（明色化粧品）
 
 {{< rawhtml >}}
 <div class="product-heading product-heading--haru">
   <div class="product-heading-info">
     <div class="product-heading-num">No.3</div>
-    <div class="product-heading-name">ソフティモ スピード角質ケア ピーリングジェル</div>
+    <div class="product-heading-name">DETクリア ブライト&ピール ピーリングジェリー</div>
+  </div>
+  <div class="product-heading-img">
+    <img src="https://m.media-amazon.com/images/I/61dRDQ8iYcL._SL500_.jpg" alt="DETクリア ブライト&ピール ピーリングジェリー 無香料タイプ">
   </div>
 </div>
 {{< /rawhtml >}}
 
-コーセーの「ソフティモ」シリーズのピーリングジェル。乾いた顔に塗ってくるくるとなじませると、古い角質がよれてからめとられる**こすり落としタイプ**のピーリングです。
+明色化粧品の「DETクリア」シリーズのピーリングジェル。乾いた顔に塗ってくるくるとなじませると、古い角質がよれてからめとられる**こすり落としタイプ**のピーリングです。無香料タイプは医薬部外品で、敏感になりやすい40代の肌にも配慮した処方。
 
-「ジェルをくるくるして落ちるのを見るのが楽しい」という声が多く、角質ケアの手応えを実感しやすいのが特徴。価格帯がリーズナブルで、はじめてのピーリングジェル入門としても定番のアイテムです。
+「ジェルをくるくるして落ちるのを見るのが楽しい」という声が多く、角質ケアの手応えを実感しやすいのが特徴。ドラッグストアでも手に入りやすく、コスパ重視で週1ケアを続けたい方の定番として知られています。
 
 {{< rawhtml >}}
 <div class="fit-box">
@@ -180,7 +198,7 @@ draft: false
 
 {{< rawhtml >}}
 <div style="text-align:center; margin:1.5em 0;">
-  <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%E3%82%BD%E3%83%95%E3%83%86%E3%82%A3%E3%83%A2+%E3%83%94%E3%83%BC%E3%83%AA%E3%83%B3%E3%82%B0%E3%82%B8%E3%82%A7%E3%83%AB" rel="nofollow noopener" target="_blank" style="display:inline-block; background:#c97d7d; color:#fff; padding:14px 36px; border-radius:30px; font-size:1em; font-weight:bold; text-decoration:none;">
+  <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B0B5NW8HM6" rel="nofollow noopener" target="_blank" style="display:inline-block; background:#c97d7d; color:#fff; padding:14px 36px; border-radius:30px; font-size:1em; font-weight:bold; text-decoration:none;">
     Amazonで詳しく見る →
   </a>
 </div>
@@ -194,15 +212,15 @@ draft: false
 <div class="compare-cards">
   <div class="compare-card compare-card--answer">
     <p class="compare-card-title">くすみ・洗い上がりのつるつる感を求めるなら</p>
-    <p>朝洗顔の流れで使える<strong>suisai パウダーウォッシュ</strong>がおすすめ。酵素が古い角質に働きかけ、洗い流した後の素肌の明るさを感じやすいアイテムです。</p>
+    <p>朝洗顔の流れで使える<strong>suisai パウダーウォッシュ</strong>がおすすめ。酵素が古い角質にアプローチし、洗い流した後の素肌の明るさを感じやすいアイテムです。</p>
   </div>
   <div class="compare-card compare-card--melt">
     <p class="compare-card-title">毎日使える穏やかなケアで肌の土台を整えたいなら</p>
-    <p><strong>ソフィーナ iP ベースケアエッセンス</strong>を化粧水前のファーストステップに。刺激が少なく、スキンケアに自然に組み込めます。</p>
+    <p><strong>ソフィーナ iP 角層トリートメント</strong>を化粧水前のファーストステップに。刺激が少なく、スキンケアに自然に組み込めます。</p>
   </div>
   <div class="compare-card compare-card--haru">
     <p class="compare-card-title">コスパ重視で手応えのある角質ケアをしたいなら</p>
-    <p><strong>ソフティモ ピーリングジェル</strong>が週1ケアに定番。くるくるなじませてふき取るだけの手軽さと、リーズナブルな価格が続けやすい理由です。</p>
+    <p><strong>DETクリア ピーリングジェリー</strong>が週1ケアの定番。くるくるなじませてふき取るだけの手軽さと、リーズナブルな価格が続けやすい理由です。</p>
   </div>
 </div>
 {{< /rawhtml >}}
@@ -214,14 +232,14 @@ draft: false
 40代の肌はターンオーバーが遅くなり、古い角質が残りやすい状態が続きます。週1のピーリングケアを習慣に取り入れることで、くすみやざらつきへのアプローチと、日々のスキンケアの浸透感が変わることがあります。
 
 - **くすみ・洗い上がりの変化を感じたい** → **suisai パウダーウォッシュ**
-- **毎日使える穏やかなケアで土台から整えたい** → **ソフィーナ iP ベースケアエッセンス**
-- **コスパ重視で週1ケアを続けたい** → **ソフティモ ピーリングジェル**
+- **毎日使える穏やかなケアで土台から整えたい** → **ソフィーナ iP 角層トリートメント**
+- **コスパ重視で週1ケアを続けたい** → **DETクリア ピーリングジェリー**
 
 まずは週1から試して、肌の状態を見ながら頻度を調整してみてください。
 
 {{< rawhtml >}}
 <div style="text-align:center; margin:1.5em 0;">
-  <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3Dsuisai+%E3%83%93%E3%83%A5%E3%83%BC%E3%83%86%E3%82%A3%E3%82%AF%E3%83%AA%E3%82%A2+%E3%83%91%E3%82%A6%E3%83%80%E3%83%BC%E3%82%A6%E3%82%A9%E3%83%83%E3%82%B7%E3%83%A5" rel="nofollow noopener" target="_blank" style="display:inline-block; background:#c97d7d; color:#fff; padding:14px 36px; border-radius:30px; font-size:1em; font-weight:bold; text-decoration:none;">
+  <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B0831M4M3B" rel="nofollow noopener" target="_blank" style="display:inline-block; background:#c97d7d; color:#fff; padding:14px 36px; border-radius:30px; font-size:1em; font-weight:bold; text-decoration:none;">
     Amazonで詳しく見る →
   </a>
 </div>
@@ -230,3 +248,5 @@ draft: false
 suisai ビューティークリア パウダーウォッシュの使い方・口コミの詳細は[suisai ビューティークリア 口コミ・レビュー](/posts/suisai-beautyclear-review/)でまとめています。
 
 > 40代の洗顔・クレンジング全体の見直しは[40代の正しい洗顔・クレンジング方法](/posts/cleansing-how-to-40s/)もあわせてどうぞ。
+
+> 40代のスキンケア全体の流れは[40代スキンケアルーティン完全ガイド](/posts/skincare-routine-40s-guide/)でまとめています。
