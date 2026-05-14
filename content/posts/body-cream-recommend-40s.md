@@ -1,7 +1,7 @@
 ---
 title: "40代のボディクリームおすすめ5選【乾燥・くすみ・匂いに本当に使えるのはどれ？】"
 date: 2026-05-10
-lastmod: 2026-05-10
+lastmod: 2026-05-14
 draft: false
 affiliate: true
 categories: ["スキンケア", "おすすめ"]
@@ -18,6 +18,13 @@ cover:
 
 今回は、ボディの乾燥・くすみ・エイジングに本当に使えるボディクリームを5本、目的別に比較します。
 
+{{< rawhtml >}}
+<div style="text-align:center; margin:1.5em 0;">
+  <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B0CCJ88ZQM" rel="nofollow noopener" target="_blank" style="display:inline-block; background:#c97d7d; color:#fff; padding:14px 36px; border-radius:30px; font-size:1em; font-weight:bold; text-decoration:none;">
+    【1位】キュレル ボディローションをAmazonで見る →
+  </a>
+</div>
+{{< /rawhtml >}}
 ---
 
 ## 40代のボディがなぜ乾燥しやすいのか
@@ -87,6 +94,13 @@ cover:
 </div>
 {{< /rawhtml >}}
 
+{{< rawhtml >}}
+<div style="text-align:center; margin:1.5em 0;">
+  <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B0CCJ88ZQM" rel="nofollow noopener" target="_blank" style="display:inline-block; background:#c97d7d; color:#fff; padding:14px 36px; border-radius:30px; font-size:1em; font-weight:bold; text-decoration:none;">
+    キュレル ボディローションをAmazonで見る →
+  </a>
+</div>
+{{< /rawhtml >}}
 ---
 
 ### 2位：ニベア 濃密ソフトクリーム（ボディ用）
@@ -131,6 +145,13 @@ cover:
 </div>
 {{< /rawhtml >}}
 
+{{< rawhtml >}}
+<div style="text-align:center; margin:1.5em 0;">
+  <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B001PM4I0K" rel="nofollow noopener" target="_blank" style="display:inline-block; background:#c97d7d; color:#fff; padding:14px 36px; border-radius:30px; font-size:1em; font-weight:bold; text-decoration:none;">
+    ニベア ソフトクリームをAmazonで見る →
+  </a>
+</div>
+{{< /rawhtml >}}
 ---
 
 ### 3位：ルシェリ ボディミルク
@@ -219,6 +240,13 @@ cover:
 </div>
 {{< /rawhtml >}}
 
+{{< rawhtml >}}
+<div style="text-align:center; margin:1.5em 0;">
+  <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B07K7S5S72" rel="nofollow noopener" target="_blank" style="display:inline-block; background:#c97d7d; color:#fff; padding:14px 36px; border-radius:30px; font-size:1em; font-weight:bold; text-decoration:none;">
+    ヴァセリン インテンシブケアをAmazonで見る →
+  </a>
+</div>
+{{< /rawhtml >}}
 ---
 
 ### 5位：ビオレ うるおいバリア ボディミルク
@@ -263,6 +291,13 @@ cover:
 </div>
 {{< /rawhtml >}}
 
+{{< rawhtml >}}
+<div style="text-align:center; margin:1.5em 0;">
+  <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B013QQ7K8Y" rel="nofollow noopener" target="_blank" style="display:inline-block; background:#c97d7d; color:#fff; padding:14px 36px; border-radius:30px; font-size:1em; font-weight:bold; text-decoration:none;">
+    ビオレ うるおいミルクをAmazonで見る →
+  </a>
+</div>
+{{< /rawhtml >}}
 ---
 
 ## 5本の比較表
@@ -357,6 +392,13 @@ cover:
 
 ---
 
+{{< rawhtml >}}
+<div style="text-align:center; margin:1.5em 0;">
+  <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B0CCJ88ZQM" rel="nofollow noopener" target="_blank" style="display:inline-block; background:#c97d7d; color:#fff; padding:14px 36px; border-radius:30px; font-size:1em; font-weight:bold; text-decoration:none;">
+    【1位】キュレル ボディローションをAmazonで見る →
+  </a>
+</div>
+{{< /rawhtml >}}
 ## まとめ
 
 40代のボディケアは、顔と同じように「成分」と「続けやすさ」で選ぶのが正解です。

@@ -1,6 +1,7 @@
 ---
 title: "エクオールサプリおすすめ40代向け3選｜更年期のホットフラッシュ・イライラ・肌パサつきに"
 date: 2026-04-30
+lastmod: 2026-05-14
 description: "40代の更年期症状（ホットフラッシュ・イライラ・肌パサつき）にアプローチできるエクオールサプリを3本厳選。エクエル・DHC・ベルタの違いと選び方を解説します。"
 tags: ["更年期", "エクオール", "サプリ", "40代"]
 draft: false
@@ -34,6 +35,15 @@ cover:
 | 有効成分 | イソフラボン（前駆体） | エクオール（変換後） |
 | 腸内細菌の影響 | 受ける | 受けない |
 | 向いている人 | エクオールを作れる人 | エクオールを作れない人にも |
+
+
+{{< rawhtml >}}
+<div style="text-align:center; margin:1.5em 0;">
+  <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B01MUBY004" rel="nofollow noopener" target="_blank" style="display:inline-block; background:#c97d7d; color:#fff; padding:14px 36px; border-radius:30px; font-size:1em; font-weight:bold; text-decoration:none;">
+    エクエル パウチ（大塚製薬）をAmazonで見る →
+  </a>
+</div>
+{{< /rawhtml >}}
 
 ---
 
@@ -220,6 +230,15 @@ A. 明確な基準はありませんが、40代から始める方が多いです
 まだ私も飲み続けながら確認している段階ですが、「体の変化を自分でモニタリングしながら続ける」って、意外と自分の体を知るきっかけになっています。
 
 ---
+
+
+{{< rawhtml >}}
+<div style="text-align:center; margin:1.5em 0;">
+  <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B01MUBY004" rel="nofollow noopener" target="_blank" style="display:inline-block; background:#c97d7d; color:#fff; padding:14px 36px; border-radius:30px; font-size:1em; font-weight:bold; text-decoration:none;">
+    エクエル パウチ（大塚製薬）をAmazonで見る →
+  </a>
+</div>
+{{< /rawhtml >}}
 
 ## まとめ
 
