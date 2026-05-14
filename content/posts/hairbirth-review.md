@@ -7,7 +7,7 @@ categories: ["インナーケア", "口コミ・レビュー"]
 tags: ["ヘアケア", "インナーケア", "口コミ"]
 description: "ヘアバース（HAIRBIRTH）の口コミ・評価。薄毛・育毛が気になる30・40代向けに育毛サプリを正直レビュー。成分・使い方・続け方のポイントを解説します。"
 cover:
-  image: "https://thumbnail.image.rakuten.co.jp/@0_mall/love-dream/cabinet/biiino/item/main-image/20251008105041_1.jpg"
+  image: "https://m.media-amazon.com/images/I/51Jwd7Uxq6L._SL500_.jpg"
   alt: "ヘアバース HAIRBIRTH 育毛サプリ"
 ---
 
@@ -24,7 +24,7 @@ cover:
   </div>
   <div class="product-heading-img">
     <a href="https://rpx.a8.net/svt/ejp?a8mat=4B1QDP+BQ4COI+2HOM+BWGDT&rakuten=y&a8ejpredirect=https%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2Fg00skwj4.2bo1117e.g00skwj4.2bo12ced%2Fa26042104339_4B1QDP_BQ4COI_2HOM_BWGDT%3Fpc%3Dhttps%253A%252F%252Fitem.rakuten.co.jp%252Flove-dream%252F100000401%252F%26m%3Dhttp%253A%252F%252Fm.rakuten.co.jp%252Flove-dream%252Fi%252F10000296%252F%26rafcid%3Dwsc_i_is_33f72da33714639c415e592c9633ecd7" target="_blank" rel="nofollow noopener">
-      <img src="https://thumbnail.image.rakuten.co.jp/@0_mall/love-dream/cabinet/biiino/item/main-image/20251008105041_1.jpg?_ex=300x300" alt="ヘアバース HAIRBIRTH">
+      <img src="https://m.media-amazon.com/images/I/51Jwd7Uxq6L._SL500_.jpg" alt="ヘアバース HAIRBIRTH">
     </a>
   </div>
 </div>
@@ -43,7 +43,7 @@ cover:
 - **内側からのアプローチ**：外側のケアだけでは届きにくい部分をサポート
 
 {{< rawhtml >}}
-<table cellpadding="0" cellspacing="0" border="0" style="border:1px solid #ccc; width:300px; margin:1em 0;"><tbody><tr style="border-style:none;"><td style="vertical-align:top; border-style:none; padding:10px; width:44px;"><a href="https://rpx.a8.net/svt/ejp?a8mat=4B1QDP+BQ4COI+2HOM+BWGDT&rakuten=y&a8ejpredirect=https%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2Fg00skwj4.2bo1117e.g00skwj4.2bo12ced%2Fa26042104339_4B1QDP_BQ4COI_2HOM_BWGDT%3Fpc%3Dhttps%253A%252F%252Fitem.rakuten.co.jp%252Flove-dream%252F100000401%252F%26m%3Dhttp%253A%252F%252Fm.rakuten.co.jp%252Flove-dream%252Fi%252F10000296%252F%26rafcid%3Dwsc_i_is_33f72da33714639c415e592c9633ecd7" rel="nofollow"><img style="max-width:initial;" border="0" alt="" src="https://thumbnail.image.rakuten.co.jp/@0_mall/love-dream/cabinet/biiino/item/main-image/20251008105041_1.jpg?_ex=64x64"></a></td><td style="font-size:12px; vertical-align:middle; border-style:none; padding:10px;"><p style="padding:0; margin:0;"><a href="https://rpx.a8.net/svt/ejp?a8mat=4B1QDP+BQ4COI+2HOM+BWGDT&rakuten=y&a8ejpredirect=https%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2Fg00skwj4.2bo1117e.g00skwj4.2bo12ced%2Fa26042104339_4B1QDP_BQ4COI_2HOM_BWGDT%3Fpc%3Dhttps%253A%252F%252Fitem.rakuten.co.jp%252Flove-dream%252F100000401%252F%26m%3Dhttp%253A%252F%252Fm.rakuten.co.jp%252Flove-dream%252Fi%252F10000296%252F%26rafcid%3Dwsc_i_is_33f72da33714639c415e592c9633ecd7" rel="nofollow">ヘアバース 120粒 HAIRBIRTH 育毛サプリ</a></p><p style="color:#666; margin-top:5px; line-height:1.5;">価格:<span style="font-size:14px; color:#C00; font-weight:bold;">8950円</span><br><span style="font-size:10px;">(2026/4/23 時点)</span></p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0" border="0" style="border:1px solid #ccc; width:300px; margin:1em 0;"><tbody><tr style="border-style:none;"><td style="vertical-align:top; border-style:none; padding:10px; width:44px;"><a href="https://rpx.a8.net/svt/ejp?a8mat=4B1QDP+BQ4COI+2HOM+BWGDT&rakuten=y&a8ejpredirect=https%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2Fg00skwj4.2bo1117e.g00skwj4.2bo12ced%2Fa26042104339_4B1QDP_BQ4COI_2HOM_BWGDT%3Fpc%3Dhttps%253A%252F%252Fitem.rakuten.co.jp%252Flove-dream%252F100000401%252F%26m%3Dhttp%253A%252F%252Fm.rakuten.co.jp%252Flove-dream%252Fi%252F10000296%252F%26rafcid%3Dwsc_i_is_33f72da33714639c415e592c9633ecd7" rel="nofollow"><img style="max-width:initial;" border="0" alt="" src="https://m.media-amazon.com/images/I/51Jwd7Uxq6L._SL500_.jpg"></a></td><td style="font-size:12px; vertical-align:middle; border-style:none; padding:10px;"><p style="padding:0; margin:0;"><a href="https://rpx.a8.net/svt/ejp?a8mat=4B1QDP+BQ4COI+2HOM+BWGDT&rakuten=y&a8ejpredirect=https%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2Fg00skwj4.2bo1117e.g00skwj4.2bo12ced%2Fa26042104339_4B1QDP_BQ4COI_2HOM_BWGDT%3Fpc%3Dhttps%253A%252F%252Fitem.rakuten.co.jp%252Flove-dream%252F100000401%252F%26m%3Dhttp%253A%252F%252Fm.rakuten.co.jp%252Flove-dream%252Fi%252F10000296%252F%26rafcid%3Dwsc_i_is_33f72da33714639c415e592c9633ecd7" rel="nofollow">ヘアバース 120粒 HAIRBIRTH 育毛サプリ</a></p><p style="color:#666; margin-top:5px; line-height:1.5;">価格:<span style="font-size:14px; color:#C00; font-weight:bold;">8950円</span><br><span style="font-size:10px;">(2026/4/23 時点)</span></p></td></tr></tbody></table>
 <img border="0" width="1" height="1" src="https://www19.a8.net/0.gif?a8mat=4B1QDP+BQ4COI+2HOM+BWGDT" alt="">
 {{< /rawhtml >}}
 

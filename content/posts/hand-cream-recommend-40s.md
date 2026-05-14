@@ -6,7 +6,7 @@ draft: false
 affiliate: true
 categories: ["スキンケア", "おすすめ"]
 tags: ["ハンドケア", "40代", "エイジングケア", "乾燥肌"]
-description: "40代の乾燥・シワ・老け手に効くハンドクリームを厳選5本紹介。成分・保湿力・使いやすさで正直に比較し、プチプラからデパコスまで目的別に整理しました。"
+description: "40代の乾燥・シワ・老け手にアプローチするハンドクリームを厳選5本紹介。成分・保湿力・使いやすさで正直に比較し、プチプラからデパコスまで目的別に整理しました。"
 cover:
   image: "/images/hand-cream-recommend-40s.png"
   alt: "40代のハンドクリームおすすめ5選"
@@ -58,7 +58,7 @@ cover:
     <p>高浸透グリセリン処方・皮膚科医推薦・少量で伸びるコスパ最高の保湿クリーム</p>
   </div>
   <div class="product-heading-img">
-    <img src="https://thumbnail.image.rakuten.co.jp/@0_mall/lohaco/cabinet/m_n/4902121141548_a01.jpg" alt="ニュートロジーナ ノルウェーフォーミュラ">
+    <img src="https://m.media-amazon.com/images/I/61Z7+WWNxYL._SL500_.jpg" alt="ニュートロジーナ ノルウェーフォーミュラ">
   </div>
 </div>
 {{< /rawhtml >}}
@@ -103,7 +103,7 @@ cover:
     <p>シアバター20%配合・なめらかなテクスチャー・フランス産の香りとリッチ保湿</p>
   </div>
   <div class="product-heading-img">
-    <img src="https://thumbnail.image.rakuten.co.jp/@0_mall/loccitane/cabinet/img_main/10ma150j23.jpg" alt="ロクシタン シア ハンドクリーム">
+    <img src="https://m.media-amazon.com/images/I/61qNx3D-4cL._SL500_.jpg" alt="ロクシタン シア ハンドクリーム">
   </div>
 </div>
 {{< /rawhtml >}}
@@ -147,7 +147,7 @@ cover:
     <p>セラミドケア・敏感肌・乾燥肌向け・低刺激処方</p>
   </div>
   <div class="product-heading-img">
-    <img src="https://thumbnail.image.rakuten.co.jp/@0_mall/sundrug/cabinet/item/4901301333773_1.jpg" alt="キュレル ハンドクリーム">
+    <img src="https://m.media-amazon.com/images/I/81fT0BNyZKL._SL500_.jpg" alt="キュレル ハンドクリーム">
   </div>
 </div>
 {{< /rawhtml >}}
@@ -191,7 +191,7 @@ cover:
     <p>コエンザイムQ10・ビタミンE配合・エイジングケア×高保湿のプチプラ</p>
   </div>
   <div class="product-heading-img">
-    <img src="https://thumbnail.image.rakuten.co.jp/@0_mall/drugstore-jb/cabinet/img/y-4987305401516-01.jpg" alt="コエンリッチQ10 ハンドクリーム">
+    <img src="https://m.media-amazon.com/images/I/610ZBOPGUmL._SL500_.jpg" alt="コエンリッチQ10 ハンドクリーム">
   </div>
 </div>
 {{< /rawhtml >}}
@@ -235,7 +235,7 @@ cover:
     <p>オリーブオイル成分配合・しっとり感持続・コスパよく続けやすい</p>
   </div>
   <div class="product-heading-img">
-    <img src="https://thumbnail.image.rakuten.co.jp/@0_mall/dhc/cabinet/img/hand/70153_1.jpg" alt="DHC オリーブバージンオイル ハンドクリーム">
+    <img src="https://m.media-amazon.com/images/I/41qHlylj97L._SL500_.jpg" alt="DHC オリーブバージンオイル ハンドクリーム">
   </div>
 </div>
 {{< /rawhtml >}}

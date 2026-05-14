@@ -59,7 +59,7 @@ cover:
     <p>植物由来成分・ドライヤー前に使うサラサラ仕上がり</p>
   </div>
   <div class="product-heading-img">
-    <img src="https://thumbnail.image.rakuten.co.jp/@0_mall/drugkirin/cabinet/imgdir45/4582521682928_1.jpg" alt="BOTANIST ボタニカルヘアオイル スムース">
+    <img src="https://m.media-amazon.com/images/I/61d3eJQ1cOL._SL500_.jpg" alt="BOTANIST ボタニカルヘアオイル スムース">
   </div>
 </div>
 {{< /rawhtml >}}
@@ -94,7 +94,7 @@ cover:
 
 {{< product
   title="BOTANIST ボタニカルヘアオイル スムース 80mL"
-  img="https://thumbnail.image.rakuten.co.jp/@0_mall/drugkirin/cabinet/imgdir45/4582521682928_1.jpg"
+  img="https://m.media-amazon.com/images/I/61d3eJQ1cOL._SL500_.jpg"
   rakuten="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fdrugkirin%2F4582521682928%2F"
   amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B09BDSMW2Y"
   yahoo="https://shopping.yahoo.co.jp/search?p=BOTANIST+%E3%83%9C%E3%82%BF%E3%83%8B%E3%82%AB%E3%83%AB%E3%83%98%E3%82%A2%E3%82%AA%E3%82%A4%E3%83%AB+%E3%82%B9%E3%83%A0%E3%83%BC%E3%82%B9"
@@ -271,7 +271,7 @@ cover:
     <p>椿オイル配合・湿気による広がりを抑えるスムースオイル</p>
   </div>
   <div class="product-heading-img">
-    <img src="https://thumbnail.image.rakuten.co.jp/@0_mall/cosmecomonline/cabinet/imgrc0120990606.jpg" alt="TSUBAKI オイルフォース M">
+    <img src="https://m.media-amazon.com/images/I/61r0bNK63uL._SL500_.jpg" alt="TSUBAKI オイルフォース M">
   </div>
 </div>
 {{< /rawhtml >}}
@@ -306,7 +306,7 @@ cover:
 
 {{< product
   title="TSUBAKI オイルフォース M 60mL"
-  img="https://thumbnail.image.rakuten.co.jp/@0_mall/cosmecomonline/cabinet/imgrc0120990606.jpg"
+  img="https://m.media-amazon.com/images/I/61r0bNK63uL._SL500_.jpg"
   rakuten="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fcosmecomonline%2F1000196014%2F"
   amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B0DBH77YRL"
   yahoo="https://shopping.yahoo.co.jp/search?p=TSUBAKI+%E3%82%AA%E3%82%A4%E3%83%AB%E3%83%95%E3%82%A9%E3%83%BC%E3%82%B9"
@@ -461,7 +461,7 @@ cover:
 
 {{< product
   title="BOTANIST ボタニカルヘアオイル スムース 80mL"
-  img="https://thumbnail.image.rakuten.co.jp/@0_mall/drugkirin/cabinet/imgdir45/4582521682928_1.jpg"
+  img="https://m.media-amazon.com/images/I/61d3eJQ1cOL._SL500_.jpg"
   rakuten="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fdrugkirin%2F4582521682928%2F"
   amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B09BDSMW2Y"
   yahoo="https://shopping.yahoo.co.jp/search?p=BOTANIST+%E3%83%9C%E3%82%BF%E3%83%8B%E3%82%AB%E3%83%AB%E3%83%98%E3%82%A2%E3%82%AA%E3%82%A4%E3%83%AB+%E3%82%B9%E3%83%A0%E3%83%BC%E3%82%B9"

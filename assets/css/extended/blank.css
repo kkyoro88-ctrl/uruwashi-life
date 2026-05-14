@@ -293,7 +293,10 @@ header.header { display: none !important; }
   box-shadow: 0 3px 10px rgba(180,80,80,0.10);
 }
 .popular-summary-icon {
-  font-size: 1.4rem;
+  font-size: 0.9rem;
+  color: var(--accent);
+  letter-spacing: 0.15em;
+  opacity: 0.75;
 }
 .popular-summary-title {
   font-size: 0.88rem;
@@ -1980,9 +1983,10 @@ details.single-toc[open] .single-toc-title::after { content: '▴'; }
 .post-content hr,
 .single-body hr {
   border: none;
-  height: 1px;
-  background: linear-gradient(to right, transparent 0%, var(--border) 20%, var(--border) 80%, transparent 100%);
-  margin: 32px 0;
+  height: 2px;
+  background: linear-gradient(to right, transparent 0%, var(--accent-light) 20%, var(--accent-light) 80%, transparent 100%);
+  margin: 48px auto;
+  max-width: 80%;
 }
 
 /* ── 記事ページ：1位ランクバッジ（見出し前のspan要素） ── */
@@ -2185,14 +2189,23 @@ details.single-toc[open] .single-toc-title::after { content: '▴'; }
 }
 .comparison-wrap::after {
   content: '← 横にスクロールできます →';
-  display: none;
-  font-size: 0.68rem;
-  color: #aaa;
+  display: block;
+  font-size: 0.72rem;
+  color: var(--accent);
   text-align: center;
-  padding: 6px 0 2px;
+  padding: 8px 0 2px;
+  letter-spacing: 0.05em;
 }
-@media (max-width: 560px) {
-  .comparison-wrap::after { display: block; }
+.comparison-wrap::-webkit-scrollbar {
+  height: 6px;
+}
+.comparison-wrap::-webkit-scrollbar-track {
+  background: #f5eef0;
+  border-radius: 3px;
+}
+.comparison-wrap::-webkit-scrollbar-thumb {
+  background: var(--accent-light);
+  border-radius: 3px;
 }
 .comparison-table {
   width: 100%;
@@ -2239,6 +2252,7 @@ details.single-toc[open] .single-toc-title::after { content: '▴'; }
 .comparison-table .th-oirost     { background: linear-gradient(135deg, #2a5a90, #4a7ab8); color: white; }
 .comparison-table .th-brainsleep { background: linear-gradient(135deg, #4a3a88, #7a5abb); color: white; }
 .comparison-table--5col .th-empty { width: 14%; }
+.comparison-table--5col { min-width: 950px; }
 .comparison-table .top-badge {
   background: rgba(255,255,255,0.25);
   font-size: 0.65rem;

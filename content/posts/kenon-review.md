@@ -13,7 +13,7 @@ summary_points:
   - "3ヶ月使って感じたメリット・デメリット"
   - "購入前に知っておくべきカートリッジ確認の注意点"
 cover:
-  image: "https://thumbnail.image.rakuten.co.jp/@0_mall/mrock/cabinet/k/20260121kenon.jpg"
+  image: "https://m.media-amazon.com/images/I/61gqdu6m8kL._SL500_.jpg"
   alt: "ケノン 美顔器 スキンケアカートリッジ 口コミレビュー"
 ---
 
@@ -32,7 +32,7 @@ cover:
   </div>
   <div class="product-heading-img">
     <a href="https://rpx.a8.net/svt/ejp?a8mat=4B1QDP+BQ4COI+2HOM+BWGDT&rakuten=y&a8ejpredirect=https%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2Fg00prkp4.2bo11018.g00prkp4.2bo12d64%2Fa26042104339_4B1QDP_BQ4COI_2HOM_BWGDT%3Fpc%3Dhttps%253A%252F%252Fitem.rakuten.co.jp%252Fmrock%252Fke-non%252F%26m%3Dhttp%253A%252F%252Fm.rakuten.co.jp%252Fmrock%252Fi%252F10012094%252F%26rafcid%3Dwsc_i_is_33f72da33714639c415e592c9633ecd7" target="_blank" rel="nofollow noopener">
-      <img src="https://thumbnail.image.rakuten.co.jp/@0_mall/mrock/cabinet/k/20260121kenon.jpg" alt="ケノン 光美容器">
+      <img src="https://m.media-amazon.com/images/I/61gqdu6m8kL._SL500_.jpg" alt="ケノン 光美容器">
     </a>
   </div>
 </div>

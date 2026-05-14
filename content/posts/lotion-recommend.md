@@ -208,7 +208,7 @@ cover:
     <div class="product-heading-num">No.3</div>
     <div class="product-heading-name">無印良品 化粧水 敏感肌用 高保湿タイプ（大容量）400ml</div>
   </div>
-  <img class="product-heading-img" src="https://thumbnail.image.rakuten.co.jp/@0_mall/mujirushi-ryohin/cabinet/item35/4550583451301.jpg" alt="無印良品 化粧水 敏感肌用 高保湿タイプ">
+  <img class="product-heading-img" src="https://m.media-amazon.com/images/I/61Coc3BJCEL._SL500_.jpg" alt="無印良品 化粧水 敏感肌用 高保湿タイプ">
 </div>
 {{< /rawhtml >}}
 
@@ -239,7 +239,7 @@ cover:
 
 {{< product
   title="無印良品 化粧水 敏感肌用 高保湿タイプ（大容量）400ml"
-  img="https://thumbnail.image.rakuten.co.jp/@0_mall/mujirushi-ryohin/cabinet/item35/4550583451301.jpg"
+  img="https://m.media-amazon.com/images/I/61Coc3BJCEL._SL500_.jpg"
   price="¥1,190 / 400ml"
   rakuten="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fmujirushi-ryohin%2F4548076448341%2F"
   amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B01D5ZZQIM"

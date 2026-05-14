@@ -47,7 +47,7 @@ cover:
     <div class="product-heading-num">レビュー商品</div>
     <div class="product-heading-name">スカルプD ボーテ ピュアフリーアイラッシュセラム プレミアム</div>
   </div>
-  <img class="product-heading-img" src="https://thumbnail.image.rakuten.co.jp/@0_mall/rusion/cabinet/4580168652960_1.jpg" alt="スカルプD ボーテ ピュアフリーアイラッシュセラム プレミアム">
+  <img class="product-heading-img" src="https://m.media-amazon.com/images/I/51BFwOkehIL._SL500_.jpg" alt="スカルプD ボーテ ピュアフリーアイラッシュセラム プレミアム">
 </div>
 {{< /rawhtml >}}
 
@@ -177,7 +177,7 @@ cover:
 {{< /rawhtml >}}
 {{< product
   title="スカルプD ボーテ ピュアフリーアイラッシュセラム プレミアム"
-  img="https://thumbnail.image.rakuten.co.jp/@0_mall/rusion/cabinet/4580168652960_1.jpg"
+  img="https://m.media-amazon.com/images/I/51BFwOkehIL._SL500_.jpg"
   rakuten="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Frusion%2Fmrkk_4580168652960%2F"
   amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B0CWGYFSJB"
   yahoo="https://shopping.yahoo.co.jp/search?p=%E3%82%B9%E3%82%AB%E3%83%AB%E3%83%97D+%E3%83%94%E3%83%A5%E3%82%A2%E3%83%95%E3%83%AA%E3%83%BC+%E3%81%BE%E3%81%A4%E6%AF%9B%E7%BE%8E%E5%AE%B9%E6%B6%B2"

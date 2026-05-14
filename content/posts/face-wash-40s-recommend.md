@@ -100,7 +100,7 @@ cover:
     <div class="product-heading-num">No.1 イチ推し</div>
     <div class="product-heading-name">ファンケル ディープクリア 洗顔パウダー 30個入</div>
   </div>
-  <img class="product-heading-img" src="https://thumbnail.image.rakuten.co.jp/@0_mall/fancl-shop/cabinet/item-img/3500-3999/3670-11.jpg" alt="ファンケル ディープクリア 洗顔パウダー">
+  <img class="product-heading-img" src="https://m.media-amazon.com/images/I/51QOhnDEycL._SL500_.jpg" alt="ファンケル ディープクリア 洗顔パウダー">
 </div>
 {{< /rawhtml >}}
 
@@ -140,7 +140,7 @@ cover:
 {{< /rawhtml >}}
 {{< product
   title="ファンケル ディープクリア 洗顔パウダー 30個入"
-  img="https://thumbnail.image.rakuten.co.jp/@0_mall/fancl-shop/cabinet/item-img/3500-3999/3670-11.jpg"
+  img="https://m.media-amazon.com/images/I/51QOhnDEycL._SL500_.jpg"
   price="公式価格参照 / 30個入"
   rakuten="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Ffancl-shop%2F3670-11%2F"
   amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B091PJNLCB"
@@ -338,7 +338,7 @@ A. 毎日の洗顔では大きな毛穴汚れは取りにくいです。週1〜2
 
 {{< product
   title="ファンケル ディープクリア 洗顔パウダー 30個入"
-  img="https://thumbnail.image.rakuten.co.jp/@0_mall/fancl-shop/cabinet/item-img/3500-3999/3670-11.jpg"
+  img="https://m.media-amazon.com/images/I/51QOhnDEycL._SL500_.jpg"
   price="公式価格参照 / 30個入"
   rakuten="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Ffancl-shop%2F3670-11%2F"
   amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B091PJNLCB"

@@ -1,5 +1,5 @@
 ---
-title: "頭皮ケアシャンプーおすすめ40代女性向け3選｜薄毛・抜け毛・ハリ不足に効く選び方"
+title: "頭皮ケアシャンプーおすすめ40代女性向け3選｜薄毛・抜け毛・ハリ不足に向けた選び方"
 date: 2026-04-25
 description: "40代女性の薄毛・抜け毛・ハリ不足に向けた頭皮ケアシャンプーを3本比較。選び方のポイントから正しい洗い方まで、ホルモン変化に合わせたスカルプケアを解説します。"
 tags: ["ヘアケア", "40代"]
@@ -112,7 +112,7 @@ draft: false
     <div class="product-heading-num">No.1 イチ推し</div>
     <div class="product-heading-name">スカルプDボーテ 薬用スカルプシャンプー（女性用）350ml</div>
   </div>
-  <img class="product-heading-img" src="https://thumbnail.image.rakuten.co.jp/@0_mall/angfa/cabinet/2026/cp/260408md/126md_800.jpg" alt="スカルプDボーテ 薬用スカルプシャンプー">
+  <img class="product-heading-img" src="https://m.media-amazon.com/images/I/61UIkdiYxuL._SL500_.jpg" alt="スカルプDボーテ 薬用スカルプシャンプー">
 </div>
 {{< /rawhtml >}}
 
@@ -152,7 +152,7 @@ draft: false
 {{< /rawhtml >}}
 {{< product
   title="スカルプDボーテ 薬用スカルプシャンプー ボリューム 350ml【医薬部外品】"
-  img="https://thumbnail.image.rakuten.co.jp/@0_mall/angfa/cabinet/2026/cp/260408md/126md_800.jpg"
+  img="https://m.media-amazon.com/images/I/61UIkdiYxuL._SL500_.jpg"
   price="公式価格参照 / 350ml"
   rakuten="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fangfa%2Fbeaute-s%2F"
   amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B09S3C8MRB"
@@ -170,7 +170,7 @@ draft: false
     <div class="product-heading-num">No.2</div>
     <div class="product-heading-name">ルメント 高濃度炭酸オイルシャンプー 200g</div>
   </div>
-  <img class="product-heading-img" src="https://thumbnail.image.rakuten.co.jp/@0_mall/magicnumber/cabinet/lement/lm-cs01-wt/pdt_lm-cs01_wt_01.jpg" alt="ルメント 高濃度炭酸シャンプー">
+  <img class="product-heading-img" src="https://m.media-amazon.com/images/I/41qC+QIzExL._SL500_.jpg" alt="ルメント 高濃度炭酸シャンプー">
 </div>
 {{< /rawhtml >}}
 
@@ -201,7 +201,7 @@ draft: false
 
 {{< product
   title="ルメント 高濃度炭酸オイルシャンプー 200g"
-  img="https://thumbnail.image.rakuten.co.jp/@0_mall/magicnumber/cabinet/lement/lm-cs01-wt/pdt_lm-cs01_wt_01.jpg"
+  img="https://m.media-amazon.com/images/I/41qC+QIzExL._SL500_.jpg"
   price="公式価格参照 / 200g"
   rakuten="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fmagicnumber%2Fsoc-s01%2F"
   amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B0BHYJQCKT"
@@ -348,7 +348,7 @@ A. 40代であれば今すぐが最適のタイミングです。ヘアサイク
 
 {{< product
   title="スカルプDボーテ 薬用スカルプシャンプー ボリューム 350ml【医薬部外品】"
-  img="https://thumbnail.image.rakuten.co.jp/@0_mall/angfa/cabinet/2026/cp/260408md/126md_800.jpg"
+  img="https://m.media-amazon.com/images/I/61UIkdiYxuL._SL500_.jpg"
   price="公式価格参照 / 350ml"
   rakuten="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fangfa%2Fbeaute-s%2F"
   amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B09S3C8MRB"

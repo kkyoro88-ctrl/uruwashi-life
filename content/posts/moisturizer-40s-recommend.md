@@ -52,7 +52,7 @@ cover:
 
 ### ③ ナイアシンアミド（シワ改善+美白の二役）
 
-医薬部外品として国に認められた、シワ改善と美白の有効成分です。「医薬部外品」って難しく聞こえますが、要は「この成分で効果が出ることが公的に認められている」ということ。毎日塗り続けることで、真皮にアプローチできます。
+医薬部外品として国に認められた、シワ改善と美白の有効成分です。「医薬部外品」って難しく聞こえますが、要は「この成分で効果が出ることが公的に認められている」ということ。毎日塗り続けることで、真皮へのアプローチが期待されています。
 
 ---
 
@@ -119,7 +119,7 @@ cover:
     <p>セラミドケアの医薬部外品</p>
   </div>
   <div class="product-heading-img">
-    <img src="https://thumbnail.image.rakuten.co.jp/@0_mall/beautyplaza1/cabinet/2025312/4901301450555_.jpg" alt="キュレル 潤浸保湿 フェイスクリーム">
+    <img src="https://m.media-amazon.com/images/I/71I4CSLP3hL._SL500_.jpg" alt="キュレル 潤浸保湿 フェイスクリーム">
   </div>
 </div>
 {{< /rawhtml >}}
@@ -154,7 +154,7 @@ cover:
 
 {{< product
   title="キュレル 潤浸保湿 フェイスクリーム 70g"
-  img="https://thumbnail.image.rakuten.co.jp/@0_mall/beautyplaza1/cabinet/2025312/4901301450555_.jpg"
+  img="https://m.media-amazon.com/images/I/71I4CSLP3hL._SL500_.jpg"
   rakuten="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fbeautyplaza1%2F4901301450555%2F"
   amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B0DJNSNZ1S"
   yahoo="https://shopping.yahoo.co.jp/search?p=%E3%82%AD%E3%83%A5%E3%83%AC%E3%83%AB+%E6%BD%A4%E6%B5%B8%E4%BF%9D%E6%B9%BF+%E3%83%95%E3%82%A7%E3%82%A4%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%A0"
@@ -172,7 +172,7 @@ cover:
     <p>日本初承認シワ改善成分・ニールワン配合</p>
   </div>
   <div class="product-heading-img">
-    <img src="https://thumbnail.image.rakuten.co.jp/@0_mall/cosmeticroyal/cabinet/pola/4953923308509logo.jpg" alt="ポーラ リンクルショット メディカル セラム N">
+    <img src="https://m.media-amazon.com/images/I/514Uq-5bGdL._SL500_.jpg" alt="ポーラ リンクルショット メディカル セラム N">
   </div>
 </div>
 {{< /rawhtml >}}
@@ -205,7 +205,7 @@ cover:
 
 {{< product
   title="ポーラ リンクルショット メディカル セラム N 20g"
-  img="https://thumbnail.image.rakuten.co.jp/@0_mall/cosmeticroyal/cabinet/pola/4953923308509logo.jpg"
+  img="https://m.media-amazon.com/images/I/514Uq-5bGdL._SL500_.jpg"
   rakuten="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fcosmeticroyal%2F4953923308509%2F"
   amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B08PCLLHBL"
   yahoo="https://shopping.yahoo.co.jp/search?p=%E3%83%9D%E3%83%BC%E3%83%A9+%E3%83%AA%E3%83%B3%E3%82%AF%E3%83%AB%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88+%E3%83%A1%E3%83%87%E3%82%A3%E3%82%AB%E3%83%AB+%E3%82%BB%E3%83%A9%E3%83%A0"

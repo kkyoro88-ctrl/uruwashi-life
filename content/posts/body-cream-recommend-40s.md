@@ -55,7 +55,7 @@ cover:
     <p>セラミドケア・敏感肌向け・低刺激処方でバリア機能を補う</p>
   </div>
   <div class="product-heading-img">
-    <img src="https://thumbnail.image.rakuten.co.jp/@0_mall/drug-yukai/cabinet/img67/4901301415424.jpg" alt="キュレル ボディローション">
+    <img src="https://m.media-amazon.com/images/I/61KkSuVX3JL._SL500_.jpg" alt="キュレル ボディローション">
   </div>
 </div>
 {{< /rawhtml >}}
@@ -99,7 +99,7 @@ cover:
     <p>コスパ最強・高保湿・全身に使えるオールラウンダー</p>
   </div>
   <div class="product-heading-img">
-    <img src="https://thumbnail.image.rakuten.co.jp/@0_mall/sundrug/cabinet/img/y-4005900274342-01.jpg" alt="ニベア 濃密ソフトクリーム">
+    <img src="https://m.media-amazon.com/images/I/61+STbsqxEL._SL500_.jpg" alt="ニベア 濃密ソフトクリーム">
   </div>
 </div>
 {{< /rawhtml >}}
@@ -143,7 +143,7 @@ cover:
     <p>エイジングケア特化・ハリ・つや・うるおいを同時に</p>
   </div>
   <div class="product-heading-img">
-    <img src="https://thumbnail.image.rakuten.co.jp/@0_mall/kose/cabinet/lucire/item_img/4971710374674.jpg" alt="ルシェリ ボディミルク">
+    <img src="https://m.media-amazon.com/images/I/01Fgi7WcofL._SL500_.jpg" alt="ルシェリ ボディミルク">
   </div>
 </div>
 {{< /rawhtml >}}
@@ -187,7 +187,7 @@ cover:
     <p>皮膚科医推薦・超高保湿・乾燥がひどい部位への集中ケアに</p>
   </div>
   <div class="product-heading-img">
-    <img src="https://thumbnail.image.rakuten.co.jp/@0_mall/soukai/cabinet/4902111538419_01.jpg" alt="ヴァセリン インテンシブケア">
+    <img src="https://m.media-amazon.com/images/I/61BvNe124bL._SL500_.jpg" alt="ヴァセリン インテンシブケア">
   </div>
 </div>
 {{< /rawhtml >}}
@@ -231,7 +231,7 @@ cover:
     <p>バリア機能ケア・さらっとした使用感・毎日使いやすい軽テクスチャー</p>
   </div>
   <div class="product-heading-img">
-    <img src="https://thumbnail.image.rakuten.co.jp/@0_mall/sundrug/cabinet/img/y-4901301730091-01.jpg" alt="ビオレ うるおいバリア ボディミルク">
+    <img src="https://m.media-amazon.com/images/I/710MpSHWc0L._SL500_.jpg" alt="ビオレ うるおいバリア ボディミルク">
   </div>
 </div>
 {{< /rawhtml >}}
