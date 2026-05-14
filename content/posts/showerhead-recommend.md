@@ -16,6 +16,15 @@ cover:
 
 私も化粧水・美容液を何度見直しても、肌の乾燥や毛穴の悩みが解決しませんでした。変わったのは、毎日のシャワーそのものを変えてから。シャワーヘッドを変えるだけで、入浴が「汚れを落とす時間」から「肌と頭皮をケアする時間」に変わりました。
 
+{{< rawhtml >}}
+<div style="text-align:center; margin:1.5em 0;">
+  <a href="https://px.a8.net/svt/ejp?a8mat=4B1QDW+4Q9ZSI+4X44+BWVTE" rel="nofollow noopener" target="_blank" style="display:inline-block; background:#c97d7d; color:#fff; padding:14px 36px; border-radius:30px; font-size:1em; font-weight:bold; text-decoration:none;">
+    No.1 シャワーヘッドをAmazonで見る →
+  </a>
+</div>
+{{< /rawhtml >}}
+
+
 ---
 
 ## シャワーヘッドで肌・頭皮が変わる理由

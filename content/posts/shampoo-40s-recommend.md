@@ -21,6 +21,15 @@ summary_points:
 
 私自身が同じループにはまって、成分から調べ直した結果たどり着いた3本を紹介します。3本の中で迷ったら、まず **THE ANSWER スーパーラメラシャンプー** から試してみてください。
 
+{{< rawhtml >}}
+<div style="text-align:center; margin:1.5em 0;">
+  <a href="https://px.a8.net/svt/ejp?a8mat=4B1V21+53YYPE+33NQ+699KI" rel="nofollow noopener" target="_blank" style="display:inline-block; background:#c97d7d; color:#fff; padding:14px 36px; border-radius:30px; font-size:1em; font-weight:bold; text-decoration:none;">
+    haru kurokami を公式サイトで見る →
+  </a>
+</div>
+{{< /rawhtml >}}
+
+
 ---
 
 ## シャンプーを変えても効果がない理由

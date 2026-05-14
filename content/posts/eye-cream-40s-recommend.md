@@ -16,6 +16,15 @@ cover:
 
 迷ったら、まず **RF28 Wエフェクトアイクリーム** から試してみてください。シワ改善×美白の2つの有効成分が認められた医薬部外品で、目元のシワとシミ・くすみを同時にケアできる本格アイクリームです。
 
+{{< rawhtml >}}
+<div style="text-align:center; margin:1.5em 0;">
+  <a href="https://px.a8.net/svt/ejp?a8mat=4B1THT+AWY41E+3Q7E+1BMW42" rel="nofollow noopener" target="_blank" style="display:inline-block; background:#c97d7d; color:#fff; padding:14px 36px; border-radius:30px; font-size:1em; font-weight:bold; text-decoration:none;">
+    RF28 アイクリームを公式で詳しく見る →
+  </a>
+</div>
+{{< /rawhtml >}}
+
+
 ---
 
 ## 目元のシワ・たるみが40代で加速する理由

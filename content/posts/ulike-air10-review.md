@@ -20,6 +20,15 @@ cover:
 
 そこで試したのが**Ulike Air10**。家庭用光美容器として累計販売台数世界No.1という実績がある製品です。3ヶ月使い続けた今、「もっと早く始めればよかった」と素直に思っています。
 
+{{< rawhtml >}}
+<div style="text-align:center; margin:1.5em 0;">
+  <a href="https://px.a8.net/svt/ejp?a8mat=4B1R5P+FZ4R5E+5QIG+5YJRM" rel="nofollow noopener" target="_blank" style="display:inline-block; background:#e85d8a; color:#fff; padding:14px 36px; border-radius:30px; font-size:1em; font-weight:bold; text-decoration:none;">
+    Ulike Air10 公式サイトで詳しく見る →
+  </a>
+</div>
+{{< /rawhtml >}}
+
+
 ---
 
 ## Ulike Air10とは｜世界No.1の家庭用光美容器

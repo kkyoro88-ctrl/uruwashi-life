@@ -22,6 +22,15 @@ cover:
 
 迷ったら、まず **ファンケル エンリッチプラス 乳液** から試してみてください。ナイアシンアミド配合の医薬部外品で、無添加処方・敏感肌対応、40代のシワ改善の入り口として選ばれやすい一本です。
 
+{{< rawhtml >}}
+<div style="text-align:center; margin:1.5em 0;">
+  <a href="https://px.a8.net/svt/ejp?a8mat=4B1VTY+PLNSI+3IE0+4SNX5E" rel="nofollow noopener" target="_blank" style="display:inline-block; background:#c97d7d; color:#fff; padding:14px 36px; border-radius:30px; font-size:1em; font-weight:bold; text-decoration:none;">
+    ラップリフトネック 公式で詳しく見る →
+  </a>
+</div>
+{{< /rawhtml >}}
+
+
 ---
 
 ## 「シワ改善」を名乗れる商品と名乗れない商品の違い

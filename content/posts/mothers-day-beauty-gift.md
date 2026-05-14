@@ -20,6 +20,15 @@ cover:
 
 今回は「もらったら素直に嬉しいけど自分では買わない」美容ギフトを5つ厳選しました。毎日使うたびに思い出してもらえる、そんなプレゼントです。
 
+{{< rawhtml >}}
+<div style="text-align:center; margin:1.5em 0;">
+  <a href="https://px.a8.net/svt/ejp?a8mat=4B1SPW+D15LGY+5KAA+5YJRM" rel="nofollow noopener" target="_blank" style="display:inline-block; background:#c97d7d; color:#fff; padding:14px 36px; border-radius:30px; font-size:1em; font-weight:bold; text-decoration:none;">
+    おすすめギフトをAmazonで見る →
+  </a>
+</div>
+{{< /rawhtml >}}
+
+
 ---
 
 ## ギフト選びの3つのポイント

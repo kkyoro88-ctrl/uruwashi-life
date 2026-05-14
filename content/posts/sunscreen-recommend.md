@@ -19,6 +19,15 @@ cover:
 
 迷ったら、まず **アネッサ パーフェクトUV スキンケアミルク** から試してみてください。汗・水・こすれに強いのに整肌成分配合で、石けんオフOKの定番中の定番です。
 
+{{< rawhtml >}}
+<div style="text-align:center; margin:1.5em 0;">
+  <a href="https://px.a8.net/svt/ejp?a8mat=4B1RXR+DVIPBM+1USQ+5YJRM" rel="nofollow noopener" target="_blank" style="display:inline-block; background:#c97d7d; color:#fff; padding:14px 36px; border-radius:30px; font-size:1em; font-weight:bold; text-decoration:none;">
+    オルビス 公式サイトで詳しく見る →
+  </a>
+</div>
+{{< /rawhtml >}}
+
+
 ---
 
 ## 40代こそ日焼け止めが重要な理由

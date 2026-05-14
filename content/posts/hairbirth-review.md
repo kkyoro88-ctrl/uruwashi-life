@@ -30,6 +30,15 @@ cover:
 </div>
 {{< /rawhtml >}}
 
+{{< rawhtml >}}
+<div style="text-align:center; margin:1.5em 0;">
+  <a href="https://rpx.a8.net/svt/ejp?a8mat=4B1QDP+BQ4COI+2HOM+BWGDT&rakuten=y&a8ejpredirect=https%3A%2F%2Fitem.rakuten.co.jp%2Fhairborn%2Fhairborn001%2F" rel="nofollow noopener" target="_blank" style="display:inline-block; background:#c97d7d; color:#fff; padding:14px 36px; border-radius:30px; font-size:1em; font-weight:bold; text-decoration:none;">
+    ヘアバース育毛剤を楽天で詳しく見る →
+  </a>
+</div>
+{{< /rawhtml >}}
+
+
 ---
 
 ## ヘアバースとは？

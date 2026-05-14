@@ -18,6 +18,15 @@ cover:
 
 この記事では、40代がウォーターサーバーをスキンケアの一部として選んだ理由と、使ってわかったことを正直にレビューします。
 
+{{< rawhtml >}}
+<div style="text-align:center; margin:1.5em 0;">
+  <a href="https://px.a8.net/svt/ejp?a8mat=4B1RXP+DNS2GI+1LOO+6CWQP" rel="nofollow noopener" target="_blank" style="display:inline-block; background:#c97d7d; color:#fff; padding:14px 36px; border-radius:30px; font-size:1em; font-weight:bold; text-decoration:none;">
+    No.1 ウォーターサーバーをAmazonで見る →
+  </a>
+</div>
+{{< /rawhtml >}}
+
+
 ---
 
 ## ウォーターサーバーを選ぶ前に：天然水 vs RO水、どちらが良い？

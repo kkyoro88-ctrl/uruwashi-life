@@ -40,6 +40,15 @@ cover:
 </div>
 {{< /rawhtml >}}
 
+{{< rawhtml >}}
+<div style="text-align:center; margin:1.5em 0;">
+  <a href="https://px.a8.net/svt/ejp?a8mat=4B1R5P+FYJBJM+54TM+60OXE" rel="nofollow noopener" target="_blank" style="display:inline-block; background:#e85d8a; color:#fff; padding:14px 36px; border-radius:30px; font-size:1em; font-weight:bold; text-decoration:none;">
+    CurrentBody LED ヘアデバイスを公式で見る →
+  </a>
+</div>
+{{< /rawhtml >}}
+
+
 ---
 
 ## CurrentBody LED頭皮・頭髪ケアデバイスとは

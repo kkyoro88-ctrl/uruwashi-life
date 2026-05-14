@@ -16,6 +16,15 @@ cover:
 
 迷ったら、まず **ファンケル ディープクリア 洗顔パウダー** から試してみてください。無添加処方×酵素洗顔で、毛穴の黒ずみ・古い角質にアプローチしながら、洗い上がりはうるおいを残す40代の肌に向いた定番品です。
 
+{{< rawhtml >}}
+<div style="text-align:center; margin:1.5em 0;">
+  <a href="https://px.a8.net/svt/ejp?a8mat=4B1THT+6NXPKI+YPG+61Z82" rel="nofollow noopener" target="_blank" style="display:inline-block; background:#c97d7d; color:#fff; padding:14px 36px; border-radius:30px; font-size:1em; font-weight:bold; text-decoration:none;">
+    b.glen QuSomeウォッシュを公式で詳しく見る →
+  </a>
+</div>
+{{< /rawhtml >}}
+
+
 ---
 
 ## 40代の洗顔料選びで大切な3つのポイント

@@ -21,6 +21,15 @@ cover:
 
 迷ったら、まず **HABA スクワランオイル** から試してみてください。シンプルなスクワラン1成分で、導入オイルとしてスキンケアの浸透感を変えてくれる、敏感肌・乾燥肌の定番品です。
 
+{{< rawhtml >}}
+<div style="text-align:center; margin:1.5em 0;">
+  <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B000EZU948" rel="nofollow noopener" target="_blank" style="display:inline-block; background:#c97d7d; color:#fff; padding:14px 36px; border-radius:30px; font-size:1em; font-weight:bold; text-decoration:none;">
+    No.1 美容液をAmazonで見る →
+  </a>
+</div>
+{{< /rawhtml >}}
+
+
 ---
 
 ## 40代の美容液選びで知っておきたいこと

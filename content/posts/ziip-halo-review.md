@@ -22,6 +22,15 @@ cover:
 
 そのときに選んだのが**ZIIP HALO**。3ヶ月使い続けた今、その決断は間違っていなかったと思っています。
 
+{{< rawhtml >}}
+<div style="text-align:center; margin:1.5em 0;">
+  <a href="https://px.a8.net/svt/ejp?a8mat=4B1R5P+FXXVXU+54TM+BWVTE" rel="nofollow noopener" target="_blank" style="display:inline-block; background:#e85d8a; color:#fff; padding:14px 36px; border-radius:30px; font-size:1em; font-weight:bold; text-decoration:none;">
+    ZIIP HALO をCurrentBodyで詳しく見る →
+  </a>
+</div>
+{{< /rawhtml >}}
+
+
 ---
 
 ## ZIIP HALOとは｜セレブ御用達の美顔器が日本でも手に入る時代

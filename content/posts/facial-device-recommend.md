@@ -18,6 +18,15 @@ cover:
 
 今回は、実際に使って続けている2台を目的別に正直に比較します。
 
+{{< rawhtml >}}
+<div style="text-align:center; margin:1.5em 0;">
+  <a href="https://px.a8.net/svt/ejp?a8mat=4B1R5P+FXXVXU+54TM+BWVTE" rel="nofollow noopener" target="_blank" style="display:inline-block; background:#c97d7d; color:#fff; padding:14px 36px; border-radius:30px; font-size:1em; font-weight:bold; text-decoration:none;">
+    【PR】ZIIP HALOをCurrentBodyで見る →
+  </a>
+</div>
+{{< /rawhtml >}}
+
+
 ---
 
 ## 40代の美顔器選び、どこで差がつくか

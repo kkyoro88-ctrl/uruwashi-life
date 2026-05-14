@@ -16,6 +16,15 @@ cover:
 
 この記事では、実際に使ってきた目線から**ケノン・Ulike Air10・トリア4X**を正直に比較します。40代の肌に合う選び方のポイントと、タイプ別のおすすめも合わせて解説します。
 
+{{< rawhtml >}}
+<div style="text-align:center; margin:1.5em 0;">
+  <a href="https://px.a8.net/svt/ejp?a8mat=4B1R5P+FZ4R5E+5QIG+5YJRM" rel="nofollow noopener" target="_blank" style="display:inline-block; background:#c97d7d; color:#fff; padding:14px 36px; border-radius:30px; font-size:1em; font-weight:bold; text-decoration:none;">
+    Ulike Air10を公式サイトで見る →
+  </a>
+</div>
+{{< /rawhtml >}}
+
+
 ---
 
 ## 家庭用脱毛器を選ぶ3つのポイント【40代向け】

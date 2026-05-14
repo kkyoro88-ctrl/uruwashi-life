@@ -17,6 +17,15 @@ cover:
 
 この記事では、初心者が陥りやすい失敗と、40代の敏感になりがちな肌でも使いやすいレチノール美容液を3つ厳選して紹介します。
 
+{{< rawhtml >}}
+<div style="text-align:center; margin:1.5em 0;">
+  <a href="https://px.a8.net/svt/ejp?a8mat=4B1SPX+12P73M+3Q7E+1NLHNL" rel="nofollow noopener" target="_blank" style="display:inline-block; background:#c97d7d; color:#fff; padding:14px 36px; border-radius:30px; font-size:1em; font-weight:bold; text-decoration:none;">
+    No.1 レチノール美容液をAmazonで見る →
+  </a>
+</div>
+{{< /rawhtml >}}
+
+
 ---
 
 ## レチノールって何？40代に効く理由

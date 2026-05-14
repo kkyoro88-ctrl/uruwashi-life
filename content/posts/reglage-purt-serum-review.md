@@ -18,6 +18,15 @@ cover:
 
 そのときに出会ったのが、**桃谷順天館のREGLAGE（レグラージュ）「ピュアRTセラム」**でした。肌研究140年の老舗が、6万処方の蓄積から生み出した純粋レチノール高濃度美容液です。
 
+{{< rawhtml >}}
+<div style="text-align:center; margin:1.5em 0;">
+  <a href="https://px.a8.net/svt/ejp?a8mat=4B1SPX+12P73M+3Q7E+1NMCIQ" rel="nofollow noopener" target="_blank" style="display:inline-block; background:#c97d7d; color:#fff; padding:14px 36px; border-radius:30px; font-size:1em; font-weight:bold; text-decoration:none;">
+    レグラージュプルセラムを公式で詳しく見る →
+  </a>
+</div>
+{{< /rawhtml >}}
+
+
 ---
 
 ## レチノールって実際どうなの？

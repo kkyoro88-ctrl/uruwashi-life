@@ -16,6 +16,15 @@ cover:
 
 出すのが面倒で、洗面台の奥にしまったまま数ヶ月経つ。気づけば「結局使わなかったな」で終わる。それが続いていたので、DISMを試すときも半信半疑でした。
 
+{{< rawhtml >}}
+<div style="text-align:center; margin:1.5em 0;">
+  <a href="https://px.a8.net/svt/ejp?a8mat=4B1R5P+FWR0QA+3FH0+2BDBUA" rel="nofollow noopener" target="_blank" style="display:inline-block; background:#e85d8a; color:#fff; padding:14px 36px; border-radius:30px; font-size:1em; font-weight:bold; text-decoration:none;">
+    【PR】DISMの美顔器を公式サイトで見る →
+  </a>
+</div>
+{{< /rawhtml >}}
+
+
 ---
 
 ## DISMの美顔器ってどんな製品？

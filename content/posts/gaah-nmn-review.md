@@ -17,6 +17,15 @@ cover:
 
 そこで出会ったのが、**医療従事者推奨NMNサプリNo.1**を獲得した**Gaah（ガー）INNER BEAUTY NMN**です。3ヶ月使い続けてみてわかったことを、良いことも悪いことも含めて正直にお伝えします。
 
+{{< rawhtml >}}
+<div style="text-align:center; margin:1.5em 0;">
+  <a href="https://px.a8.net/svt/ejp?a8mat=4B1SPS+B1459U+4P4W+C2O5E" rel="nofollow noopener" target="_blank" style="display:inline-block; background:#c97d7d; color:#fff; padding:14px 36px; border-radius:30px; font-size:1em; font-weight:bold; text-decoration:none;">
+    Gaah NMNを公式サイトで詳しく見る →
+  </a>
+</div>
+{{< /rawhtml >}}
+
+
 ---
 
 ## Gaah（ガー）NMNとは？
