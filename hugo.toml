@@ -67,6 +67,9 @@ hasCJKLanguage = true
   category = "categories"
   tag = "tags"
 
+[minify]
+  disableJS = true
+
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
