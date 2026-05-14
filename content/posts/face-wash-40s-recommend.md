@@ -1,6 +1,7 @@
 ---
 title: "洗顔料おすすめ40代向け3選｜乾燥・毛穴・くすみ別の選び方と使い方"
 date: 2026-04-26
+lastmod: 2026-05-14
 description: "40代の乾燥・敏感肌に合う洗顔料を厳選3本紹介。「落としすぎない」「うるおいを残す」を軸に、毛穴ケア・くすみ・乾燥タイプ別の選び方と朝夜の使い方を解説します。"
 tags: ["40代", "乾燥肌", "スキンケア"]
 categories: ["スキンケア"]
@@ -17,11 +18,17 @@ cover:
 迷ったら、まず **ファンケル ディープクリア 洗顔パウダー** から試してみてください。無添加処方×酵素洗顔で、毛穴の黒ずみ・古い角質にアプローチしながら、洗い上がりはうるおいを残す40代の肌に向いた定番品です。
 
 {{< rawhtml >}}
-<div style="text-align:center; margin:1.5em 0;">
-  <a href="https://px.a8.net/svt/ejp?a8mat=4B1THT+6NXPKI+YPG+61Z82" rel="nofollow noopener" target="_blank" style="display:inline-block; background:#c97d7d; color:#fff; padding:14px 36px; border-radius:30px; font-size:1em; font-weight:bold; text-decoration:none;">
-    b.glen QuSomeウォッシュを公式で詳しく見る →
-  </a>
-</div>
+<!-- START MoshimoAffiliateEasyLink -->
+<script type="text/javascript">
+(function(b,c,f,g,a,d,e){b.MoshimoAffiliateObject=a;
+b[a]=b[a]||function(){arguments.currentScript=c.currentScript
+||c.scripts[c.scripts.length-2];(b[a].q=b[a].q||[]).push(arguments)};
+c.getElementById(a)||(d=c.createElement(f),d.src=g,
+d.id=a,e=c.getElementsByTagName("body")[0],e.appendChild(d))})(window,document,"script","//dn.msmstatic.com/site/cardlink/bundle.js?20220329","msmaflink");
+msmaflink({"n":"ファンケル ディープクリア 洗顔パウダー 30個入","b":"FANCL","t":"B091PJNLCB","d":"https:\/\/m.media-amazon.com","c_p":"\/images\/I","p":["\/51QOhnDEycL._SL500_.jpg"],"u":{"u":"https:\/\/www.amazon.co.jp\/dp\/B091PJNLCB","t":"amazon","r_v":""},"v":"2.1","b_l":[{"id":1,"u_tx":"Amazonで見る","u_bc":"#f79256","u_url":"https:\/\/www.amazon.co.jp\/dp\/B091PJNLCB","a_id":5525308,"p_id":170,"pl_id":27060,"pc_id":185,"s_n":"amazon","u_so":1},{"id":2,"u_tx":"楽天市場で見る","u_bc":"#f76956","u_url":"https:\/\/search.rakuten.co.jp\/search\/mall\/%E3%83%95%E3%82%A1%E3%83%B3%E3%82%B1%E3%83%AB%20%E3%83%87%E3%82%A3%E3%83%BC%E3%83%97%E3%82%AF%E3%83%AA%E3%82%A2%20%E6%B4%97%E9%A1%94%E3%83%91%E3%82%A6%E3%83%80%E3%83%BC\/","a_id":5520409,"p_id":54,"pl_id":27059,"pc_id":54,"s_n":"rakuten","u_so":2},{"id":3,"u_tx":"Yahoo!ショッピングで見る","u_bc":"#66a7ff","u_url":"https:\/\/shopping.yahoo.co.jp\/search?first=1&p=%E3%83%95%E3%82%A1%E3%83%B3%E3%82%B1%E3%83%AB%20%E3%83%87%E3%82%A3%E3%83%BC%E3%83%97%E3%82%AF%E3%83%AA%E3%82%A2%20%E6%B4%97%E9%A1%94%E3%83%91%E3%82%A6%E3%83%80%E3%83%BC","a_id":5525312,"p_id":1225,"pl_id":27061,"pc_id":1925,"s_n":"yahoo","u_so":3}],"eid":"Krbw3","s":"s"});
+</script>
+<div id="msmaflink-Krbw3">リンク</div>
+<!-- MoshimoAffiliateEasyLink END -->
 {{< /rawhtml >}}
 
 

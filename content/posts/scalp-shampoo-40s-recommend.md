@@ -1,6 +1,7 @@
 ---
 title: "頭皮ケアシャンプーおすすめ40代女性向け3選｜薄毛・抜け毛・ハリ不足に向けた選び方"
 date: 2026-04-25
+lastmod: 2026-05-14
 description: "40代女性の薄毛・抜け毛・ハリ不足に向けた頭皮ケアシャンプーを3本比較。選び方のポイントから正しい洗い方まで、ホルモン変化に合わせたスカルプケアを解説します。"
 tags: ["ヘアケア", "40代"]
 categories: ["ヘアケア"]
@@ -18,11 +19,17 @@ draft: false
 迷ったら、まず **スカルプDボーテ 薬用スカルプシャンプー** から試してみてください。育毛専門メーカー・アンファーが開発した医薬部外品で、薬用育毛成分配合の女性向けスカルプシャンプーです。
 
 {{< rawhtml >}}
-<div style="text-align:center; margin:1.5em 0;">
-  <a href="https://px.a8.net/svt/ejp?a8mat=4B1V21+53YYPE+33NQ+63H8I" rel="nofollow noopener" target="_blank" style="display:inline-block; background:#c97d7d; color:#fff; padding:14px 36px; border-radius:30px; font-size:1em; font-weight:bold; text-decoration:none;">
-    haru kurokami スカルプを公式で詳しく見る →
-  </a>
-</div>
+<!-- START MoshimoAffiliateEasyLink -->
+<script type="text/javascript">
+(function(b,c,f,g,a,d,e){b.MoshimoAffiliateObject=a;
+b[a]=b[a]||function(){arguments.currentScript=c.currentScript
+||c.scripts[c.scripts.length-2];(b[a].q=b[a].q||[]).push(arguments)};
+c.getElementById(a)||(d=c.createElement(f),d.src=g,
+d.id=a,e=c.getElementsByTagName("body")[0],e.appendChild(d))})(window,document,"script","//dn.msmstatic.com/site/cardlink/bundle.js?20220329","msmaflink");
+msmaflink({"n":"スカルプDボーテ 薬用スカルプシャンプー ボリューム","b":"ANGFA","t":"B09S3C8MRB","d":"https:\/\/m.media-amazon.com","c_p":"\/images\/I","p":["\/61UIkdiYxuL._SL500_.jpg"],"u":{"u":"https:\/\/www.amazon.co.jp\/dp\/B09S3C8MRB","t":"amazon","r_v":""},"v":"2.1","b_l":[{"id":1,"u_tx":"Amazonで見る","u_bc":"#f79256","u_url":"https:\/\/www.amazon.co.jp\/dp\/B09S3C8MRB","a_id":5525308,"p_id":170,"pl_id":27060,"pc_id":185,"s_n":"amazon","u_so":1},{"id":2,"u_tx":"楽天市場で見る","u_bc":"#f76956","u_url":"https:\/\/search.rakuten.co.jp\/search\/mall\/%E3%82%B9%E3%82%AB%E3%83%AB%E3%83%97D%E3%83%9C%E3%83%BC%E3%83%86%20%E8%96%AC%E7%94%A8%E3%82%B9%E3%82%AB%E3%83%AB%E3%83%97%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%97%E3%83%BC\/","a_id":5520409,"p_id":54,"pl_id":27059,"pc_id":54,"s_n":"rakuten","u_so":2},{"id":3,"u_tx":"Yahoo!ショッピングで見る","u_bc":"#66a7ff","u_url":"https:\/\/shopping.yahoo.co.jp\/search?first=1&p=%E3%82%B9%E3%82%AB%E3%83%AB%E3%83%97D%E3%83%9C%E3%83%BC%E3%83%86%20%E8%96%AC%E7%94%A8%E3%82%B9%E3%82%AB%E3%83%AB%E3%83%97%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%97%E3%83%BC","a_id":5525312,"p_id":1225,"pl_id":27061,"pc_id":1925,"s_n":"yahoo","u_so":3}],"eid":"S3cQA","s":"s"});
+</script>
+<div id="msmaflink-S3cQA">リンク</div>
+<!-- MoshimoAffiliateEasyLink END -->
 {{< /rawhtml >}}
 
 

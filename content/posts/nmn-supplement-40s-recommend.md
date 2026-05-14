@@ -1,6 +1,7 @@
 ---
 title: "NMNサプリおすすめ5選【40代が選ぶ効果・含有量・コスパ比較】"
 date: 2026-04-25
+lastmod: 2026-05-14
 description: "NMNサプリのおすすめ5選を40代目線で徹底比較。含有量・純度・腸溶性の選び方から、変化を感じるまでの目安期間・飲み方まで正直に解説します。"
 tags: ["40代", "エイジングケア", "インナーケア", "NMNサプリ", "サプリメント"]
 categories: ["インナーケア"]
@@ -22,11 +23,17 @@ summary_points:
 迷ったら、まず **Gaah（ガー）INNER BEAUTY NMN** から試してみてください。品質の透明性が5本の中で突出しています。
 
 {{< rawhtml >}}
-<div style="text-align:center; margin:1.5em 0;">
-  <a href="https://px.a8.net/svt/ejp?a8mat=4B1SPS+B1459U+4P4W+C2O5E" rel="nofollow noopener" target="_blank" style="display:inline-block; background:#c97d7d; color:#fff; padding:14px 36px; border-radius:30px; font-size:1em; font-weight:bold; text-decoration:none;">
-    No.1 NMNサプリをAmazonで見る →
-  </a>
-</div>
+<!-- START MoshimoAffiliateEasyLink -->
+<script type="text/javascript">
+(function(b,c,f,g,a,d,e){b.MoshimoAffiliateObject=a;
+b[a]=b[a]||function(){arguments.currentScript=c.currentScript
+||c.scripts[c.scripts.length-2];(b[a].q=b[a].q||[]).push(arguments)};
+c.getElementById(a)||(d=c.createElement(f),d.src=g,
+d.id=a,e=c.getElementsByTagName("body")[0],e.appendChild(d))})(window,document,"script","//dn.msmstatic.com/site/cardlink/bundle.js?20220329","msmaflink");
+msmaflink({"n":"Gaah INNER BEAUTY NMN","b":"Gaah","t":"B08HKVXSP7","d":"https:\/\/m.media-amazon.com","c_p":"\/images\/I","p":["\/51hMkWbd1ZL._SL500_.jpg"],"u":{"u":"https:\/\/www.amazon.co.jp\/dp\/B08HKVXSP7","t":"amazon","r_v":""},"v":"2.1","b_l":[{"id":1,"u_tx":"Amazonで見る","u_bc":"#f79256","u_url":"https:\/\/www.amazon.co.jp\/dp\/B08HKVXSP7","a_id":5525308,"p_id":170,"pl_id":27060,"pc_id":185,"s_n":"amazon","u_so":1},{"id":2,"u_tx":"楽天市場で見る","u_bc":"#f76956","u_url":"https:\/\/search.rakuten.co.jp\/search\/mall\/Gaah%20NMN%20%E3%82%B5%E3%83%97%E3%83%AA\/","a_id":5520409,"p_id":54,"pl_id":27059,"pc_id":54,"s_n":"rakuten","u_so":2},{"id":3,"u_tx":"Yahoo!ショッピングで見る","u_bc":"#66a7ff","u_url":"https:\/\/shopping.yahoo.co.jp\/search?first=1&p=Gaah%20NMN%20%E3%82%B5%E3%83%97%E3%83%AA","a_id":5525312,"p_id":1225,"pl_id":27061,"pc_id":1925,"s_n":"yahoo","u_so":3}],"eid":"DtMkQ","s":"s"});
+</script>
+<div id="msmaflink-DtMkQ">リンク</div>
+<!-- MoshimoAffiliateEasyLink END -->
 {{< /rawhtml >}}
 
 

@@ -1,6 +1,7 @@
 ---
 title: "美白美容液おすすめ40代向け3選｜シミ・くすみ・トーンアップに本気アプローチ"
 date: 2026-04-25
+lastmod: 2026-05-14
 draft: false
 affiliate: true
 cover:
@@ -20,11 +21,17 @@ description: "40代のシミ・くすみ・トーンダウンにアプローチ�
 迷ったら、まず **HAKU メラノフォーカス IV** から試してみてください。資生堂の美白フラッグシップで、m-トラネキサム酸（美白）と純粋レチノール（シワ改善）の両有効成分を配合した医薬部外品です。
 
 {{< rawhtml >}}
-<div style="text-align:center; margin:1.5em 0;">
-  <a href="https://px.a8.net/svt/ejp?a8mat=4B1THT+6NXPKI+YPG+61Z82" rel="nofollow noopener" target="_blank" style="display:inline-block; background:#c97d7d; color:#fff; padding:14px 36px; border-radius:30px; font-size:1em; font-weight:bold; text-decoration:none;">
-    b.glen ビーグレン公式サイトで詳しく見る →
-  </a>
-</div>
+<!-- START MoshimoAffiliateEasyLink -->
+<script type="text/javascript">
+(function(b,c,f,g,a,d,e){b.MoshimoAffiliateObject=a;
+b[a]=b[a]||function(){arguments.currentScript=c.currentScript
+||c.scripts[c.scripts.length-2];(b[a].q=b[a].q||[]).push(arguments)};
+c.getElementById(a)||(d=c.createElement(f),d.src=g,
+d.id=a,e=c.getElementsByTagName("body")[0],e.appendChild(d))})(window,document,"script","//dn.msmstatic.com/site/cardlink/bundle.js?20220329","msmaflink");
+msmaflink({"n":"薬用雪肌精 ブライトニング エッセンスローション","b":"コーセー","t":"B0CQK5YQ3Q","d":"https:\/\/m.media-amazon.com","c_p":"\/images\/I","p":["\/61oYtpcqdLL._SL500_.jpg"],"u":{"u":"https:\/\/www.amazon.co.jp\/dp\/B0CQK5YQ3Q","t":"amazon","r_v":""},"v":"2.1","b_l":[{"id":1,"u_tx":"Amazonで見る","u_bc":"#f79256","u_url":"https:\/\/www.amazon.co.jp\/dp\/B0CQK5YQ3Q","a_id":5525308,"p_id":170,"pl_id":27060,"pc_id":185,"s_n":"amazon","u_so":1},{"id":2,"u_tx":"楽天市場で見る","u_bc":"#f76956","u_url":"https:\/\/search.rakuten.co.jp\/search\/mall\/%E8%96%AC%E7%94%A8%E9%9B%AA%E8%82%8C%E7%B2%BE%20%E3%83%96%E3%83%A9%E3%82%A4%E3%83%88%E3%83%8B%E3%83%B3%E3%82%B0%20%E3%82%A8%E3%83%83%E3%82%BB%E3%83%B3%E3%82%B9%E3%83%AD%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3\/","a_id":5520409,"p_id":54,"pl_id":27059,"pc_id":54,"s_n":"rakuten","u_so":2},{"id":3,"u_tx":"Yahoo!ショッピングで見る","u_bc":"#66a7ff","u_url":"https:\/\/shopping.yahoo.co.jp\/search?first=1&p=%E8%96%AC%E7%94%A8%E9%9B%AA%E8%82%8C%E7%B2%BE%20%E3%83%96%E3%83%A9%E3%82%A4%E3%83%88%E3%83%8B%E3%83%B3%E3%82%B0%20%E3%82%A8%E3%83%83%E3%82%BB%E3%83%B3%E3%82%B9%E3%83%AD%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3","a_id":5525312,"p_id":1225,"pl_id":27061,"pc_id":1925,"s_n":"yahoo","u_so":3}],"eid":"gOryH","s":"s"});
+</script>
+<div id="msmaflink-gOryH">リンク</div>
+<!-- MoshimoAffiliateEasyLink END -->
 {{< /rawhtml >}}
 
 
