@@ -1,7 +1,7 @@
 ---
-title: "頭皮ケアシャンプーおすすめ40代女性向け3選｜薄毛・抜け毛・ハリ不足に向けた選び方"
+title: "40代女性向け頭皮ケアシャンプー3選【薄毛・抜け毛・ハリ不足】"
 date: 2026-04-25
-lastmod: 2026-05-14
+lastmod: 2026-05-15
 description: "40代女性の薄毛・抜け毛・ハリ不足に向けた頭皮ケアシャンプーを3本比較。選び方のポイントから正しい洗い方まで、ホルモン変化に合わせたスカルプケアを解説します。"
 tags: ["ヘアケア", "40代"]
 categories: ["ヘアケア"]
@@ -372,10 +372,7 @@ A. 40代であれば今すぐが最適のタイミングです。ヘアサイク
 >}}
 
 {{< rawhtml >}}
-<a href="/posts/serum-recommend/" class="related-link">美容液おすすめ40代向け3選</a>
-<a href="/posts/face-wash-40s-recommend/" class="related-link">洗顔料おすすめ40代向け3選</a>
+<a href="/posts/shampoo-40s-recommend/" class="related-link">シャンプーおすすめ40代3選【うねり・乾燥向け】</a>
 <a href="/posts/haircare-40s-guide/" class="related-link">40代ヘアケアおすすめガイド</a>
-<a href="/posts/hairbirth-review/" class="related-link">ヘアバース（育毛サプリ）口コミ・評価</a>
-<a href="/posts/moagrowsup-review/" class="related-link">モアグロースアップ育毛剤の口コミ・評価</a>
 <a href="/posts/currentbody-led-hair-review/" class="related-link">CurrentBody LED頭皮ケアデバイスの口コミ</a>
 {{< /rawhtml >}}
