@@ -23,16 +23,20 @@ cover:
 迷ったら、まず**エリクシール シュペリエル リフトモイスト エマルジョン**から試してみてください。ドラッグストアで手に入るハリ・うるおいケアの定番で、40代の乾燥肌に支持されています。
 
 {{< rawhtml >}}
-<div style="display:flex;align-items:center;gap:16px;padding:16px;background:#faf8f5;border-radius:12px;margin:1.5em 0;border:1px solid #e8e0d8;">
-  <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B0FHJZ7LDZ" rel="nofollow noopener" target="_blank" style="flex-shrink:0;">
-    <img src="https://m.media-amazon.com/images/I/51WXjQ7sbeL._SL500_.jpg" alt="エリクシール リフトモイスト エマルジョン" style="width:110px;height:110px;object-fit:contain;">
-  </a>
-  <div>
-    <div style="font-weight:700;font-size:0.9em;margin-bottom:12px;line-height:1.4;">エリクシール リフトモイスト エマルジョン 130mL</div>
-    <div style="display:flex;gap:8px;flex-wrap:wrap;">
-      <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B0FHJZ7LDZ" rel="nofollow noopener" target="_blank" style="display:inline-block;background:#f79256;color:#fff;padding:8px 20px;border-radius:20px;font-size:0.85em;font-weight:bold;text-decoration:none;">Amazonで見る</a>
-      <a href="https://search.rakuten.co.jp/search/mall/%E3%82%A8%E3%83%AA%E3%82%AF%E3%82%B7%E3%83%BC%E3%83%AB+%E3%83%AA%E3%83%95%E3%83%88%E3%83%A2%E3%82%A4%E3%82%B9%E3%83%88+%E3%82%A8%E3%83%9E%E3%83%AB%E3%82%B8%E3%83%A7%E3%83%B3/" rel="nofollow noopener" target="_blank" style="display:inline-block;background:#f76956;color:#fff;padding:8px 20px;border-radius:20px;font-size:0.85em;font-weight:bold;text-decoration:none;">楽天市場で見る</a>
+<div style="background:#fff;border-radius:12px;padding:24px;margin:1.5em 0;box-shadow:0 2px 16px rgba(0,0,0,0.08);display:flex;gap:24px;align-items:center;">
+  <div style="flex-shrink:0;">
+    <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B0FHJZ7LDZ" rel="nofollow noopener" target="_blank">
+      <img src="https://m.media-amazon.com/images/I/51WXjQ7sbeL._SL500_.jpg" alt="エリクシール リフトモイスト エマルジョン" style="width:180px;height:180px;object-fit:contain;">
+    </a>
+  </div>
+  <div style="flex:1;">
+    <div style="color:#c97d7d;font-size:0.85em;font-weight:700;margin-bottom:4px;">エリクシール</div>
+    <div style="font-weight:700;font-size:1em;margin-bottom:16px;line-height:1.4;">エリクシール リフトモイスト エマルジョン 130mL</div>
+    <div style="display:flex;gap:10px;flex-wrap:wrap;margin-bottom:10px;">
+      <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B0FHJZ7LDZ" rel="nofollow noopener" target="_blank" style="flex:1;min-width:130px;display:block;background:#f79256;color:#fff;padding:12px 16px;border-radius:8px;font-size:0.9em;font-weight:bold;text-decoration:none;text-align:center;">Amazonで見る</a>
+      <a href="https://search.rakuten.co.jp/search/mall/%E3%82%A8%E3%83%AA%E3%82%AF%E3%82%B7%E3%83%BC%E3%83%AB+%E3%83%AA%E3%83%95%E3%83%88%E3%83%A2%E3%82%A4%E3%82%B9%E3%83%88+%E3%82%A8%E3%83%9E%E3%83%AB%E3%82%B8%E3%83%A7%E3%83%B3/" rel="nofollow noopener" target="_blank" style="flex:1;min-width:130px;display:block;background:#f76956;color:#fff;padding:12px 16px;border-radius:8px;font-size:0.9em;font-weight:bold;text-decoration:none;text-align:center;">楽天市場で見る</a>
     </div>
+    <a href="https://shopping.yahoo.co.jp/search?p=%E3%82%A8%E3%83%AA%E3%82%AF%E3%82%B7%E3%83%BC%E3%83%AB+%E3%83%AA%E3%83%95%E3%83%88%E3%83%A2%E3%82%A4%E3%82%B9%E3%83%88+%E3%82%A8%E3%83%9E%E3%83%AB%E3%82%B8%E3%83%A7%E3%83%B3" rel="nofollow noopener" target="_blank" style="display:block;background:#7c6fcd;color:#fff;padding:12px 16px;border-radius:8px;font-size:0.9em;font-weight:bold;text-decoration:none;text-align:center;">Yahoo!ショッピングで見る</a>
   </div>
 </div>
 {{< /rawhtml >}}
@@ -106,16 +110,20 @@ cover:
 乾燥肌の方はII（しっとり）かSP（超しっとり）がおすすめ。夜のみ使用でも効果が感じやすく、入門として選ばれやすい一本です。
 
 {{< rawhtml >}}
-<div style="display:flex;align-items:center;gap:16px;padding:16px;background:#faf8f5;border-radius:12px;margin:1.5em 0;border:1px solid #e8e0d8;">
-  <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B0FHJZ7LDZ" rel="nofollow noopener" target="_blank" style="flex-shrink:0;">
-    <img src="https://m.media-amazon.com/images/I/51WXjQ7sbeL._SL500_.jpg" alt="エリクシール リフトモイスト エマルジョン" style="width:110px;height:110px;object-fit:contain;">
-  </a>
-  <div>
-    <div style="font-weight:700;font-size:0.9em;margin-bottom:12px;line-height:1.4;">エリクシール リフトモイスト エマルジョン 130mL</div>
-    <div style="display:flex;gap:8px;flex-wrap:wrap;">
-      <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B0FHJZ7LDZ" rel="nofollow noopener" target="_blank" style="display:inline-block;background:#f79256;color:#fff;padding:8px 20px;border-radius:20px;font-size:0.85em;font-weight:bold;text-decoration:none;">Amazonで見る</a>
-      <a href="https://search.rakuten.co.jp/search/mall/%E3%82%A8%E3%83%AA%E3%82%AF%E3%82%B7%E3%83%BC%E3%83%AB+%E3%83%AA%E3%83%95%E3%83%88%E3%83%A2%E3%82%A4%E3%82%B9%E3%83%88+%E3%82%A8%E3%83%9E%E3%83%AB%E3%82%B8%E3%83%A7%E3%83%B3/" rel="nofollow noopener" target="_blank" style="display:inline-block;background:#f76956;color:#fff;padding:8px 20px;border-radius:20px;font-size:0.85em;font-weight:bold;text-decoration:none;">楽天市場で見る</a>
+<div style="background:#fff;border-radius:12px;padding:24px;margin:1.5em 0;box-shadow:0 2px 16px rgba(0,0,0,0.08);display:flex;gap:24px;align-items:center;">
+  <div style="flex-shrink:0;">
+    <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B0FHJZ7LDZ" rel="nofollow noopener" target="_blank">
+      <img src="https://m.media-amazon.com/images/I/51WXjQ7sbeL._SL500_.jpg" alt="エリクシール リフトモイスト エマルジョン" style="width:180px;height:180px;object-fit:contain;">
+    </a>
+  </div>
+  <div style="flex:1;">
+    <div style="color:#c97d7d;font-size:0.85em;font-weight:700;margin-bottom:4px;">エリクシール</div>
+    <div style="font-weight:700;font-size:1em;margin-bottom:16px;line-height:1.4;">エリクシール リフトモイスト エマルジョン 130mL</div>
+    <div style="display:flex;gap:10px;flex-wrap:wrap;margin-bottom:10px;">
+      <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B0FHJZ7LDZ" rel="nofollow noopener" target="_blank" style="flex:1;min-width:130px;display:block;background:#f79256;color:#fff;padding:12px 16px;border-radius:8px;font-size:0.9em;font-weight:bold;text-decoration:none;text-align:center;">Amazonで見る</a>
+      <a href="https://search.rakuten.co.jp/search/mall/%E3%82%A8%E3%83%AA%E3%82%AF%E3%82%B7%E3%83%BC%E3%83%AB+%E3%83%AA%E3%83%95%E3%83%88%E3%83%A2%E3%82%A4%E3%82%B9%E3%83%88+%E3%82%A8%E3%83%9E%E3%83%AB%E3%82%B8%E3%83%A7%E3%83%B3/" rel="nofollow noopener" target="_blank" style="flex:1;min-width:130px;display:block;background:#f76956;color:#fff;padding:12px 16px;border-radius:8px;font-size:0.9em;font-weight:bold;text-decoration:none;text-align:center;">楽天市場で見る</a>
     </div>
+    <a href="https://shopping.yahoo.co.jp/search?p=%E3%82%A8%E3%83%AA%E3%82%AF%E3%82%B7%E3%83%BC%E3%83%AB+%E3%83%AA%E3%83%95%E3%83%88%E3%83%A2%E3%82%A4%E3%82%B9%E3%83%88+%E3%82%A8%E3%83%9E%E3%83%AB%E3%82%B8%E3%83%A7%E3%83%B3" rel="nofollow noopener" target="_blank" style="display:block;background:#7c6fcd;color:#fff;padding:12px 16px;border-radius:8px;font-size:0.9em;font-weight:bold;text-decoration:none;text-align:center;">Yahoo!ショッピングで見る</a>
   </div>
 </div>
 {{< /rawhtml >}}
@@ -136,16 +144,20 @@ ORBISの看板スキンケアライン「オルビスユー」の乳液。ノン
 - **価格帯：** 約3,000円前後（公式サイト購入が最安）
 
 {{< rawhtml >}}
-<div style="display:flex;align-items:center;gap:16px;padding:16px;background:#faf8f5;border-radius:12px;margin:1.5em 0;border:1px solid #e8e0d8;">
-  <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B0B8MGS3L4" rel="nofollow noopener" target="_blank" style="flex-shrink:0;">
-    <img src="https://m.media-amazon.com/images/I/41z7q3JCWYL._SL500_.jpg" alt="ORBIS オルビスユー モイスチャー" style="width:110px;height:110px;object-fit:contain;">
-  </a>
-  <div>
-    <div style="font-weight:700;font-size:0.9em;margin-bottom:12px;line-height:1.4;">ORBIS オルビスユー モイスチャー 50g</div>
-    <div style="display:flex;gap:8px;flex-wrap:wrap;">
-      <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B0B8MGS3L4" rel="nofollow noopener" target="_blank" style="display:inline-block;background:#f79256;color:#fff;padding:8px 20px;border-radius:20px;font-size:0.85em;font-weight:bold;text-decoration:none;">Amazonで見る</a>
-      <a href="https://search.rakuten.co.jp/search/mall/ORBIS+%E3%82%AA%E3%83%AB%E3%83%93%E3%82%B9%E3%83%A6%E3%83%BC+%E3%83%A2%E3%82%A4%E3%82%B9%E3%83%81%E3%83%A3%E3%83%BC/" rel="nofollow noopener" target="_blank" style="display:inline-block;background:#f76956;color:#fff;padding:8px 20px;border-radius:20px;font-size:0.85em;font-weight:bold;text-decoration:none;">楽天市場で見る</a>
+<div style="background:#fff;border-radius:12px;padding:24px;margin:1.5em 0;box-shadow:0 2px 16px rgba(0,0,0,0.08);display:flex;gap:24px;align-items:center;">
+  <div style="flex-shrink:0;">
+    <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B0B8MGS3L4" rel="nofollow noopener" target="_blank">
+      <img src="https://m.media-amazon.com/images/I/41z7q3JCWYL._SL500_.jpg" alt="ORBIS オルビスユー モイスチャー" style="width:180px;height:180px;object-fit:contain;">
+    </a>
+  </div>
+  <div style="flex:1;">
+    <div style="color:#c97d7d;font-size:0.85em;font-weight:700;margin-bottom:4px;">ORBIS</div>
+    <div style="font-weight:700;font-size:1em;margin-bottom:16px;line-height:1.4;">ORBIS オルビスユー モイスチャー 50g</div>
+    <div style="display:flex;gap:10px;flex-wrap:wrap;margin-bottom:10px;">
+      <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B0B8MGS3L4" rel="nofollow noopener" target="_blank" style="flex:1;min-width:130px;display:block;background:#f79256;color:#fff;padding:12px 16px;border-radius:8px;font-size:0.9em;font-weight:bold;text-decoration:none;text-align:center;">Amazonで見る</a>
+      <a href="https://search.rakuten.co.jp/search/mall/ORBIS+%E3%82%AA%E3%83%AB%E3%83%93%E3%82%B9%E3%83%A6%E3%83%BC+%E3%83%A2%E3%82%A4%E3%82%B9%E3%83%81%E3%83%A3%E3%83%BC/" rel="nofollow noopener" target="_blank" style="flex:1;min-width:130px;display:block;background:#f76956;color:#fff;padding:12px 16px;border-radius:8px;font-size:0.9em;font-weight:bold;text-decoration:none;text-align:center;">楽天市場で見る</a>
     </div>
+    <a href="https://shopping.yahoo.co.jp/search?p=ORBIS+%E3%82%AA%E3%83%AB%E3%83%93%E3%82%B9%E3%83%A6%E3%83%BC+%E3%83%A2%E3%82%A4%E3%82%B9%E3%83%81%E3%83%A3%E3%83%BC" rel="nofollow noopener" target="_blank" style="display:block;background:#7c6fcd;color:#fff;padding:12px 16px;border-radius:8px;font-size:0.9em;font-weight:bold;text-decoration:none;text-align:center;">Yahoo!ショッピングで見る</a>
   </div>
 </div>
 {{< /rawhtml >}}
@@ -166,16 +178,20 @@ ORBISの看板スキンケアライン「オルビスユー」の乳液。ノン
 - **価格帯：** 約4,000〜5,000円
 
 {{< rawhtml >}}
-<div style="display:flex;align-items:center;gap:16px;padding:16px;background:#faf8f5;border-radius:12px;margin:1.5em 0;border:1px solid #e8e0d8;">
-  <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B0851C9HH3" rel="nofollow noopener" target="_blank" style="flex-shrink:0;">
-    <img src="https://m.media-amazon.com/images/I/31-dB7iQ83L._SL500_.jpg" alt="アスタリフト ホワイトエマルジョン" style="width:110px;height:110px;object-fit:contain;">
-  </a>
-  <div>
-    <div style="font-weight:700;font-size:0.9em;margin-bottom:12px;line-height:1.4;">アスタリフト ホワイトエマルジョン 100mL</div>
-    <div style="display:flex;gap:8px;flex-wrap:wrap;">
-      <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B0851C9HH3" rel="nofollow noopener" target="_blank" style="display:inline-block;background:#f79256;color:#fff;padding:8px 20px;border-radius:20px;font-size:0.85em;font-weight:bold;text-decoration:none;">Amazonで見る</a>
-      <a href="https://search.rakuten.co.jp/search/mall/%E3%82%A2%E3%82%B9%E3%82%BF%E3%83%AA%E3%83%95%E3%83%88+%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88+%E3%82%A8%E3%83%9E%E3%83%AB%E3%82%B8%E3%83%A7%E3%83%B3/" rel="nofollow noopener" target="_blank" style="display:inline-block;background:#f76956;color:#fff;padding:8px 20px;border-radius:20px;font-size:0.85em;font-weight:bold;text-decoration:none;">楽天市場で見る</a>
+<div style="background:#fff;border-radius:12px;padding:24px;margin:1.5em 0;box-shadow:0 2px 16px rgba(0,0,0,0.08);display:flex;gap:24px;align-items:center;">
+  <div style="flex-shrink:0;">
+    <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B0851C9HH3" rel="nofollow noopener" target="_blank">
+      <img src="https://m.media-amazon.com/images/I/31-dB7iQ83L._SL500_.jpg" alt="アスタリフト ホワイトエマルジョン" style="width:180px;height:180px;object-fit:contain;">
+    </a>
+  </div>
+  <div style="flex:1;">
+    <div style="color:#c97d7d;font-size:0.85em;font-weight:700;margin-bottom:4px;">アスタリフト</div>
+    <div style="font-weight:700;font-size:1em;margin-bottom:16px;line-height:1.4;">アスタリフト ホワイトエマルジョン 100mL</div>
+    <div style="display:flex;gap:10px;flex-wrap:wrap;margin-bottom:10px;">
+      <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B0851C9HH3" rel="nofollow noopener" target="_blank" style="flex:1;min-width:130px;display:block;background:#f79256;color:#fff;padding:12px 16px;border-radius:8px;font-size:0.9em;font-weight:bold;text-decoration:none;text-align:center;">Amazonで見る</a>
+      <a href="https://search.rakuten.co.jp/search/mall/%E3%82%A2%E3%82%B9%E3%82%BF%E3%83%AA%E3%83%95%E3%83%88+%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88+%E3%82%A8%E3%83%9E%E3%83%AB%E3%82%B8%E3%83%A7%E3%83%B3/" rel="nofollow noopener" target="_blank" style="flex:1;min-width:130px;display:block;background:#f76956;color:#fff;padding:12px 16px;border-radius:8px;font-size:0.9em;font-weight:bold;text-decoration:none;text-align:center;">楽天市場で見る</a>
     </div>
+    <a href="https://shopping.yahoo.co.jp/search?p=%E3%82%A2%E3%82%B9%E3%82%BF%E3%83%AA%E3%83%95%E3%83%88+%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88+%E3%82%A8%E3%83%9E%E3%83%AB%E3%82%B8%E3%83%A7%E3%83%B3" rel="nofollow noopener" target="_blank" style="display:block;background:#7c6fcd;color:#fff;padding:12px 16px;border-radius:8px;font-size:0.9em;font-weight:bold;text-decoration:none;text-align:center;">Yahoo!ショッピングで見る</a>
   </div>
 </div>
 {{< /rawhtml >}}
@@ -196,16 +212,20 @@ ORBISの看板スキンケアライン「オルビスユー」の乳液。ノン
 - **価格帯：** 約900〜1,100円（ドラッグストア）
 
 {{< rawhtml >}}
-<div style="display:flex;align-items:center;gap:16px;padding:16px;background:#faf8f5;border-radius:12px;margin:1.5em 0;border:1px solid #e8e0d8;">
-  <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B08DRK9VH8" rel="nofollow noopener" target="_blank" style="flex-shrink:0;">
-    <img src="https://m.media-amazon.com/images/I/71cRBAijiBL._SL500_.jpg" alt="肌ラボ 極潤プレミアム ヒアルロン乳液" style="width:110px;height:110px;object-fit:contain;">
-  </a>
-  <div>
-    <div style="font-weight:700;font-size:0.9em;margin-bottom:12px;line-height:1.4;">肌ラボ 極潤プレミアム ヒアルロン乳液 140mL</div>
-    <div style="display:flex;gap:8px;flex-wrap:wrap;">
-      <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B08DRK9VH8" rel="nofollow noopener" target="_blank" style="display:inline-block;background:#f79256;color:#fff;padding:8px 20px;border-radius:20px;font-size:0.85em;font-weight:bold;text-decoration:none;">Amazonで見る</a>
-      <a href="https://search.rakuten.co.jp/search/mall/%E8%82%8C%E3%83%A9%E3%83%9C+%E6%A5%B5%E6%BD%A4%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0+%E3%83%92%E3%82%A2%E3%83%AB%E3%83%AD%E3%83%B3%E4%B9%B3%E6%B6%B2/" rel="nofollow noopener" target="_blank" style="display:inline-block;background:#f76956;color:#fff;padding:8px 20px;border-radius:20px;font-size:0.85em;font-weight:bold;text-decoration:none;">楽天市場で見る</a>
+<div style="background:#fff;border-radius:12px;padding:24px;margin:1.5em 0;box-shadow:0 2px 16px rgba(0,0,0,0.08);display:flex;gap:24px;align-items:center;">
+  <div style="flex-shrink:0;">
+    <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B08DRK9VH8" rel="nofollow noopener" target="_blank">
+      <img src="https://m.media-amazon.com/images/I/71cRBAijiBL._SL500_.jpg" alt="肌ラボ 極潤プレミアム ヒアルロン乳液" style="width:180px;height:180px;object-fit:contain;">
+    </a>
+  </div>
+  <div style="flex:1;">
+    <div style="color:#c97d7d;font-size:0.85em;font-weight:700;margin-bottom:4px;">肌ラボ</div>
+    <div style="font-weight:700;font-size:1em;margin-bottom:16px;line-height:1.4;">肌ラボ 極潤プレミアム ヒアルロン乳液 140mL</div>
+    <div style="display:flex;gap:10px;flex-wrap:wrap;margin-bottom:10px;">
+      <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B08DRK9VH8" rel="nofollow noopener" target="_blank" style="flex:1;min-width:130px;display:block;background:#f79256;color:#fff;padding:12px 16px;border-radius:8px;font-size:0.9em;font-weight:bold;text-decoration:none;text-align:center;">Amazonで見る</a>
+      <a href="https://search.rakuten.co.jp/search/mall/%E8%82%8C%E3%83%A9%E3%83%9C+%E6%A5%B5%E6%BD%A4%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0+%E3%83%92%E3%82%A2%E3%83%AB%E3%83%AD%E3%83%B3%E4%B9%B3%E6%B6%B2/" rel="nofollow noopener" target="_blank" style="flex:1;min-width:130px;display:block;background:#f76956;color:#fff;padding:12px 16px;border-radius:8px;font-size:0.9em;font-weight:bold;text-decoration:none;text-align:center;">楽天市場で見る</a>
     </div>
+    <a href="https://shopping.yahoo.co.jp/search?p=%E8%82%8C%E3%83%A9%E3%83%9C+%E6%A5%B5%E6%BD%A4%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0+%E3%83%92%E3%82%A2%E3%83%AB%E3%83%AD%E3%83%B3%E4%B9%B3%E6%B6%B2" rel="nofollow noopener" target="_blank" style="display:block;background:#7c6fcd;color:#fff;padding:12px 16px;border-radius:8px;font-size:0.9em;font-weight:bold;text-decoration:none;text-align:center;">Yahoo!ショッピングで見る</a>
   </div>
 </div>
 {{< /rawhtml >}}
@@ -226,16 +246,20 @@ ORBISの看板スキンケアライン「オルビスユー」の乳液。ノン
 - **価格帯：** 約1,500〜1,900円（無印良品）
 
 {{< rawhtml >}}
-<div style="display:flex;align-items:center;gap:16px;padding:16px;background:#faf8f5;border-radius:12px;margin:1.5em 0;border:1px solid #e8e0d8;">
-  <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B0CT37VMC3" rel="nofollow noopener" target="_blank" style="flex-shrink:0;">
-    <img src="https://m.media-amazon.com/images/I/51gA3L3WRnL._SL500_.jpg" alt="無印良品 エイジングケア乳液" style="width:110px;height:110px;object-fit:contain;">
-  </a>
-  <div>
-    <div style="font-weight:700;font-size:0.9em;margin-bottom:12px;line-height:1.4;">無印良品 エイジングケア乳液 200mL</div>
-    <div style="display:flex;gap:8px;flex-wrap:wrap;">
-      <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B0CT37VMC3" rel="nofollow noopener" target="_blank" style="display:inline-block;background:#f79256;color:#fff;padding:8px 20px;border-radius:20px;font-size:0.85em;font-weight:bold;text-decoration:none;">Amazonで見る</a>
-      <a href="https://search.rakuten.co.jp/search/mall/%E7%84%A1%E5%8D%B0%E8%89%AF%E5%93%81+%E3%82%A8%E3%82%A4%E3%82%B8%E3%83%B3%E3%82%B0%E3%82%B1%E3%82%A2%E4%B9%B3%E6%B6%B2/" rel="nofollow noopener" target="_blank" style="display:inline-block;background:#f76956;color:#fff;padding:8px 20px;border-radius:20px;font-size:0.85em;font-weight:bold;text-decoration:none;">楽天市場で見る</a>
+<div style="background:#fff;border-radius:12px;padding:24px;margin:1.5em 0;box-shadow:0 2px 16px rgba(0,0,0,0.08);display:flex;gap:24px;align-items:center;">
+  <div style="flex-shrink:0;">
+    <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B0CT37VMC3" rel="nofollow noopener" target="_blank">
+      <img src="https://m.media-amazon.com/images/I/51gA3L3WRnL._SL500_.jpg" alt="無印良品 エイジングケア乳液" style="width:180px;height:180px;object-fit:contain;">
+    </a>
+  </div>
+  <div style="flex:1;">
+    <div style="color:#c97d7d;font-size:0.85em;font-weight:700;margin-bottom:4px;">無印良品</div>
+    <div style="font-weight:700;font-size:1em;margin-bottom:16px;line-height:1.4;">無印良品 エイジングケア乳液 200mL</div>
+    <div style="display:flex;gap:10px;flex-wrap:wrap;margin-bottom:10px;">
+      <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B0CT37VMC3" rel="nofollow noopener" target="_blank" style="flex:1;min-width:130px;display:block;background:#f79256;color:#fff;padding:12px 16px;border-radius:8px;font-size:0.9em;font-weight:bold;text-decoration:none;text-align:center;">Amazonで見る</a>
+      <a href="https://search.rakuten.co.jp/search/mall/%E7%84%A1%E5%8D%B0%E8%89%AF%E5%93%81+%E3%82%A8%E3%82%A4%E3%82%B8%E3%83%B3%E3%82%B0%E3%82%B1%E3%82%A2%E4%B9%B3%E6%B6%B2/" rel="nofollow noopener" target="_blank" style="flex:1;min-width:130px;display:block;background:#f76956;color:#fff;padding:12px 16px;border-radius:8px;font-size:0.9em;font-weight:bold;text-decoration:none;text-align:center;">楽天市場で見る</a>
     </div>
+    <a href="https://shopping.yahoo.co.jp/search?p=%E7%84%A1%E5%8D%B0%E8%89%AF%E5%93%81+%E3%82%A8%E3%82%A4%E3%82%B8%E3%83%B3%E3%82%B0%E3%82%B1%E3%82%A2%E4%B9%B3%E6%B6%B2" rel="nofollow noopener" target="_blank" style="display:block;background:#7c6fcd;color:#fff;padding:12px 16px;border-radius:8px;font-size:0.9em;font-weight:bold;text-decoration:none;text-align:center;">Yahoo!ショッピングで見る</a>
   </div>
 </div>
 {{< /rawhtml >}}
@@ -307,16 +331,20 @@ ORBISの看板スキンケアライン「オルビスユー」の乳液。ノン
 乳液は毎日使うものなので、使い心地を重視して選ぶことが続けられるコツです。まずは1本試してみてください。
 
 {{< rawhtml >}}
-<div style="display:flex;align-items:center;gap:16px;padding:16px;background:#faf8f5;border-radius:12px;margin:1.5em 0;border:1px solid #e8e0d8;">
-  <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B0FHJZ7LDZ" rel="nofollow noopener" target="_blank" style="flex-shrink:0;">
-    <img src="https://m.media-amazon.com/images/I/51WXjQ7sbeL._SL500_.jpg" alt="エリクシール リフトモイスト エマルジョン" style="width:110px;height:110px;object-fit:contain;">
-  </a>
-  <div>
-    <div style="font-weight:700;font-size:0.9em;margin-bottom:12px;line-height:1.4;">エリクシール リフトモイスト エマルジョン 130mL</div>
-    <div style="display:flex;gap:8px;flex-wrap:wrap;">
-      <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B0FHJZ7LDZ" rel="nofollow noopener" target="_blank" style="display:inline-block;background:#f79256;color:#fff;padding:8px 20px;border-radius:20px;font-size:0.85em;font-weight:bold;text-decoration:none;">Amazonで見る</a>
-      <a href="https://search.rakuten.co.jp/search/mall/%E3%82%A8%E3%83%AA%E3%82%AF%E3%82%B7%E3%83%BC%E3%83%AB+%E3%83%AA%E3%83%95%E3%83%88%E3%83%A2%E3%82%A4%E3%82%B9%E3%83%88+%E3%82%A8%E3%83%9E%E3%83%AB%E3%82%B8%E3%83%A7%E3%83%B3/" rel="nofollow noopener" target="_blank" style="display:inline-block;background:#f76956;color:#fff;padding:8px 20px;border-radius:20px;font-size:0.85em;font-weight:bold;text-decoration:none;">楽天市場で見る</a>
+<div style="background:#fff;border-radius:12px;padding:24px;margin:1.5em 0;box-shadow:0 2px 16px rgba(0,0,0,0.08);display:flex;gap:24px;align-items:center;">
+  <div style="flex-shrink:0;">
+    <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B0FHJZ7LDZ" rel="nofollow noopener" target="_blank">
+      <img src="https://m.media-amazon.com/images/I/51WXjQ7sbeL._SL500_.jpg" alt="エリクシール リフトモイスト エマルジョン" style="width:180px;height:180px;object-fit:contain;">
+    </a>
+  </div>
+  <div style="flex:1;">
+    <div style="color:#c97d7d;font-size:0.85em;font-weight:700;margin-bottom:4px;">エリクシール</div>
+    <div style="font-weight:700;font-size:1em;margin-bottom:16px;line-height:1.4;">エリクシール リフトモイスト エマルジョン 130mL</div>
+    <div style="display:flex;gap:10px;flex-wrap:wrap;margin-bottom:10px;">
+      <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B0FHJZ7LDZ" rel="nofollow noopener" target="_blank" style="flex:1;min-width:130px;display:block;background:#f79256;color:#fff;padding:12px 16px;border-radius:8px;font-size:0.9em;font-weight:bold;text-decoration:none;text-align:center;">Amazonで見る</a>
+      <a href="https://search.rakuten.co.jp/search/mall/%E3%82%A8%E3%83%AA%E3%82%AF%E3%82%B7%E3%83%BC%E3%83%AB+%E3%83%AA%E3%83%95%E3%83%88%E3%83%A2%E3%82%A4%E3%82%B9%E3%83%88+%E3%82%A8%E3%83%9E%E3%83%AB%E3%82%B8%E3%83%A7%E3%83%B3/" rel="nofollow noopener" target="_blank" style="flex:1;min-width:130px;display:block;background:#f76956;color:#fff;padding:12px 16px;border-radius:8px;font-size:0.9em;font-weight:bold;text-decoration:none;text-align:center;">楽天市場で見る</a>
     </div>
+    <a href="https://shopping.yahoo.co.jp/search?p=%E3%82%A8%E3%83%AA%E3%82%AF%E3%82%B7%E3%83%BC%E3%83%AB+%E3%83%AA%E3%83%95%E3%83%88%E3%83%A2%E3%82%A4%E3%82%B9%E3%83%88+%E3%82%A8%E3%83%9E%E3%83%AB%E3%82%B8%E3%83%A7%E3%83%B3" rel="nofollow noopener" target="_blank" style="display:block;background:#7c6fcd;color:#fff;padding:12px 16px;border-radius:8px;font-size:0.9em;font-weight:bold;text-decoration:none;text-align:center;">Yahoo!ショッピングで見る</a>
   </div>
 </div>
 {{< /rawhtml >}}

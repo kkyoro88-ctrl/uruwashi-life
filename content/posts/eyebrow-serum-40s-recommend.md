@@ -97,15 +97,20 @@ draft: false
 ### No.1｜スカルプD ボーテ MEDI アイブロウエッセンス
 
 {{< rawhtml >}}
-<div style="display:flex;align-items:center;gap:16px;padding:16px;background:#faf8f5;border-radius:12px;margin:1.5em 0;border:1px solid #e8e0d8;">
-  <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B0CWGBKPPS" rel="nofollow noopener" target="_blank" style="flex-shrink:0;">
-    <img src="https://m.media-amazon.com/images/I/51qQNaRFg-L._SL500_.jpg" alt="スカルプD ボーテ MEDI アイブロウエッセンス" style="width:110px;height:110px;object-fit:contain;">
-  </a>
-  <div>
-    <div style="font-weight:700;font-size:0.9em;margin-bottom:12px;line-height:1.4;">No.1 スカルプD ボーテ MEDI アイブロウエッセンス</div>
-    <div style="display:flex;gap:8px;flex-wrap:wrap;">
-      <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B0CWGBKPPS" rel="nofollow noopener" target="_blank" style="display:inline-block;background:#f79256;color:#fff;padding:8px 20px;border-radius:20px;font-size:0.85em;font-weight:bold;text-decoration:none;">Amazonで見る</a>
+<div style="background:#fff;border-radius:12px;padding:24px;margin:1.5em 0;box-shadow:0 2px 16px rgba(0,0,0,0.08);display:flex;gap:24px;align-items:center;">
+  <div style="flex-shrink:0;">
+    <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B0CWGBKPPS" rel="nofollow noopener" target="_blank">
+      <img src="https://m.media-amazon.com/images/I/51qQNaRFg-L._SL500_.jpg" alt="スカルプD ボーテ MEDI アイブロウエッセンス" style="width:180px;height:180px;object-fit:contain;">
+    </a>
+  </div>
+  <div style="flex:1;">
+    <div style="color:#c97d7d;font-size:0.85em;font-weight:700;margin-bottom:4px;">アンファー / スカルプD</div>
+    <div style="font-weight:700;font-size:1em;margin-bottom:16px;line-height:1.4;">スカルプD ボーテ MEDI アイブロウエッセンス</div>
+    <div style="display:flex;gap:10px;flex-wrap:wrap;margin-bottom:10px;">
+      <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B0CWGBKPPS" rel="nofollow noopener" target="_blank" style="flex:1;min-width:130px;display:block;background:#f79256;color:#fff;padding:12px 16px;border-radius:8px;font-size:0.9em;font-weight:bold;text-decoration:none;text-align:center;">Amazonで見る</a>
+      <a href="https://search.rakuten.co.jp/search/mall/%E3%82%B9%E3%82%AB%E3%83%AB%E3%83%97D+%E3%83%9C%E3%83%BC%E3%83%86+%E3%82%A2%E3%82%A4%E3%83%96%E3%83%AD%E3%82%A6%E3%82%A8%E3%83%83%E3%82%BB%E3%83%B3%E3%82%B9/" rel="nofollow noopener" target="_blank" style="flex:1;min-width:130px;display:block;background:#f76956;color:#fff;padding:12px 16px;border-radius:8px;font-size:0.9em;font-weight:bold;text-decoration:none;text-align:center;">楽天市場で見る</a>
     </div>
+    <a href="https://shopping.yahoo.co.jp/search?p=%E3%82%B9%E3%82%AB%E3%83%AB%E3%83%97D+%E3%83%9C%E3%83%BC%E3%83%86+%E3%82%A2%E3%82%A4%E3%83%96%E3%83%AD%E3%82%A6%E3%82%A8%E3%83%83%E3%82%BB%E3%83%B3%E3%82%B9" rel="nofollow noopener" target="_blank" style="display:block;background:#7c6fcd;color:#fff;padding:12px 16px;border-radius:8px;font-size:0.9em;font-weight:bold;text-decoration:none;text-align:center;">Yahoo!ショッピングで見る</a>
   </div>
 </div>
 {{< /rawhtml >}}
@@ -148,15 +153,20 @@ draft: false
 ### No.2｜Browaddict ブロウアディクト アイブロウ コンディショニングセラム
 
 {{< rawhtml >}}
-<div style="display:flex;align-items:center;gap:16px;padding:16px;background:#faf8f5;border-radius:12px;margin:1.5em 0;border:1px solid #e8e0d8;">
-  <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B0D35F279B" rel="nofollow noopener" target="_blank" style="flex-shrink:0;">
-    <img src="https://m.media-amazon.com/images/I/61nbB8QCLuL._SL500_.jpg" alt="Browaddict ブロウアディクト アイブロウ コンディショニングセラム" style="width:110px;height:110px;object-fit:contain;">
-  </a>
-  <div>
-    <div style="font-weight:700;font-size:0.9em;margin-bottom:12px;line-height:1.4;">No.2 Browaddict ブロウアディクト アイブロウ コンディショニングセラム</div>
-    <div style="display:flex;gap:8px;flex-wrap:wrap;">
-      <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B0D35F279B" rel="nofollow noopener" target="_blank" style="display:inline-block;background:#f79256;color:#fff;padding:8px 20px;border-radius:20px;font-size:0.85em;font-weight:bold;text-decoration:none;">Amazonで見る</a>
+<div style="background:#fff;border-radius:12px;padding:24px;margin:1.5em 0;box-shadow:0 2px 16px rgba(0,0,0,0.08);display:flex;gap:24px;align-items:center;">
+  <div style="flex-shrink:0;">
+    <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B0D35F279B" rel="nofollow noopener" target="_blank">
+      <img src="https://m.media-amazon.com/images/I/61nbB8QCLuL._SL500_.jpg" alt="Browaddict ブロウアディクト アイブロウ コンディショニングセラム" style="width:180px;height:180px;object-fit:contain;">
+    </a>
+  </div>
+  <div style="flex:1;">
+    <div style="color:#c97d7d;font-size:0.85em;font-weight:700;margin-bottom:4px;">Browaddict</div>
+    <div style="font-weight:700;font-size:1em;margin-bottom:16px;line-height:1.4;">Browaddict ブロウアディクト アイブロウ コンディショニングセラム</div>
+    <div style="display:flex;gap:10px;flex-wrap:wrap;margin-bottom:10px;">
+      <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B0D35F279B" rel="nofollow noopener" target="_blank" style="flex:1;min-width:130px;display:block;background:#f79256;color:#fff;padding:12px 16px;border-radius:8px;font-size:0.9em;font-weight:bold;text-decoration:none;text-align:center;">Amazonで見る</a>
+      <a href="https://search.rakuten.co.jp/search/mall/Browaddict+%E3%83%96%E3%83%AD%E3%82%A6%E3%82%A2%E3%83%87%E3%82%A3%E3%82%AF%E3%83%88/" rel="nofollow noopener" target="_blank" style="flex:1;min-width:130px;display:block;background:#f76956;color:#fff;padding:12px 16px;border-radius:8px;font-size:0.9em;font-weight:bold;text-decoration:none;text-align:center;">楽天市場で見る</a>
     </div>
+    <a href="https://shopping.yahoo.co.jp/search?p=Browaddict+%E3%83%96%E3%83%AD%E3%82%A6%E3%82%A2%E3%83%87%E3%82%A3%E3%82%AF%E3%83%88" rel="nofollow noopener" target="_blank" style="display:block;background:#7c6fcd;color:#fff;padding:12px 16px;border-radius:8px;font-size:0.9em;font-weight:bold;text-decoration:none;text-align:center;">Yahoo!ショッピングで見る</a>
   </div>
 </div>
 {{< /rawhtml >}}
@@ -201,15 +211,20 @@ draft: false
 ### No.3｜grabiness（グラビネス）マユビア 眉毛美容液
 
 {{< rawhtml >}}
-<div style="display:flex;align-items:center;gap:16px;padding:16px;background:#faf8f5;border-radius:12px;margin:1.5em 0;border:1px solid #e8e0d8;">
-  <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B0BTT46H64" rel="nofollow noopener" target="_blank" style="flex-shrink:0;">
-    <img src="https://m.media-amazon.com/images/I/41ljrP7GIEL._SL500_.jpg" alt="grabiness マユビア 眉毛美容液" style="width:110px;height:110px;object-fit:contain;">
-  </a>
-  <div>
-    <div style="font-weight:700;font-size:0.9em;margin-bottom:12px;line-height:1.4;">No.3 grabiness マユビア 眉毛美容液</div>
-    <div style="display:flex;gap:8px;flex-wrap:wrap;">
-      <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B0BTT46H64" rel="nofollow noopener" target="_blank" style="display:inline-block;background:#f79256;color:#fff;padding:8px 20px;border-radius:20px;font-size:0.85em;font-weight:bold;text-decoration:none;">Amazonで見る</a>
+<div style="background:#fff;border-radius:12px;padding:24px;margin:1.5em 0;box-shadow:0 2px 16px rgba(0,0,0,0.08);display:flex;gap:24px;align-items:center;">
+  <div style="flex-shrink:0;">
+    <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B0BTT46H64" rel="nofollow noopener" target="_blank">
+      <img src="https://m.media-amazon.com/images/I/41ljrP7GIEL._SL500_.jpg" alt="grabiness マユビア 眉毛美容液" style="width:180px;height:180px;object-fit:contain;">
+    </a>
+  </div>
+  <div style="flex:1;">
+    <div style="color:#c97d7d;font-size:0.85em;font-weight:700;margin-bottom:4px;">grabiness</div>
+    <div style="font-weight:700;font-size:1em;margin-bottom:16px;line-height:1.4;">grabiness マユビア 眉毛美容液</div>
+    <div style="display:flex;gap:10px;flex-wrap:wrap;margin-bottom:10px;">
+      <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B0BTT46H64" rel="nofollow noopener" target="_blank" style="flex:1;min-width:130px;display:block;background:#f79256;color:#fff;padding:12px 16px;border-radius:8px;font-size:0.9em;font-weight:bold;text-decoration:none;text-align:center;">Amazonで見る</a>
+      <a href="https://search.rakuten.co.jp/search/mall/grabiness+%E3%83%9E%E3%83%A6%E3%83%93%E3%82%A2/" rel="nofollow noopener" target="_blank" style="flex:1;min-width:130px;display:block;background:#f76956;color:#fff;padding:12px 16px;border-radius:8px;font-size:0.9em;font-weight:bold;text-decoration:none;text-align:center;">楽天市場で見る</a>
     </div>
+    <a href="https://shopping.yahoo.co.jp/search?p=grabiness+%E3%83%9E%E3%83%A6%E3%83%93%E3%82%A2" rel="nofollow noopener" target="_blank" style="display:block;background:#7c6fcd;color:#fff;padding:12px 16px;border-radius:8px;font-size:0.9em;font-weight:bold;text-decoration:none;text-align:center;">Yahoo!ショッピングで見る</a>
   </div>
 </div>
 {{< /rawhtml >}}
