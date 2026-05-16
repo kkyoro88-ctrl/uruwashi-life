@@ -1,0 +1,326 @@
+---
+title: "乳液おすすめ40代｜乾燥・エイジングケア向け厳選5選と選び方"
+date: 2026-05-15
+lastmod: 2026-05-15
+draft: false
+affiliate: true
+categories: ["スキンケア"]
+tags: ["乳液", "40代", "エイジングケア", "乾燥肌", "保湿"]
+description: "40代乾燥肌向け乳液おすすめ5選を成分から厳選。エリクシール・ORBIS・アスタリフトなどテクスチャー別に比較。40代の肌に乳液が必要な理由と正しい選び方を解説します。"
+summary_points:
+  - "40代の肌は皮脂分泌が減り、乳液なしでは保湿が完結しない"
+  - "テクスチャー（さっぱり〜しっとり）×成分で自分に合う1本が変わる"
+  - "プチプラから中価格まで、悩み別おすすめ乳液5選"
+cover:
+  image: "/images/emulsion-recommend-40s.png"
+  alt: "乳液おすすめ40代向け"
+---
+
+「化粧水をしっかりつけているのに、夕方になると乾燥している」——この悩みを感じはじめたのは40代に入ってからでした。
+
+**原因は乳液でした。** 40代の肌は皮脂分泌が落ち、化粧水だけでは水分が逃げやすくなります。乳液の油分が「フタ」の役割を担い、うるおいを閉じ込める。このステップを省いていたことで、せっかくの化粧水が無駄になっていたのです。
+
+迷ったら、まず**エリクシール シュペリエル リフトモイスト エマルジョン**から試してみてください。ドラッグストアで手に入るハリ・うるおいケアの定番で、40代の乾燥肌に支持されています。
+
+{{< rawhtml >}}
+<div style="display:flex;align-items:center;gap:16px;padding:16px;background:#faf8f5;border-radius:12px;margin:1.5em 0;border:1px solid #e8e0d8;">
+  <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B0FHJZ7LDZ" rel="nofollow noopener" target="_blank" style="flex-shrink:0;">
+    <img src="https://m.media-amazon.com/images/I/51WXjQ7sbeL._SL500_.jpg" alt="エリクシール リフトモイスト エマルジョン" style="width:110px;height:110px;object-fit:contain;">
+  </a>
+  <div>
+    <div style="font-weight:700;font-size:0.9em;margin-bottom:12px;line-height:1.4;">エリクシール リフトモイスト エマルジョン 130mL</div>
+    <div style="display:flex;gap:8px;flex-wrap:wrap;">
+      <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B0FHJZ7LDZ" rel="nofollow noopener" target="_blank" style="display:inline-block;background:#f79256;color:#fff;padding:8px 20px;border-radius:20px;font-size:0.85em;font-weight:bold;text-decoration:none;">Amazonで見る</a>
+      <a href="https://search.rakuten.co.jp/search/mall/%E3%82%A8%E3%83%AA%E3%82%AF%E3%82%B7%E3%83%BC%E3%83%AB+%E3%83%AA%E3%83%95%E3%83%88%E3%83%A2%E3%82%A4%E3%82%B9%E3%83%88+%E3%82%A8%E3%83%9E%E3%83%AB%E3%82%B8%E3%83%A7%E3%83%B3/" rel="nofollow noopener" target="_blank" style="display:inline-block;background:#f76956;color:#fff;padding:8px 20px;border-radius:20px;font-size:0.85em;font-weight:bold;text-decoration:none;">楽天市場で見る</a>
+    </div>
+  </div>
+</div>
+{{< /rawhtml >}}
+
+---
+
+## 40代の肌に乳液が必要な理由
+
+### 皮脂分泌が落ちると「化粧水だけ」では保湿が完結しない
+
+30代までは皮脂がある程度出るため、化粧水だけでも一時的なうるおいをキープできる肌もありました。ところが40代になると、ホルモンバランスの変化とともに皮脂の分泌量が落ちてきます。
+
+皮脂は「天然のクリーム」。これが少なくなると、化粧水で補った水分が蒸発しやすくなります。乳液の役割はその蒸発を防ぐこと。**油分をごく薄く膜として肌に与え、水分の逃げ道をふさぐ**のが乳液の仕事です。
+
+### 「化粧水のあとにクリームだけ」では重すぎることもある
+
+クリームは確かに保湿力が高いのですが、テクスチャーが重く、夏や混合肌の方にはベタつきを感じやすいことがあります。乳液は油分と水分のバランスが取れた中間的な存在。**化粧水と乳液の2ステップが、40代の保湿の基本**になります。
+
+---
+
+## 40代向け乳液の選び方
+
+### ① テクスチャーで選ぶ（最重要）
+
+乳液の使い心地は大きく3タイプに分かれます。自分の肌質・季節・好みに合わせて選ぶのが最初のポイントです。
+
+| タイプ | 特徴 | 向いている肌質 |
+|--------|------|--------------|
+| さっぱりタイプ | みずみずしく軽い使用感 | 混合肌・脂性肌・夏肌 |
+| 普通タイプ | 程よいしっとり感 | 普通肌・乾燥気味の混合肌 |
+| しっとりタイプ | こっくりとした高保湿 | 乾燥肌・インナードライ肌 |
+
+40代の乾燥肌なら**しっとりタイプ〜普通タイプ**が基本。ただし夏場や日中はさっぱりタイプを選ぶ方も多くいます。
+
+### ② 成分で選ぶ
+
+| 成分 | 主なはたらき | 向いている悩み |
+|------|------------|--------------|
+| セラミド | バリア機能のサポート | 乾燥・肌荒れ・敏感肌 |
+| コラーゲン | ハリ・弾力サポート | たるみ・毛穴の目立ち |
+| ヒアルロン酸 | 水分保持 | 乾燥・つっぱり |
+| レチノール | ターンオーバーサポート | シワ・くすみ（低刺激で始める） |
+| ナイアシンアミド | くすみ・シワへのアプローチ | くすみ・毛穴・シワ（医薬部外品） |
+
+40代の乾燥肌には**セラミド＋コラーゲン**の組み合わせが安定して使いやすい成分です。
+
+### ③ 使う目的で選ぶ
+
+- **とにかく乾燥を防ぎたい** → 保湿成分（セラミド・ヒアルロン酸）メインの乳液
+- **ハリ・弾力が気になる** → コラーゲン・レチノール配合を選ぶ
+- **くすみ・シミが気になる** → ナイアシンアミド・アルブチン配合の美白乳液
+- **刺激を最小限にしたい** → 無香料・無着色・アレルギーテスト済みのもの
+
+---
+
+## 乳液おすすめ40代・乾燥肌向け厳選5選
+
+### 1位：エリクシール シュペリエル リフトモイスト エマルジョン｜ドラッグストアで買えるハリ・保湿の定番
+
+**こんな人に：** ドラッグストアで買いたい・ハリとうるおいを両方ほしい・コスパ重視
+**向いていない方：** 香り（フローラル系）が苦手な方・完全に無添加にこだわる方
+
+資生堂が展開するエリクシール シュペリエルシリーズの乳液です。「スキンコンディショニング成分」として独自開発した保湿成分を配合し、**使い続けるほど肌のコンディションが整う**ことを目指した処方が特徴。40代から長く支持されてきたシリーズです。
+
+- **テクスチャー：** I（さっぱり）・II（しっとり）・SP（超しっとり）の3種類
+- **成分ポイント：** 皮膚科学アプローチでうるおいをサポート
+- **香り：** ほのかなフローラル
+- **容量：** 130mL（たっぷり使える）
+- **価格帯：** 約1,700〜2,000円（ドラッグストア）
+
+乾燥肌の方はII（しっとり）かSP（超しっとり）がおすすめ。夜のみ使用でも効果が感じやすく、入門として選ばれやすい一本です。
+
+{{< rawhtml >}}
+<div style="display:flex;align-items:center;gap:16px;padding:16px;background:#faf8f5;border-radius:12px;margin:1.5em 0;border:1px solid #e8e0d8;">
+  <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B0FHJZ7LDZ" rel="nofollow noopener" target="_blank" style="flex-shrink:0;">
+    <img src="https://m.media-amazon.com/images/I/51WXjQ7sbeL._SL500_.jpg" alt="エリクシール リフトモイスト エマルジョン" style="width:110px;height:110px;object-fit:contain;">
+  </a>
+  <div>
+    <div style="font-weight:700;font-size:0.9em;margin-bottom:12px;line-height:1.4;">エリクシール リフトモイスト エマルジョン 130mL</div>
+    <div style="display:flex;gap:8px;flex-wrap:wrap;">
+      <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B0FHJZ7LDZ" rel="nofollow noopener" target="_blank" style="display:inline-block;background:#f79256;color:#fff;padding:8px 20px;border-radius:20px;font-size:0.85em;font-weight:bold;text-decoration:none;">Amazonで見る</a>
+      <a href="https://search.rakuten.co.jp/search/mall/%E3%82%A8%E3%83%AA%E3%82%AF%E3%82%B7%E3%83%BC%E3%83%AB+%E3%83%AA%E3%83%95%E3%83%88%E3%83%A2%E3%82%A4%E3%82%B9%E3%83%88+%E3%82%A8%E3%83%9E%E3%83%AB%E3%82%B8%E3%83%A7%E3%83%B3/" rel="nofollow noopener" target="_blank" style="display:inline-block;background:#f76956;color:#fff;padding:8px 20px;border-radius:20px;font-size:0.85em;font-weight:bold;text-decoration:none;">楽天市場で見る</a>
+    </div>
+  </div>
+</div>
+{{< /rawhtml >}}
+
+---
+
+### 2位：ORBIS オルビスユー モイスチャー｜ノンオイルなのに乾燥しない高機能乳液
+
+**こんな人に：** べたつきが苦手・夜だけでなく朝にも使いたい・敏感肌傾向がある
+**向いていない方：** こっくりとしたしっとり感が好みの方・ドラッグストアで手軽に買いたい方
+
+ORBISの看板スキンケアライン「オルビスユー」の乳液。ノンオイル処方でありながら、独自成分「CALMED3（カームドスリー）」が肌のうるおいバリアをサポートします。
+
+乳液なのに油分を使わず保湿できる仕組みが特徴で、**ベタつきが苦手な40代に特に人気**があります。敏感肌向け・アレルギーテスト済み・無香料のため肌への刺激も最小限。
+
+- **テクスチャー：** さっぱり〜普通（ノンオイルで軽い）
+- **成分ポイント：** 独自保湿成分・低刺激処方
+- **価格帯：** 約3,000円前後（公式サイト購入が最安）
+
+{{< rawhtml >}}
+<div style="display:flex;align-items:center;gap:16px;padding:16px;background:#faf8f5;border-radius:12px;margin:1.5em 0;border:1px solid #e8e0d8;">
+  <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B0B8MGS3L4" rel="nofollow noopener" target="_blank" style="flex-shrink:0;">
+    <img src="https://m.media-amazon.com/images/I/41z7q3JCWYL._SL500_.jpg" alt="ORBIS オルビスユー モイスチャー" style="width:110px;height:110px;object-fit:contain;">
+  </a>
+  <div>
+    <div style="font-weight:700;font-size:0.9em;margin-bottom:12px;line-height:1.4;">ORBIS オルビスユー モイスチャー 50g</div>
+    <div style="display:flex;gap:8px;flex-wrap:wrap;">
+      <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B0B8MGS3L4" rel="nofollow noopener" target="_blank" style="display:inline-block;background:#f79256;color:#fff;padding:8px 20px;border-radius:20px;font-size:0.85em;font-weight:bold;text-decoration:none;">Amazonで見る</a>
+      <a href="https://search.rakuten.co.jp/search/mall/ORBIS+%E3%82%AA%E3%83%AB%E3%83%93%E3%82%B9%E3%83%A6%E3%83%BC+%E3%83%A2%E3%82%A4%E3%82%B9%E3%83%81%E3%83%A3%E3%83%BC/" rel="nofollow noopener" target="_blank" style="display:inline-block;background:#f76956;color:#fff;padding:8px 20px;border-radius:20px;font-size:0.85em;font-weight:bold;text-decoration:none;">楽天市場で見る</a>
+    </div>
+  </div>
+</div>
+{{< /rawhtml >}}
+
+---
+
+### 3位：アスタリフト ホワイト モイスト エマルジョン｜シミ・くすみが気になる40代に
+
+**こんな人に：** シミ・くすみが気になる・美白ケアも同時にしたい・透明感を出したい
+**向いていない方：** シンプルな保湿だけを求める方・価格を抑えたい方
+
+富士フイルムの独自成分「ナノアスタキサンチン」を配合したエイジングケアライン。白い見た目が印象的なアスタリフトホワイトシリーズの乳液です。
+
+**美白有効成分（トラネキサム酸）配合の医薬部外品**として、メラニン生成を抑えてシミ・そばかすにアプローチ。エイジングケアと美白を同時に行いたい40代に向いています。
+
+- **テクスチャー：** やや濃密なしっとりタイプ
+- **成分ポイント：** トラネキサム酸（美白有効成分）・ナノアスタキサンチン
+- **価格帯：** 約4,000〜5,000円
+
+{{< rawhtml >}}
+<div style="display:flex;align-items:center;gap:16px;padding:16px;background:#faf8f5;border-radius:12px;margin:1.5em 0;border:1px solid #e8e0d8;">
+  <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B0851C9HH3" rel="nofollow noopener" target="_blank" style="flex-shrink:0;">
+    <img src="https://m.media-amazon.com/images/I/31-dB7iQ83L._SL500_.jpg" alt="アスタリフト ホワイトエマルジョン" style="width:110px;height:110px;object-fit:contain;">
+  </a>
+  <div>
+    <div style="font-weight:700;font-size:0.9em;margin-bottom:12px;line-height:1.4;">アスタリフト ホワイトエマルジョン 100mL</div>
+    <div style="display:flex;gap:8px;flex-wrap:wrap;">
+      <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B0851C9HH3" rel="nofollow noopener" target="_blank" style="display:inline-block;background:#f79256;color:#fff;padding:8px 20px;border-radius:20px;font-size:0.85em;font-weight:bold;text-decoration:none;">Amazonで見る</a>
+      <a href="https://search.rakuten.co.jp/search/mall/%E3%82%A2%E3%82%B9%E3%82%BF%E3%83%AA%E3%83%95%E3%83%88+%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88+%E3%82%A8%E3%83%9E%E3%83%AB%E3%82%B8%E3%83%A7%E3%83%B3/" rel="nofollow noopener" target="_blank" style="display:inline-block;background:#f76956;color:#fff;padding:8px 20px;border-radius:20px;font-size:0.85em;font-weight:bold;text-decoration:none;">楽天市場で見る</a>
+    </div>
+  </div>
+</div>
+{{< /rawhtml >}}
+
+---
+
+### 4位：肌ラボ 極潤プレミアム ヒアルロン乳液｜プチプラで高保湿・ドラッグストアで買える
+
+**こんな人に：** コスパ重視・はじめて乳液を試したい・まず試したい
+**向いていない方：** さっぱりとした使い心地が好みの方・香料・添加物を気にする方
+
+ヒアルロン酸保湿にこだわった「肌ラボ」の最高峰保湿ライン。**5種のヒアルロン酸**を配合し、スキンケアの最後に使うことでしっかりとうるおいをキープします。
+
+ドラッグストアで購入できる1,000円前後の価格帯ながら、保湿力の高さに定評があります。40代で初めて乳液を取り入れるときの入門としても使いやすい一本。
+
+- **テクスチャー：** しっとりとした高保湿タイプ
+- **成分ポイント：** 5種ヒアルロン酸・セラミド機能成分
+- **価格帯：** 約900〜1,100円（ドラッグストア）
+
+{{< rawhtml >}}
+<div style="display:flex;align-items:center;gap:16px;padding:16px;background:#faf8f5;border-radius:12px;margin:1.5em 0;border:1px solid #e8e0d8;">
+  <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B08DRK9VH8" rel="nofollow noopener" target="_blank" style="flex-shrink:0;">
+    <img src="https://m.media-amazon.com/images/I/71cRBAijiBL._SL500_.jpg" alt="肌ラボ 極潤プレミアム ヒアルロン乳液" style="width:110px;height:110px;object-fit:contain;">
+  </a>
+  <div>
+    <div style="font-weight:700;font-size:0.9em;margin-bottom:12px;line-height:1.4;">肌ラボ 極潤プレミアム ヒアルロン乳液 140mL</div>
+    <div style="display:flex;gap:8px;flex-wrap:wrap;">
+      <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B08DRK9VH8" rel="nofollow noopener" target="_blank" style="display:inline-block;background:#f79256;color:#fff;padding:8px 20px;border-radius:20px;font-size:0.85em;font-weight:bold;text-decoration:none;">Amazonで見る</a>
+      <a href="https://search.rakuten.co.jp/search/mall/%E8%82%8C%E3%83%A9%E3%83%9C+%E6%A5%B5%E6%BD%A4%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0+%E3%83%92%E3%82%A2%E3%83%AB%E3%83%AD%E3%83%B3%E4%B9%B3%E6%B6%B2/" rel="nofollow noopener" target="_blank" style="display:inline-block;background:#f76956;color:#fff;padding:8px 20px;border-radius:20px;font-size:0.85em;font-weight:bold;text-decoration:none;">楽天市場で見る</a>
+    </div>
+  </div>
+</div>
+{{< /rawhtml >}}
+
+---
+
+### 5位：無印良品 エイジングケア乳液｜敏感肌でも使いやすいシンプル処方
+
+**こんな人に：** 敏感肌・添加物が気になる・シンプルなスキンケアにしたい
+**向いていない方：** こってり高保湿を求める方・ハリや美白への集中ケアを優先したい方
+
+無香料・無着色・無鉱物油・アルコールフリーの「4つの無添加」にこだわった乳液。乾燥を引き起こしやすいアルコールを配合していないため、敏感肌の方でも使いやすいのが特徴です。
+
+**ハトムギ由来成分・ローヤルゼリー**を配合し、エイジングケア（年齢に応じた保湿ケア）として使えるシリーズ。シンプルなパッケージ通り、余分なものを入れずに肌に必要な保湿を届けます。
+
+- **テクスチャー：** さっぱり〜普通
+- **成分ポイント：** ハトムギ由来成分・ローヤルゼリー・4つの無添加
+- **価格帯：** 約1,500〜1,900円（無印良品）
+
+{{< rawhtml >}}
+<div style="display:flex;align-items:center;gap:16px;padding:16px;background:#faf8f5;border-radius:12px;margin:1.5em 0;border:1px solid #e8e0d8;">
+  <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B0CT37VMC3" rel="nofollow noopener" target="_blank" style="flex-shrink:0;">
+    <img src="https://m.media-amazon.com/images/I/51gA3L3WRnL._SL500_.jpg" alt="無印良品 エイジングケア乳液" style="width:110px;height:110px;object-fit:contain;">
+  </a>
+  <div>
+    <div style="font-weight:700;font-size:0.9em;margin-bottom:12px;line-height:1.4;">無印良品 エイジングケア乳液 200mL</div>
+    <div style="display:flex;gap:8px;flex-wrap:wrap;">
+      <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B0CT37VMC3" rel="nofollow noopener" target="_blank" style="display:inline-block;background:#f79256;color:#fff;padding:8px 20px;border-radius:20px;font-size:0.85em;font-weight:bold;text-decoration:none;">Amazonで見る</a>
+      <a href="https://search.rakuten.co.jp/search/mall/%E7%84%A1%E5%8D%B0%E8%89%AF%E5%93%81+%E3%82%A8%E3%82%A4%E3%82%B8%E3%83%B3%E3%82%B0%E3%82%B1%E3%82%A2%E4%B9%B3%E6%B6%B2/" rel="nofollow noopener" target="_blank" style="display:inline-block;background:#f76956;color:#fff;padding:8px 20px;border-radius:20px;font-size:0.85em;font-weight:bold;text-decoration:none;">楽天市場で見る</a>
+    </div>
+  </div>
+</div>
+{{< /rawhtml >}}
+
+---
+
+## 5選まとめ比較表
+
+| 商品名 | テクスチャー | 主な特徴 | 価格帯 |
+|--------|------------|---------|--------|
+| エリクシール シュペリエル | さっぱり〜超しっとり | ハリ・保湿ケア定番 | 約1,700〜2,000円 |
+| ORBIS オルビスユー | さっぱり | ノンオイル・敏感肌向け | 約3,000円 |
+| アスタリフト ホワイト | しっとり | 美白有効成分配合 | 約4,000〜5,000円 |
+| 肌ラボ 極潤プレミアム | しっとり | 5種ヒアルロン酸・プチプラ | 約900〜1,100円 |
+| 無印良品 エイジングケア | さっぱり〜普通 | 6つの無添加・敏感肌向け | 約1,500〜1,900円 |
+
+---
+
+## 40代の正しい乳液の使い方
+
+### 使う量と順番
+
+乳液は**化粧水のあと**に使います。量の目安は500円玉大（約1〜2プッシュ）。少なすぎると伸びが悪くなり、多すぎるとベタつきの原因になります。
+
+### 正しいなじませ方
+
+1. 手のひらに乳液を出す
+2. 両手を合わせて体温でなじませる
+3. 顔の中心から外側に向かって、やさしくハンドプレスでのばす
+4. 最後に手のひら全体で顔を包み込み、温めながら定着させる
+
+**擦るのはNG。** 引っ張るようになじませると毛穴が開いたり、シワの原因になります。
+
+### 朝・夜それぞれの使い方
+
+| | 朝 | 夜 |
+|--|----|----|
+| 量 | 少なめ（ベタつき防止） | 普通〜多め（しっかり保湿） |
+| ポイント | 日焼け止めの前に使う | 洗顔後すぐに使う（蒸発を防ぐ） |
+
+---
+
+## よくある質問
+
+### Q. 乳液とクリームは両方使う必要がありますか？
+
+**A.** 乾燥が強い季節・肌質によっては両方使うのも選択肢です。ただし乳液はその日の「保湿の最後」として使うのが基本。乳液だけで十分保湿できている場合はクリームを省いてもOKです。
+
+### Q. 乳液を朝に使うとメイクがよれませんか？
+
+**A.** 量が多いとよれやすくなります。朝は少量（500円玉より小さいくらい）にして、肌に完全になじんでからファンデーションをつけてください。
+
+### Q. 乳液を使い始めたら化粧水は省いてもいいですか？
+
+**A.** 省かない方がよいです。乳液の役割は「フタ」であり、水分自体の補給は化粧水が担います。化粧水でうるおいを補給→乳液で閉じ込める、が正しい順番です。
+
+---
+
+## まとめ：40代の乳液選びは「テクスチャー × 成分」で決める
+
+40代の肌が変わってきたのは、皮脂分泌の低下とともに「乳液なしでは保湿が完結しない」フェーズに入ったから。化粧水だけのケアに手応えを感じなくなったなら、乳液を加えることで変化を感じやすくなります。
+
+- **まず試したい一本** → エリクシール シュペリエル（ドラッグストア・手軽）
+- **べたつきが苦手** → ORBIS オルビスユー（ノンオイル）
+- **美白も一緒に** → アスタリフト ホワイト（医薬部外品）
+- **コスパ重視** → 肌ラボ 極潤プレミアム
+- **敏感肌・添加物が気になる** → 無印良品 エイジングケア乳液
+
+乳液は毎日使うものなので、使い心地を重視して選ぶことが続けられるコツです。まずは1本試してみてください。
+
+{{< rawhtml >}}
+<div style="display:flex;align-items:center;gap:16px;padding:16px;background:#faf8f5;border-radius:12px;margin:1.5em 0;border:1px solid #e8e0d8;">
+  <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B0FHJZ7LDZ" rel="nofollow noopener" target="_blank" style="flex-shrink:0;">
+    <img src="https://m.media-amazon.com/images/I/51WXjQ7sbeL._SL500_.jpg" alt="エリクシール リフトモイスト エマルジョン" style="width:110px;height:110px;object-fit:contain;">
+  </a>
+  <div>
+    <div style="font-weight:700;font-size:0.9em;margin-bottom:12px;line-height:1.4;">エリクシール リフトモイスト エマルジョン 130mL</div>
+    <div style="display:flex;gap:8px;flex-wrap:wrap;">
+      <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B0FHJZ7LDZ" rel="nofollow noopener" target="_blank" style="display:inline-block;background:#f79256;color:#fff;padding:8px 20px;border-radius:20px;font-size:0.85em;font-weight:bold;text-decoration:none;">Amazonで見る</a>
+      <a href="https://search.rakuten.co.jp/search/mall/%E3%82%A8%E3%83%AA%E3%82%AF%E3%82%B7%E3%83%BC%E3%83%AB+%E3%83%AA%E3%83%95%E3%83%88%E3%83%A2%E3%82%A4%E3%82%B9%E3%83%88+%E3%82%A8%E3%83%9E%E3%83%AB%E3%82%B8%E3%83%A7%E3%83%B3/" rel="nofollow noopener" target="_blank" style="display:inline-block;background:#f76956;color:#fff;padding:8px 20px;border-radius:20px;font-size:0.85em;font-weight:bold;text-decoration:none;">楽天市場で見る</a>
+    </div>
+  </div>
+</div>
+{{< /rawhtml >}}
+
+---
+
+*関連記事：[化粧水おすすめ40代｜乾燥・エイジングケア向け厳選3本](/posts/lotion-recommend/)*

@@ -97,12 +97,16 @@ draft: false
 ### No.1｜スカルプD ボーテ MEDI アイブロウエッセンス
 
 {{< rawhtml >}}
-<div class="product-heading product-heading--answer">
-  <div class="product-heading-info">
-    <div class="product-heading-num">No.1</div>
-    <div class="product-heading-name">スカルプD ボーテ MEDI アイブロウエッセンス</div>
+<div style="display:flex;align-items:center;gap:16px;padding:16px;background:#faf8f5;border-radius:12px;margin:1.5em 0;border:1px solid #e8e0d8;">
+  <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B0CWGBKPPS" rel="nofollow noopener" target="_blank" style="flex-shrink:0;">
+    <img src="https://m.media-amazon.com/images/I/51qQNaRFg-L._SL500_.jpg" alt="スカルプD ボーテ MEDI アイブロウエッセンス" style="width:110px;height:110px;object-fit:contain;">
+  </a>
+  <div>
+    <div style="font-weight:700;font-size:0.9em;margin-bottom:12px;line-height:1.4;">No.1 スカルプD ボーテ MEDI アイブロウエッセンス</div>
+    <div style="display:flex;gap:8px;flex-wrap:wrap;">
+      <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B0CWGBKPPS" rel="nofollow noopener" target="_blank" style="display:inline-block;background:#f79256;color:#fff;padding:8px 20px;border-radius:20px;font-size:0.85em;font-weight:bold;text-decoration:none;">Amazonで見る</a>
+    </div>
   </div>
-  <img class="product-heading-img" src="https://m.media-amazon.com/images/I/51qQNaRFg-L._SL500_.jpg" alt="スカルプD ボーテ MEDI アイブロウエッセンス">
 </div>
 {{< /rawhtml >}}
 
@@ -144,13 +148,15 @@ draft: false
 ### No.2｜Browaddict ブロウアディクト アイブロウ コンディショニングセラム
 
 {{< rawhtml >}}
-<div class="product-heading product-heading--melt">
-  <div class="product-heading-info">
-    <div class="product-heading-num">No.2</div>
-    <div class="product-heading-name">Browaddict ブロウアディクト アイブロウ コンディショニングセラム</div>
-  </div>
-  <div class="product-heading-img">
-    <img src="https://m.media-amazon.com/images/I/61nbB8QCLuL._SL500_.jpg" alt="Browaddict ブロウアディクト アイブロウ コンディショニングセラム">
+<div style="display:flex;align-items:center;gap:16px;padding:16px;background:#faf8f5;border-radius:12px;margin:1.5em 0;border:1px solid #e8e0d8;">
+  <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B0D35F279B" rel="nofollow noopener" target="_blank" style="flex-shrink:0;">
+    <img src="https://m.media-amazon.com/images/I/61nbB8QCLuL._SL500_.jpg" alt="Browaddict ブロウアディクト アイブロウ コンディショニングセラム" style="width:110px;height:110px;object-fit:contain;">
+  </a>
+  <div>
+    <div style="font-weight:700;font-size:0.9em;margin-bottom:12px;line-height:1.4;">No.2 Browaddict ブロウアディクト アイブロウ コンディショニングセラム</div>
+    <div style="display:flex;gap:8px;flex-wrap:wrap;">
+      <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B0D35F279B" rel="nofollow noopener" target="_blank" style="display:inline-block;background:#f79256;color:#fff;padding:8px 20px;border-radius:20px;font-size:0.85em;font-weight:bold;text-decoration:none;">Amazonで見る</a>
+    </div>
   </div>
 </div>
 {{< /rawhtml >}}
@@ -195,13 +201,15 @@ draft: false
 ### No.3｜grabiness（グラビネス）マユビア 眉毛美容液
 
 {{< rawhtml >}}
-<div class="product-heading product-heading--haru">
-  <div class="product-heading-info">
-    <div class="product-heading-num">No.3</div>
-    <div class="product-heading-name">grabiness マユビア 眉毛美容液</div>
-  </div>
-  <div class="product-heading-img">
-    <img src="https://m.media-amazon.com/images/I/41ljrP7GIEL._SL500_.jpg" alt="grabiness マユビア 眉毛美容液">
+<div style="display:flex;align-items:center;gap:16px;padding:16px;background:#faf8f5;border-radius:12px;margin:1.5em 0;border:1px solid #e8e0d8;">
+  <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B0BTT46H64" rel="nofollow noopener" target="_blank" style="flex-shrink:0;">
+    <img src="https://m.media-amazon.com/images/I/41ljrP7GIEL._SL500_.jpg" alt="grabiness マユビア 眉毛美容液" style="width:110px;height:110px;object-fit:contain;">
+  </a>
+  <div>
+    <div style="font-weight:700;font-size:0.9em;margin-bottom:12px;line-height:1.4;">No.3 grabiness マユビア 眉毛美容液</div>
+    <div style="display:flex;gap:8px;flex-wrap:wrap;">
+      <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B0BTT46H64" rel="nofollow noopener" target="_blank" style="display:inline-block;background:#f79256;color:#fff;padding:8px 20px;border-radius:20px;font-size:0.85em;font-weight:bold;text-decoration:none;">Amazonで見る</a>
+    </div>
   </div>
 </div>
 {{< /rawhtml >}}
