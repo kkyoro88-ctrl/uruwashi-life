@@ -21,7 +21,7 @@ cover:
 {{< rawhtml >}}
 <div style="text-align:center; margin:1.5em 0;">
   <a href="https://px.a8.net/svt/ejp?a8mat=4B1RXP+DQ5SVM+2B8Y+15Y7A9" rel="nofollow noopener" target="_blank" style="display:inline-block; background:#c97d7d; color:#fff; padding:14px 36px; border-radius:30px; font-size:1em; font-weight:bold; text-decoration:none;">
-    エブリフレシャス シャワーヘッドを公式で見る →
+    エブリフレシャス シャワーヘッドを公式で購入 →
   </a>
 </div>
 {{< /rawhtml >}}

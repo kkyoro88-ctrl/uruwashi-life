@@ -40,7 +40,7 @@ cover:
 {{< rawhtml >}}
 <div style="text-align:center; margin:1.5em 0;">
   <a href="https://px.a8.net/svt/ejp?a8mat=4B1R5P+FYJBJM+54TM+60H7M" rel="nofollow noopener" target="_blank" style="display:inline-block; background:#e85d8a; color:#fff; padding:14px 36px; border-radius:30px; font-size:1em; font-weight:bold; text-decoration:none;">
-    CurrentBody LEDフェイスマスクを公式で見る →
+    CurrentBody LEDフェイスマスクを公式で購入 →
   </a>
 </div>
 {{< /rawhtml >}}
@@ -206,7 +206,7 @@ LEDマスクは「今ある悩みに対処する」だけのアイテムでは�
 {{< rawhtml >}}
 <div style="text-align:center; margin: 1.5em 0;">
   <a href="https://px.a8.net/svt/ejp?a8mat=4B1R5P+FYJBJM+54TM+60H7M" target="_blank" rel="nofollow noopener" style="display:inline-block; background:#c97d7d; color:#fff; padding:16px 40px; border-radius:30px; font-size:1.1em; font-weight:bold; text-decoration:none;">
-    CurrentBody LEDマスク シリーズ2を公式サイトで見る →
+    CurrentBody LEDマスク シリーズ2を公式サイトで購入 →
   </a>
   <img border="0" width="1" height="1" src="https://www19.a8.net/0.gif?a8mat=4B1R5P+FYJBJM+54TM+60H7M" alt="">
 </div>

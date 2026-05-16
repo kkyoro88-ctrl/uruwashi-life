@@ -30,7 +30,7 @@ b[a]=b[a]||function(){arguments.currentScript=c.currentScript
 ||c.scripts[c.scripts.length-2];(b[a].q=b[a].q||[]).push(arguments)};
 c.getElementById(a)||(d=c.createElement(f),d.src=g,
 d.id=a,e=c.getElementsByTagName("body")[0],e.appendChild(d))})(window,document,"script","//dn.msmstatic.com/site/cardlink/bundle.js?20220329","msmaflink");
-msmaflink({"n":"THE ANSWER スーパーラメラシャンプー","b":"花王","t":"B0DSFQNXR9","d":"https:\/\/m.media-amazon.com","c_p":"\/images\/I","p":["\/61exQZtK-gL._SL500_.jpg"],"u":{"u":"https:\/\/www.amazon.co.jp\/dp\/B0DSFQNXR9","t":"amazon","r_v":""},"v":"2.1","b_l":[{"id":1,"u_tx":"Amazonで見る","u_bc":"#f79256","u_url":"https:\/\/www.amazon.co.jp\/dp\/B0DSFQNXR9","a_id":5525308,"p_id":170,"pl_id":27060,"pc_id":185,"s_n":"amazon","u_so":1},{"id":2,"u_tx":"楽天市場で見る","u_bc":"#f76956","u_url":"https:\/\/search.rakuten.co.jp\/search\/mall\/THE%20ANSWER%20%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%A9%E3%83%A1%E3%83%A9%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%97%E3%83%BC\/","a_id":5520409,"p_id":54,"pl_id":27059,"pc_id":54,"s_n":"rakuten","u_so":2},{"id":3,"u_tx":"Yahoo!ショッピングで見る","u_bc":"#66a7ff","u_url":"https:\/\/shopping.yahoo.co.jp\/search?first=1&p=THE%20ANSWER%20%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%A9%E3%83%A1%E3%83%A9%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%97%E3%83%BC","a_id":5525312,"p_id":1225,"pl_id":27061,"pc_id":1925,"s_n":"yahoo","u_so":3}],"eid":"VwbiX","s":"s"});
+msmaflink({"n":"THE ANSWER スーパーラメラシャンプー","b":"花王","t":"B0DSFQNXR9","d":"https:\/\/m.media-amazon.com","c_p":"\/images\/I","p":["\/61exQZtK-gL._SL500_.jpg"],"u":{"u":"https:\/\/www.amazon.co.jp\/dp\/B0DSFQNXR9","t":"amazon","r_v":""},"v":"2.1","b_l":[{"id":1,"u_tx":"Amazonで購入","u_bc":"#f79256","u_url":"https:\/\/www.amazon.co.jp\/dp\/B0DSFQNXR9","a_id":5525308,"p_id":170,"pl_id":27060,"pc_id":185,"s_n":"amazon","u_so":1},{"id":2,"u_tx":"楽天市場で購入","u_bc":"#f76956","u_url":"https:\/\/search.rakuten.co.jp\/search\/mall\/THE%20ANSWER%20%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%A9%E3%83%A1%E3%83%A9%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%97%E3%83%BC\/","a_id":5520409,"p_id":54,"pl_id":27059,"pc_id":54,"s_n":"rakuten","u_so":2},{"id":3,"u_tx":"Yahoo!で購入","u_bc":"#66a7ff","u_url":"https:\/\/shopping.yahoo.co.jp\/search?first=1&p=THE%20ANSWER%20%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%A9%E3%83%A1%E3%83%A9%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%97%E3%83%BC","a_id":5525312,"p_id":1225,"pl_id":27061,"pc_id":1925,"s_n":"yahoo","u_so":3}],"eid":"VwbiX","s":"s"});
 </script>
 <div id="msmaflink-VwbiX">リンク</div>
 <!-- MoshimoAffiliateEasyLink END -->
@@ -288,7 +288,7 @@ msmaflink({"n":"THE ANSWER スーパーラメラシャンプー","b":"花王","t
 {{< rawhtml >}}
 <div style="text-align:center; margin:1em 0;">
   <a href="https://px.a8.net/svt/ejp?a8mat=4B1V21+53YYPE+33NQ+699KI" rel="nofollow noopener" target="_blank" style="display:inline-block; background:#e85d8a; color:#fff; padding:14px 36px; border-radius:30px; font-size:1em; font-weight:bold; text-decoration:none;">
-    haru kurokami 公式サイトで見る →
+    haru kurokami 公式サイトで購入 →
   </a>
   <img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=4B1V21+53YYPE+33NQ+699KI" alt="">
 </div>

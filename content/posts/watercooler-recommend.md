@@ -21,7 +21,7 @@ cover:
 {{< rawhtml >}}
 <div style="text-align:center; margin:1.5em 0;">
   <a href="https://px.a8.net/svt/ejp?a8mat=4B1RXP+DNS2GI+1LOO+6CWQP" rel="nofollow noopener" target="_blank" style="display:inline-block; background:#c97d7d; color:#fff; padding:14px 36px; border-radius:30px; font-size:1em; font-weight:bold; text-decoration:none;">
-    No.1 ウォーターサーバーをAmazonで見る →
+    No.1 ウォーターサーバーをAmazonで購入 →
   </a>
 </div>
 {{< /rawhtml >}}

@@ -221,7 +221,7 @@ NMN 15000 WHITE premiumは、「女性専用」「国内産純度100%」「15,00
 {{< rawhtml >}}
 <div style="text-align:center; margin: 2em 0;">
   <a href="https://px.a8.net/svt/ejp?a8mat=4B3LMT+IGGJ6+35LQ+ZQV5T" target="_blank" rel="nofollow noopener" style="display:inline-block; background:#c97d7d; color:#fff; padding:16px 40px; border-radius:30px; font-size:1.1em; font-weight:bold; text-decoration:none;">
-    NMN 15000 WHITE premiumを公式サイトで見る →
+    NMN 15000 WHITE premiumを公式サイトで購入 →
   </a>
   <img border="0" width="1" height="1" src="https://www15.a8.net/0.gif?a8mat=4B3LMT+IGGJ6+35LQ+ZQV5T" alt="">
 </div>

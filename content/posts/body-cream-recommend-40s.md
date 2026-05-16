@@ -26,7 +26,7 @@ b[a]=b[a]||function(){arguments.currentScript=c.currentScript
 ||c.scripts[c.scripts.length-2];(b[a].q=b[a].q||[]).push(arguments)};
 c.getElementById(a)||(d=c.createElement(f),d.src=g,
 d.id=a,e=c.getElementsByTagName("body")[0],e.appendChild(d))})(window,document,"script","//dn.msmstatic.com/site/cardlink/bundle.js?20220329","msmaflink");
-msmaflink({"n":"キュレル ボディローション 400mL","b":"Curel","t":"B0CCJ88ZQM","d":"https:\/\/m.media-amazon.com","c_p":"\/images\/I","p":["\/61KkSuVX3JL._SL500_.jpg"],"u":{"u":"https:\/\/www.amazon.co.jp\/dp\/B0CCJ88ZQM","t":"amazon","r_v":""},"v":"2.1","b_l":[{"id":1,"u_tx":"Amazonで見る","u_bc":"#f79256","u_url":"https:\/\/www.amazon.co.jp\/dp\/B0CCJ88ZQM","a_id":5525308,"p_id":170,"pl_id":27060,"pc_id":185,"s_n":"amazon","u_so":1},{"id":2,"u_tx":"楽天市場で見る","u_bc":"#f76956","u_url":"https:\/\/search.rakuten.co.jp\/search\/mall\/%E3%82%AD%E3%83%A5%E3%83%AC%E3%83%AB%20%E3%83%9C%E3%83%87%E3%82%A3%E3%83%AD%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3\/","a_id":5520409,"p_id":54,"pl_id":27059,"pc_id":54,"s_n":"rakuten","u_so":2},{"id":3,"u_tx":"Yahoo!ショッピングで見る","u_bc":"#66a7ff","u_url":"https:\/\/shopping.yahoo.co.jp\/search?first=1&p=%E3%82%AD%E3%83%A5%E3%83%AC%E3%83%AB%20%E3%83%9C%E3%83%87%E3%82%A3%E3%83%AD%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3","a_id":5525312,"p_id":1225,"pl_id":27061,"pc_id":1925,"s_n":"yahoo","u_so":3}],"eid":"DFW61","s":"s"});
+msmaflink({"n":"キュレル ボディローション 400mL","b":"Curel","t":"B0CCJ88ZQM","d":"https:\/\/m.media-amazon.com","c_p":"\/images\/I","p":["\/61KkSuVX3JL._SL500_.jpg"],"u":{"u":"https:\/\/www.amazon.co.jp\/dp\/B0CCJ88ZQM","t":"amazon","r_v":""},"v":"2.1","b_l":[{"id":1,"u_tx":"Amazonで購入","u_bc":"#f79256","u_url":"https:\/\/www.amazon.co.jp\/dp\/B0CCJ88ZQM","a_id":5525308,"p_id":170,"pl_id":27060,"pc_id":185,"s_n":"amazon","u_so":1},{"id":2,"u_tx":"楽天市場で購入","u_bc":"#f76956","u_url":"https:\/\/search.rakuten.co.jp\/search\/mall\/%E3%82%AD%E3%83%A5%E3%83%AC%E3%83%AB%20%E3%83%9C%E3%83%87%E3%82%A3%E3%83%AD%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3\/","a_id":5520409,"p_id":54,"pl_id":27059,"pc_id":54,"s_n":"rakuten","u_so":2},{"id":3,"u_tx":"Yahoo!で購入","u_bc":"#66a7ff","u_url":"https:\/\/shopping.yahoo.co.jp\/search?first=1&p=%E3%82%AD%E3%83%A5%E3%83%AC%E3%83%AB%20%E3%83%9C%E3%83%87%E3%82%A3%E3%83%AD%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3","a_id":5525312,"p_id":1225,"pl_id":27061,"pc_id":1925,"s_n":"yahoo","u_so":3}],"eid":"DFW61","s":"s"});
 </script>
 <div id="msmaflink-DFW61">リンク</div>
 <!-- MoshimoAffiliateEasyLink END -->
@@ -103,7 +103,7 @@ msmaflink({"n":"キュレル ボディローション 400mL","b":"Curel","t":"B0
 {{< rawhtml >}}
 <div style="text-align:center; margin:1.5em 0;">
   <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B0CCJ88ZQM" rel="nofollow noopener" target="_blank" style="display:inline-block; background:#c97d7d; color:#fff; padding:14px 36px; border-radius:30px; font-size:1em; font-weight:bold; text-decoration:none;">
-    キュレル ボディローションをAmazonで見る →
+    キュレル ボディローションをAmazonで購入 →
   </a>
 </div>
 {{< /rawhtml >}}
@@ -154,7 +154,7 @@ msmaflink({"n":"キュレル ボディローション 400mL","b":"Curel","t":"B0
 {{< rawhtml >}}
 <div style="text-align:center; margin:1.5em 0;">
   <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B001PM4I0K" rel="nofollow noopener" target="_blank" style="display:inline-block; background:#c97d7d; color:#fff; padding:14px 36px; border-radius:30px; font-size:1em; font-weight:bold; text-decoration:none;">
-    ニベア ソフトクリームをAmazonで見る →
+    ニベア ソフトクリームをAmazonで購入 →
   </a>
 </div>
 {{< /rawhtml >}}
@@ -249,7 +249,7 @@ msmaflink({"n":"キュレル ボディローション 400mL","b":"Curel","t":"B0
 {{< rawhtml >}}
 <div style="text-align:center; margin:1.5em 0;">
   <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B07K7S5S72" rel="nofollow noopener" target="_blank" style="display:inline-block; background:#c97d7d; color:#fff; padding:14px 36px; border-radius:30px; font-size:1em; font-weight:bold; text-decoration:none;">
-    ヴァセリン インテンシブケアをAmazonで見る →
+    ヴァセリン インテンシブケアをAmazonで購入 →
   </a>
 </div>
 {{< /rawhtml >}}
@@ -300,7 +300,7 @@ msmaflink({"n":"キュレル ボディローション 400mL","b":"Curel","t":"B0
 {{< rawhtml >}}
 <div style="text-align:center; margin:1.5em 0;">
   <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B013QQ7K8Y" rel="nofollow noopener" target="_blank" style="display:inline-block; background:#c97d7d; color:#fff; padding:14px 36px; border-radius:30px; font-size:1em; font-weight:bold; text-decoration:none;">
-    ビオレ うるおいミルクをAmazonで見る →
+    ビオレ うるおいミルクをAmazonで購入 →
   </a>
 </div>
 {{< /rawhtml >}}
@@ -401,7 +401,7 @@ msmaflink({"n":"キュレル ボディローション 400mL","b":"Curel","t":"B0
 {{< rawhtml >}}
 <div style="text-align:center; margin:1.5em 0;">
   <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B0CCJ88ZQM" rel="nofollow noopener" target="_blank" style="display:inline-block; background:#c97d7d; color:#fff; padding:14px 36px; border-radius:30px; font-size:1em; font-weight:bold; text-decoration:none;">
-    【1位】キュレル ボディローションをAmazonで見る →
+    【1位】キュレル ボディローションをAmazonで購入 →
   </a>
 </div>
 {{< /rawhtml >}}

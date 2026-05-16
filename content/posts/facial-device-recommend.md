@@ -21,7 +21,7 @@ cover:
 {{< rawhtml >}}
 <div style="text-align:center; margin:1.5em 0;">
   <a href="https://px.a8.net/svt/ejp?a8mat=4B1R5P+FXXVXU+54TM+BWVTE" rel="nofollow noopener" target="_blank" style="display:inline-block; background:#c97d7d; color:#fff; padding:14px 36px; border-radius:30px; font-size:1em; font-weight:bold; text-decoration:none;">
-    【PR】ZIIP HALOをCurrentBodyで見る →
+    【PR】ZIIP HALOをCurrentBodyで購入 →
   </a>
 </div>
 {{< /rawhtml >}}
@@ -90,7 +90,7 @@ cover:
 {{< rawhtml >}}
 <div style="text-align:center; margin: 1.5em 0;">
   <a href="https://px.a8.net/svt/ejp?a8mat=4B1R5P+FXXVXU+54TM+BWVTE" target="_blank" rel="nofollow noopener" style="display:inline-block; background:#c97d7d; color:#fff; padding:14px 36px; border-radius:30px; font-size:1em; font-weight:bold; text-decoration:none;">
-    【PR】ZIIP HALOをCurrentBodyで見る →
+    【PR】ZIIP HALOをCurrentBodyで購入 →
   </a>
   <img border="0" width="1" height="1" src="https://www19.a8.net/0.gif?a8mat=4B1R5P+FXXVXU+54TM+BWVTE" alt="">
 </div>
@@ -146,7 +146,7 @@ cover:
 {{< rawhtml >}}
 <div style="text-align:center; margin: 1.5em 0;">
   <a href="https://px.a8.net/svt/ejp?a8mat=4B1R5P+FWR0QA+3FH0+2BDBUA" target="_blank" rel="nofollow noopener" style="display:inline-block; background:#c97d7d; color:#fff; padding:14px 36px; border-radius:30px; font-size:1em; font-weight:bold; text-decoration:none;">
-    【PR】DISMの美顔器を公式サイトで見る →
+    【PR】DISMの美顔器を公式サイトで購入 →
   </a>
   <img border="0" width="1" height="1" src="https://www15.a8.net/0.gif?a8mat=4B1R5P+FWR0QA+3FH0+2BDBUA" alt="">
 </div>
@@ -289,7 +289,7 @@ A. ZIIP HALOのようなマイクロカレント系は翌朝の化粧のりか�
 {{< rawhtml >}}
 <div style="text-align:center; margin:1.5em 0;">
   <a href="https://px.a8.net/svt/ejp?a8mat=4B1R5P+FXXVXU+54TM+BWVTE" target="_blank" rel="nofollow noopener" style="display:inline-block; background:#c97d7d; color:#fff; padding:14px 36px; border-radius:30px; font-size:1em; font-weight:bold; text-decoration:none;">
-    【PR】ZIIP HALOをCurrentBodyで見る →
+    【PR】ZIIP HALOをCurrentBodyで購入 →
   </a>
   <img border="0" width="1" height="1" src="https://www19.a8.net/0.gif?a8mat=4B1R5P+FXXVXU+54TM+BWVTE" alt="">
 </div>
