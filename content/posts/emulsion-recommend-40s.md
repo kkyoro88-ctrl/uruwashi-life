@@ -88,6 +88,19 @@ cover:
 
 ### 1位：エリクシール シュペリエル リフトモイスト エマルジョン｜ドラッグストアで買えるハリ・保湿の定番
 
+{{< rawhtml >}}
+<div class="product-heading product-heading--answer">
+  <div class="product-heading-info">
+    <div class="product-heading-rank">1位</div>
+    <h3>エリクシール シュペリエル<br>リフトモイスト エマルジョン</h3>
+    <p>ドラッグストアで買えるハリ・保湿の定番</p>
+  </div>
+  <div class="product-heading-img">
+    <img src="https://m.media-amazon.com/images/I/51WXjQ7sbeL._SL300_.jpg" alt="エリクシール リフトモイスト エマルジョン">
+  </div>
+</div>
+{{< /rawhtml >}}
+
 **こんな人に：** ドラッグストアで買いたい・ハリとうるおいを両方ほしい・コスパ重視
 **向いていない方：** 香り（フローラル系）が苦手な方・完全に無添加にこだわる方
 
@@ -116,6 +129,19 @@ cover:
 
 ### 2位：ORBIS オルビスユー モイスチャー｜ノンオイルなのに乾燥しない高機能乳液
 
+{{< rawhtml >}}
+<div class="product-heading product-heading--answer">
+  <div class="product-heading-info">
+    <div class="product-heading-rank">2位</div>
+    <h3>ORBIS オルビスユー<br>モイスチャー</h3>
+    <p>ノンオイルなのに乾燥しない高機能乳液</p>
+  </div>
+  <div class="product-heading-img">
+    <img src="https://m.media-amazon.com/images/I/41z7q3JCWYL._SL300_.jpg" alt="ORBIS オルビスユー モイスチャー">
+  </div>
+</div>
+{{< /rawhtml >}}
+
 **こんな人に：** べたつきが苦手・夜だけでなく朝にも使いたい・敏感肌傾向がある
 **向いていない方：** こっくりとしたしっとり感が好みの方・ドラッグストアで手軽に買いたい方
 
@@ -141,6 +167,19 @@ ORBISの看板スキンケアライン「オルビスユー」の乳液。ノン
 ---
 
 ### 3位：アスタリフト ホワイト モイスト エマルジョン｜シミ・くすみが気になる40代に
+
+{{< rawhtml >}}
+<div class="product-heading product-heading--answer">
+  <div class="product-heading-info">
+    <div class="product-heading-rank">3位</div>
+    <h3>アスタリフト ホワイト<br>モイスト エマルジョン</h3>
+    <p>シミ・くすみが気になる40代に</p>
+  </div>
+  <div class="product-heading-img">
+    <img src="https://m.media-amazon.com/images/I/31-dB7iQ83L._SL300_.jpg" alt="アスタリフト ホワイト モイスト エマルジョン">
+  </div>
+</div>
+{{< /rawhtml >}}
 
 **こんな人に：** シミ・くすみが気になる・美白ケアも同時にしたい・透明感を出したい
 **向いていない方：** シンプルな保湿だけを求める方・価格を抑えたい方
@@ -168,6 +207,19 @@ ORBISの看板スキンケアライン「オルビスユー」の乳液。ノン
 
 ### 4位：肌ラボ 極潤プレミアム ヒアルロン乳液｜プチプラで高保湿・ドラッグストアで買える
 
+{{< rawhtml >}}
+<div class="product-heading product-heading--answer">
+  <div class="product-heading-info">
+    <div class="product-heading-rank">4位</div>
+    <h3>肌ラボ 極潤プレミアム<br>ヒアルロン乳液</h3>
+    <p>プチプラで高保湿・ドラッグストアで買える</p>
+  </div>
+  <div class="product-heading-img">
+    <img src="https://m.media-amazon.com/images/I/71cRBAijiBL._SL300_.jpg" alt="肌ラボ 極潤プレミアム ヒアルロン乳液">
+  </div>
+</div>
+{{< /rawhtml >}}
+
 **こんな人に：** コスパ重視・はじめて乳液を試したい・まず試したい
 **向いていない方：** さっぱりとした使い心地が好みの方・香料・添加物を気にする方
 
@@ -193,6 +245,19 @@ ORBISの看板スキンケアライン「オルビスユー」の乳液。ノン
 ---
 
 ### 5位：無印良品 エイジングケア乳液｜敏感肌でも使いやすいシンプル処方
+
+{{< rawhtml >}}
+<div class="product-heading product-heading--answer">
+  <div class="product-heading-info">
+    <div class="product-heading-rank">5位</div>
+    <h3>無印良品<br>エイジングケア乳液</h3>
+    <p>敏感肌でも使いやすいシンプル処方</p>
+  </div>
+  <div class="product-heading-img">
+    <img src="https://m.media-amazon.com/images/I/51gA3L3WRnL._SL300_.jpg" alt="無印良品 エイジングケア乳液">
+  </div>
+</div>
+{{< /rawhtml >}}
 
 **こんな人に：** 敏感肌・添加物が気になる・シンプルなスキンケアにしたい
 **向いていない方：** こってり高保湿を求める方・ハリや美白への集中ケアを優先したい方

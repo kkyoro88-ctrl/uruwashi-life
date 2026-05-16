@@ -100,6 +100,19 @@ draft: false
 ### No.1｜スカルプD ボーテ MEDI アイブロウエッセンス
 
 {{< rawhtml >}}
+<div class="product-heading product-heading--answer">
+  <div class="product-heading-info">
+    <div class="product-heading-rank">No.1</div>
+    <h3>スカルプD ボーテ<br>MEDI アイブロウエッセンス</h3>
+    <p>育毛研究の知見を眉ケアに活かした専用美容液</p>
+  </div>
+  <div class="product-heading-img">
+    <img src="https://m.media-amazon.com/images/I/51qQNaRFg-L._SL300_.jpg" alt="スカルプD ボーテ MEDI アイブロウエッセンス">
+  </div>
+</div>
+{{< /rawhtml >}}
+
+{{< rawhtml >}}
 <div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);">
   <div style="font-weight:700;font-size:1.05em;margin-bottom:16px;">スカルプD ボーテ MEDI アイブロウエッセンス</div>
   <div style="display:flex;gap:10px;flex-wrap:wrap;">
@@ -149,6 +162,19 @@ draft: false
 ---
 
 ### No.2｜Browaddict ブロウアディクト アイブロウ コンディショニングセラム
+
+{{< rawhtml >}}
+<div class="product-heading product-heading--answer">
+  <div class="product-heading-info">
+    <div class="product-heading-rank">No.2</div>
+    <h3>Browaddict<br>アイブロウ コンディショニングセラム</h3>
+    <p>サロン専売品・ナノペプチド配合の本格ケア</p>
+  </div>
+  <div class="product-heading-img">
+    <img src="https://m.media-amazon.com/images/I/61nbB8QCLuL._SL300_.jpg" alt="Browaddict ブロウアディクト アイブロウ コンディショニングセラム">
+  </div>
+</div>
+{{< /rawhtml >}}
 
 {{< rawhtml >}}
 <div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);">
@@ -202,6 +228,19 @@ draft: false
 ---
 
 ### No.3｜grabiness（グラビネス）マユビア 眉毛美容液
+
+{{< rawhtml >}}
+<div class="product-heading product-heading--answer">
+  <div class="product-heading-info">
+    <div class="product-heading-rank">No.3</div>
+    <h3>grabiness（グラビネス）<br>マユビア 眉毛美容液</h3>
+    <p>コスパ重視・1本5役で始めやすい入門品</p>
+  </div>
+  <div class="product-heading-img">
+    <img src="https://m.media-amazon.com/images/I/41ljrP7GIEL._SL300_.jpg" alt="grabiness マユビア 眉毛美容液">
+  </div>
+</div>
+{{< /rawhtml >}}
 
 {{< rawhtml >}}
 <div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);">
