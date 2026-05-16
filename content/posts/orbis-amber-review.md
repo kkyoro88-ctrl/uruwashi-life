@@ -31,10 +31,14 @@ cover:
 {{< /rawhtml >}}
 
 {{< rawhtml >}}
-<div style="text-align:center; margin:1.5em 0;">
-  <a href="https://px.a8.net/svt/ejp?a8mat=4B1RXS+JNBQQ+1USQ+4AV9VM" rel="nofollow noopener" target="_blank" style="display:inline-block; background:#c97d7d; color:#fff; padding:14px 36px; border-radius:30px; font-size:1em; font-weight:bold; text-decoration:none;">
-    オルビス アンバー ブースターを詳しく見る →
-  </a>
+<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);">
+  <div style="font-weight:700;font-size:1.05em;margin-bottom:16px;">オルビス アンバー</div>
+  <div style="display:flex;gap:10px;flex-wrap:wrap;">
+    <a href="https://px.a8.net/svt/ejp?a8mat=4B1RXS+JNBQQ+1USQ+4AV9VM" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #2d7d46;color:#2d7d46;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">公式サイト</a>
+    <a href="https://search.rakuten.co.jp/search/mall/オルビス+アンバー/" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #bf1a1a;color:#bf1a1a;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">楽天市場</a>
+    <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/s?k=オルビス+アンバー" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
+    <a href="https://shopping.yahoo.co.jp/search?p=オルビス+アンバー" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #6b2fbc;color:#6b2fbc;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Yahooショッピング</a>
+  </div>
 </div>
 {{< /rawhtml >}}
 
@@ -55,11 +59,14 @@ cover:
 - 無香料・無着色
 
 {{< rawhtml >}}
-<div style="text-align:center; margin: 1.5em 0;">
-  <a href="https://px.a8.net/svt/ejp?a8mat=4B1RXS+JNBQQ+1USQ+4ATZKX" target="_blank" rel="nofollow noopener">
-    <img border="0" width="300" height="250" alt="オルビス アンバー" src="https://www29.a8.net/svt/bgt?aid=260423344033&wid=001&eno=01&mid=s00000008657026006000&mc=1">
-  </a>
-  <img border="0" width="1" height="1" src="https://www18.a8.net/0.gif?a8mat=4B1RXS+JNBQQ+1USQ+4ATZKX" alt="">
+<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);">
+  <div style="font-weight:700;font-size:1.05em;margin-bottom:16px;">オルビス アンバー</div>
+  <div style="display:flex;gap:10px;flex-wrap:wrap;">
+    <a href="https://px.a8.net/svt/ejp?a8mat=4B1RXS+JNBQQ+1USQ+4AV9VM" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #2d7d46;color:#2d7d46;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">公式サイト</a>
+    <a href="https://search.rakuten.co.jp/search/mall/オルビス+アンバー/" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #bf1a1a;color:#bf1a1a;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">楽天市場</a>
+    <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/s?k=オルビス+アンバー" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
+    <a href="https://shopping.yahoo.co.jp/search?p=オルビス+アンバー" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #6b2fbc;color:#6b2fbc;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Yahooショッピング</a>
+  </div>
 </div>
 {{< /rawhtml >}}
 
@@ -170,11 +177,14 @@ cover:
 まだ途中ですが、「外側だけでは足りない」と感じていたあの物足りなさが、少し埋まってきた気がしています。
 
 {{< rawhtml >}}
-<div style="text-align:center; margin: 2em 0;">
-  <a href="https://px.a8.net/svt/ejp?a8mat=4B1RXS+JNBQQ+1USQ+4AV9VM" target="_blank" rel="nofollow noopener" style="display:inline-block; background:#e85d8a; color:#fff; padding:16px 40px; border-radius:30px; font-size:1.1em; font-weight:bold; text-decoration:none;">
-    オルビスアンバー購入はこちら
-  </a>
-  <img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4B1RXS+JNBQQ+1USQ+4AV9VM" alt="">
+<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);">
+  <div style="font-weight:700;font-size:1.05em;margin-bottom:16px;">オルビス アンバー</div>
+  <div style="display:flex;gap:10px;flex-wrap:wrap;">
+    <a href="https://px.a8.net/svt/ejp?a8mat=4B1RXS+JNBQQ+1USQ+4AV9VM" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #2d7d46;color:#2d7d46;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">公式サイト</a>
+    <a href="https://search.rakuten.co.jp/search/mall/オルビス+アンバー/" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #bf1a1a;color:#bf1a1a;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">楽天市場</a>
+    <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/s?k=オルビス+アンバー" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
+    <a href="https://shopping.yahoo.co.jp/search?p=オルビス+アンバー" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #6b2fbc;color:#6b2fbc;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Yahooショッピング</a>
+  </div>
 </div>
 {{< /rawhtml >}}
 
