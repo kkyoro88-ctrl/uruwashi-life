@@ -17,17 +17,14 @@ cover:
 ¥4,940という価格を前に何度も後回しにしてきたのに、返金保証があると知ってから「試さない理由がない」と気持ちが変わりました。この記事では、実際に使ってわかったことと、購入前に知っておきたいことを正直にまとめています。
 
 {{< rawhtml >}}
-<!-- START MoshimoAffiliateEasyLink -->
-<script type="text/javascript">
-(function(b,c,f,g,a,d,e){b.MoshimoAffiliateObject=a;
-b[a]=b[a]||function(){arguments.currentScript=c.currentScript
-||c.scripts[c.scripts.length-2];(b[a].q=b[a].q||[]).push(arguments)};
-c.getElementById(a)||(d=c.createElement(f),d.src=g,
-d.id=a,e=c.getElementsByTagName("body")[0],e.appendChild(d)})(window,document,"script","//dn.msmstatic.com/site/cardlink/bundle.js?20220329","msmaflink");
-msmaflink({"n":"haru kurokami スカルプシャンプー","b":"haru","t":"B07ZB81Q8J","d":"https:\/\/m.media-amazon.com","c_p":"\/images\/I","p":["\/61+vMDxaz-L._SL500_.jpg"],"u":{"u":"https:\/\/www.amazon.co.jp\/dp\/B07ZB81Q8J","t":"amazon","r_v":""},"v":"2.1","b_l":[{"id":1,"u_tx":"Amazonで購入","u_bc":"#f79256","u_url":"https:\/\/www.amazon.co.jp\/dp\/B07ZB81Q8J","a_id":5525308,"p_id":170,"pl_id":27060,"pc_id":185,"s_n":"amazon","u_so":1},{"id":2,"u_tx":"楽天市場で購入","u_bc":"#f76956","u_url":"https:\/\/search.rakuten.co.jp\/search\/mall\/haru%20kurokami%20%E3%82%B9%E3%82%AB%E3%83%AB%E3%83%97%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%97%E3%83%BC\/","a_id":5520409,"p_id":54,"pl_id":27059,"pc_id":54,"s_n":"rakuten","u_so":2},{"id":3,"u_tx":"Yahoo!で購入","u_bc":"#66a7ff","u_url":"https:\/\/shopping.yahoo.co.jp\/search?first=1&p=haru%20kurokami%20%E3%82%B9%E3%82%AB%E3%83%AB%E3%83%97%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%97%E3%83%BC","a_id":5525312,"p_id":1225,"pl_id":27061,"pc_id":1925,"s_n":"yahoo","u_so":3}],"eid":"ai70j","s":"s"});
-</script>
-<div id="msmaflink-ai70j">リンク</div>
-<!-- MoshimoAffiliateEasyLink END -->
+<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);">
+  <div style="font-weight:700;font-size:1.05em;margin-bottom:16px;">haru kurokami スカルプシャンプー</div>
+  <div style="display:flex;gap:10px;flex-wrap:wrap;">
+    <a href="https://search.rakuten.co.jp/search/mall/haru%20kurokami%20%E3%82%B9%E3%82%AB%E3%83%AB%E3%83%97%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%97%E3%83%BC/" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #bf1a1a;color:#bf1a1a;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">楽天市場</a>
+    <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B07ZB81Q8J" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
+    <a href="https://shopping.yahoo.co.jp/search?first=1&p=haru%20kurokami%20%E3%82%B9%E3%82%AB%E3%83%AB%E3%83%97%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%97%E3%83%BC" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #6b2fbc;color:#6b2fbc;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Yahooショッピング</a>
+  </div>
+</div>
 {{< /rawhtml >}}
 
 ---

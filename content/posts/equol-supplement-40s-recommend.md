@@ -38,17 +38,14 @@ cover:
 
 
 {{< rawhtml >}}
-<!-- START MoshimoAffiliateEasyLink -->
-<script type="text/javascript">
-(function(b,c,f,g,a,d,e){b.MoshimoAffiliateObject=a;
-b[a]=b[a]||function(){arguments.currentScript=c.currentScript
-||c.scripts[c.scripts.length-2];(b[a].q=b[a].q||[]).push(arguments)};
-c.getElementById(a)||(d=c.createElement(f),d.src=g,
-d.id=a,e=c.getElementsByTagName("body")[0],e.appendChild(d))})(window,document,"script","//dn.msmstatic.com/site/cardlink/bundle.js?20220329","msmaflink");
-msmaflink({"n":"エクエル パウチ 120粒 約30日分","b":"大塚製薬","t":"B01MUBY004","d":"https:\/\/thumbnail.image.rakuten.co.jp","c_p":"\/@0_mall\/supplement-is\/cabinet","p":["\/12146306\/12599541\/-12-19t190422.jpg"],"u":{"u":"https:\/\/www.amazon.co.jp\/dp\/B01MUBY004","t":"amazon","r_v":""},"v":"2.1","b_l":[{"id":1,"u_tx":"Amazonで購入","u_bc":"#f79256","u_url":"https:\/\/www.amazon.co.jp\/dp\/B01MUBY004","a_id":5525308,"p_id":170,"pl_id":27060,"pc_id":185,"s_n":"amazon","u_so":1},{"id":2,"u_tx":"楽天市場で購入","u_bc":"#f76956","u_url":"https:\/\/search.rakuten.co.jp\/search\/mall\/%E3%82%A8%E3%82%AF%E3%82%A8%E3%83%AB%20%E3%83%91%E3%82%A6%E3%83%81%20%E5%A4%A7%E5%A1%9A%E8%A3%BD%E8%96%AC\/","a_id":5520409,"p_id":54,"pl_id":27059,"pc_id":54,"s_n":"rakuten","u_so":2},{"id":3,"u_tx":"Yahoo!で購入","u_bc":"#66a7ff","u_url":"https:\/\/shopping.yahoo.co.jp\/search?first=1&p=%E3%82%A8%E3%82%AF%E3%82%A8%E3%83%AB%20%E3%83%91%E3%82%A6%E3%83%81%20%E5%A4%A7%E5%A1%9A%E8%A3%BD%E8%96%AC","a_id":5525312,"p_id":1225,"pl_id":27061,"pc_id":1925,"s_n":"yahoo","u_so":3}],"eid":"w7uAH","s":"s"});
-</script>
-<div id="msmaflink-w7uAH">リンク</div>
-<!-- MoshimoAffiliateEasyLink END -->
+<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);">
+  <div style="font-weight:700;font-size:1.05em;margin-bottom:16px;">エクエル パウチ 120粒 約30日分</div>
+  <div style="display:flex;gap:10px;flex-wrap:wrap;">
+    <a href="https://search.rakuten.co.jp/search/mall/%E3%82%A8%E3%82%AF%E3%82%A8%E3%83%AB%20%E3%83%91%E3%82%A6%E3%83%81%20%E5%A4%A7%E5%A1%9A%E8%A3%BD%E8%96%AC/" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #bf1a1a;color:#bf1a1a;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">楽天市場</a>
+    <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B01MUBY004" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
+    <a href="https://shopping.yahoo.co.jp/search?first=1&p=%E3%82%A8%E3%82%AF%E3%82%A8%E3%83%AB%20%E3%83%91%E3%82%A6%E3%83%81%20%E5%A4%A7%E5%A1%9A%E8%A3%BD%E8%96%AC" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #6b2fbc;color:#6b2fbc;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Yahooショッピング</a>
+  </div>
+</div>
 {{< /rawhtml >}}
 
 ---
@@ -83,17 +80,15 @@ msmaflink({"n":"エクエル パウチ 120粒 約30日分","b":"大塚製薬","t
 </div>
 {{< /rawhtml >}}
 
-<!-- START MoshimoAffiliateEasyLink -->
-<script type="text/javascript">
-(function(b,c,f,g,a,d,e){b.MoshimoAffiliateObject=a;
-b[a]=b[a]||function(){arguments.currentScript=c.currentScript
-||c.scripts[c.scripts.length-2];(b[a].q=b[a].q||[]).push(arguments)};
-c.getElementById(a)||(d=c.createElement(f),d.src=g,
-d.id=a,e=c.getElementsByTagName("body")[0],e.appendChild(d))})(window,document,"script","//dn.msmstatic.com/site/cardlink/bundle.js?20220329","msmaflink");
-msmaflink({"n":"エクエル パウチ 120粒 約30日分","b":"","t":"","d":"https:\/\/thumbnail.image.rakuten.co.jp","c_p":"\/@0_mall\/supplement-is\/cabinet","p":["\/12146306\/12599541\/-12-19t190422.jpg"],"u":{"u":"https:\/\/item.rakuten.co.jp\/supplement-is\/compass1766139643\/","t":"rakuten","r_v":""},"v":"2.1","b_l":[{"u_tx":"楽天市場で購入","u_bc":"#ff3300","u_url":"http:\/\/www.rakuten.co.jp\/","a_id":5520409,"p_id":54,"pl_id":27059,"pc_id":54,"s_n":"rakuten","u_so":0},{"u_tx":"Yahoo!で購入","u_bc":"#ff0033","u_url":"https:\/\/shopping.yahoo.co.jp\/search?p=エクエル+パウチ+大塚製薬","a_id":5525312,"p_id":1225,"pl_id":27061,"pc_id":1925,"s_n":"yahoo","u_so":1}],"eid":"TT032","s":"s"});
-</script>
-<div id="msmaflink-TT032">リンク</div>
-<!-- MoshimoAffiliateEasyLink END -->
+{{< rawhtml >}}
+<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);">
+  <div style="font-weight:700;font-size:1.05em;margin-bottom:16px;">エクエル パウチ 120粒 約30日分</div>
+  <div style="display:flex;gap:10px;flex-wrap:wrap;">
+    <a href="http://www.rakuten.co.jp/" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #bf1a1a;color:#bf1a1a;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">楽天市場</a>
+    <a href="https://shopping.yahoo.co.jp/search?p=エクエル+パウチ+大塚製薬" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #6b2fbc;color:#6b2fbc;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Yahooショッピング</a>
+  </div>
+</div>
+{{< /rawhtml >}}
 
 婦人科に行くと「エクエルを試してみて」と言われることが多いのが、この大塚製薬のエクエル。日本初のエクオール含有食品として多くの臨床研究データが公開されています。
 
@@ -114,17 +109,15 @@ msmaflink({"n":"エクエル パウチ 120粒 約30日分","b":"","t":"","d":"ht
 </div>
 {{< /rawhtml >}}
 
-<!-- START MoshimoAffiliateEasyLink -->
-<script type="text/javascript">
-(function(b,c,f,g,a,d,e){b.MoshimoAffiliateObject=a;
-b[a]=b[a]||function(){arguments.currentScript=c.currentScript
-||c.scripts[c.scripts.length-2];(b[a].q=b[a].q||[]).push(arguments)};
-c.getElementById(a)||(d=c.createElement(f),d.src=g,
-d.id=a,e=c.getElementsByTagName("body")[0],e.appendChild(d))})(window,document,"script","//dn.msmstatic.com/site/cardlink/bundle.js?20220329","msmaflink");
-msmaflink({"n":"DHC 大豆イソフラボン エクオール 30日分","b":"","t":"","d":"https:\/\/thumbnail.image.rakuten.co.jp","c_p":"\/","p":["@0_mall\/dhcshop\/cabinet\/white\/8000032780.jpg"],"u":{"u":"https:\/\/item.rakuten.co.jp\/dhcshop\/8000032780\/","t":"rakuten","r_v":""},"v":"2.1","b_l":[{"u_tx":"楽天市場で購入","u_bc":"#ff3300","u_url":"http:\/\/www.rakuten.co.jp\/","a_id":5520409,"p_id":54,"pl_id":27059,"pc_id":54,"s_n":"rakuten","u_so":0},{"u_tx":"Yahoo!で購入","u_bc":"#ff0033","u_url":"https:\/\/shopping.yahoo.co.jp\/search?p=DHC+エクオール","a_id":5525312,"p_id":1225,"pl_id":27061,"pc_id":1925,"s_n":"yahoo","u_so":1}],"eid":"098wA","s":"s"});
-</script>
-<div id="msmaflink-098wA">リンク</div>
-<!-- MoshimoAffiliateEasyLink END -->
+{{< rawhtml >}}
+<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);">
+  <div style="font-weight:700;font-size:1.05em;margin-bottom:16px;">DHC 大豆イソフラボン エクオール 30日分</div>
+  <div style="display:flex;gap:10px;flex-wrap:wrap;">
+    <a href="http://www.rakuten.co.jp/" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #bf1a1a;color:#bf1a1a;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">楽天市場</a>
+    <a href="https://shopping.yahoo.co.jp/search?p=DHC+エクオール" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #6b2fbc;color:#6b2fbc;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Yahooショッピング</a>
+  </div>
+</div>
+{{< /rawhtml >}}
 
 「エクエルは続けるには少し価格が気になる」という方に選ばれやすいのがDHCのエクオール。DHC直販の安心感と、エクオール専用サプリとしての設計が特徴です。
 
@@ -146,17 +139,14 @@ msmaflink({"n":"DHC 大豆イソフラボン エクオール 30日分","b":"","t
 {{< /rawhtml >}}
 
 {{< rawhtml >}}
-<!-- START MoshimoAffiliateEasyLink -->
-<script type="text/javascript">
-(function(b,c,f,g,a,d,e){b.MoshimoAffiliateObject=a;
-b[a]=b[a]||function(){arguments.currentScript=c.currentScript
-||c.scripts[c.scripts.length-2];(b[a].q=b[a].q||[]).push(arguments)};
-c.getElementById(a)||(d=c.createElement(f),d.src=g,
-d.id=a,e=c.getElementsByTagName("body")[0],e.appendChild(d))})(window,document,"script","//dn.msmstatic.com/site/cardlink/bundle.js?20220329","msmaflink");
-msmaflink({"n":"ベルタエクリズム エクオール サプリ 30日分","b":"BELTA","t":"B0BVFWC3NW","d":"https:\/\/m.media-amazon.com","c_p":"\/images\/I","p":["\/41x2K5YYVBL._SL500_.jpg"],"u":{"u":"https:\/\/www.amazon.co.jp\/dp\/B0BVFWC3NW","t":"amazon","r_v":""},"v":"2.1","b_l":[{"id":1,"u_tx":"Amazonで購入","u_bc":"#f79256","u_url":"https:\/\/www.amazon.co.jp\/dp\/B0BVFWC3NW","a_id":5525308,"p_id":170,"pl_id":27060,"pc_id":185,"s_n":"amazon","u_so":1},{"id":2,"u_tx":"楽天市場で購入","u_bc":"#f76956","u_url":"https:\/\/search.rakuten.co.jp\/search\/mall\/%E3%83%99%E3%83%AB%E3%82%BF%E3%82%A8%E3%82%AF%E3%83%AA%E3%82%BA%E3%83%A0\/","a_id":5520409,"p_id":54,"pl_id":27059,"pc_id":54,"s_n":"rakuten","u_so":2},{"id":3,"u_tx":"Yahoo!で購入","u_bc":"#66a7ff","u_url":"https:\/\/shopping.yahoo.co.jp\/search?first=1&p=%E3%83%99%E3%83%AB%E3%82%BF%E3%82%A8%E3%82%AF%E3%83%AA%E3%82%BA%E3%83%A0","a_id":5525312,"p_id":1225,"pl_id":27061,"pc_id":1925,"s_n":"yahoo","u_so":3}],"eid":"belta1","s":"s"});
-</script>
-<div id="msmaflink-belta1">リンク</div>
-<!-- MoshimoAffiliateEasyLink END -->
+<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);">
+  <div style="font-weight:700;font-size:1.05em;margin-bottom:16px;">ベルタエクリズム エクオール サプリ 30日分</div>
+  <div style="display:flex;gap:10px;flex-wrap:wrap;">
+    <a href="https://search.rakuten.co.jp/search/mall/%E3%83%99%E3%83%AB%E3%82%BF%E3%82%A8%E3%82%AF%E3%83%AA%E3%82%BA%E3%83%A0/" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #bf1a1a;color:#bf1a1a;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">楽天市場</a>
+    <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B0BVFWC3NW" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
+    <a href="https://shopping.yahoo.co.jp/search?first=1&p=%E3%83%99%E3%83%AB%E3%82%BF%E3%82%A8%E3%82%AF%E3%83%AA%E3%82%BA%E3%83%A0" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #6b2fbc;color:#6b2fbc;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Yahooショッピング</a>
+  </div>
+</div>
 {{< /rawhtml >}}
 
 エクオールを中心に、更年期に気になる複数の不調にアプローチできる成分を組み合わせた設計です。エクオール単体だけでなく、もう少し幅広くケアしたい方に向いています。

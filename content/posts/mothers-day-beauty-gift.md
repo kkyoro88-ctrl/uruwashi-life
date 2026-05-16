@@ -22,17 +22,14 @@ cover:
 今回は「もらったら素直に嬉しいけど自分では買わない」美容ギフトを5つ厳選しました。毎日使うたびに思い出してもらえる、そんなプレゼントです。
 
 {{< rawhtml >}}
-<!-- START MoshimoAffiliateEasyLink -->
-<script type="text/javascript">
-(function(b,c,f,g,a,d,e){b.MoshimoAffiliateObject=a;
-b[a]=b[a]||function(){arguments.currentScript=c.currentScript
-||c.scripts[c.scripts.length-2];(b[a].q=b[a].q||[]).push(arguments)};
-c.getElementById(a)||(d=c.createElement(f),d.src=g,
-d.id=a,e=c.getElementsByTagName("body")[0],e.appendChild(d)})(window,document,"script","//dn.msmstatic.com/site/cardlink/bundle.js?20220329","msmaflink");
-msmaflink({"n":"ハウスオブローゼ Oh!Baby ボディケア 3点セット","b":"HOUSE OF ROSE（ハウスオブローゼ）","t":"B0G1S9PG9V","d":"https:\/\/m.media-amazon.com","c_p":"\/images\/I","p":["\/51frd99cYKL._SL500_.jpg"],"u":{"u":"https:\/\/www.amazon.co.jp\/dp\/B0G1S9PG9V","t":"amazon","r_v":""},"v":"2.1","b_l":[{"id":1,"u_tx":"Amazonで購入","u_bc":"#f79256","u_url":"https:\/\/www.amazon.co.jp\/dp\/B0G1S9PG9V","a_id":5525308,"p_id":170,"pl_id":27060,"pc_id":185,"s_n":"amazon","u_so":1},{"id":2,"u_tx":"楽天市場で購入","u_bc":"#f76956","u_url":"https:\/\/search.rakuten.co.jp\/search\/mall\/%E3%83%8F%E3%82%A6%E3%82%B9%E3%82%AA%E3%83%96%E3%83%AD%E3%83%BC%E3%82%BC%20%E3%82%AE%E3%83%95%E3%83%88%E3%82%BB%E3%83%83%E3%83%88\/","a_id":5520409,"p_id":54,"pl_id":27059,"pc_id":54,"s_n":"rakuten","u_so":2},{"id":3,"u_tx":"Yahoo!で購入","u_bc":"#66a7ff","u_url":"https:\/\/shopping.yahoo.co.jp\/search?first=1&p=%E3%83%8F%E3%82%A6%E3%82%B9%E3%82%AA%E3%83%96%E3%83%AD%E3%83%BC%E3%82%BC%20%E3%82%AE%E3%83%95%E3%83%88%E3%82%BB%E3%83%83%E3%83%88","a_id":5525312,"p_id":1225,"pl_id":27061,"pc_id":1925,"s_n":"yahoo","u_so":3}],"eid":"5c2sq","s":"s"});
-</script>
-<div id="msmaflink-5c2sq">リンク</div>
-<!-- MoshimoAffiliateEasyLink END -->
+<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);">
+  <div style="font-weight:700;font-size:1.05em;margin-bottom:16px;">ハウスオブローゼ Oh!Baby ボディケア 3点セット</div>
+  <div style="display:flex;gap:10px;flex-wrap:wrap;">
+    <a href="https://search.rakuten.co.jp/search/mall/%E3%83%8F%E3%82%A6%E3%82%B9%E3%82%AA%E3%83%96%E3%83%AD%E3%83%BC%E3%82%BC%20%E3%82%AE%E3%83%95%E3%83%88%E3%82%BB%E3%83%83%E3%83%88/" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #bf1a1a;color:#bf1a1a;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">楽天市場</a>
+    <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B0G1S9PG9V" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
+    <a href="https://shopping.yahoo.co.jp/search?first=1&p=%E3%83%8F%E3%82%A6%E3%82%B9%E3%82%AA%E3%83%96%E3%83%AD%E3%83%BC%E3%82%BC%20%E3%82%AE%E3%83%95%E3%83%88%E3%82%BB%E3%83%83%E3%83%88" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #6b2fbc;color:#6b2fbc;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Yahooショッピング</a>
+  </div>
+</div>
 {{< /rawhtml >}}
 
 
