@@ -1,0 +1,188 @@
+---
+title: "セグレタ プレミア シャンプー 口コミ【40代・ぺたんこ髪に使ってみた】"
+date: 2026-05-20
+draft: false
+affiliate: true
+categories: ["ヘアケア"]
+tags: ["40代", "シャンプー", "セグレタ", "ボリュームアップ", "ヘアケア"]
+description: "セグレタ プレミア シャンプーを40代目線でレビュー。ぺたんこ髪・ハリコシ不足に悩む方への正直な使用感・デメリット・向いている人をまとめました。"
+cover:
+  image: "/images/segreta-shampoo-review.png"
+  alt: "セグレタプレミアシャンプー口コミレビュー"
+---
+
+朝、ドライヤーをかけながら思う。「また今日も、根元がぺたんこだ」と。
+
+40代に入ってから、髪のボリュームがどんどん出なくなりました。ドラッグストアでシャンプーを何本変えても、翌朝には同じ結果。そんなときに手を伸ばしたのが、セグレタ プレミア シャンプーでした。
+
+プチプラでも「40代のぺたんこ髪向け」と明記されているものがあるとは知らなくて。花王というブランドへの信頼もあって、とりあえず試してみた正直な記録を書きます。
+
+{{< rawhtml >}}
+<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);">
+  <div style="display:flex;gap:16px;align-items:flex-start;flex-wrap:wrap;">
+    <div style="flex:1;min-width:200px;">
+      <div style="font-weight:700;font-size:1.05em;margin-bottom:12px;">セグレタ プレミア シャンプー</div>
+      <div style="display:flex;gap:10px;flex-wrap:wrap;">
+        <a href="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=27059&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%BB%E3%82%B0%E3%83%AC%E3%82%BF%2B%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%2B%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%97%E3%83%BC%2F" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #bf1a1a;color:#bf1a1a;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">楽天市場</a>
+        <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%E3%82%BB%E3%82%B0%E3%83%AC%E3%82%BF%2B%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%2B%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%97%E3%83%BC" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
+        <a href="https://shopping.yahoo.co.jp/search?p=%E3%82%BB%E3%82%B0%E3%83%AC%E3%82%BF+%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2+%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%97%E3%83%BC" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #6b2fbc;color:#6b2fbc;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Yahooショッピング</a>
+      </div>
+    </div>
+  </div>
+</div>
+{{< /rawhtml >}}
+
+---
+
+## セグレタ プレミアとは？40代向けシャンプーの特徴
+
+セグレタ（Segreta）は花王が展開する、40代以降の女性向けヘアケアブランドです。通常のセグレタラインとは別に、「プレミアライン」はより高機能な処方を追求したシリーズになっています。
+
+**基本スペック**
+
+| 項目 | 内容 |
+|------|------|
+| ブランド | セグレタ（花王） |
+| ライン | プレミア（上位ライン） |
+| 価格帯 | 800〜1,200円前後 |
+| 特徴 | ノンシリコン・エイジングケア成分配合 |
+| ターゲット | ぺたんこ髪・ハリ・コシ低下が気になる40代以降 |
+
+プレミアラインの特徴は「ノンシリコン」設計であることです。シリコン入りのシャンプーは髪の表面をコーティングするため、最初は手触りがよく感じられます。ただ、毛根周辺に蓄積することで根元のボリュームが出にくくなることがあるとされています。ノンシリコン処方にすることで、根元のふんわり感を妨げないようアプローチしています。
+
+また、エイジングケア成分が配合されており、加齢によるハリ・コシの低下が気になる方の髪に使いやすい設計とされています。ドラッグストアで購入できる価格帯でありながら、40代の悩みに寄り添った処方になっているのが、このシャンプーの立ち位置です。
+
+---
+
+## 他のシャンプーと比べて選んだ理由
+
+正直に言うと、最初は「どうせ変わらないだろう」という気持ちで手に取りました。それまでも「ハリ・コシ向け」「ボリュームアップ」と書かれたシャンプーを何本か試していたので。
+
+比べた候補は2つありました。
+
+ひとつは、美容師さんに勧められたサロン系シャンプー（3,000円台）。もうひとつは、haru kurokami（4,940円）。どちらも成分評価は高くて興味はありましたが、「また変わらなかったときに、お金も気持ちも消耗する」という疲れが先に来てしまいました。
+
+そんなときに目に入ったのが、セグレタ プレミアでした。「花王なら品質管理はしっかりしているはず」「1,000円以下なら試せる」「ドラッグストアで買えるから失敗のハードルが低い」という、消極的な理由です。
+
+でも、消極的な理由でいい。試さなければ何もわからないので。
+
+---
+
+## 実際に使ってみた感想
+
+### 洗い心地：泡立ちはしっかり、でも軋みはある
+
+ノンシリコンシャンプーによくある「最初だけ軋む」現象が、セグレタ プレミアでも最初の1週間ほどありました。
+
+シリコン入りのシャンプーを長く使っていると、髪に蓄積したシリコンが落ちる過程で一時的に手触りが変わることがあります。それまで使っていたシャンプーが市販のシリコン入りだったので、ある程度は予想していました。
+
+泡立ちは思ったより豊かで、洗っている最中の感触は悪くありませんでした。香りはフローラル系で、洗いながら気持ちが少し落ち着く感じがします。
+
+### 仕上がり：ドライヤー後のふんわり感
+
+軋みが落ち着いてきた2週間目あたりから、ドライヤー後の根元の立ち上がりが少し変わってきた気がしました。
+
+以前は、セットをしてもすぐ根元が倒れてきていたのが、少し維持できるようになってきた感触。分け目の部分が、鏡で見たときにわずかに気にならなくなってきました。
+
+「ふんわりした」という劇的な変化ではありません。ただ「今日の朝、髪が重くない」という感覚が出てきた、という表現が近いかもしれません。
+
+### 継続してみて：3週間後の変化
+
+3週間続けて使った時点で、明らかに変わったと感じるのは「朝のスタイリング時間」です。
+
+以前は根元をドライヤーで持ち上げるのに時間をかけていましたが、乾かしただけである程度ボリュームが出やすくなってきました。スタイリング剤の量も、少し減らせるようになりました。
+
+頭皮に関しては、使い始めてから夕方の頭皮の臭いが気になりにくくなった感触があります。洗浄成分が変わったことで、皮脂バランスが少し整ってきたのかもしれません。
+
+---
+
+## デメリット → メリットの順で正直に
+
+### 気になった点（デメリット）
+
+**最初の1〜2週間、軋みが出た**
+
+ノンシリコンシャンプーに切り替えたときに起こりやすいことですが、最初は少し髪がきしむ感覚がありました。トリートメントをいつもより丁寧につけてカバーしていました。
+
+**変化はゆっくりで、すぐには実感しにくい**
+
+「1回使ったら即ふんわり」ではありません。変化が出始めたのは2週間目以降でした。即効性を求める方には物足りないかもしれません。
+
+**ノンシリコンのため、ヘビーダメージ毛には補修力が物足りないことも**
+
+カラーやパーマを繰り返してダメージが蓄積している方は、別途補修系トリートメントの併用が必要に感じるかもしれません。
+
+### よかった点（メリット）
+
+**ドラッグストアで買えて、価格が続けやすい**
+
+1,000円前後でドラッグストアで購入できるため、「試すハードル」がとても低いのが助かりました。続けることを考えると、この価格帯は大きな安心感になります。
+
+**根元のふんわり感が出やすくなった気がする**
+
+2〜3週間継続すると、ドライヤー後の根元の立ち上がりが出やすくなった感触がありました。分け目が以前より気になりにくくなったのは、使い続けた結果だと思っています。
+
+**花王の品質管理への安心感**
+
+成分や製造に関する信頼性という点で、大手メーカーというブランドは心理的な安心感につながります。敏感な頭皮でも、特に刺激を感じることはありませんでした。
+
+**香りが心地よい**
+
+フローラル系の香りで、洗いながらリラックスできます。入浴の時間が少し豊かになりました。
+
+---
+
+## こんな方に向いています / こんな方には急かしません
+
+{{< rawhtml >}}
+<div style="background:#f8f9ff;border-left:4px solid #5c72cd;border-radius:0 8px 8px 0;padding:16px 20px;margin:1.5em 0;">
+  <p style="font-weight:700;margin:0 0 10px;">✅ こんな方に向いていると思います</p>
+  <ul style="margin:0;padding-left:1.4em;line-height:1.9;">
+    <li>40代以降で、髪のボリュームが気になってきた方</li>
+    <li>ぺたんこ髪・根元の立ち上がりのなさが悩みの方</li>
+    <li>ドラッグストアで手軽に試せるものから始めたい方</li>
+    <li>高いシャンプーへの踏み出しが怖い・失敗が続いてきた方</li>
+    <li>花王ブランドへの信頼感がある方</li>
+    <li>2〜3週間かけてゆっくり変化を待てる方</li>
+  </ul>
+</div>
+{{< /rawhtml >}}
+
+{{< rawhtml >}}
+<div style="background:#fff8f8;border-left:4px solid #cc5555;border-radius:0 8px 8px 0;padding:16px 20px;margin:1.5em 0;">
+  <p style="font-weight:700;margin:0 0 10px;">⚠️ こんな方には、急かしません</p>
+  <ul style="margin:0;padding-left:1.4em;line-height:1.9;">
+    <li>1回使ったらすぐに変化を感じたい方（即効性はありません）</li>
+    <li>カラー・パーマを繰り返しているヘビーダメージ毛の方（補修力は限定的です）</li>
+    <li>市販品ではなく、サロン専売品・処方レベルの成分にこだわっている方</li>
+    <li>ノンシリコンの軋み期間を乗り越える自信がない方</li>
+  </ul>
+</div>
+{{< /rawhtml >}}
+
+---
+
+## まとめ
+
+セグレタ プレミア シャンプーは、「40代のぺたんこ髪をどうにかしたいけれど、まず手軽なものから試したい」という方の最初の一歩として、選びやすいシャンプーだと思います。
+
+変化はゆっくりです。劇的ではありません。でも、2週間〜3週間続けていくなかで「今日の朝、根元が少し違う気がする」という感覚が積み重なっていきました。
+
+まだ途中だけど、この価格でこの変化なら、続ける理由になっています。
+
+40代のシャンプー選び全体については[40代シャンプーおすすめ3選](/posts/shampoo-40s-recommend/)でまとめています。ヘアケアのベースを整えたい方は[40代ヘアケアおすすめガイド](/posts/haircare-40s-guide/)もあわせて読んでみてください。
+
+{{< rawhtml >}}
+<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);">
+  <div style="display:flex;gap:16px;align-items:flex-start;flex-wrap:wrap;">
+    <div style="flex:1;min-width:200px;">
+      <div style="font-weight:700;font-size:1.05em;margin-bottom:12px;">セグレタ プレミア シャンプー</div>
+      <div style="display:flex;gap:10px;flex-wrap:wrap;">
+        <a href="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=27059&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%BB%E3%82%B0%E3%83%AC%E3%82%BF%2B%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%2B%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%97%E3%83%BC%2F" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #bf1a1a;color:#bf1a1a;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">楽天市場</a>
+        <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%E3%82%BB%E3%82%B0%E3%83%AC%E3%82%BF%2B%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%2B%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%97%E3%83%BC" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
+        <a href="https://shopping.yahoo.co.jp/search?p=%E3%82%BB%E3%82%B0%E3%83%AC%E3%82%BF+%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2+%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%97%E3%83%BC" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #6b2fbc;color:#6b2fbc;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Yahooショッピング</a>
+      </div>
+    </div>
+  </div>
+</div>
+{{< /rawhtml >}}

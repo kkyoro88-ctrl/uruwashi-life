@@ -1,0 +1,150 @@
+---
+title: "ナンバーズイン5番の口コミ｜40代のくすみに試した正直レビュー"
+date: 2026-05-20
+draft: false
+affiliate: true
+categories: ["スキンケア"]
+tags: ["40代", "ナンバーズイン", "美容液", "くすみ", "エイジングケア"]
+description: "ナンバーズイン5番 白玉グルタチオンC美容液を40代乾燥敏感肌が使用した正直な口コミ。グルタチオン・ビタミンC誘導体・ナイアシンアミドの三成分でくすみ・トーンにアプローチした変化をレポート。"
+cover:
+  image: "/images/numbersIN-5-review.png"
+  alt: "ナンバーズイン5番口コミレビュー"
+---
+
+洗顔を終えて鏡を見た瞬間、「あれ、また顔色が悪い」と思う朝が続いていました。
+
+スキンケアは頑張っているつもりなのに、くすみがなかなか変わらない。シミも気になり始めた40代のある時期、成分にこだわって美容液を選び直そうと思い立ちました。そのときに行き着いたのが、**ナンバーズイン（numbers in）5番 白玉グルタチオンC美容液**です。
+
+**結論から言います。くすみへのアプローチを目的とした美容液として、40代の乾燥敏感肌でも使いやすい一本でした。** グルタチオン・ビタミンC誘導体・ナイアシンアミドという三成分が揃っていること、刺激が穏やかで敏感肌でも取り入れやすいことを、複数の成分解析と実際の使用感から確認しています。
+
+早い方で2〜3週間ほどから「朝の顔色が変わった気がする」という変化を感じやすいとされています。この記事では、使い始めから感じた変化・デメリット・向いている人を正直に書きます。
+
+{{< rawhtml >}}
+<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);">
+  <div style="display:flex;gap:16px;align-items:flex-start;flex-wrap:wrap;">
+    <div style="flex:1;min-width:200px;">
+      <div style="font-weight:700;font-size:1.05em;margin-bottom:12px;">ナンバーズイン 5番 白玉グルタチオンC 美容液</div>
+      <div style="display:flex;gap:10px;flex-wrap:wrap;">
+        <a href="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=27059&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%8A%E3%83%B3%E3%83%90%E3%83%BC%E3%82%BA%E3%82%A4%E3%83%B3%2B5%E7%95%AA%2F" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #bf1a1a;color:#bf1a1a;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">楽天市場</a>
+        <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%E3%83%8A%E3%83%B3%E3%83%90%E3%83%BC%E3%82%BA%E3%82%A4%E3%83%B3%2B5%E7%95%AA" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
+        <a href="https://shopping.yahoo.co.jp/search?p=%E3%83%8A%E3%83%B3%E3%83%90%E3%83%BC%E3%82%BA%E3%82%A4%E3%83%B3+5%E7%95%AA" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #6b2fbc;color:#6b2fbc;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Yahooショッピング</a>
+      </div>
+    </div>
+  </div>
+</div>
+{{< /rawhtml >}}
+
+---
+
+## ナンバーズイン 5番とは？
+
+ナンバーズイン（numbers in）は、韓国発のスキンケアブランドです。各アイテムに番号を振るシンプルなネーミングが特徴で、日本でも韓国コスメ好きの方を中心に広まってきています。
+
+「5番 白玉グルタチオンC」は、くすみ・トーンケアをテーマにした美容液。主な配合成分は以下の三つです。
+
+- **グルタチオン**：抗酸化作用を持つとされる成分。くすみへのアプローチとして韓国コスメに多く採用されています
+- **ビタミンC誘導体**：不安定な純粋ビタミンCを安定化させたもの。肌への刺激を抑えながら、くすみケアをサポートする成分として注目されています
+- **ナイアシンアミド**：厚生労働省が認可した美白有効成分のひとつ。メラニンの生成を抑え、シミ・そばかすをケアするとされています
+
+この三成分が一本に揃っているのが、5番を選ぶ理由になるかどうか——私はそこを確認したくて手に取りました。
+
+容量は30ml、価格帯は4,000〜5,000円前後。韓国コスメらしいシンプルなボトルデザインで、ポンプ式ではなくスポイトタイプです。
+
+---
+
+## 他の美容液と比べて選んだ理由
+
+正直に言うと、最初はもっと有名なビタミンC誘導体美容液と迷っていました。
+
+[40代向けビタミンC誘導体美容液](/posts/vitamin-c-serum-40s-recommend/)の記事でも書いたように、ビタミンC誘導体単体で探すと選択肢は多い。でも「グルタチオン＋ビタミンC誘導体＋ナイアシンアミド」の三成分が揃って4,000円台というのは、比べてみると少ない。
+
+私が特に注目したのはナイアシンアミドの存在です。ナイアシンアミドは、[ナイアシンアミド化粧水の記事](/posts/niacinamide-lotion-40s-recommend/)でも触れましたが、美白有効成分として認可されており、化粧水でも取り入れていた成分。それが美容液にも入っているなら、重ねてケアしやすいと思いました。
+
+敏感肌なので刺激の強さも気になりましたが、ビタミンC誘導体は純粋ビタミンCより穏やかとされており、実際のレビューでも「しみなかった」という声が多かったことが後押しになりました。
+
+---
+
+## 実際に使ってみた感想
+
+### 1週間目：テクスチャーと使い心地
+
+スポイトで1〜2滴を手にとり、顔全体になじませる使い方です。テクスチャーはとろみのある透明なジェル状で、肌なじみが早い印象でした。敏感肌でも、使い始めからヒリつきや赤みは特に感じませんでした。
+
+洗顔後の化粧水の前に使っています。スポイトの量の調整が最初は少し手間でしたが、慣れると気にならなくなりました。
+
+### 2週間目：朝の顔色が変わってきた
+
+洗顔後に鏡を見て、「なんとなく顔が暗くない」と気づいたのがこの頃でした。大きな変化ではなく、「くすんで見える日が減ってきた」という感覚です。以前は洗顔直後の鏡が少し憂鬱でしたが、その感覚が薄れてきました。
+
+### 3〜4週間目：ファンデーションの乗りに変化
+
+頬のキメが少し整ってきた気がして、ファンデーションを塗るときのすべりが以前より軽くなりました。下地の量を減らしても同じくらいに仕上がるようになったのは、地味に嬉しい変化でした。
+
+シミが薄くなったかどうかは、1ヶ月ではまだはっきりとわかりません。継続が必要なエリアだと感じています。
+
+---
+
+## デメリットと、それでも続けている理由
+
+### 気になった点（正直に）
+
+**スポイトタイプで量の調整が少し難しい**。ポンプ式に慣れていると、最初は出しすぎることがあります。1〜2滴で十分なのに、慣れるまで3〜4滴使ってしまい、消費が少し早く感じました。
+
+**即効性はない**。「使った翌日に明らかに変わった」という体験はありませんでした。変化を感じるまでに2週間はかかりました。すぐ結果が欲しい方には向かないと思います。
+
+**30mlは少し小さい**。毎日使うと2ヶ月弱で使い切るペース。継続コストとして月あたり約2,000〜2,500円の計算になります。
+
+### それでも続けている理由
+
+刺激がないことと、変化を感じる速度がちょうどよかったこと。敏感肌の私は過去に「攻めすぎた美容液」で肌荒れを起こした経験があります。グルタチオン・ビタミンC誘導体・ナイアシンアミドをまとめて取り入れながら、肌が荒れなかった。それだけで十分に合格です。
+
+---
+
+## こんな方に向いています／こんな方には急かしません
+
+**向いている方**
+
+- 40代で、朝の顔色のくすみ・トーンの揺らぎが気になっている
+- 乾燥敏感肌で、刺激の強い美容液を避けてきた
+- グルタチオンやナイアシンアミドに興味があるが、成分単品の商品では選びにくいと感じている
+- 韓国コスメを試したことがある、または試してみたい
+
+**急かしません（こんな方には合わないかも）**
+
+- 「1週間で変わる」ような即効性を求めている方
+- コスパ重視で1本2,000円以内に抑えたい方
+- シミへの本格的な医薬部外品成分を求めている方（医薬部外品として認可された濃度・処方を確認したい方は、別途確認することをおすすめします）
+- スポイト式の操作が面倒だと感じる方
+
+---
+
+## まとめ
+
+ナンバーズイン 5番 白玉グルタチオンC美容液は、「くすみへのアプローチを続けたい、でも肌に負担をかけたくない」という40代の敏感肌の方に合う一本だと感じています。
+
+三成分が一本にまとまっていて、刺激が穏やかで、価格もそこまで高くない。デメリットを理解したうえで選べば、後悔しにくい選択肢だと思います。
+
+まだ途中だけど、これを選んで後悔はしていません。
+
+{{< rawhtml >}}
+<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);">
+  <div style="display:flex;gap:16px;align-items:flex-start;flex-wrap:wrap;">
+    <div style="flex:1;min-width:200px;">
+      <div style="font-weight:700;font-size:1.05em;margin-bottom:12px;">ナンバーズイン 5番 白玉グルタチオンC 美容液</div>
+      <div style="display:flex;gap:10px;flex-wrap:wrap;">
+        <a href="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=27059&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%8A%E3%83%B3%E3%83%90%E3%83%BC%E3%82%BA%E3%82%A4%E3%83%B3%2B5%E7%95%AA%2F" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #bf1a1a;color:#bf1a1a;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">楽天市場</a>
+        <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%E3%83%8A%E3%83%B3%E3%83%90%E3%83%BC%E3%82%BA%E3%82%A4%E3%83%B3%2B5%E7%95%AA" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
+        <a href="https://shopping.yahoo.co.jp/search?p=%E3%83%8A%E3%83%B3%E3%83%90%E3%83%BC%E3%82%BA%E3%82%A4%E3%83%B3+5%E7%95%AA" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #6b2fbc;color:#6b2fbc;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Yahooショッピング</a>
+      </div>
+    </div>
+  </div>
+</div>
+{{< /rawhtml >}}
+
+---
+
+合わせて読んでいただきたい記事です。
+
+ナイアシンアミドを化粧水でも取り入れたい方は[ナイアシンアミド化粧水40代おすすめ記事](/posts/niacinamide-lotion-40s-recommend/)をどうぞ。5番と相性のよい成分で、化粧水から重ねると使いやすいです。
+
+毎日のスキンケアの順番や重ね方に迷っている方は[40代スキンケアルーティンガイド](/posts/skincare-routine-40s-guide/)も参考にしてください。
