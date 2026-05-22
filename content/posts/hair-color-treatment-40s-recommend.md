@@ -473,6 +473,35 @@ cover:
 
 ---
 
+## 2025年話題の新定番
+
+### ウエラトーン エッセンスイン カラートリートメント
+
+ウエラが投入した「エッセンスインカラー処方」の新作カラートリートメント。**白髪が1回でしっかり染まる**という点が最大の特徴で、従来の複数回使用前提の製品と一線を画します。
+
+アルガニアスピノサ核油・マカデミア種子油・ヒアルロン酸配合で、染めながら髪の補修・保湿ケアも同時に行う設計。全3色展開（キャラメルブラウン・モカブラウン・アッシュブラック）で、現在の髪色に合わせて選べます。「1回で染まらないから面倒くさい」と感じていた方にも試しやすい1本です。
+
+| | ウエラトーン エッセンスイン カラートリートメント |
+|---|---|
+| 特徴 | エッセンスインカラー処方・白髪が1回で染まる |
+| 成分 | アルガニアスピノサ核油・マカデミア種子油・ヒアルロン酸Na |
+| 価格 | 1,628円（税込・180mL） |
+| カラー | キャラメルブラウン・モカブラウン・アッシュブラック |
+| 向いている方 | 1回でしっかり色を入れたい・毎日の使用が難しい方 |
+
+{{< rawhtml >}}
+<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);">
+  <div style="font-weight:700;font-size:1.05em;margin-bottom:16px;">ウエラトーン エッセンスイン カラートリートメント</div>
+  <div style="display:flex;gap:10px;flex-wrap:wrap;">
+    <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%A6%E3%82%A8%E3%83%A9%E3%83%88%E3%83%BC%E3%83%B3+%E3%82%A8%E3%83%83%E3%82%BB%E3%83%B3%E3%82%B9%E3%82%A4%E3%83%B3+%E3%82%AB%E3%83%A9%E3%83%BC%E3%83%88%E3%83%AA%E3%83%BC%E3%83%88%E3%83%A1%E3%83%B3%E3%83%88%2F" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #bf1a1a;color:#bf1a1a;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">楽天市場</a>
+    <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/s?k=%E3%82%A6%E3%82%A8%E3%83%A9%E3%83%88%E3%83%BC%E3%83%B3+%E3%82%A8%E3%83%83%E3%82%BB%E3%83%B3%E3%82%B9%E3%82%A4%E3%83%B3" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
+    <a href="https://shopping.yahoo.co.jp/search?p=%E3%82%A6%E3%82%A8%E3%83%A9%E3%83%88%E3%83%BC%E3%83%B3+%E3%82%A8%E3%83%83%E3%82%BB%E3%83%B3%E3%82%B9%E3%82%A4%E3%83%B3+%E3%82%AB%E3%83%A9%E3%83%BC%E3%83%88%E3%83%AA%E3%83%BC%E3%83%88%E3%83%A1%E3%83%B3%E3%83%88" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #6b2fbc;color:#6b2fbc;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Yahooショッピング</a>
+  </div>
+</div>
+{{< /rawhtml >}}
+
+---
+
 ## まとめ：40代の白髪ケアにカラートリートメントが向いている理由
 
 | ポイント | カラートリートメントの特徴 |

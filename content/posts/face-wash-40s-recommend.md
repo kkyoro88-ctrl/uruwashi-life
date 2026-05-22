@@ -329,6 +329,35 @@ A. 毎日の洗顔では大きな毛穴汚れは取りにくいです。週1〜2
 
 ---
 
+## 2025年9月発売・ベスコス11冠の新定番
+
+### スイサイ ビューティクリア ペーストウォッシュ（2025年9月発売）
+
+suisaiのパウダー酵素洗顔といえばロングセラーですが、2025年9月に**練りタイプ**の新バージョンが登場。発売後すぐにベスコス11冠を受賞し、話題となっています。
+
+パウダーと同じく**2種の酵素（プロテアーゼ・リパーゼ）**を配合しながら、チューブから出してそのまま泡立てられるペーストタイプで、使い勝手が大幅にアップ。クレイ成分（モロッコ溶岩クレイ・カオリン）が毛穴の皮脂汚れを吸着し、洗い上がりの乾燥感も抑えた処方です。
+
+| | スイサイ ビューティクリア ペーストウォッシュ |
+|---|---|
+| 注目成分 | 2種の酵素（プロテアーゼ・リパーゼ）＋2種のクレイ |
+| 発売 | 2025年9月20日 |
+| 価格 | 1,430円（税込・120g） |
+| 受賞 | ベスコス11冠 |
+| 向いている方 | パウダーより手軽に使いたい・毛穴・くすみを同時にケアしたい方 |
+
+{{< rawhtml >}}
+<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);">
+  <div style="font-weight:700;font-size:1.05em;margin-bottom:16px;">スイサイ ビューティクリア ペーストウォッシュ</div>
+  <div style="display:flex;gap:10px;flex-wrap:wrap;">
+    <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%B9%E3%82%A4%E3%82%B5%E3%82%A4+%E3%83%9A%E3%83%BC%E3%82%B9%E3%83%88%E3%82%A6%E3%82%A9%E3%83%83%E3%82%B7%E3%83%A5%2F" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #bf1a1a;color:#bf1a1a;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">楽天市場</a>
+    <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/s?k=%E3%82%B9%E3%82%A4%E3%82%B5%E3%82%A4+%E3%83%93%E3%83%A5%E3%83%BC%E3%83%86%E3%82%A3%E3%82%AF%E3%83%AA%E3%82%A2+%E3%83%9A%E3%83%BC%E3%82%B9%E3%83%88%E3%82%A6%E3%82%A9%E3%83%83%E3%82%B7%E3%83%A5" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
+    <a href="https://shopping.yahoo.co.jp/search?p=%E3%82%B9%E3%82%A4%E3%82%B5%E3%82%A4+%E3%83%93%E3%83%A5%E3%83%BC%E3%83%86%E3%82%A3%E3%82%AF%E3%83%AA%E3%82%A2+%E3%83%9A%E3%83%BC%E3%82%B9%E3%83%88%E3%82%A6%E3%82%A9%E3%83%83%E3%82%B7%E3%83%A5" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #6b2fbc;color:#6b2fbc;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Yahooショッピング</a>
+  </div>
+</div>
+{{< /rawhtml >}}
+
+---
+
 ## まとめ：洗顔料を変えるなら、この1本から
 
 40代の洗顔は「しっかり落とす」より「やさしく、うるおいを残す」が正解。
