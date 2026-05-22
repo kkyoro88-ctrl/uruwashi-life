@@ -1,7 +1,7 @@
 ---
-title: "化粧水おすすめ40代｜乾燥・エイジングケア向け厳選3本"
+title: "【2026年最新】化粧水おすすめ40代向け3選｜乾燥・エイジングケア重視で厳選"
 date: 2026-05-01
-lastmod: 2026-05-15
+lastmod: 2026-05-23
 draft: false
 affiliate: true
 categories: ["スキンケア"]
