@@ -4,7 +4,7 @@ date: 2026-04-30
 description: "40代のシワ・くすみ・たるみに向き合うエイジングケアの選び方を解説。美容液・クリーム・日焼け止めを成分ごとに整理し、悩み別のおすすめ記事をまとめています。"
 tags: ["40代", "エイジングケア", "スキンケア"]
 categories: ["スキンケア"]
-affiliate: false
+affiliate: true
 cover:
   image: "/images/antiaging-skincare-40s-guide.png"
   alt: "40代エイジングケアおすすめガイド"
@@ -113,5 +113,15 @@ draft: false
 - **すべての土台** → 日焼け止め（毎日）
 
 まずは今一番気になる悩みから、1本選んでみてください。
+
+### 成分別おすすめ記事
+
+> **レチノール**を試したい方は[レチノール美容液入門記事](/posts/retinol-serum-beginner/)でリスクと選び方をまとめています。
+
+> **ビタミンC誘導体**に興味がある方は[ビタミンC美容液おすすめ記事](/posts/vitamin-c-serum-40s-recommend/)もどうぞ。
+
+> **ナイアシンアミド**はくすみ・毛穴・シワへの複合アプローチに。[ナイアシンアミド化粧水おすすめ記事](/posts/niacinamide-lotion-40s-recommend/)も参考に。
+
+> **目元専用**のアイクリームをお探しの方は[アイクリームおすすめ記事](/posts/eye-cream-40s-recommend/)もあわせてどうぞ。
 
 > スキンケア全体のステップと順番は[40代スキンケアルーティン完全ガイド](/posts/skincare-routine-40s-guide/)でまとめています。
