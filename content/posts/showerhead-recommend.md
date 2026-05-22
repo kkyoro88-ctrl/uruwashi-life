@@ -8,7 +8,7 @@ categories: ["スキンケア", "口コミ・レビュー"]
 tags: ["シャワーヘッド", "スキンケア", "40代", "頭皮ケア"]
 description: "シャワーヘッドを変えるだけで肌・頭皮が変わる理由を解説。30代・40代女性におすすめのミラブルzeroをUFB技術・使用感・コスパで正直にレビューします。"
 cover:
-  image: "https://www27.a8.net/svt/bgt?aid=260421332286&wid=001&eno=01&mid=s00000022954002009000&mc=1"
+  image: "/images/showerhead-recommend.png"
   alt: "ミラブルzero シャワーヘッド"
 ---
 
@@ -61,7 +61,7 @@ cover:
 {{< rawhtml >}}
 <div class="product-heading product-heading--answer">
   <div class="product-heading-info">
-    <div class="product-heading-rank">★おすすめ</div>
+    <div class="product-heading-num">★おすすめ</div>
     <h3>ミラブルzero</h3>
     <p>世界初トルネードファインバブル技術・ミスト＆ストレート2モード</p>
   </div>

@@ -17,12 +17,15 @@ draft: false
 この記事では、**40代の角質ケアの選び方とおすすめ3選**をまとめました。
 
 {{< rawhtml >}}
-<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);">
-  <div style="font-weight:700;font-size:1.05em;margin-bottom:16px;">suisai ビューティークリア パウダーウォッシュN 32個</div>
-  <div style="display:flex;gap:10px;flex-wrap:wrap;">
-    <a href="https://search.rakuten.co.jp/search/mall/suisai+ビューティークリア+パウダーウォッシュ/" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #bf1a1a;color:#bf1a1a;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">楽天市場</a>
-    <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B0831M4M3B" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
-    <a href="https://shopping.yahoo.co.jp/search?p=suisai+ビューティークリア+パウダーウォッシュ" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #6b2fbc;color:#6b2fbc;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Yahooショッピング</a>
+<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);display:flex;gap:20px;align-items:flex-start;flex-wrap:wrap;">
+  <img src="https://m.media-amazon.com/images/I/810xcmuK8QL._SL500_.jpg" alt="suisai ビューティークリア パウダーウォッシュN" style="width:110px;height:110px;object-fit:contain;flex-shrink:0;">
+  <div style="flex:1;min-width:180px;">
+    <div style="font-weight:700;font-size:1.05em;margin-bottom:16px;">suisai ビューティークリア パウダーウォッシュN 32個</div>
+    <div style="display:flex;gap:10px;flex-wrap:wrap;">
+      <a href="https://search.rakuten.co.jp/search/mall/suisai+ビューティークリア+パウダーウォッシュ/" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #bf1a1a;color:#bf1a1a;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">楽天市場</a>
+      <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B0831M4M3B" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
+      <a href="https://shopping.yahoo.co.jp/search?p=suisai+ビューティークリア+パウダーウォッシュ" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #6b2fbc;color:#6b2fbc;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Yahooショッピング</a>
+    </div>
   </div>
 </div>
 {{< /rawhtml >}}
@@ -102,12 +105,15 @@ draft: false
 {{< /rawhtml >}}
 
 {{< rawhtml >}}
-<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);">
-  <div style="font-weight:700;font-size:1.05em;margin-bottom:16px;">suisai ビューティークリア パウダーウォッシュN 32個</div>
-  <div style="display:flex;gap:10px;flex-wrap:wrap;">
-    <a href="https://search.rakuten.co.jp/search/mall/suisai+ビューティークリア+パウダーウォッシュ/" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #bf1a1a;color:#bf1a1a;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">楽天市場</a>
-    <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B0831M4M3B" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
-    <a href="https://shopping.yahoo.co.jp/search?p=suisai+ビューティークリア+パウダーウォッシュ" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #6b2fbc;color:#6b2fbc;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Yahooショッピング</a>
+<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);display:flex;gap:20px;align-items:flex-start;flex-wrap:wrap;">
+  <img src="https://m.media-amazon.com/images/I/810xcmuK8QL._SL500_.jpg" alt="suisai ビューティークリア パウダーウォッシュN" style="width:110px;height:110px;object-fit:contain;flex-shrink:0;">
+  <div style="flex:1;min-width:180px;">
+    <div style="font-weight:700;font-size:1.05em;margin-bottom:16px;">suisai ビューティークリア パウダーウォッシュN 32個</div>
+    <div style="display:flex;gap:10px;flex-wrap:wrap;">
+      <a href="https://search.rakuten.co.jp/search/mall/suisai+ビューティークリア+パウダーウォッシュ/" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #bf1a1a;color:#bf1a1a;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">楽天市場</a>
+      <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B0831M4M3B" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
+      <a href="https://shopping.yahoo.co.jp/search?p=suisai+ビューティークリア+パウダーウォッシュ" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #6b2fbc;color:#6b2fbc;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Yahooショッピング</a>
+    </div>
   </div>
 </div>
 {{< /rawhtml >}}
@@ -154,12 +160,15 @@ draft: false
 {{< /rawhtml >}}
 
 {{< rawhtml >}}
-<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);">
-  <div style="font-weight:700;font-size:1.05em;margin-bottom:16px;">ソフィーナ iP 角層トリートメント 基礎化粧液</div>
-  <div style="display:flex;gap:10px;flex-wrap:wrap;">
-    <a href="https://search.rakuten.co.jp/search/mall/ソフィーナiP+角層トリートメント/" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #bf1a1a;color:#bf1a1a;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">楽天市場</a>
-    <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B0CGXDVN78" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
-    <a href="https://shopping.yahoo.co.jp/search?p=ソフィーナiP+角層トリートメント" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #6b2fbc;color:#6b2fbc;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Yahooショッピング</a>
+<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);display:flex;gap:20px;align-items:flex-start;flex-wrap:wrap;">
+  <img src="https://m.media-amazon.com/images/I/71OEm5o1xIL._SL500_.jpg" alt="ソフィーナ iP 角層トリートメント 基礎化粧液" style="width:110px;height:110px;object-fit:contain;flex-shrink:0;">
+  <div style="flex:1;min-width:180px;">
+    <div style="font-weight:700;font-size:1.05em;margin-bottom:16px;">ソフィーナ iP 角層トリートメント 基礎化粧液</div>
+    <div style="display:flex;gap:10px;flex-wrap:wrap;">
+      <a href="https://search.rakuten.co.jp/search/mall/ソフィーナiP+角層トリートメント/" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #bf1a1a;color:#bf1a1a;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">楽天市場</a>
+      <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B0CGXDVN78" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
+      <a href="https://shopping.yahoo.co.jp/search?p=ソフィーナiP+角層トリートメント" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #6b2fbc;color:#6b2fbc;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Yahooショッピング</a>
+    </div>
   </div>
 </div>
 {{< /rawhtml >}}
@@ -206,12 +215,15 @@ draft: false
 {{< /rawhtml >}}
 
 {{< rawhtml >}}
-<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);">
-  <div style="font-weight:700;font-size:1.05em;margin-bottom:16px;">DETクリア ブライト&ピール ピーリングジェリー 無香料</div>
-  <div style="display:flex;gap:10px;flex-wrap:wrap;">
-    <a href="https://search.rakuten.co.jp/search/mall/DETクリア+ピーリングジェリー/" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #bf1a1a;color:#bf1a1a;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">楽天市場</a>
-    <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B0B5NW8HM6" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
-    <a href="https://shopping.yahoo.co.jp/search?p=DETクリア+ピーリングジェリー" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #6b2fbc;color:#6b2fbc;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Yahooショッピング</a>
+<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);display:flex;gap:20px;align-items:flex-start;flex-wrap:wrap;">
+  <img src="https://m.media-amazon.com/images/I/61dRDQ8iYcL._SL500_.jpg" alt="DETクリア ブライト&ピール ピーリングジェリー 無香料" style="width:110px;height:110px;object-fit:contain;flex-shrink:0;">
+  <div style="flex:1;min-width:180px;">
+    <div style="font-weight:700;font-size:1.05em;margin-bottom:16px;">DETクリア ブライト&ピール ピーリングジェリー 無香料</div>
+    <div style="display:flex;gap:10px;flex-wrap:wrap;">
+      <a href="https://search.rakuten.co.jp/search/mall/DETクリア+ピーリングジェリー/" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #bf1a1a;color:#bf1a1a;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">楽天市場</a>
+      <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B0B5NW8HM6" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
+      <a href="https://shopping.yahoo.co.jp/search?p=DETクリア+ピーリングジェリー" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #6b2fbc;color:#6b2fbc;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Yahooショッピング</a>
+    </div>
   </div>
 </div>
 {{< /rawhtml >}}
@@ -239,6 +251,22 @@ draft: false
 
 ---
 
+## よくある質問
+
+**Q. 40代でピーリングを始めるのは遅くないですか？**  
+A. 遅くありません。むしろターンオーバーが遅くなる40代こそ、定期的な角質ケアが有効とされています。ただし刺激の強いスクラブより、酵素洗顔・ピーリングジェルなど摩擦の少ない方法から始めるのが40代の肌に向いています。
+
+**Q. ピーリングはどのくらいの頻度で使えばいいですか？**  
+A. 週1〜2回が基本の目安です。毎日使うと肌のバリア機能を壊す可能性があります。「毎日使える」と記載された穏やかなタイプ（乳酸・低濃度AHA配合）は除きますが、それでも最初は週1から試すのが安心です。
+
+**Q. ピーリング後に肌が赤くなった場合はどうすればいいですか？**  
+A. 赤みが出た場合はその日は保湿をしっかり行い、次回は使用頻度を週1に下げるかより穏やかなタイプに変えることをおすすめします。敏感肌の方は成分の濃度が低いものからスタートするのが安全です。
+
+**Q. ピーリングをした日の夜はレチノールやビタミンC美容液を使っても大丈夫ですか？**  
+A. 同じ日の使用は肌への刺激が重なりやすいため、ピーリングをした日は刺激の少ない保湿ケアだけにするのが安心です。翌日以降に有効成分の美容液を再開するサイクルが肌負担を減らせます。
+
+---
+
 ## まとめ
 
 40代の肌はターンオーバーが遅くなり、古い角質が残りやすい状態が続きます。週1のピーリングケアを習慣に取り入れることで、くすみやざらつきへのアプローチと、日々のスキンケアの浸透感が変わることがあります。
@@ -250,12 +278,15 @@ draft: false
 まずは週1から試して、肌の状態を見ながら頻度を調整してみてください。
 
 {{< rawhtml >}}
-<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);">
-  <div style="font-weight:700;font-size:1.05em;margin-bottom:16px;">suisai ビューティークリア パウダーウォッシュN 32個</div>
-  <div style="display:flex;gap:10px;flex-wrap:wrap;">
-    <a href="https://search.rakuten.co.jp/search/mall/suisai+ビューティークリア+パウダーウォッシュ/" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #bf1a1a;color:#bf1a1a;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">楽天市場</a>
-    <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B0831M4M3B" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
-    <a href="https://shopping.yahoo.co.jp/search?p=suisai+ビューティークリア+パウダーウォッシュ" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #6b2fbc;color:#6b2fbc;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Yahooショッピング</a>
+<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);display:flex;gap:20px;align-items:flex-start;flex-wrap:wrap;">
+  <img src="https://m.media-amazon.com/images/I/810xcmuK8QL._SL500_.jpg" alt="suisai ビューティークリア パウダーウォッシュN" style="width:110px;height:110px;object-fit:contain;flex-shrink:0;">
+  <div style="flex:1;min-width:180px;">
+    <div style="font-weight:700;font-size:1.05em;margin-bottom:16px;">suisai ビューティークリア パウダーウォッシュN 32個</div>
+    <div style="display:flex;gap:10px;flex-wrap:wrap;">
+      <a href="https://search.rakuten.co.jp/search/mall/suisai+ビューティークリア+パウダーウォッシュ/" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #bf1a1a;color:#bf1a1a;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">楽天市場</a>
+      <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B0831M4M3B" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
+      <a href="https://shopping.yahoo.co.jp/search?p=suisai+ビューティークリア+パウダーウォッシュ" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #6b2fbc;color:#6b2fbc;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Yahooショッピング</a>
+    </div>
   </div>
 </div>
 {{< /rawhtml >}}

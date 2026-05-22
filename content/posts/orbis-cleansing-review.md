@@ -8,7 +8,7 @@ categories: ["スキンケア", "口コミ・レビュー"]
 tags: ["スキンケア", "乾燥肌", "40代", "口コミ"]
 description: "オルビス ザ クレンジングオイルの口コミ・評価。「落とすのに乾燥しない」次世代美容液クレンジングを40代・乾燥肌が正直レビュー。30〜40代女性のクレンジング選びの参考に。"
 cover:
-  image: "https://www22.a8.net/svt/bgt?aid=260423343839&wid=001&eno=01&mid=s00000008657030008000&mc=1"
+  image: "/images/orbis-cleansing-review.png"
   alt: "オルビス ザ クレンジングオイル"
 ---
 
@@ -21,7 +21,7 @@ cover:
 {{< rawhtml >}}
 <div class="product-heading product-heading--cleansing">
   <div class="product-heading-info">
-    <div class="product-heading-rank">★イチ推し</div>
+    <div class="product-heading-num">★イチ推し</div>
     <h3>オルビス ザ クレンジングオイル</h3>
     <p>美容液成分80%以上・落としながらうるおう次世代クレンジング</p>
   </div>

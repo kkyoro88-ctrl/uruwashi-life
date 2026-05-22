@@ -12,7 +12,7 @@ summary_points:
   - "育毛剤との違いと、組み合わせることで効果が出やすくなる理由"
   - "向いている人・向いていない人の判断基準"
 cover:
-  image: "https://www29.a8.net/svt/bgt?aid=260422333965&wid=001&eno=01&mid=s00000023953001036000&mc=1"
+  image: "/images/currentbody-led-hair-review.png"
   alt: "CurrentBody LED頭皮ケアデバイス"
 ---
 
@@ -28,7 +28,7 @@ cover:
 {{< rawhtml >}}
 <div class="product-heading product-heading--cbhair">
   <div class="product-heading-info">
-    <div class="product-heading-rank">★イチ推し</div>
+    <div class="product-heading-num">★イチ推し</div>
     <h3>CurrentBody LED頭皮ケアデバイス</h3>
     <p>赤色光650nm＋近赤外線830nm・週3〜4回15分の光ケアで頭皮環境を整える</p>
   </div>

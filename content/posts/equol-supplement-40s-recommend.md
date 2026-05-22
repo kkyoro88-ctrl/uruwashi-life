@@ -73,7 +73,7 @@ cover:
 {{< rawhtml >}}
 <div class="product-heading product-heading--equelle">
   <div class="product-heading-info">
-    <div class="product-heading-rank">1位</div>
+    <div class="product-heading-num">1位</div>
     <h3>エクエル パウチ（大塚製薬）</h3>
     <p>日本初エクオール含有食品・婦人科推薦・多数の臨床研究データあり</p>
   </div>
@@ -102,7 +102,7 @@ cover:
 {{< rawhtml >}}
 <div class="product-heading product-heading--dhcequol">
   <div class="product-heading-info">
-    <div class="product-heading-rank">2位</div>
+    <div class="product-heading-num">2位</div>
     <h3>DHC 大豆イソフラボン エクオール</h3>
     <p>1日1粒でエクオール10mg・DHC直販のコスパ重視モデル</p>
   </div>
@@ -131,7 +131,7 @@ cover:
 {{< rawhtml >}}
 <div class="product-heading product-heading--berta">
   <div class="product-heading-info">
-    <div class="product-heading-rank">3位</div>
+    <div class="product-heading-num">3位</div>
     <h3>ベルタエクリズム</h3>
     <p>エクオール＋複合成分設計・更年期の複合的な不調にアプローチ</p>
   </div>
@@ -273,6 +273,8 @@ A. 明確な基準はありませんが、40代から始める方が多いです
 
 まず1本試してみて、自分の体に合うものを探していくのが更年期ケアの第一歩だと思っています。
 
-{{< related url="/posts/wrinkle-cream-40s-recommend/" >}}
+{{< related url="/posts/inner-care-40s-guide/" >}}
 
-{{< related url="/posts/skincare-products-40s-guide/" >}}
+{{< related url="/posts/menopause-skincare/" >}}
+
+{{< related url="/posts/nmn-supplement-40s-recommend/" >}}

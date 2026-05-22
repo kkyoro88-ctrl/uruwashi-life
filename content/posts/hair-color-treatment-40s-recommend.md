@@ -151,7 +151,7 @@ cover:
 {{< rawhtml >}}
 <div class="product-heading product-heading--answer">
   <div class="product-heading-info">
-    <div class="product-heading-rank">1位</div>
+    <div class="product-heading-num">1位</div>
     <h3>利尻ヘアカラートリートメント</h3>
     <p>利尻昆布エキス配合・天然由来成分・自然な仕上がりで40代に人気No.1</p>
   </div>
@@ -207,7 +207,7 @@ cover:
 {{< rawhtml >}}
 <div class="product-heading product-heading--melt">
   <div class="product-heading-info">
-    <div class="product-heading-rank">2位</div>
+    <div class="product-heading-num">2位</div>
     <h3>ルプルプ ヘアカラートリートメント</h3>
     <p>フコイダン（沖縄もずく）配合・フォームタイプあり・手が汚れにくく続けやすい</p>
   </div>
@@ -262,7 +262,7 @@ cover:
 {{< rawhtml >}}
 <div class="product-heading product-heading--haru">
   <div class="product-heading-info">
-    <div class="product-heading-rank">3位</div>
+    <div class="product-heading-num">3位</div>
     <h3>サイオス カラートリートメント</h3>
     <p>シュワルツコフ（Schwarzkopf）・ドラッグストアで入手可・プチプラでコスパ◎</p>
   </div>
@@ -317,7 +317,7 @@ cover:
 {{< rawhtml >}}
 <div class="product-heading product-heading--haba">
   <div class="product-heading-info">
-    <div class="product-heading-rank">4位</div>
+    <div class="product-heading-num">4位</div>
     <h3>LPLP ヘアカラートリートメント</h3>
     <p>ノンジアミン・ノンシリコン・サロン品質の低刺激カラートリートメント</p>
   </div>
@@ -372,7 +372,7 @@ cover:
 {{< rawhtml >}}
 <div class="product-heading product-heading--premium">
   <div class="product-heading-info">
-    <div class="product-heading-rank">5位</div>
+    <div class="product-heading-num">5位</div>
     <h3>スカルプDボーテ メディカルカラートリートメント</h3>
     <p>育毛専門ブランド・頭皮ケア成分配合・白髪ケアと頭皮ケアを同時に</p>
   </div>

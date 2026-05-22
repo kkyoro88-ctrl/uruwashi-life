@@ -7,7 +7,7 @@ categories: ["インナーケア", "口コミ・レビュー"]
 tags: ["ヘアケア", "インナーケア", "口コミ"]
 description: "ヘアバース（HAIRBIRTH）の口コミ・評価。薄毛・育毛が気になる30・40代向けに育毛サプリを正直レビュー。成分・使い方・続け方のポイントを解説します。"
 cover:
-  image: "https://m.media-amazon.com/images/I/51Jwd7Uxq6L._SL500_.jpg"
+  image: "/images/hairbirth-review.png"
   alt: "ヘアバース HAIRBIRTH 育毛サプリ"
 ---
 
@@ -18,7 +18,7 @@ cover:
 {{< rawhtml >}}
 <div class="product-heading product-heading--hairbirth">
   <div class="product-heading-info">
-    <div class="product-heading-rank">★イチ推し</div>
+    <div class="product-heading-num">★イチ推し</div>
     <h3>ヘアバース（HAIRBIRTH）</h3>
     <p>育毛をサポートする成分を凝縮・内側からアプローチする育毛サプリ</p>
   </div>

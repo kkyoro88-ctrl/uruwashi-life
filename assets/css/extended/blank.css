@@ -2389,10 +2389,16 @@ details.single-toc[open] .single-toc-title::after { content: '▴'; }
 .product-heading-img {
   width: 110px;
   height: 110px;
-  object-fit: contain;
   border-radius: 8px;
   flex-shrink: 0;
   background: #fff;
+  overflow: hidden;
+}
+.product-heading-img img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  display: block;
 }
 @media (max-width: 480px) {
   .product-heading-name { font-size: 0.92rem; }

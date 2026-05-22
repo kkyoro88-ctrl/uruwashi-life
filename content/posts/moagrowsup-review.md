@@ -9,7 +9,7 @@ categories: ["スキンケア", "口コミ・レビュー"]
 tags: ["ヘアケア", "口コミ"]
 description: "モアグロースアップを実際に使った口コミ・評価。業界最多8種の有効成分配合の薬用育毛剤を40代・乾燥頭皮が正直レビュー。30代・40代女性の薄毛・抜け毛対策を検討中の方へ。"
 cover:
-  image: "https://www24.a8.net/svt/bgt?aid=260422339582&wid=001&eno=01&mid=s00000020317007005000&mc=1"
+  image: "/images/moagrowsup-review.png"
   alt: "モアグロースアップ 薬用育毛剤"
 ---
 
@@ -22,7 +22,7 @@ cover:
 {{< rawhtml >}}
 <div class="product-heading product-heading--moagrow">
   <div class="product-heading-info">
-    <div class="product-heading-rank">★イチ推し</div>
+    <div class="product-heading-num">★イチ推し</div>
     <h3>モアグロースアップ</h3>
     <p>業界最多8種の有効成分配合・医薬部外品の薬用育毛剤</p>
   </div>

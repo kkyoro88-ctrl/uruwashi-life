@@ -53,7 +53,7 @@ cover:
 {{< rawhtml >}}
 <div class="product-heading product-heading--answer">
   <div class="product-heading-info">
-    <div class="product-heading-rank">1位</div>
+    <div class="product-heading-num">1位</div>
     <h3>ZIIP HALO</h3>
     <p>マイクロカレント×ナノカレント・アプリ連携の本格派</p>
   </div>
@@ -112,7 +112,7 @@ cover:
 {{< rawhtml >}}
 <div class="product-heading product-heading--melt">
   <div class="product-heading-info">
-    <div class="product-heading-rank">2位</div>
+    <div class="product-heading-num">2位</div>
     <h3>DISM 美顔器</h3>
     <p>手のひらサイズ・リフトケア×エイジングケアの続く設計</p>
   </div>

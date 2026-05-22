@@ -49,7 +49,7 @@ cover:
 {{< rawhtml >}}
 <div class="product-heading product-heading--kissme">
   <div class="product-heading-info">
-    <div class="product-heading-rank">1位</div>
+    <div class="product-heading-num">1位</div>
     <h3>ヒロインメイク ロング＆カール アドバンストフィルム</h3>
     <p>花粉症でこすっても落ちない・お湯落ちフィルムタイプ</p>
   </div>
@@ -96,7 +96,7 @@ cover:
 {{< rawhtml >}}
 <div class="product-heading product-heading--rimmel">
   <div class="product-heading-info">
-    <div class="product-heading-rank">2位</div>
+    <div class="product-heading-num">2位</div>
     <h3>リンメル スキャンダルアイズ ウォータープルーフ</h3>
     <p>プール・海でも落ちない・ボリューム感重視のウォータープルーフ</p>
   </div>
@@ -135,7 +135,7 @@ cover:
 {{< rawhtml >}}
 <div class="product-heading product-heading--chanel">
   <div class="product-heading-info">
-    <div class="product-heading-rank">3位</div>
+    <div class="product-heading-num">3位</div>
     <h3>シャネル ル ボリューム ドゥ シャネル</h3>
     <p>デパコスの定番・繊細なまつ毛にフィットする上品なボリューム</p>
   </div>
@@ -174,7 +174,7 @@ cover:
 {{< rawhtml >}}
 <div class="product-heading product-heading--visse">
   <div class="product-heading-info">
-    <div class="product-heading-rank">4位</div>
+    <div class="product-heading-num">4位</div>
     <h3>ヴィセ リシェ ボリュームマスカラ EX</h3>
     <p>プチプラで高品質・夕方まで崩れない自然なボリューム</p>
   </div>
@@ -213,7 +213,7 @@ cover:
 {{< rawhtml >}}
 <div class="product-heading product-heading--suqqu">
   <div class="product-heading-info">
-    <div class="product-heading-rank">5位</div>
+    <div class="product-heading-num">5位</div>
     <h3>SUQQU マスカラ</h3>
     <p>保湿成分入り・目が敏感な方にも使いやすい上品な仕上がり</p>
   </div>

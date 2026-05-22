@@ -91,7 +91,7 @@ cover:
 {{< rawhtml >}}
 <div class="product-heading product-heading--answer">
   <div class="product-heading-info">
-    <div class="product-heading-rank">1位</div>
+    <div class="product-heading-num">1位</div>
     <h3>アスタリフト ドリンク<br>ピュアコラーゲン10000</h3>
     <p>富士フイルム研究・低分子コラーゲン＋アスタキサンチン</p>
   </div>
@@ -141,7 +141,7 @@ cover:
 {{< rawhtml >}}
 <div class="product-heading product-heading--melt">
   <div class="product-heading-info">
-    <div class="product-heading-rank">2位</div>
+    <div class="product-heading-num">2位</div>
     <h3>ラメリアプレミアム</h3>
     <p>W特許取得・リピート率97.4%の複合美容ドリンク</p>
   </div>
@@ -191,7 +191,7 @@ cover:
 {{< rawhtml >}}
 <div class="product-heading product-heading--haru">
   <div class="product-heading-info">
-    <div class="product-heading-rank">3位</div>
+    <div class="product-heading-num">3位</div>
     <h3>meiji アミノコラーゲン</h3>
     <p>1日5,500mg・低分子コラーゲンペプチドの定番パウダー</p>
   </div>

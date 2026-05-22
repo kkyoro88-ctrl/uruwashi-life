@@ -7,7 +7,7 @@ categories: ["暮らし・美容グッズ", "口コミ・レビュー"]
 tags: ["ウォーターサーバー", "口コミ"]
 description: "うるのんの口コミ・評価。TOKAIの全国17万件の実績を誇る宅配水サービスを正直レビュー。富士山のバナジウム天然水の特徴と、ウォーターサーバー選びのポイントを解説します。"
 cover:
-  image: "https://www28.a8.net/svt/bgt?aid=260423341829&wid=001&eno=01&mid=s00000007057005043000&mc=1"
+  image: "/images/urunon-review.png"
   alt: "うるのん 宅配天然水"
 ---
 
@@ -20,7 +20,7 @@ cover:
 {{< rawhtml >}}
 <div class="product-heading product-heading--urunon">
   <div class="product-heading-info">
-    <div class="product-heading-rank">★イチ推し</div>
+    <div class="product-heading-num">★イチ推し</div>
     <h3>うるのん 富士山バナジウム天然水</h3>
     <p>TOKAIグループ運営・全国17万件の実績を持つ宅配ウォーターサーバー</p>
   </div>

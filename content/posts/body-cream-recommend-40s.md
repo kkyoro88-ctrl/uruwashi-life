@@ -60,7 +60,7 @@ cover:
 {{< rawhtml >}}
 <div class="product-heading product-heading--answer">
   <div class="product-heading-info">
-    <div class="product-heading-rank">1位</div>
+    <div class="product-heading-num">1位</div>
     <h3>キュレル ボディローション</h3>
     <p>セラミドケア・敏感肌向け・低刺激処方でバリア機能を補う</p>
   </div>
@@ -114,7 +114,7 @@ cover:
 {{< rawhtml >}}
 <div class="product-heading product-heading--melt">
   <div class="product-heading-info">
-    <div class="product-heading-rank">2位</div>
+    <div class="product-heading-num">2位</div>
     <h3>ニベア 濃密ソフトクリーム</h3>
     <p>コスパ最強・高保湿・全身に使えるオールラウンダー</p>
   </div>
@@ -168,7 +168,7 @@ cover:
 {{< rawhtml >}}
 <div class="product-heading product-heading--leather">
   <div class="product-heading-info">
-    <div class="product-heading-rank">3位</div>
+    <div class="product-heading-num">3位</div>
     <h3>ルシェリ ボディミルク</h3>
     <p>エイジングケア特化・ハリ・つや・うるおいを同時に</p>
   </div>
@@ -212,7 +212,7 @@ cover:
 {{< rawhtml >}}
 <div class="product-heading product-heading--chara">
   <div class="product-heading-info">
-    <div class="product-heading-rank">4位</div>
+    <div class="product-heading-num">4位</div>
     <h3>ヴァセリン インテンシブケア</h3>
     <p>皮膚科医推薦・超高保湿・乾燥がひどい部位への集中ケアに</p>
   </div>
@@ -266,7 +266,7 @@ cover:
 {{< rawhtml >}}
 <div class="product-heading product-heading--roll">
   <div class="product-heading-info">
-    <div class="product-heading-rank">5位</div>
+    <div class="product-heading-num">5位</div>
     <h3>ビオレ うるおいバリア ボディミルク</h3>
     <p>バリア機能ケア・さらっとした使用感・毎日使いやすい軽テクスチャー</p>
   </div>
@@ -417,6 +417,25 @@ cover:
   </div>
 </div>
 {{< /rawhtml >}}
+## よくある質問
+
+**Q. ボディクリームとボディローションはどう違いますか？**  
+A. 油分の多さが異なります。クリームは油分が多くしっかり保湿、ローションは水分が多くさっぱりした使い心地です。40代の乾燥が気になる時期はクリームタイプの方が保湿効果が持続しやすいとされています。
+
+**Q. お風呂上がり以外にも使えますか？**  
+A. 使えます。ただし効果が出やすいのは入浴後3分以内。角質が柔らかく水分を含んでいるタイミングが保湿成分の浸透に最も適しています。日中の乾燥には重ね塗りも有効です。
+
+**Q. 顔用のクリームをボディに使っても大丈夫ですか？**  
+A. 成分的に問題はありませんが、コスト面では非効率です。ボディ専用品は顔用より大容量・低価格に設計されているため、毎日たっぷり使うボディケアには専用品の方が継続しやすいです。
+
+**Q. 40代のボディのくすみには何を選べばいいですか？**  
+A. ビタミンC誘導体・ナイアシンアミド配合のボディクリームが効果的とされています。記事内ではエイジングケア向けとして「ルシェリ ボディミルク」を紹介しています。ターンオーバーを整えるためにピーリング（週1）と組み合わせると変化が出やすくなります。
+
+**Q. 敏感肌でもボディクリームは使えますか？**  
+A. 敏感肌の方は「無香料・無着色・低刺激処方」が明記されているものを選ぶのが安心です。記事内ではキュレル ボディローションが敏感肌・乾燥肌向けとして最もおすすめです。
+
+---
+
 ## まとめ
 
 40代のボディケアは、顔と同じように「成分」と「続けやすさ」で選ぶのが正解です。

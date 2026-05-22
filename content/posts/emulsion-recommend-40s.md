@@ -22,16 +22,13 @@ cover:
 
 迷ったら、まず**エリクシール シュペリエル リフトモイスト エマルジョン**から試してみてください。ドラッグストアで手に入るハリ・うるおいケアの定番で、40代の乾燥肌に支持されています。
 
-{{< rawhtml >}}
-<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);">
-  <div style="font-weight:700;font-size:1.05em;margin-bottom:16px;">エリクシール リフトモイスト エマルジョン 130mL</div>
-  <div style="display:flex;gap:10px;flex-wrap:wrap;">
-    <a href="https://search.rakuten.co.jp/search/mall/%E3%82%A8%E3%83%AA%E3%82%AF%E3%82%B7%E3%83%BC%E3%83%AB+%E3%83%AA%E3%83%95%E3%83%88%E3%83%A2%E3%82%A4%E3%82%B9%E3%83%88+%E3%82%A8%E3%83%9E%E3%83%AB%E3%82%B8%E3%83%A7%E3%83%B3/" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #bf1a1a;color:#bf1a1a;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">楽天市場</a>
-    <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B0FHJZ7LDZ" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
-    <a href="https://shopping.yahoo.co.jp/search?p=%E3%82%A8%E3%83%AA%E3%82%AF%E3%82%B7%E3%83%BC%E3%83%AB+%E3%83%AA%E3%83%95%E3%83%88%E3%83%A2%E3%82%A4%E3%82%B9%E3%83%88+%E3%82%A8%E3%83%9E%E3%83%AB%E3%82%B8%E3%83%A7%E3%83%B3" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #6b2fbc;color:#6b2fbc;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Yahooショッピング</a>
-  </div>
-</div>
-{{< /rawhtml >}}
+{{< product
+  title="エリクシール シュペリエル リフトモイスト エマルジョン 130mL"
+  img="https://m.media-amazon.com/images/P/B0FHJZ7LDZ.01._SL500_.jpg"
+  rakuten="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%A8%E3%83%AA%E3%82%AF%E3%82%B7%E3%83%BC%E3%83%AB+%E3%83%AA%E3%83%95%E3%83%88%E3%83%A2%E3%82%A4%E3%82%B9%E3%83%88+%E3%82%A8%E3%83%9E%E3%83%AB%E3%82%B8%E3%83%A7%E3%83%B3%2F"
+  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B0FHJZ7LDZ"
+  yahoo="https://shopping.yahoo.co.jp/search?p=B0FHJZ7LDZ"
+>}}
 
 ---
 
@@ -91,7 +88,7 @@ cover:
 {{< rawhtml >}}
 <div class="product-heading product-heading--answer">
   <div class="product-heading-info">
-    <div class="product-heading-rank">1位</div>
+    <div class="product-heading-num">1位</div>
     <h3>エリクシール シュペリエル<br>リフトモイスト エマルジョン</h3>
     <p>ドラッグストアで買えるハリ・保湿の定番</p>
   </div>
@@ -115,24 +112,42 @@ cover:
 乾燥肌の方はII（しっとり）かSP（超しっとり）がおすすめ。夜のみ使用でも効果が感じやすく、入門として選ばれやすい一本です。
 
 {{< rawhtml >}}
-<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);">
-  <div style="font-weight:700;font-size:1.05em;margin-bottom:16px;">エリクシール リフトモイスト エマルジョン 130mL</div>
-  <div style="display:flex;gap:10px;flex-wrap:wrap;">
-    <a href="https://search.rakuten.co.jp/search/mall/%E3%82%A8%E3%83%AA%E3%82%AF%E3%82%B7%E3%83%BC%E3%83%AB+%E3%83%AA%E3%83%95%E3%83%88%E3%83%A2%E3%82%A4%E3%82%B9%E3%83%88+%E3%82%A8%E3%83%9E%E3%83%AB%E3%82%B8%E3%83%A7%E3%83%B3/" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #bf1a1a;color:#bf1a1a;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">楽天市場</a>
-    <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B0FHJZ7LDZ" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
-    <a href="https://shopping.yahoo.co.jp/search?p=%E3%82%A8%E3%83%AA%E3%82%AF%E3%82%B7%E3%83%BC%E3%83%AB+%E3%83%AA%E3%83%95%E3%83%88%E3%83%A2%E3%82%A4%E3%82%B9%E3%83%88+%E3%82%A8%E3%83%9E%E3%83%AB%E3%82%B8%E3%83%A7%E3%83%B3" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #6b2fbc;color:#6b2fbc;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Yahooショッピング</a>
-  </div>
+<div class="caution-box">
+  <p class="caution-box-title">⚠️ こんな点は注意</p>
+  <ul>
+    <li>フローラル系の香りがあるため、香り敏感肌の方には合わない場合がある</li>
+    <li>テクスチャーが3種類あるため、まず店頭でテスターを試してから選ぶのがおすすめ</li>
+  </ul>
 </div>
 {{< /rawhtml >}}
+
+{{< rawhtml >}}
+<div class="fit-box">
+  <p class="fit-box-title">✅ こんな方に向いています</p>
+  <ul>
+    <li>ドラッグストアで気軽に購入したい方</li>
+    <li>ハリとうるおいを同時にケアしたい40代</li>
+    <li>乳液をはじめて取り入れるコスパ重視の方</li>
+  </ul>
+</div>
+{{< /rawhtml >}}
+
+{{< product
+  title="エリクシール シュペリエル リフトモイスト エマルジョン 130mL"
+  img="https://m.media-amazon.com/images/P/B0FHJZ7LDZ.01._SL500_.jpg"
+  rakuten="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%A8%E3%83%AA%E3%82%AF%E3%82%B7%E3%83%BC%E3%83%AB+%E3%83%AA%E3%83%95%E3%83%88%E3%83%A2%E3%82%A4%E3%82%B9%E3%83%88+%E3%82%A8%E3%83%9E%E3%83%AB%E3%82%B8%E3%83%A7%E3%83%B3%2F"
+  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B0FHJZ7LDZ"
+  yahoo="https://shopping.yahoo.co.jp/search?p=B0FHJZ7LDZ"
+>}}
 
 ---
 
 ### 2位：ORBIS オルビスユー モイスチャー｜ノンオイルなのに乾燥しない高機能乳液
 
 {{< rawhtml >}}
-<div class="product-heading product-heading--answer">
+<div class="product-heading product-heading--haru">
   <div class="product-heading-info">
-    <div class="product-heading-rank">2位</div>
+    <div class="product-heading-num">2位</div>
     <h3>ORBIS オルビスユー<br>モイスチャー</h3>
     <p>ノンオイルなのに乾燥しない高機能乳液</p>
   </div>
@@ -154,24 +169,42 @@ ORBISの看板スキンケアライン「オルビスユー」の乳液。ノン
 - **価格帯：** 約3,000円前後（公式サイト購入が最安）
 
 {{< rawhtml >}}
-<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);">
-  <div style="font-weight:700;font-size:1.05em;margin-bottom:16px;">ORBIS オルビスユー モイスチャー 50g</div>
-  <div style="display:flex;gap:10px;flex-wrap:wrap;">
-    <a href="https://search.rakuten.co.jp/search/mall/ORBIS+%E3%82%AA%E3%83%AB%E3%83%93%E3%82%B9%E3%83%A6%E3%83%BC+%E3%83%A2%E3%82%A4%E3%82%B9%E3%83%81%E3%83%A3%E3%83%BC/" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #bf1a1a;color:#bf1a1a;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">楽天市場</a>
-    <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B0B8MGS3L4" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
-    <a href="https://shopping.yahoo.co.jp/search?p=ORBIS+%E3%82%AA%E3%83%AB%E3%83%93%E3%82%B9%E3%83%A6%E3%83%BC+%E3%83%A2%E3%82%A4%E3%82%B9%E3%83%81%E3%83%A3%E3%83%BC" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #6b2fbc;color:#6b2fbc;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Yahooショッピング</a>
-  </div>
+<div class="caution-box">
+  <p class="caution-box-title">⚠️ こんな点は注意</p>
+  <ul>
+    <li>ノンオイルのため、極度の乾燥肌には保湿が物足りなく感じる場合がある</li>
+    <li>ドラッグストアでは購入できず、公式サイトやネット注文が必要</li>
+  </ul>
 </div>
 {{< /rawhtml >}}
+
+{{< rawhtml >}}
+<div class="fit-box">
+  <p class="fit-box-title">✅ こんな方に向いています</p>
+  <ul>
+    <li>朝もベタつかず使いたい方</li>
+    <li>敏感肌・アレルギー体質で低刺激にこだわりたい方</li>
+    <li>さっぱりした使い心地で保湿もしたい混合肌の40代</li>
+  </ul>
+</div>
+{{< /rawhtml >}}
+
+{{< product
+  title="ORBIS オルビスユー モイスチャー 50g"
+  img="https://m.media-amazon.com/images/P/B0B8MGS3L4.01._SL500_.jpg"
+  rakuten="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FORBIS+%E3%82%AA%E3%83%AB%E3%83%93%E3%82%B9%E3%83%A6%E3%83%BC+%E3%83%A2%E3%82%A4%E3%82%B9%E3%83%81%E3%83%A3%E3%83%BC%2F"
+  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B0B8MGS3L4"
+  yahoo="https://shopping.yahoo.co.jp/search?p=B0B8MGS3L4"
+>}}
 
 ---
 
 ### 3位：アスタリフト ホワイト モイスト エマルジョン｜シミ・くすみが気になる40代に
 
 {{< rawhtml >}}
-<div class="product-heading product-heading--answer">
+<div class="product-heading product-heading--melt">
   <div class="product-heading-info">
-    <div class="product-heading-rank">3位</div>
+    <div class="product-heading-num">3位</div>
     <h3>アスタリフト ホワイト<br>モイスト エマルジョン</h3>
     <p>シミ・くすみが気になる40代に</p>
   </div>
@@ -193,24 +226,42 @@ ORBISの看板スキンケアライン「オルビスユー」の乳液。ノン
 - **価格帯：** 約4,000〜5,000円
 
 {{< rawhtml >}}
-<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);">
-  <div style="font-weight:700;font-size:1.05em;margin-bottom:16px;">アスタリフト ホワイトエマルジョン 100mL</div>
-  <div style="display:flex;gap:10px;flex-wrap:wrap;">
-    <a href="https://search.rakuten.co.jp/search/mall/%E3%82%A2%E3%82%B9%E3%82%BF%E3%83%AA%E3%83%95%E3%83%88+%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88+%E3%82%A8%E3%83%9E%E3%83%AB%E3%82%B8%E3%83%A7%E3%83%B3/" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #bf1a1a;color:#bf1a1a;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">楽天市場</a>
-    <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B0851C9HH3" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
-    <a href="https://shopping.yahoo.co.jp/search?p=%E3%82%A2%E3%82%B9%E3%82%BF%E3%83%AA%E3%83%95%E3%83%88+%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88+%E3%82%A8%E3%83%9E%E3%83%AB%E3%82%B8%E3%83%A7%E3%83%B3" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #6b2fbc;color:#6b2fbc;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Yahooショッピング</a>
-  </div>
+<div class="caution-box">
+  <p class="caution-box-title">⚠️ こんな点は注意</p>
+  <ul>
+    <li>価格帯がやや高めのため、継続コストがかかる</li>
+    <li>しっとりとした重めのテクスチャーのため、脂性肌や夏場には向かない場合がある</li>
+  </ul>
 </div>
 {{< /rawhtml >}}
+
+{{< rawhtml >}}
+<div class="fit-box">
+  <p class="fit-box-title">✅ こんな方に向いています</p>
+  <ul>
+    <li>シミ・くすみ対策を乳液で同時にしたい方</li>
+    <li>エイジングケアと美白を一本でまかないたい方</li>
+    <li>乾燥肌で濃密な保湿を求める40代</li>
+  </ul>
+</div>
+{{< /rawhtml >}}
+
+{{< product
+  title="アスタリフト ホワイトエマルジョン 100mL"
+  img="https://m.media-amazon.com/images/P/B0851C9HH3.01._SL500_.jpg"
+  rakuten="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%A2%E3%82%B9%E3%82%BF%E3%83%AA%E3%83%95%E3%83%88+%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88+%E3%82%A8%E3%83%9E%E3%83%AB%E3%82%B8%E3%83%A7%E3%83%B3%2F"
+  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B0851C9HH3"
+  yahoo="https://shopping.yahoo.co.jp/search?p=B0851C9HH3"
+>}}
 
 ---
 
 ### 4位：肌ラボ 極潤プレミアム ヒアルロン乳液｜プチプラで高保湿・ドラッグストアで買える
 
 {{< rawhtml >}}
-<div class="product-heading product-heading--answer">
+<div class="product-heading product-heading--ipsa">
   <div class="product-heading-info">
-    <div class="product-heading-rank">4位</div>
+    <div class="product-heading-num">4位</div>
     <h3>肌ラボ 極潤プレミアム<br>ヒアルロン乳液</h3>
     <p>プチプラで高保湿・ドラッグストアで買える</p>
   </div>
@@ -232,24 +283,42 @@ ORBISの看板スキンケアライン「オルビスユー」の乳液。ノン
 - **価格帯：** 約900〜1,100円（ドラッグストア）
 
 {{< rawhtml >}}
-<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);">
-  <div style="font-weight:700;font-size:1.05em;margin-bottom:16px;">肌ラボ 極潤プレミアム ヒアルロン乳液 140mL</div>
-  <div style="display:flex;gap:10px;flex-wrap:wrap;">
-    <a href="https://search.rakuten.co.jp/search/mall/%E8%82%8C%E3%83%A9%E3%83%9C+%E6%A5%B5%E6%BD%A4%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0+%E3%83%92%E3%82%A2%E3%83%AB%E3%83%AD%E3%83%B3%E4%B9%B3%E6%B6%B2/" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #bf1a1a;color:#bf1a1a;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">楽天市場</a>
-    <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B08DRK9VH8" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
-    <a href="https://shopping.yahoo.co.jp/search?p=%E8%82%8C%E3%83%A9%E3%83%9C+%E6%A5%B5%E6%BD%A4%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0+%E3%83%92%E3%82%A2%E3%83%AB%E3%83%AD%E3%83%B3%E4%B9%B3%E6%B6%B2" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #6b2fbc;color:#6b2fbc;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Yahooショッピング</a>
-  </div>
+<div class="caution-box">
+  <p class="caution-box-title">⚠️ こんな点は注意</p>
+  <ul>
+    <li>しっとり系のためさっぱり感が好みの方にはベタつきを感じる場合がある</li>
+    <li>防腐剤・添加物が含まれるため、成分に敏感な方は要確認</li>
+  </ul>
 </div>
 {{< /rawhtml >}}
+
+{{< rawhtml >}}
+<div class="fit-box">
+  <p class="fit-box-title">✅ こんな方に向いています</p>
+  <ul>
+    <li>コスパ重視で保湿力の高い乳液を探している方</li>
+    <li>はじめて乳液を取り入れる40代の入門として</li>
+    <li>ドラッグストアで手軽に購入・補充したい方</li>
+  </ul>
+</div>
+{{< /rawhtml >}}
+
+{{< product
+  title="肌ラボ 極潤プレミアム ヒアルロン乳液 140mL"
+  img="https://m.media-amazon.com/images/P/B08DRK9VH8.01._SL500_.jpg"
+  rakuten="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E8%82%8C%E3%83%A9%E3%83%9C+%E6%A5%B5%E6%BD%A4%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0+%E3%83%92%E3%82%A2%E3%83%AB%E3%83%AD%E3%83%B3%E4%B9%B3%E6%B6%B2%2F"
+  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B08DRK9VH8"
+  yahoo="https://shopping.yahoo.co.jp/search?p=B08DRK9VH8"
+>}}
 
 ---
 
 ### 5位：無印良品 エイジングケア乳液｜敏感肌でも使いやすいシンプル処方
 
 {{< rawhtml >}}
-<div class="product-heading product-heading--answer">
+<div class="product-heading product-heading--muji">
   <div class="product-heading-info">
-    <div class="product-heading-rank">5位</div>
+    <div class="product-heading-num">5位</div>
     <h3>無印良品<br>エイジングケア乳液</h3>
     <p>敏感肌でも使いやすいシンプル処方</p>
   </div>
@@ -271,15 +340,33 @@ ORBISの看板スキンケアライン「オルビスユー」の乳液。ノン
 - **価格帯：** 約1,500〜1,900円（無印良品）
 
 {{< rawhtml >}}
-<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);">
-  <div style="font-weight:700;font-size:1.05em;margin-bottom:16px;">無印良品 エイジングケア乳液 200mL</div>
-  <div style="display:flex;gap:10px;flex-wrap:wrap;">
-    <a href="https://search.rakuten.co.jp/search/mall/%E7%84%A1%E5%8D%B0%E8%89%AF%E5%93%81+%E3%82%A8%E3%82%A4%E3%82%B8%E3%83%B3%E3%82%B0%E3%82%B1%E3%82%A2%E4%B9%B3%E6%B6%B2/" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #bf1a1a;color:#bf1a1a;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">楽天市場</a>
-    <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B0CT37VMC3" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
-    <a href="https://shopping.yahoo.co.jp/search?p=%E7%84%A1%E5%8D%B0%E8%89%AF%E5%93%81+%E3%82%A8%E3%82%A4%E3%82%B8%E3%83%B3%E3%82%B0%E3%82%B1%E3%82%A2%E4%B9%B3%E6%B6%B2" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #6b2fbc;color:#6b2fbc;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Yahooショッピング</a>
-  </div>
+<div class="caution-box">
+  <p class="caution-box-title">⚠️ こんな点は注意</p>
+  <ul>
+    <li>保湿力はやや控えめで、極度の乾燥肌には物足りない場合がある</li>
+    <li>無印良品の店舗またはオンラインでしか購入できない</li>
+  </ul>
 </div>
 {{< /rawhtml >}}
+
+{{< rawhtml >}}
+<div class="fit-box">
+  <p class="fit-box-title">✅ こんな方に向いています</p>
+  <ul>
+    <li>敏感肌でも安心して使える低刺激乳液を探している方</li>
+    <li>余分な添加物を避けてシンプルなスキンケアにしたい方</li>
+    <li>年齢に応じた保湿ケアを無理なく始めたい40代</li>
+  </ul>
+</div>
+{{< /rawhtml >}}
+
+{{< product
+  title="無印良品 エイジングケア乳液 200mL"
+  img="https://m.media-amazon.com/images/P/B0CT37VMC3.01._SL500_.jpg"
+  rakuten="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E7%84%A1%E5%8D%B0%E8%89%AF%E5%93%81+%E3%82%A8%E3%82%A4%E3%82%B8%E3%83%B3%E3%82%B0%E3%82%B1%E3%82%A2%E4%B9%B3%E6%B6%B2%2F"
+  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B0CT37VMC3"
+  yahoo="https://shopping.yahoo.co.jp/search?p=B0CT37VMC3"
+>}}
 
 ---
 
@@ -347,16 +434,13 @@ ORBISの看板スキンケアライン「オルビスユー」の乳液。ノン
 
 乳液は毎日使うものなので、使い心地を重視して選ぶことが続けられるコツです。まずは1本試してみてください。
 
-{{< rawhtml >}}
-<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);">
-  <div style="font-weight:700;font-size:1.05em;margin-bottom:16px;">エリクシール リフトモイスト エマルジョン 130mL</div>
-  <div style="display:flex;gap:10px;flex-wrap:wrap;">
-    <a href="https://search.rakuten.co.jp/search/mall/%E3%82%A8%E3%83%AA%E3%82%AF%E3%82%B7%E3%83%BC%E3%83%AB+%E3%83%AA%E3%83%95%E3%83%88%E3%83%A2%E3%82%A4%E3%82%B9%E3%83%88+%E3%82%A8%E3%83%9E%E3%83%AB%E3%82%B8%E3%83%A7%E3%83%B3/" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #bf1a1a;color:#bf1a1a;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">楽天市場</a>
-    <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B0FHJZ7LDZ" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
-    <a href="https://shopping.yahoo.co.jp/search?p=%E3%82%A8%E3%83%AA%E3%82%AF%E3%82%B7%E3%83%BC%E3%83%AB+%E3%83%AA%E3%83%95%E3%83%88%E3%83%A2%E3%82%A4%E3%82%B9%E3%83%88+%E3%82%A8%E3%83%9E%E3%83%AB%E3%82%B8%E3%83%A7%E3%83%B3" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #6b2fbc;color:#6b2fbc;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Yahooショッピング</a>
-  </div>
-</div>
-{{< /rawhtml >}}
+{{< product
+  title="エリクシール シュペリエル リフトモイスト エマルジョン 130mL"
+  img="https://m.media-amazon.com/images/P/B0FHJZ7LDZ.01._SL500_.jpg"
+  rakuten="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%A8%E3%83%AA%E3%82%AF%E3%82%B7%E3%83%BC%E3%83%AB+%E3%83%AA%E3%83%95%E3%83%88%E3%83%A2%E3%82%A4%E3%82%B9%E3%83%88+%E3%82%A8%E3%83%9E%E3%83%AB%E3%82%B8%E3%83%A7%E3%83%B3%2F"
+  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B0FHJZ7LDZ"
+  yahoo="https://shopping.yahoo.co.jp/search?p=B0FHJZ7LDZ"
+>}}
 
 ---
 

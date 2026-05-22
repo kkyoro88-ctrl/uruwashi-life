@@ -76,7 +76,7 @@ cover:
 {{< rawhtml >}}
 <div class="product-heading product-heading--answer">
   <div class="product-heading-info">
-    <div class="product-heading-rank">1位</div>
+    <div class="product-heading-num">1位</div>
     <h3>ファンケル エンリッチプラス<br>乳液 II しっとり</h3>
     <p>無添加×医薬部外品のシワ改善乳液</p>
   </div>
@@ -127,7 +127,7 @@ cover:
 {{< rawhtml >}}
 <div class="product-heading product-heading--melt">
   <div class="product-heading-info">
-    <div class="product-heading-rank">2位</div>
+    <div class="product-heading-num">2位</div>
     <h3>キュレル 潤浸保湿<br>フェイスクリーム</h3>
     <p>セラミドケアの医薬部外品</p>
   </div>
@@ -180,7 +180,7 @@ cover:
 {{< rawhtml >}}
 <div class="product-heading product-heading--haru">
   <div class="product-heading-info">
-    <div class="product-heading-rank">3位</div>
+    <div class="product-heading-num">3位</div>
     <h3>ポーラ リンクルショット<br>メディカル セラム N</h3>
     <p>日本初承認シワ改善成分・ニールワン配合</p>
   </div>

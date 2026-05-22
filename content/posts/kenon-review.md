@@ -13,7 +13,7 @@ summary_points:
   - "3ヶ月使って感じたメリット・デメリット"
   - "購入前に知っておくべきカートリッジ確認の注意点"
 cover:
-  image: "https://m.media-amazon.com/images/I/61gqdu6m8kL._SL500_.jpg"
+  image: "/images/kenon-review.png"
   alt: "ケノン 美顔器 スキンケアカートリッジ 口コミレビュー"
 ---
 
@@ -26,7 +26,7 @@ cover:
 {{< rawhtml >}}
 <div class="product-heading product-heading--kenon">
   <div class="product-heading-info">
-    <div class="product-heading-rank">★イチ推し</div>
+    <div class="product-heading-num">★イチ推し</div>
     <h3>ケノン（家庭用光美容器）</h3>
     <p>脱毛＋美顔1台完結／楽天口コミ196,000件超／10段階レベル調整・冷却機能つき</p>
   </div>
@@ -243,3 +243,5 @@ cover:
 > 他の美顔器とも比較したい方は[美顔器・家庭用光美容器の選び方ガイド](/posts/beauty-device-40s-guide/)をあわせてどうぞ。
 
 > マイクロカレント系の美顔器が気になる方は[ZIIP HALOの口コミ](/posts/ziip-halo-review/)も参考にしてみてください。
+
+> ケノンを含む脱毛器3機種を比較したい方は[家庭用脱毛器おすすめ比較3選](/posts/hair-removal-device-compare-40s/)もご覧ください。

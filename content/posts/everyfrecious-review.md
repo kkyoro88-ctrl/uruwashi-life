@@ -7,7 +7,7 @@ categories: ["暮らし・美容グッズ"]
 tags: ["ウォーターサーバー", "口コミ"]
 description: "エブリィフレシャスの口コミ・評判を正直レビュー。水道水を注ぐだけの浄水型ウォーターサーバー。初期費用・送料・メンテナンス料0円の定額制サービスの実態を詳しく解説します。"
 cover:
-  image: "https://www28.a8.net/svt/bgt?aid=260423341830&wid=001&eno=01&mid=s00000010789007046000&mc=1"
+  image: "/images/everyfrecious-review.png"
   alt: "エブリィフレシャス 浄水型ウォーターサーバー"
 ---
 

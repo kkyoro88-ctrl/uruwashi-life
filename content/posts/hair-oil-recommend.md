@@ -67,7 +67,7 @@ cover:
 {{< rawhtml >}}
 <div class="product-heading product-heading--answer">
   <div class="product-heading-info">
-    <div class="product-heading-rank">1位</div>
+    <div class="product-heading-num">1位</div>
     <h3>BOTANIST<br>ボタニカルヘアオイル スムース</h3>
     <p>植物由来成分・ドライヤー前に使うサラサラ仕上がり</p>
   </div>
@@ -120,7 +120,7 @@ cover:
 {{< rawhtml >}}
 <div class="product-heading product-heading--melt">
   <div class="product-heading-info">
-    <div class="product-heading-rank">2位</div>
+    <div class="product-heading-num">2位</div>
     <h3>大島椿 椿油100%</h3>
     <p>天然椿油100%・髪・顔・ボディのマルチオイル</p>
   </div>
@@ -173,7 +173,7 @@ cover:
 {{< rawhtml >}}
 <div class="product-heading product-heading--haru">
   <div class="product-heading-info">
-    <div class="product-heading-rank">3位</div>
+    <div class="product-heading-num">3位</div>
     <h3>ロレアルパリ エルセーヴ<br>エクストラオーディナリー ヘアオイル</h3>
     <p>カラーダメージ補修・少量でよく伸びるコスパ優秀オイル</p>
   </div>
@@ -226,7 +226,7 @@ cover:
 {{< rawhtml >}}
 <div class="product-heading product-heading--haba">
   <div class="product-heading-info">
-    <div class="product-heading-rank">4位</div>
+    <div class="product-heading-num">4位</div>
     <h3>ケラスターゼ<br>HU ユイルスブリム R</h3>
     <p>美容師も愛用・サロン帰りのような仕上がり</p>
   </div>
@@ -279,7 +279,7 @@ cover:
 {{< rawhtml >}}
 <div class="product-heading product-heading--muji">
   <div class="product-heading-info">
-    <div class="product-heading-rank">5位</div>
+    <div class="product-heading-num">5位</div>
     <h3>TSUBAKI<br>オイルフォース M</h3>
     <p>椿オイル配合・湿気による広がりを抑えるスムースオイル</p>
   </div>
@@ -454,6 +454,25 @@ cover:
 ヘアオイルは1日数十秒の習慣です。毎日の積み重ねが3ヶ月・半年後の髪の状態を大きく変えます。
 
 「今の髪のパサつきがもっとひどくなる前に」始めることが、将来の髪質を守るための最も手軽な一手です。
+
+---
+
+## よくある質問
+
+**Q. ヘアオイルはドライヤー前とドライヤー後、どちらにつけるのが正しいですか？**  
+A. どちらも正解ですが、目的が異なります。ドライヤー前につけると熱ダメージを防ぐ「ヒートプロテクト」効果が得られます。ドライヤー後につけると表面の艶感と保護を強化できます。40代の乾燥・パサつきが気になる方にはドライヤー前の使用がより効果的とされています。
+
+**Q. ヘアオイルで髪がベタつく場合はどうすればいいですか？**  
+A. 量が多すぎることが主な原因です。まず2〜3滴から始め、毛先中心につけてください。根元につけると頭皮のベタつきにつながります。軽いテクスチャーのオイル（ボタニストなど）に変えるのも選択肢です。
+
+**Q. 40代の細くなった髪にヘアオイルを使っても問題ありませんか？**  
+A. 使えますが、選ぶオイルの質感が重要です。重いオイルは細い髪をさらにペタンとさせます。「サラサラ仕上げ」「軽い使い心地」と記載されたオイルを選び、毛先を中心に少量使用するのが向いています。
+
+**Q. ヘアオイルとヘアミルクはどう使い分けますか？**  
+A. ヘアオイルは油分が主体で艶と保護を重視、ヘアミルクは水分と油分のバランスで軽い仕上がりになります。パサつき・広がりが強い方にはオイル、しっとり感を求めながら重くしたくない方にはミルクが向いています。
+
+**Q. 毎日ヘアオイルを使っても問題ありませんか？**  
+A. 毎日使うことで保護効果が継続し、ドライヤーの熱ダメージが蓄積しにくくなります。量を適切に保つことが重要で、少量を毎日使う方が、まとめて多量を使うより効果的です。
 
 ---
 

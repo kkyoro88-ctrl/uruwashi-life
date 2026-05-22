@@ -1,33 +1,20 @@
 ---
 title: "飲む美容液おすすめランキング【40代が選ぶコラーゲン・NMNサプリ・ドリンク】"
 date: 2026-04-23
-lastmod: 2026-05-15
+lastmod: 2026-05-21
 draft: false
 affiliate: true
 categories: ["インナーケア"]
 tags: ["エイジングケア", "インナーケア", "40代"]
 description: "飲む美容液のおすすめランキングを40代目線で解説。コラーゲン・NMN配合のサプリ・ドリンクの効果・口コミ・選び方をまとめています。インナーケアで外側のスキンケアを底上げしたい方へ。"
 cover:
-  image: "https://www26.a8.net/svt/bgt?aid=260423344033&wid=001&eno=01&mid=s00000008657026017000&mc=1"
+  image: "/images/drinking-beauty-recommend.png"
   alt: "飲む美容液おすすめ"
 ---
 
 「スキンケアをしっかり続けているのに、なんか最近物足りない」
 
 40代になってそう感じ始めた方は多いはずです。実は、年齢とともに肌の土台となるコラーゲンやNMNなどの成分は体内での生成が落ちていきます。外側から塗るだけでは補いきれない部分を、内側から補うのが「飲む美容液」という選択肢です。
-
-{{< rawhtml >}}
-<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);">
-  <div style="font-weight:700;font-size:1.05em;margin-bottom:16px;">オルビス アンバー</div>
-  <div style="display:flex;gap:10px;flex-wrap:wrap;">
-    <a href="https://px.a8.net/svt/ejp?a8mat=4B1RXS+JNBQQ+1USQ+4AV9VM" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #2d7d46;color:#2d7d46;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">公式サイト</a>
-    <a href="https://search.rakuten.co.jp/search/mall/オルビス+アンバー/" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #bf1a1a;color:#bf1a1a;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">楽天市場</a>
-    <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/s?k=オルビス+アンバー" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
-    <a href="https://shopping.yahoo.co.jp/search?p=オルビス+アンバー" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #6b2fbc;color:#6b2fbc;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Yahooショッピング</a>
-  </div>
-</div>
-{{< /rawhtml >}}
-
 
 ---
 
@@ -50,12 +37,14 @@ cover:
 
 ---
 
-## おすすめ：オルビス アンバー
+## 飲む美容液おすすめ3選
+
+### 1位：オルビス アンバー｜コラーゲン×NMNの本格インナーケア
 
 {{< rawhtml >}}
-<div class="product-heading product-heading--amber">
+<div class="product-heading product-heading--answer">
   <div class="product-heading-info">
-    <div class="product-heading-rank">★イチ推し</div>
+    <div class="product-heading-num">1位</div>
     <h3>オルビス アンバー</h3>
     <p>コラーゲン×NMN配合・スキンケアブランド発の飲む美容液</p>
   </div>
@@ -67,34 +56,135 @@ cover:
 </div>
 {{< /rawhtml >}}
 
-スキンケアブランドとして40年以上の実績を持つオルビスが開発した飲む美容液です。
+スキンケアブランドとして40年以上の実績を持つオルビスが開発した飲む美容液です。コラーゲン×NMN配合で、外側のスキンケアだけでは補いにくい成分を内側から届ける設計。オルビスのスキンケアと組み合わせて使いたい方にも自然にはまります。
 
-コラーゲン×NMN配合で、外側のスキンケアだけでは補いにくい成分を内側から届ける設計になっています。オルビスのスキンケアを使っている方が、同ブランドのインナーケアを組み合わせる使い方にも自然にはまります。
+{{< rawhtml >}}
+<div class="caution-box">
+  <p class="caution-box-title">⚠️ こんな点は注意</p>
+  <ul>
+    <li>定期コースの解約手続きが必要（継続が前提の設計）</li>
+    <li>即効性はなく、体感まで3ヶ月前後かかることが多い</li>
+  </ul>
+</div>
+{{< /rawhtml >}}
 
 {{< rawhtml >}}
 <div class="fit-box">
-  <p class="fit-box-title">✅ おすすめポイント</p>
+  <p class="fit-box-title">✅ こんな方に向いています</p>
   <ul>
-    <li>コラーゲン×NMN配合で内側から多角的にアプローチ</li>
-    <li>1日1本・飲みやすく続けやすい</li>
-    <li>スキンケアブランドとしての処方への信頼感</li>
+    <li>コラーゲン×NMNをまとめて摂りたい方</li>
+    <li>オルビスのスキンケアと合わせてトータルケアしたい方</li>
+    <li>スキンケアブランドの品質設計に信頼感を求める方</li>
   </ul>
 </div>
 {{< /rawhtml >}}
 
 > 詳しい使用感・メリット・デメリットは[オルビス アンバーの口コミ・レビュー記事](/posts/orbis-amber-review/)をご覧ください。
 
+{{< product
+  title="オルビス アンバー ドリンク"
+  img="https://www29.a8.net/svt/bgt?aid=260423344033&wid=001&eno=01&mid=s00000008657026006000&mc=1"
+  official="https://px.a8.net/svt/ejp?a8mat=4B1RXS+JNBQQ+1USQ+4AV9VM"
+  rakuten="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%AA%E3%83%AB%E3%83%93%E3%82%B9%2B%E3%82%A2%E3%83%B3%E3%83%90%E3%83%BC%2F"
+  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/s?k=%E3%82%AA%E3%83%AB%E3%83%93%E3%82%B9+%E3%82%A2%E3%83%B3%E3%83%90%E3%83%BC"
+  yahoo="https://shopping.yahoo.co.jp/search?p=%E3%82%AA%E3%83%AB%E3%83%93%E3%82%B9+%E3%82%A2%E3%83%B3%E3%83%90%E3%83%BC"
+>}}
+
+---
+
+### 2位：アスタリフト ドリンク ピュアコラーゲン10000｜富士フイルム発・高濃度コラーゲン
+
 {{< rawhtml >}}
-<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);">
-  <div style="font-weight:700;font-size:1.05em;margin-bottom:16px;">オルビス アンバー</div>
-  <div style="display:flex;gap:10px;flex-wrap:wrap;">
-    <a href="https://px.a8.net/svt/ejp?a8mat=4B1RXS+JNBQQ+1USQ+4AV9VM" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #2d7d46;color:#2d7d46;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">公式サイト</a>
-    <a href="https://search.rakuten.co.jp/search/mall/オルビス+アンバー/" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #bf1a1a;color:#bf1a1a;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">楽天市場</a>
-    <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/s?k=オルビス+アンバー" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
-    <a href="https://shopping.yahoo.co.jp/search?p=オルビス+アンバー" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #6b2fbc;color:#6b2fbc;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Yahooショッピング</a>
+<div class="product-heading product-heading--haru">
+  <div class="product-heading-info">
+    <div class="product-heading-num">2位</div>
+    <h3>アスタリフト ドリンク ピュアコラーゲン10000</h3>
+    <p>コラーゲン10,000mg配合・富士フイルムの技術が詰まった美容ドリンク</p>
+  </div>
+  <div class="product-heading-img">
+    <img src="https://m.media-amazon.com/images/P/B07T48DDFQ.01._SL500_.jpg" alt="アスタリフト ドリンク ピュアコラーゲン10000">
   </div>
 </div>
 {{< /rawhtml >}}
+
+富士フイルムが独自の写真フィルム技術を応用して開発した美容ドリンクです。1本にコラーゲン10,000mgを配合し、ビタミンC・アスタキサンチンも同時に摂取できる処方設計。高濃度コラーゲンをしっかり補いたい方に向いています。
+
+{{< rawhtml >}}
+<div class="caution-box">
+  <p class="caution-box-title">⚠️ こんな点は注意</p>
+  <ul>
+    <li>価格帯がやや高め（1本あたりのコスト感を確認して）</li>
+    <li>独特の甘みがあるため、味の好みが分かれることも</li>
+  </ul>
+</div>
+{{< /rawhtml >}}
+
+{{< rawhtml >}}
+<div class="fit-box">
+  <p class="fit-box-title">✅ こんな方に向いています</p>
+  <ul>
+    <li>コラーゲンをしっかり高用量で摂りたい方</li>
+    <li>コラーゲン＋アスタキサンチンで複合的にケアしたい方</li>
+    <li>富士フイルムの研究力・品質設計に安心感を求める方</li>
+  </ul>
+</div>
+{{< /rawhtml >}}
+
+{{< product
+  title="アスタリフト ドリンク ピュアコラーゲン10000"
+  img="https://m.media-amazon.com/images/P/B07T48DDFQ.01._SL500_.jpg"
+  rakuten="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%A2%E3%82%B9%E3%82%BF%E3%83%AA%E3%83%95%E3%83%88+%E3%83%89%E3%83%AA%E3%83%B3%E3%82%AF+%E3%83%94%E3%83%A5%E3%82%A2%E3%82%B3%E3%83%A9%E3%83%BC%E3%82%B2%E3%83%B310000%2F"
+  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B07T48DDFQ"
+  yahoo="https://shopping.yahoo.co.jp/search?p=B07T48DDFQ"
+>}}
+
+---
+
+### 3位：ファンケル ドリンクコラーゲン 50mL×10本｜低分子・飲みやすいフルーティー設計
+
+{{< rawhtml >}}
+<div class="product-heading product-heading--melt">
+  <div class="product-heading-info">
+    <div class="product-heading-num">3位</div>
+    <h3>ファンケル ドリンクコラーゲン</h3>
+    <p>低分子コラーゲン3,000mg・毎日続けやすいフルーティードリンク</p>
+  </div>
+  <div class="product-heading-img">
+    <img src="https://m.media-amazon.com/images/P/B0BJ6W7QZT.01._SL500_.jpg" alt="ファンケル ドリンクコラーゲン">
+  </div>
+</div>
+{{< /rawhtml >}}
+
+無添加処方で知られるファンケルが手がけるコラーゲンドリンクです。1本50mLにコラーゲン3,000mgを配合。低分子タイプなので吸収されやすく、フルーティーで飲みやすい味わいが続けやすさを後押しします。コラーゲンドリンクを初めて試す方のスタートにも向いています。
+
+{{< rawhtml >}}
+<div class="caution-box">
+  <p class="caution-box-title">⚠️ こんな点は注意</p>
+  <ul>
+    <li>1本あたりのコラーゲン量は3,000mgとやや控えめ（高用量を求める方は他の商品も比較を）</li>
+    <li>甘さがあるため、甘い飲み物が得意でない方は味見してから継続を判断して</li>
+  </ul>
+</div>
+{{< /rawhtml >}}
+
+{{< rawhtml >}}
+<div class="fit-box">
+  <p class="fit-box-title">✅ こんな方に向いています</p>
+  <ul>
+    <li>コラーゲンドリンクを初めて試したい方</li>
+    <li>飲みやすさ・味を重視して続けたい方</li>
+    <li>無添加・安心処方にこだわる方</li>
+  </ul>
+</div>
+{{< /rawhtml >}}
+
+{{< product
+  title="ファンケル ドリンクコラーゲン 50mL×10本"
+  img="https://m.media-amazon.com/images/P/B0BJ6W7QZT.01._SL500_.jpg"
+  rakuten="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%95%E3%82%A1%E3%83%B3%E3%82%B1%E3%83%AB+%E3%83%89%E3%83%AA%E3%83%B3%E3%82%AF%E3%82%B3%E3%83%A9%E3%83%BC%E3%82%B2%E3%83%B3%2F"
+  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B0BJ6W7QZT"
+  yahoo="https://shopping.yahoo.co.jp/search?p=B0BJ6W7QZT"
+>}}
 
 ---
 

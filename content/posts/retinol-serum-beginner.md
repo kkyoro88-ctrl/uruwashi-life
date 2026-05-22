@@ -107,7 +107,7 @@ cover:
 {{< rawhtml >}}
 <div class="product-heading product-heading--answer">
   <div class="product-heading-info">
-    <div class="product-heading-rank">★ イチ推し</div>
+    <div class="product-heading-num">★ イチ推し</div>
     <h3>No46. ピュアRTセラム</h3>
     <p>桃谷順天館・創業140年の純粋レチノール高濃度美容液</p>
   </div>
@@ -160,7 +160,7 @@ cover:
 {{< rawhtml >}}
 <div class="product-heading product-heading--melt">
   <div class="product-heading-info">
-    <div class="product-heading-rank">2位</div>
+    <div class="product-heading-num">2位</div>
     <h3>b.glen QuSomeレチノA</h3>
     <p>独自カプセル処方で刺激を最小化・敏感肌でも使いやすいサイエンスコスメ</p>
   </div>
@@ -213,7 +213,7 @@ cover:
 {{< rawhtml >}}
 <div class="product-heading product-heading--haru">
   <div class="product-heading-info">
-    <div class="product-heading-rank">3位</div>
+    <div class="product-heading-num">3位</div>
     <h3>レチベイビー</h3>
     <p>銀座ハリッチ監修・角質ケア×エイジングケアを1本で</p>
   </div>

@@ -34,7 +34,7 @@ suisai ビューティークリア パウダーウォッシュを選んだのは
 {{< rawhtml >}}
 <div class="product-heading product-heading--answer">
   <div class="product-heading-info">
-    <div class="product-heading-rank">★ レビュー商品</div>
+    <div class="product-heading-num">★ レビュー商品</div>
     <h3>suisai ビューティークリア パウダーウォッシュN</h3>
     <p>カネボウ化粧品・2種の酵素配合・1回使いきりパウダー洗顔</p>
   </div>

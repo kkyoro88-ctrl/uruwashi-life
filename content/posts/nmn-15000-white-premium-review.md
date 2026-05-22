@@ -12,7 +12,7 @@ summary_points:
   - "国内産・純度100%の信頼性と安全性"
   - "初回2,980円で試せるコスパの実態"
 cover:
-  image: "https://www20.a8.net/svt/bgt?aid=260508485031&wid=001&eno=01&mid=s00000014723006004000&mc=1"
+  image: "/images/nmn-15000-white-premium-review.png"
   alt: "NMN 15000 WHITE premium"
 ---
 
@@ -25,7 +25,7 @@ cover:
 {{< rawhtml >}}
 <div class="product-heading product-heading--nmn15000">
   <div class="product-heading-info">
-    <div class="product-heading-rank">★イチ推し</div>
+    <div class="product-heading-num">★イチ推し</div>
     <h3>NMN 15000 WHITE premium</h3>
     <p>業界初・女性専用設計／国内産NMN純度100%／1袋15,000mg配合</p>
   </div>

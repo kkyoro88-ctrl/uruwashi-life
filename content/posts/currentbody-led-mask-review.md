@@ -7,7 +7,7 @@ categories: ["口コミ・レビュー", "スキンケア"]
 tags: ["美顔器", "エイジングケア", "口コミ"]
 description: "CurrentBody LEDフェイスマスクの口コミ・レビュー。1ヶ月使って変わったこと・変わらなかったこと、シリーズ2とマルチライトマスクの選び方まで40代が正直にレビューします。"
 cover:
-  image: "https://www23.a8.net/svt/bgt?aid=260422333965&wid=001&eno=01&mid=s00000023953001006000&mc=1"
+  image: "/images/currentbody-led-mask-review.png"
   alt: "CurrentBody LEDフェイスマスク"
 ---
 
@@ -25,7 +25,7 @@ cover:
 {{< rawhtml >}}
 <div class="product-heading product-heading--cbmask">
   <div class="product-heading-info">
-    <div class="product-heading-rank">★イチ推し</div>
+    <div class="product-heading-num">★イチ推し</div>
     <h3>CurrentBody LEDフェイスマスク</h3>
     <p>赤色光633nm＋近赤外線830nm・顔全体を均一照射・1回10分のながら美容</p>
   </div>

@@ -34,7 +34,7 @@ cover:
 {{< rawhtml >}}
 <div class="product-heading product-heading--answer">
   <div class="product-heading-info">
-    <div class="product-heading-rank">★ レビュー商品</div>
+    <div class="product-heading-num">★ レビュー商品</div>
     <h3>haru kurokami スカルプ シャンプー</h3>
     <p>天然由来成分100%・ノンシリコン・累計800万本突破のスカルプシャンプー</p>
   </div>

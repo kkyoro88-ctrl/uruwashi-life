@@ -51,7 +51,7 @@ cover:
 {{< rawhtml >}}
 <div class="product-heading product-heading--answer">
   <div class="product-heading-info">
-    <div class="product-heading-rank">1位</div>
+    <div class="product-heading-num">1位</div>
     <h3>メッシュコスメポーチ<br>半透明・ダブルファスナー</h3>
     <p>中身が見えて探さなくていい・防水素材で清潔が続く</p>
   </div>
@@ -98,7 +98,7 @@ cover:
 {{< rawhtml >}}
 <div class="product-heading product-heading--melt">
   <div class="product-heading-info">
-    <div class="product-heading-rank">2位</div>
+    <div class="product-heading-num">2位</div>
     <h3>無印良品<br>ポリエステル スタンドポーチ</h3>
     <p>自立するから洗面台に置けて収納も兼ねられる</p>
   </div>
@@ -135,7 +135,7 @@ cover:
 {{< rawhtml >}}
 <div class="product-heading product-heading--leather">
   <div class="product-heading-info">
-    <div class="product-heading-rank">3位</div>
+    <div class="product-heading-num">3位</div>
     <h3>レザーコスメポーチ</h3>
     <p>使い込むほど味が出る・大人の普段使いに合う素材感</p>
   </div>
@@ -172,7 +172,7 @@ cover:
 {{< rawhtml >}}
 <div class="product-heading product-heading--chara">
   <div class="product-heading-info">
-    <div class="product-heading-rank">4位</div>
+    <div class="product-heading-num">4位</div>
     <h3>キャラクターコラボポーチ</h3>
     <p>豊富な仕切り・毎日使うのが楽しくなるデザイン</p>
   </div>
@@ -209,7 +209,7 @@ cover:
 {{< rawhtml >}}
 <div class="product-heading product-heading--roll">
   <div class="product-heading-info">
-    <div class="product-heading-rank">5位</div>
+    <div class="product-heading-num">5位</div>
     <h3>ロールアップポーチ</h3>
     <p>コンパクト収納・広げると大容量・フック付きで洗面台に吊るせる</p>
   </div>

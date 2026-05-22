@@ -12,7 +12,7 @@ summary_points:
   - "実際に使ってわかった変化と、効果を感じるまでの期間"
   - "向いている人・向いていない人の明確な判断基準"
 cover:
-  image: "https://www20.a8.net/svt/bgt?aid=260422333959&wid=001&eno=01&mid=s00000023953003015000&mc=1"
+  image: "/images/tria4x-review.png"
   alt: "トリア4X 家庭用レーザー脱毛器"
 ---
 
@@ -165,3 +165,5 @@ cover:
 {{< /rawhtml >}}
 
 > 脱毛後のスキンケア全体の流れは[40代スキンケアルーティン完全ガイド](/posts/skincare-routine-40s-guide/)でまとめています。
+
+> トリア4Xとケノン・Ulikeを比較したい方は[家庭用脱毛器おすすめ比較3選](/posts/hair-removal-device-compare-40s/)もご覧ください。

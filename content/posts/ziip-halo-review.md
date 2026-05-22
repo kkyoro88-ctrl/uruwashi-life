@@ -7,7 +7,7 @@ categories: ["口コミ・レビュー", "スキンケア"]
 tags: ["美顔器", "エイジングケア", "口コミ"]
 description: "ZIIP HALOの口コミ・レビューを40代目線で正直に評価。マイクロカレントの効果・使い方・デメリット・3ヶ月の変化を詳しく解説。CurrentBodyで購入検討中の方必読。"
 cover:
-  image: "https://www26.a8.net/svt/bgt?aid=260422333964&wid=001&eno=01&mid=s00000023953002004000&mc=1"
+  image: "/images/ziip-halo-review.png"
   alt: "ZIIP HALO 口コミレビュー"
 ---
 

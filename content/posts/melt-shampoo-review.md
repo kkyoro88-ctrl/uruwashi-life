@@ -18,6 +18,7 @@ cover:
 {{< rawhtml >}}
 <div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);">
   <div style="display:flex;gap:16px;align-items:flex-start;flex-wrap:wrap;">
+    <img src="/images/melt-shampoo-product.png" alt="melt スムースシャンプー" style="width:120px;height:120px;object-fit:cover;border-radius:8px;flex-shrink:0;">
     <div style="flex:1;min-width:200px;">
       <div style="font-weight:700;font-size:1.05em;margin-bottom:12px;">melt スムースシャンプー</div>
       <div style="display:flex;gap:10px;flex-wrap:wrap;">
@@ -164,6 +165,7 @@ melt スムースシャンプーは「すぐに劇的な変化」を求める方
 {{< rawhtml >}}
 <div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);">
   <div style="display:flex;gap:16px;align-items:flex-start;flex-wrap:wrap;">
+    <img src="/images/melt-shampoo-product.png" alt="melt スムースシャンプー" style="width:120px;height:120px;object-fit:cover;border-radius:8px;flex-shrink:0;">
     <div style="flex:1;min-width:200px;">
       <div style="font-weight:700;font-size:1.05em;margin-bottom:12px;">melt スムースシャンプー</div>
       <div style="display:flex;gap:10px;flex-wrap:wrap;">

@@ -8,7 +8,7 @@ categories: ["口コミ・レビュー", "スキンケア"]
 tags: ["美顔器", "エイジングケア", "口コミ", "40代"]
 description: "DISM美顔器の口コミ・使用感を40代が正直にレビュー。「コンパクトなのにハイパワー」は本当か？リフトケア×エイジングケアの効果と、使い続けてわかったことを詳しくまとめました。"
 cover:
-  image: "https://www20.a8.net/svt/bgt?aid=260422333962&wid=001&eno=01&mid=s00000016002014006000&mc=1"
+  image: "/images/dism-facial-device-review.png"
   alt: "DISM 美顔器 口コミ レビュー"
 ---
 

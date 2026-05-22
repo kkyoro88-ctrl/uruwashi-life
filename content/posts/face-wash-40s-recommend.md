@@ -17,16 +17,13 @@ cover:
 
 迷ったら、まず **ファンケル ディープクリア 洗顔パウダー** から試してみてください。無添加処方×酵素洗顔で、毛穴の黒ずみ・古い角質にアプローチしながら、洗い上がりはうるおいを残す40代の肌に向いた定番品です。
 
-{{< rawhtml >}}
-<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);">
-  <div style="font-weight:700;font-size:1.05em;margin-bottom:16px;">ファンケル ディープクリア 洗顔パウダー 30個入</div>
-  <div style="display:flex;gap:10px;flex-wrap:wrap;">
-    <a href="https://search.rakuten.co.jp/search/mall/%E3%83%95%E3%82%A1%E3%83%B3%E3%82%B1%E3%83%AB%20%E3%83%87%E3%82%A3%E3%83%BC%E3%83%97%E3%82%AF%E3%83%AA%E3%82%A2%20%E6%B4%97%E9%A1%94%E3%83%91%E3%82%A6%E3%83%80%E3%83%BC/" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #bf1a1a;color:#bf1a1a;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">楽天市場</a>
-    <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B091PJNLCB" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
-    <a href="https://shopping.yahoo.co.jp/search?first=1&p=%E3%83%95%E3%82%A1%E3%83%B3%E3%82%B1%E3%83%AB%20%E3%83%87%E3%82%A3%E3%83%BC%E3%83%97%E3%82%AF%E3%83%AA%E3%82%A2%20%E6%B4%97%E9%A1%94%E3%83%91%E3%82%A6%E3%83%80%E3%83%BC" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #6b2fbc;color:#6b2fbc;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Yahooショッピング</a>
-  </div>
-</div>
-{{< /rawhtml >}}
+{{< product
+  title="ファンケル ディープクリア 洗顔パウダー 30個入"
+  img="https://m.media-amazon.com/images/P/B091PJNLCB.01._SL500_.jpg"
+  rakuten="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%95%E3%82%A1%E3%83%B3%E3%82%B1%E3%83%AB+%E3%83%87%E3%82%A3%E3%83%BC%E3%83%97%E3%82%AF%E3%83%AA%E3%82%A2+%E6%B4%97%E9%A1%94%E3%83%91%E3%82%A6%E3%83%80%E3%83%BC%2F"
+  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B091PJNLCB"
+  yahoo="https://shopping.yahoo.co.jp/search?p=B091PJNLCB"
+>}}
 
 
 ---
@@ -147,21 +144,13 @@ cover:
 
 「洗顔後のつっぱりが気になる」という方は、まずここから始めてみてください。
 
-{{< rawhtml >}}
-<div class="featured-card-wrap">
-<span class="rank1-badge">★ 私のイチ推し</span>
-{{< /rawhtml >}}
 {{< product
   title="ファンケル ディープクリア 洗顔パウダー 30個入"
-  img="https://m.media-amazon.com/images/I/51QOhnDEycL._SL500_.jpg"
-  price="公式価格参照 / 30個入"
-  rakuten="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Ffancl-shop%2F3670-11%2F"
+  img="https://m.media-amazon.com/images/P/B091PJNLCB.01._SL500_.jpg"
+  rakuten="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%95%E3%82%A1%E3%83%B3%E3%82%B1%E3%83%AB+%E3%83%87%E3%82%A3%E3%83%BC%E3%83%97%E3%82%AF%E3%83%AA%E3%82%A2+%E6%B4%97%E9%A1%94%E3%83%91%E3%82%A6%E3%83%80%E3%83%BC%2F"
   amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B091PJNLCB"
-  yahoo="https://shopping.yahoo.co.jp/search?p=%E3%83%95%E3%82%A1%E3%83%B3%E3%82%B1%E3%83%AB+%E3%83%87%E3%82%A3%E3%83%BC%E3%83%97%E3%82%AF%E3%83%AA%E3%82%A2+%E6%B4%97%E9%A1%94%E3%83%91%E3%82%A6%E3%83%80%E3%83%BC"
+  yahoo="https://shopping.yahoo.co.jp/search?p=B091PJNLCB"
 >}}
-{{< rawhtml >}}
-</div>
-{{< /rawhtml >}}
 
 ---
 
@@ -201,12 +190,12 @@ cover:
 </div>
 {{< /rawhtml >}}
 
-{{< rawhtml >}}
-<div style="margin: 1em 0;">
-  <a href="https://px.a8.net/svt/ejp?a8mat=4B1THT+6NXPKI+YPG+61Z82" rel="nofollow" style="display:inline-block; background:#c06080; color:#fff; padding:12px 24px; border-radius:4px; text-decoration:none; font-weight:bold; font-size:14px;">b.glen QuSomeウォッシュ 公式で詳しく見る →</a>
-  <img border="0" width="1" height="1" src="https://www19.a8.net/0.gif?a8mat=4B1THT+6NXPKI+YPG+61Z82" alt="">
-</div>
-{{< /rawhtml >}}
+{{< product
+  title="b.glen（ビーグレン）QuSomeウォッシュ"
+  img=""
+  rakuten="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fb.glen+QuSome%E3%82%A6%E3%82%A9%E3%83%83%E3%82%B7%E3%83%A5%2F"
+  yahoo="https://shopping.yahoo.co.jp/search?p=b.glen+QuSome%E3%82%A6%E3%82%A9%E3%83%83%E3%82%B7%E3%83%A5"
+>}}
 
 ---
 
@@ -246,12 +235,13 @@ cover:
 </div>
 {{< /rawhtml >}}
 
-{{< rawhtml >}}
-<div style="margin: 1em 0;">
-  <a href="https://px.a8.net/svt/ejp?a8mat=4B1RXR+DVIPBM+1USQ+4YM976" rel="nofollow" style="display:inline-block; background:#3a9a4a; color:#fff; padding:12px 24px; border-radius:4px; text-decoration:none; font-weight:bold; font-size:14px;">オルビス ザ クレンジング オイル 公式で詳しく見る →</a>
-  <img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4B1RXR+DVIPBM+1USQ+4YM976" alt="">
-</div>
-{{< /rawhtml >}}
+{{< product
+  title="オルビス ザ クレンジング オイル 120mL"
+  img="https://m.media-amazon.com/images/P/B0F785ZK2M.01._SL500_.jpg"
+  rakuten="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%AA%E3%83%AB%E3%83%93%E3%82%B9+%E3%82%B6+%E3%82%AF%E3%83%AC%E3%83%B3%E3%82%B8%E3%83%B3%E3%82%B0+%E3%82%AA%E3%82%A4%E3%83%AB%2F"
+  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B0F785ZK2M"
+  yahoo="https://shopping.yahoo.co.jp/search?p=B0F785ZK2M"
+>}}
 
 ---
 
@@ -351,11 +341,10 @@ A. 毎日の洗顔では大きな毛穴汚れは取りにくいです。週1〜2
 
 {{< product
   title="ファンケル ディープクリア 洗顔パウダー 30個入"
-  img="https://m.media-amazon.com/images/I/51QOhnDEycL._SL500_.jpg"
-  price="公式価格参照 / 30個入"
-  rakuten="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Ffancl-shop%2F3670-11%2F"
+  img="https://m.media-amazon.com/images/P/B091PJNLCB.01._SL500_.jpg"
+  rakuten="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%95%E3%82%A1%E3%83%B3%E3%82%B1%E3%83%AB+%E3%83%87%E3%82%A3%E3%83%BC%E3%83%97%E3%82%AF%E3%83%AA%E3%82%A2+%E6%B4%97%E9%A1%94%E3%83%91%E3%82%A6%E3%83%80%E3%83%BC%2F"
   amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B091PJNLCB"
-  yahoo="https://shopping.yahoo.co.jp/search?p=%E3%83%95%E3%82%A1%E3%83%B3%E3%82%B1%E3%83%AB+%E3%83%87%E3%82%A3%E3%83%BC%E3%83%97%E3%82%AF%E3%83%AA%E3%82%A2+%E6%B4%97%E9%A1%94%E3%83%91%E3%82%A6%E3%83%80%E3%83%BC"
+  yahoo="https://shopping.yahoo.co.jp/search?p=B091PJNLCB"
 >}}
 
 {{< rawhtml >}}

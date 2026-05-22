@@ -7,7 +7,7 @@ categories: ["暮らし・美容グッズ"]
 tags: ["ウォーターサーバー"]
 description: "ウォーターサーバーを比較検討した結果、オーケンウォーターに行き着いた理由を正直にレビュー。天然水・永久無料レンタル・乗り換えキャンペーンの実態を30代・40代の目線で解説します。"
 cover:
-  image: "https://www25.a8.net/svt/bgt?aid=260423341826&wid=001&eno=01&mid=s00000007476001118000&mc=1"
+  image: "/images/watercooler-recommend.png"
   alt: "オーケンウォーター ウォーターサーバー"
 ---
 

@@ -8,7 +8,7 @@ categories: ["口コミ・レビュー", "スキンケア"]
 tags: ["シャワーヘッド", "スキンケア", "口コミ"]
 description: "ミラブルzeroを実際に使った本音レビュー。シャワーヘッドの使用感・ウルトラファインミストの効果から、効果なし・悪い評判・デメリットまで正直に公開します。"
 cover:
-  image: "https://www27.a8.net/svt/bgt?aid=260421332286&wid=001&eno=01&mid=s00000022954002009000&mc=1"
+  image: "/images/mirablezero-review.png"
   alt: "ミラブルzeroレビュー"
 ---
 
@@ -24,7 +24,7 @@ cover:
 {{< rawhtml >}}
 <div class="product-heading product-heading--answer">
   <div class="product-heading-info">
-    <div class="product-heading-rank">編集部</div>
+    <div class="product-heading-num">編集部</div>
     <h3>ミラブルzero</h3>
     <p>世界初トルネードファインバブル搭載シャワーヘッド</p>
   </div>

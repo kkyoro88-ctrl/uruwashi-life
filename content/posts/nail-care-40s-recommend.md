@@ -26,11 +26,16 @@ cover:
 
 {{< rawhtml >}}
 <div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);">
-  <div style="font-weight:700;font-size:1.05em;margin-bottom:16px;">ロクシタン シア ネイルオイル</div>
-  <div style="display:flex;gap:10px;flex-wrap:wrap;">
-    <a href="https://search.rakuten.co.jp/search/mall/ロクシタン+シア+ネイルオイル/" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #bf1a1a;color:#bf1a1a;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">楽天市場</a>
-    <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B0BL8F59PX" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
-    <a href="https://shopping.yahoo.co.jp/search?p=ロクシタン+シア+ネイルオイル" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #6b2fbc;color:#6b2fbc;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Yahooショッピング</a>
+  <div style="display:flex;gap:16px;align-items:flex-start;flex-wrap:wrap;">
+    <img src="https://m.media-amazon.com/images/I/41jRRXLl9sL._SL100_.jpg" alt="ロクシタン シア ネイルオイル" style="width:120px;height:120px;object-fit:contain;flex-shrink:0;" loading="lazy">
+    <div style="flex:1;min-width:200px;">
+      <div style="font-weight:700;font-size:1.05em;margin-bottom:12px;">ロクシタン シア ネイルオイル</div>
+      <div style="display:flex;gap:10px;flex-wrap:wrap;">
+        <a href="https://search.rakuten.co.jp/search/mall/ロクシタン+シア+ネイルオイル/" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #bf1a1a;color:#bf1a1a;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">楽天市場</a>
+        <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B0BL8F59PX" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
+        <a href="https://shopping.yahoo.co.jp/search?p=ロクシタン+シア+ネイルオイル" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #6b2fbc;color:#6b2fbc;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Yahooショッピング</a>
+      </div>
+    </div>
   </div>
 </div>
 {{< /rawhtml >}}
@@ -96,7 +101,7 @@ cover:
 {{< rawhtml >}}
 <div class="product-heading product-heading--answer">
   <div class="product-heading-info">
-    <div class="product-heading-rank">1位</div>
+    <div class="product-heading-num">1位</div>
     <h3>ロクシタン<br>シア ネイルオイル</h3>
     <p>爪と甘皮をまとめて潤す定番ネイルオイル</p>
   </div>
@@ -121,11 +126,16 @@ cover:
 
 {{< rawhtml >}}
 <div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);">
-  <div style="font-weight:700;font-size:1.05em;margin-bottom:16px;">ロクシタン シア ネイルオイル 7.5mL</div>
-  <div style="display:flex;gap:10px;flex-wrap:wrap;">
-    <a href="https://search.rakuten.co.jp/search/mall/ロクシタン+シア+ネイルオイル/" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #bf1a1a;color:#bf1a1a;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">楽天市場</a>
-    <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B0BL8F59PX" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
-    <a href="https://shopping.yahoo.co.jp/search?p=ロクシタン+シア+ネイルオイル" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #6b2fbc;color:#6b2fbc;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Yahooショッピング</a>
+  <div style="display:flex;gap:16px;align-items:flex-start;flex-wrap:wrap;">
+    <img src="https://m.media-amazon.com/images/I/41jRRXLl9sL._SL100_.jpg" alt="ロクシタン シア ネイルオイル" style="width:120px;height:120px;object-fit:contain;flex-shrink:0;" loading="lazy">
+    <div style="flex:1;min-width:200px;">
+      <div style="font-weight:700;font-size:1.05em;margin-bottom:12px;">ロクシタン シア ネイルオイル 7.5mL</div>
+      <div style="display:flex;gap:10px;flex-wrap:wrap;">
+        <a href="https://search.rakuten.co.jp/search/mall/ロクシタン+シア+ネイルオイル/" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #bf1a1a;color:#bf1a1a;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">楽天市場</a>
+        <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B0BL8F59PX" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
+        <a href="https://shopping.yahoo.co.jp/search?p=ロクシタン+シア+ネイルオイル" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #6b2fbc;color:#6b2fbc;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Yahooショッピング</a>
+      </div>
+    </div>
   </div>
 </div>
 {{< /rawhtml >}}
@@ -137,7 +147,7 @@ cover:
 {{< rawhtml >}}
 <div class="product-heading product-heading--answer">
   <div class="product-heading-info">
-    <div class="product-heading-rank">2位</div>
+    <div class="product-heading-num">2位</div>
     <h3>コモエース<br>コクーンモイスチュア ネイルセラム</h3>
     <p>割れ・欠け・縦スジに特化した爪用美容液</p>
   </div>
@@ -162,11 +172,16 @@ cover:
 
 {{< rawhtml >}}
 <div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);">
-  <div style="font-weight:700;font-size:1.05em;margin-bottom:16px;">コモエース コクーンモイスチュア ネイルセラム 6.8mL</div>
-  <div style="display:flex;gap:10px;flex-wrap:wrap;">
-    <a href="https://search.rakuten.co.jp/search/mall/コモエース+コクーンモイスチュア+ネイルセラム/" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #bf1a1a;color:#bf1a1a;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">楽天市場</a>
-    <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B07ZVTKWWP" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
-    <a href="https://shopping.yahoo.co.jp/search?p=コモエース+コクーンモイスチュア+ネイルセラム" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #6b2fbc;color:#6b2fbc;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Yahooショッピング</a>
+  <div style="display:flex;gap:16px;align-items:flex-start;flex-wrap:wrap;">
+    <img src="https://m.media-amazon.com/images/I/414gGxRTnML._SL100_.jpg" alt="コモエース コクーンモイスチュア ネイルセラム" style="width:120px;height:120px;object-fit:contain;flex-shrink:0;" loading="lazy">
+    <div style="flex:1;min-width:200px;">
+      <div style="font-weight:700;font-size:1.05em;margin-bottom:12px;">コモエース コクーンモイスチュア ネイルセラム 6.8mL</div>
+      <div style="display:flex;gap:10px;flex-wrap:wrap;">
+        <a href="https://search.rakuten.co.jp/search/mall/コモエース+コクーンモイスチュア+ネイルセラム/" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #bf1a1a;color:#bf1a1a;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">楽天市場</a>
+        <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B07ZVTKWWP" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
+        <a href="https://shopping.yahoo.co.jp/search?p=コモエース+コクーンモイスチュア+ネイルセラム" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #6b2fbc;color:#6b2fbc;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Yahooショッピング</a>
+      </div>
+    </div>
   </div>
 </div>
 {{< /rawhtml >}}
@@ -178,7 +193,7 @@ cover:
 {{< rawhtml >}}
 <div class="product-heading product-heading--answer">
   <div class="product-heading-info">
-    <div class="product-heading-rank">3位</div>
+    <div class="product-heading-num">3位</div>
     <h3>TSUMECARE<br>水溶性の爪美容液</h3>
     <p>水溶性の独自処方で爪に直接届く成分設計</p>
   </div>
@@ -201,11 +216,16 @@ cover:
 
 {{< rawhtml >}}
 <div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);">
-  <div style="font-weight:700;font-size:1.05em;margin-bottom:16px;">TSUMECARE 水溶性の爪美容液</div>
-  <div style="display:flex;gap:10px;flex-wrap:wrap;">
-    <a href="https://search.rakuten.co.jp/search/mall/TSUMECARE+爪美容液/" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #bf1a1a;color:#bf1a1a;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">楽天市場</a>
-    <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B0B9BTHFRL" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
-    <a href="https://shopping.yahoo.co.jp/search?p=TSUMECARE+爪美容液" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #6b2fbc;color:#6b2fbc;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Yahooショッピング</a>
+  <div style="display:flex;gap:16px;align-items:flex-start;flex-wrap:wrap;">
+    <img src="https://m.media-amazon.com/images/I/31ENgOMDV0L._SL100_.jpg" alt="TSUMECARE 水溶性の爪美容液" style="width:120px;height:120px;object-fit:contain;flex-shrink:0;" loading="lazy">
+    <div style="flex:1;min-width:200px;">
+      <div style="font-weight:700;font-size:1.05em;margin-bottom:12px;">TSUMECARE 水溶性の爪美容液</div>
+      <div style="display:flex;gap:10px;flex-wrap:wrap;">
+        <a href="https://search.rakuten.co.jp/search/mall/TSUMECARE+爪美容液/" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #bf1a1a;color:#bf1a1a;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">楽天市場</a>
+        <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B0B9BTHFRL" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
+        <a href="https://shopping.yahoo.co.jp/search?p=TSUMECARE+爪美容液" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #6b2fbc;color:#6b2fbc;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Yahooショッピング</a>
+      </div>
+    </div>
   </div>
 </div>
 {{< /rawhtml >}}
@@ -279,11 +299,16 @@ cover:
 
 {{< rawhtml >}}
 <div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);">
-  <div style="font-weight:700;font-size:1.05em;margin-bottom:16px;">ロクシタン シア ネイルオイル 7.5mL</div>
-  <div style="display:flex;gap:10px;flex-wrap:wrap;">
-    <a href="https://search.rakuten.co.jp/search/mall/ロクシタン+シア+ネイルオイル/" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #bf1a1a;color:#bf1a1a;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">楽天市場</a>
-    <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B0BL8F59PX" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
-    <a href="https://shopping.yahoo.co.jp/search?p=ロクシタン+シア+ネイルオイル" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #6b2fbc;color:#6b2fbc;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Yahooショッピング</a>
+  <div style="display:flex;gap:16px;align-items:flex-start;flex-wrap:wrap;">
+    <img src="https://m.media-amazon.com/images/I/41jRRXLl9sL._SL100_.jpg" alt="ロクシタン シア ネイルオイル" style="width:120px;height:120px;object-fit:contain;flex-shrink:0;" loading="lazy">
+    <div style="flex:1;min-width:200px;">
+      <div style="font-weight:700;font-size:1.05em;margin-bottom:12px;">ロクシタン シア ネイルオイル 7.5mL</div>
+      <div style="display:flex;gap:10px;flex-wrap:wrap;">
+        <a href="https://search.rakuten.co.jp/search/mall/ロクシタン+シア+ネイルオイル/" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #bf1a1a;color:#bf1a1a;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">楽天市場</a>
+        <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B0BL8F59PX" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
+        <a href="https://shopping.yahoo.co.jp/search?p=ロクシタン+シア+ネイルオイル" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #6b2fbc;color:#6b2fbc;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Yahooショッピング</a>
+      </div>
+    </div>
   </div>
 </div>
 {{< /rawhtml >}}
