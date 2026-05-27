@@ -1,11 +1,11 @@
 ---
 title: "【2026年最新】乳液おすすめ40代5選｜乾燥・エイジングケア・テクスチャー別の選び方"
 date: 2026-05-15
-lastmod: 2026-05-23
+lastmod: 2026-05-27
 draft: false
 affiliate: true
 categories: ["スキンケア"]
-tags: ["乳液", "40代", "エイジングケア", "乾燥肌", "保湿"]
+tags: ["スキンケア", "40代", "エイジングケア", "乾燥肌"]
 description: "40代乾燥肌向け乳液おすすめ5選を成分から厳選。エリクシール・ORBIS・アスタリフトなどテクスチャー別に比較。40代の肌に乳液が必要な理由と正しい選び方を解説します。"
 summary_points:
   - "40代の肌は皮脂分泌が減り、乳液なしでは保湿が完結しない"
@@ -22,12 +22,13 @@ cover:
 
 迷ったら、まず**エリクシール シュペリエル リフトモイスト エマルジョン**から試してみてください。ドラッグストアで手に入るハリ・うるおいケアの定番で、40代の乾燥肌に支持されています。
 
+エリクシールII（しっとりタイプ）を使い始めて1ヶ月は「これで足りているのかな」という半信半疑が続いた。2ヶ月目から夕方の乾燥が気にならなくなってきて、3ヶ月経つ頃には「乳液なしだった頃、何をやっていたんだろう」と思うくらい肌の落ち着き方が変わっていた。保湿は毎日の積み重ねだと実感した体験です。
+
 {{< product
   title="エリクシール シュペリエル リフトモイスト エマルジョン 130mL"
   img="https://m.media-amazon.com/images/P/B0FHJZ7LDZ.01._SL500_.jpg"
-  rakuten="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%A8%E3%83%AA%E3%82%AF%E3%82%B7%E3%83%BC%E3%83%AB+%E3%83%AA%E3%83%95%E3%83%88%E3%83%A2%E3%82%A4%E3%82%B9%E3%83%88+%E3%82%A8%E3%83%9E%E3%83%AB%E3%82%B8%E3%83%A7%E3%83%B3%2F"
-  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B0FHJZ7LDZ"
-  yahoo="https://shopping.yahoo.co.jp/search?p=B0FHJZ7LDZ"
+  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB0FHJZ7LDZ"
+  yahoo="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DB0FHJZ7LDZ"
 >}}
 
 ---
@@ -150,9 +151,8 @@ cover:
 {{< product
   title="エリクシール シュペリエル リフトモイスト エマルジョン 130mL"
   img="https://m.media-amazon.com/images/P/B0FHJZ7LDZ.01._SL500_.jpg"
-  rakuten="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%A8%E3%83%AA%E3%82%AF%E3%82%B7%E3%83%BC%E3%83%AB+%E3%83%AA%E3%83%95%E3%83%88%E3%83%A2%E3%82%A4%E3%82%B9%E3%83%88+%E3%82%A8%E3%83%9E%E3%83%AB%E3%82%B8%E3%83%A7%E3%83%B3%2F"
-  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B0FHJZ7LDZ"
-  yahoo="https://shopping.yahoo.co.jp/search?p=B0FHJZ7LDZ"
+  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB0FHJZ7LDZ"
+  yahoo="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DB0FHJZ7LDZ"
 >}}
 
 ---
@@ -207,9 +207,8 @@ ORBISの看板スキンケアライン「オルビスユー」の乳液。ノン
 {{< product
   title="ORBIS オルビスユー モイスチャー 50g"
   img="https://m.media-amazon.com/images/P/B0B8MGS3L4.01._SL500_.jpg"
-  rakuten="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FORBIS+%E3%82%AA%E3%83%AB%E3%83%93%E3%82%B9%E3%83%A6%E3%83%BC+%E3%83%A2%E3%82%A4%E3%82%B9%E3%83%81%E3%83%A3%E3%83%BC%2F"
-  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B0B8MGS3L4"
-  yahoo="https://shopping.yahoo.co.jp/search?p=B0B8MGS3L4"
+  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB0B8MGS3L4"
+  yahoo="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DB0B8MGS3L4"
 >}}
 
 ---
@@ -264,9 +263,8 @@ ORBISの看板スキンケアライン「オルビスユー」の乳液。ノン
 {{< product
   title="アスタリフト ホワイトエマルジョン 100mL"
   img="https://m.media-amazon.com/images/P/B0851C9HH3.01._SL500_.jpg"
-  rakuten="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%A2%E3%82%B9%E3%82%BF%E3%83%AA%E3%83%95%E3%83%88+%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88+%E3%82%A8%E3%83%9E%E3%83%AB%E3%82%B8%E3%83%A7%E3%83%B3%2F"
-  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B0851C9HH3"
-  yahoo="https://shopping.yahoo.co.jp/search?p=B0851C9HH3"
+  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB0851C9HH3"
+  yahoo="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DB0851C9HH3"
 >}}
 
 ---
@@ -321,9 +319,8 @@ ORBISの看板スキンケアライン「オルビスユー」の乳液。ノン
 {{< product
   title="肌ラボ 極潤プレミアム ヒアルロン乳液 140mL"
   img="https://m.media-amazon.com/images/P/B08DRK9VH8.01._SL500_.jpg"
-  rakuten="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E8%82%8C%E3%83%A9%E3%83%9C+%E6%A5%B5%E6%BD%A4%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0+%E3%83%92%E3%82%A2%E3%83%AB%E3%83%AD%E3%83%B3%E4%B9%B3%E6%B6%B2%2F"
-  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B08DRK9VH8"
-  yahoo="https://shopping.yahoo.co.jp/search?p=B08DRK9VH8"
+  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB08DRK9VH8"
+  yahoo="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DB08DRK9VH8"
 >}}
 
 ---
@@ -378,9 +375,8 @@ ORBISの看板スキンケアライン「オルビスユー」の乳液。ノン
 {{< product
   title="無印良品 エイジングケア乳液 200mL"
   img="https://m.media-amazon.com/images/P/B0CT37VMC3.01._SL500_.jpg"
-  rakuten="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E7%84%A1%E5%8D%B0%E8%89%AF%E5%93%81+%E3%82%A8%E3%82%A4%E3%82%B8%E3%83%B3%E3%82%B0%E3%82%B1%E3%82%A2%E4%B9%B3%E6%B6%B2%2F"
-  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B0CT37VMC3"
-  yahoo="https://shopping.yahoo.co.jp/search?p=B0CT37VMC3"
+  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB0CT37VMC3"
+  yahoo="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DB0CT37VMC3"
 >}}
 
 ---
@@ -490,6 +486,8 @@ ORBISの看板スキンケアライン「オルビスユー」の乳液。ノン
 
 ---
 
+**次に試したい商品：** ORBISのオルビスユー モイスチャー。夏場は朝のベタつきが気になってくるので、ノンオイルで保湿できるという点を自分の肌で確かめてみたい。
+
 ## まとめ：40代の乳液選びは「テクスチャー × 成分」で決める
 
 40代の肌が変わってきたのは、皮脂分泌の低下とともに「乳液なしでは保湿が完結しない」フェーズに入ったから。化粧水だけのケアに手応えを感じなくなったなら、乳液を加えることで変化を感じやすくなります。
@@ -505,9 +503,8 @@ ORBISの看板スキンケアライン「オルビスユー」の乳液。ノン
 {{< product
   title="エリクシール シュペリエル リフトモイスト エマルジョン 130mL"
   img="https://m.media-amazon.com/images/P/B0FHJZ7LDZ.01._SL500_.jpg"
-  rakuten="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%A8%E3%83%AA%E3%82%AF%E3%82%B7%E3%83%BC%E3%83%AB+%E3%83%AA%E3%83%95%E3%83%88%E3%83%A2%E3%82%A4%E3%82%B9%E3%83%88+%E3%82%A8%E3%83%9E%E3%83%AB%E3%82%B8%E3%83%A7%E3%83%B3%2F"
-  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B0FHJZ7LDZ"
-  yahoo="https://shopping.yahoo.co.jp/search?p=B0FHJZ7LDZ"
+  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB0FHJZ7LDZ"
+  yahoo="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DB0FHJZ7LDZ"
 >}}
 
 ---

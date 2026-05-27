@@ -1,9 +1,9 @@
 ---
 title: "【2026年最新】40代シャンプーおすすめ3選｜うねり・乾燥・頭皮ケア別の選び方"
 date: 2026-05-02
-lastmod: 2026-05-23
+lastmod: 2026-05-27
 description: "40代のうねり・乾燥・頭皮ケアに合うシャンプーを成分から厳選。THE ANSWER・melt スムース・haru kurokamiの違いと選び方、正しい洗い方まで解説します。"
-tags: ["シャンプー", "40代", "乾燥肌", "うねり", "ヘアケア", "シャンプーおすすめ"]
+tags: ["シャンプー", "40代", "乾燥肌", "ヘアケア"]
 categories: ["ヘアケア"]
 affiliate: true
 cover:
@@ -23,12 +23,15 @@ summary_points:
 私自身が同じループにはまって、成分から調べ直した結果たどり着いた3本を紹介します。3本の中で迷ったら、まず **THE ANSWER スーパーラメラシャンプー** から試してみてください。
 
 {{< rawhtml >}}
-<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);">
+<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);display:flex;align-items:center;gap:16px;">
+  <img src="https://m.media-amazon.com/images/P/B0DSFQNXR9.09._SL500_.jpg" alt="THE ANSWER スーパーラメラシャンプー" style="width:150px;height:150px;object-fit:contain;flex-shrink:0;">
+  <div>
   <div style="font-weight:700;font-size:1.05em;margin-bottom:16px;">THE ANSWER スーパーラメラシャンプー</div>
   <div style="display:flex;gap:10px;flex-wrap:wrap;">
-    <a href="https://search.rakuten.co.jp/search/mall/THE%20ANSWER%20%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%A9%E3%83%A1%E3%83%A9%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%97%E3%83%BC/" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #bf1a1a;color:#bf1a1a;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">楽天市場</a>
-    <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B0DSFQNXR9" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
-    <a href="https://shopping.yahoo.co.jp/search?first=1&p=THE%20ANSWER%20%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%A9%E3%83%A1%E3%83%A9%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%97%E3%83%BC" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #6b2fbc;color:#6b2fbc;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Yahooショッピング</a>
+    <a href="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fkao-haircare%2Fanswer-03%2F" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #bf1a1a;color:#bf1a1a;padding:8px 16px;border-radius:4px;font-size:0.82em;font-weight:700;text-decoration:none;">楽天市場</a>
+    <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB0DSFQNXR9" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:8px 16px;border-radius:4px;font-size:0.82em;font-weight:700;text-decoration:none;">Amazon</a>
+    <a href="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4901301446183.html" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #6b2fbc;color:#6b2fbc;padding:8px 16px;border-radius:4px;font-size:0.82em;font-weight:700;text-decoration:none;">Yahooショッピング</a>
+  </div>
   </div>
 </div>
 {{< /rawhtml >}}
@@ -138,7 +141,7 @@ summary_points:
     <div class="product-heading-num">No.1</div>
     <div class="product-heading-name">THE ANSWER スーパーラメラシャンプー（花王）</div>
   </div>
-  <img class="product-heading-img" src="https://m.media-amazon.com/images/I/61exQZtK-gL._SL500_.jpg" alt="THE ANSWER スーパーラメラシャンプー">
+  <img class="product-heading-img" src="https://m.media-amazon.com/images/P/B0DSFQNXR9.09._SL500_.jpg" alt="THE ANSWER スーパーラメラシャンプー">
 </div>
 {{< /rawhtml >}}
 
@@ -180,11 +183,11 @@ summary_points:
 {{< /rawhtml >}}
 {{< product
   title="THE ANSWER スーパーラメラシャンプー（花王）"
-  img="https://m.media-amazon.com/images/I/61exQZtK-gL._SL500_.jpg"
+  img="https://m.media-amazon.com/images/P/B0DSFQNXR9.09._SL500_.jpg"
   price="¥1,760 / 400mL"
-  rakuten="https://rpx.a8.net/svt/ejp?a8mat=4B1QDP+BQ4COI+2HOM+BWGDT&rakuten=y&a8ejpredirect=https%3A%2F%2Fitem.rakuten.co.jp%2Fkao-haircare%2Fanswer-03%2F"
-  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B0DSFQNXR9"
-  yahoo="https://shopping.yahoo.co.jp/search?p=THE+ANSWER+%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%A9%E3%83%A1%E3%83%A9+%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%97%E3%83%BC"
+  rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fkao-haircare%2Fanswer-03%2F"
+  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB0DSFQNXR9"
+  yahoo="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DTHE%2BANSWER%2B%25E3%2582%25B9%25E3%2583%25BC%25E3%2583%2591%25E3%2583%25BC%25E3%2583%25A9%25E3%2583%25A1%25E3%2583%25A9%2B%25E3%2582%25B7%25E3%2583%25A3%25E3%2583%25B3%25E3%2583%2597%25E3%2583%25BC"
 >}}
 {{< rawhtml >}}
 </div>
@@ -198,7 +201,7 @@ summary_points:
     <div class="product-heading-num">No.2</div>
     <div class="product-heading-name">melt スムース シャンプー（花王）</div>
   </div>
-  <img class="product-heading-img" src="https://m.media-amazon.com/images/I/61ErYxL0EdL._SL500_.jpg" alt="melt スムース シャンプー">
+  <img class="product-heading-img" src="https://m.media-amazon.com/images/P/B0DVG8C6S1.09._SL500_.jpg" alt="melt スムース シャンプー">
 </div>
 {{< /rawhtml >}}
 
@@ -233,11 +236,11 @@ summary_points:
 
 {{< product
   title="melt スムース シャンプー（花王）"
-  img="https://m.media-amazon.com/images/I/61ErYxL0EdL._SL500_.jpg"
+  img="https://m.media-amazon.com/images/P/B0DVG8C6S1.09._SL500_.jpg"
   price="¥1,760 / 480mL"
-  rakuten="https://rpx.a8.net/svt/ejp?a8mat=4B1QDP+BQ4COI+2HOM+BWGDT&rakuten=y&a8ejpredirect=https%3A%2F%2Fitem.rakuten.co.jp%2Fkao-haircare%2Fmelt-02%2F"
-  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B0DVG8C6S1"
-  yahoo="https://shopping.yahoo.co.jp/search?p=melt+%E3%82%B9%E3%83%A0%E3%83%BC%E3%82%B9+%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%97%E3%83%BC"
+  rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fkao-haircare%2Fmelt-02%2F"
+  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB0DVG8C6S1"
+  yahoo="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3Dmelt%2B%25E3%2582%25B9%25E3%2583%25A0%25E3%2583%25BC%25E3%2582%25B9%2B%25E3%2582%25B7%25E3%2583%25A3%25E3%2583%25B3%25E3%2583%2597%25E3%2583%25BC"
 >}}
 
 ---
@@ -248,7 +251,7 @@ summary_points:
     <div class="product-heading-num">No.3</div>
     <div class="product-heading-name">haru kurokami スカルプ</div>
   </div>
-  <img class="product-heading-img" src="https://m.media-amazon.com/images/I/61+vMDxaz-L._SL500_.jpg" alt="haru kurokami スカルプ">
+  <img class="product-heading-img" src="https://m.media-amazon.com/images/P/B07ZB81Q8J.09._SL500_.jpg" alt="haru kurokami スカルプ">
 </div>
 {{< /rawhtml >}}
 
@@ -293,11 +296,11 @@ summary_points:
 
 {{< product
   title="haru kurokami スカルプ シャンプー"
-  img="https://m.media-amazon.com/images/I/61+vMDxaz-L._SL500_.jpg"
+  img="https://m.media-amazon.com/images/P/B07ZB81Q8J.09._SL500_.jpg"
   price="¥4,940 / 400mL（楽天公式）"
-  rakuten="https://rpx.a8.net/svt/ejp?a8mat=4B1QDP+BQ4COI+2HOM+BWGDT&rakuten=y&a8ejpredirect=https%3A%2F%2Fitem.rakuten.co.jp%2Fharushop%2Fharushampoo001%2F"
-  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B07ZB81Q8J"
-  yahoo="https://shopping.yahoo.co.jp/search?p=haru+kurokami+%E3%82%B9%E3%82%AB%E3%83%AB%E3%83%97"
+  rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fharushop%2Fharushampoo001%2F"
+  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB07ZB81Q8J"
+  yahoo="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3Dharu%2Bkurokami%2B%25E3%2582%25B9%25E3%2582%25AB%25E3%2583%25AB%25E3%2583%2597"
 >}}
 
 ---
@@ -446,11 +449,15 @@ haru kurokami スカルプは頭皮ケアとうねりケアの両方を1本で�
 | 向いている方 | 分け目・つむじの目立ち・根元のハリ不足が気になる40代 |
 
 {{< rawhtml >}}
-<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);">
+<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);display:flex;align-items:center;gap:16px;">
+  <img src="https://m.media-amazon.com/images/P/B0D7L6RRFD.09._SL500_.jpg" alt="オージュア プレセディア シャンプー" style="width:150px;height:150px;object-fit:contain;flex-shrink:0;">
+  <div>
   <div style="font-weight:700;font-size:1.05em;margin-bottom:16px;">オージュア プレセディア シャンプー</div>
   <div style="display:flex;gap:10px;flex-wrap:wrap;">
-    <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%AA%E3%83%BC%E3%82%B8%E3%83%A5%E3%82%A2+%E3%83%97%E3%83%AC%E3%82%BB%E3%83%87%E3%82%A3%E3%82%A2+%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%97%E3%83%BC%2F" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #bf1a1a;color:#bf1a1a;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">楽天市場</a>
-    <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B0D7L6RRFD" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
+    <a href="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fbf-shop%2F2695-002899%2F" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #bf1a1a;color:#bf1a1a;padding:8px 16px;border-radius:4px;font-size:0.82em;font-weight:700;text-decoration:none;">楽天市場</a>
+    <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB0D7L6RRFD" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:8px 16px;border-radius:4px;font-size:0.82em;font-weight:700;text-decoration:none;">Amazon</a>
+    <a href="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2582%25AA%25E3%2583%25BC%25E3%2582%25B8%25E3%2583%25A5%25E3%2582%25A2%2B%25E3%2583%2597%25E3%2583%25AC%25E3%2582%25BB%25E3%2583%2587%25E3%2582%25A3%25E3%2582%25A2%2B%25E3%2582%25B7%25E3%2583%25A3%25E3%2583%25B3%25E3%2583%2597%25E3%2583%25BC" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #6b2fbc;color:#6b2fbc;padding:8px 16px;border-radius:4px;font-size:0.82em;font-weight:700;text-decoration:none;">Yahooショッピング</a>
+  </div>
   </div>
 </div>
 {{< /rawhtml >}}
@@ -469,11 +476,11 @@ haru kurokami スカルプは頭皮ケアとうねりケアの両方を1本で�
 
 {{< product
   title="THE ANSWER スーパーラメラシャンプー（花王）"
-  img="https://m.media-amazon.com/images/I/61exQZtK-gL._SL500_.jpg"
+  img="https://m.media-amazon.com/images/P/B0DSFQNXR9.09._SL500_.jpg"
   price="¥1,760 / 400mL"
-  rakuten="https://rpx.a8.net/svt/ejp?a8mat=4B1QDP+BQ4COI+2HOM+BWGDT&rakuten=y&a8ejpredirect=https%3A%2F%2Fitem.rakuten.co.jp%2Fkao-haircare%2Fanswer-03%2F"
-  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B0DSFQNXR9"
-  yahoo="https://shopping.yahoo.co.jp/search?p=THE+ANSWER+%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%A9%E3%83%A1%E3%83%A9+%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%97%E3%83%BC"
+  rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fkao-haircare%2Fanswer-03%2F"
+  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB0DSFQNXR9"
+  yahoo="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DTHE%2BANSWER%2B%25E3%2582%25B9%25E3%2583%25BC%25E3%2583%2591%25E3%2583%25BC%25E3%2583%25A9%25E3%2583%25A1%25E3%2583%25A9%2B%25E3%2582%25B7%25E3%2583%25A3%25E3%2583%25B3%25E3%2583%2597%25E3%2583%25BC"
 >}}
 
 ヘアケア全般について、もっと詳しく知りたい方はこちらの記事もどうぞ。
