@@ -2340,7 +2340,8 @@ details.single-toc[open] .single-toc-title::after { content: '▴'; }
 /* ===== 比較表：マイベスト風（ランク番号型・標準テンプレ）===== */
 .comparison-rank {
   width: 100%;
-  border-collapse: collapse;
+  border-collapse: separate;
+  border-spacing: 0;
   min-width: 560px;
   background: #fff;
   border-radius: 8px;
@@ -2400,9 +2401,12 @@ details.single-toc[open] .single-toc-title::after { content: '▴'; }
   border-bottom: 1px solid #ddd0ca;
   color: #444;
 }
-.comparison-rank th:not(:first-child),
-.comparison-rank td:not(:first-child) {
-  box-shadow: inset 1px 0 0 #e8ddd8;
+.comparison-rank th:first-child {
+  border-right: 1px solid #ddd0ca;
+}
+.comparison-rank th:nth-child(n+3),
+.comparison-rank td:nth-child(n+3) {
+  border-left: 1px solid #e8ddd8;
 }
 .comparison-rank td.cr-label {
   background: #f5eeea;
