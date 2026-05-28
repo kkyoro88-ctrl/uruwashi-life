@@ -2341,7 +2341,6 @@ details.single-toc[open] .single-toc-title::after { content: '▴'; }
 
 /* ===== 比較表：マイベスト風（ランク番号型・標準テンプレ）===== */
 .comparison-rank {
-  width: 100%;
   border-collapse: separate;
   border-spacing: 0;
   min-width: 560px;
