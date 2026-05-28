@@ -2398,15 +2398,11 @@ details.single-toc[open] .single-toc-title::after { content: '▴'; }
   font-size: 0.75rem;
   text-align: center;
   border-bottom: 1px solid #ddd0ca;
-  border-left: 1px solid #e8ddd8;
   color: #444;
 }
-.comparison-rank th {
-  border-left: 1px solid #e8ddd8;
-}
-.comparison-rank th:first-child,
-.comparison-rank td:first-child {
-  border-left: none;
+.comparison-rank th:not(:first-child),
+.comparison-rank td:not(:first-child) {
+  box-shadow: inset 1px 0 0 #e8ddd8;
 }
 .comparison-rank td.cr-label {
   background: #f5eeea;
