@@ -89,12 +89,12 @@ if [ -n "$BAD" ]; then
 fi
 
 # -----------------------------------------------
-# 4. rawhtml 商品カード: ";display:flex バグ
+# 4. rawhtml 商品カード: ";display:flex / ;;display:flex バグ
 # -----------------------------------------------
-FILES=$(grep -rl '";display:flex' $TARGET 2>/dev/null || true)
+FILES=$(grep -rl '";display:flex\|;;display:flex' $TARGET 2>/dev/null || true)
 if [ -n "$FILES" ]; then
   COUNT=$(echo "$FILES" | wc -l | tr -d ' ')
-  red '";display:flex バグが '"${COUNT}"'ファイルに存在（商品カード画像が非表示になります）'
+  red ';;display:flex バグが '"${COUNT}"'ファイルに存在（商品カードのflex無効 → ページレイアウト崩壊の原因）'
   echo "$FILES"
   ERRORS=$((ERRORS+1))
 fi
