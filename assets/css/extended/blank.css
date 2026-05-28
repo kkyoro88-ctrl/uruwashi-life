@@ -2187,16 +2187,15 @@ details.single-toc[open] .single-toc-title::after { content: '▴'; }
   margin: 24px 0;
   overflow-x: auto;
 }
-@media (max-width: 600px) {
-  .comparison-wrap::after {
-    content: '← 横にスクロールできます →';
-    display: block;
-    font-size: 0.72rem;
-    color: var(--accent);
-    text-align: center;
-    padding: 8px 0 2px;
-    letter-spacing: 0.05em;
-  }
+.comparison-wrap::after {
+  content: '← 横にスクロールできます →';
+  display: block;
+  font-size: 0.7rem;
+  color: #c9576b;
+  text-align: right;
+  padding: 6px 4px 0;
+  letter-spacing: 0.04em;
+  opacity: 0.7;
 }
 .comparison-wrap::-webkit-scrollbar {
   height: 6px;
@@ -2354,7 +2353,8 @@ details.single-toc[open] .single-toc-title::after { content: '▴'; }
   font-weight: 700;
   text-align: center;
   background: #fff;
-  border-bottom: 2px solid #f0e8e0;
+  border-bottom: 2px solid #e0d4cc;
+  vertical-align: bottom;
 }
 .comparison-rank th.cr-featured {
   border-top: 3px solid #c9576b;
@@ -2388,22 +2388,30 @@ details.single-toc[open] .single-toc-title::after { content: '▴'; }
   font-size: 0.75rem;
   line-height: 1.3;
   color: #222;
+  min-height: 2.6em;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
 }
 .comparison-rank td {
-  padding: 10px 8px;
+  padding: 12px 8px;
   font-size: 0.75rem;
   text-align: center;
-  border-bottom: 1px solid #f5f0ec;
+  border-bottom: 1px solid #ddd0ca;
   color: #444;
 }
 .comparison-rank td.cr-label {
-  background: #faf6f2;
-  font-weight: 600;
-  color: #888;
+  background: #f5eeea;
+  font-weight: 700;
+  color: #6a5a54;
   font-size: 0.68rem;
   text-align: left;
   padding-left: 10px;
   white-space: nowrap;
+  position: sticky;
+  left: 0;
+  z-index: 1;
+  border-right: 1px solid #ddd0ca;
 }
 .comparison-rank td.cr-hi {
   background: #fff8f9;
