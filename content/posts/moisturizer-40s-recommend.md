@@ -18,12 +18,14 @@ cover:
 この記事では、40代の乾燥・ハリ不足・エイジングサインに対応できる保湿アイテムを3本厳選して紹介します。
 
 {{< rawhtml >}}
-<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);">
+<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);;display:flex;align-items:center;gap:16px;">
+  <img src="https://m.media-amazon.com/images/P/B09CL8KVPP.09._SL500_.jpg" alt="ファンケル エンリッチプラス 乳液 II しっとり" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;">
+  <div>
   <div style="font-weight:700;font-size:1.05em;margin-bottom:16px;">ファンケル エンリッチプラス 乳液 II しっとり</div>
   <div style="display:flex;gap:10px;flex-wrap:wrap;">
-    <a href="https://search.rakuten.co.jp/search/mall/%E3%83%95%E3%82%A1%E3%83%B3%E3%82%B1%E3%83%AB%20%E3%82%A8%E3%83%B3%E3%83%AA%E3%83%83%E3%83%81%E3%83%97%E3%83%A9%E3%82%B9%20%E4%B9%B3%E6%B6%B2/" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #bf1a1a;color:#bf1a1a;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">楽天市場</a>
-    <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B09CL8KVPP" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
-    <a href="https://shopping.yahoo.co.jp/search?first=1&p=%E3%83%95%E3%82%A1%E3%83%B3%E3%82%B1%E3%83%AB%20%E3%82%A8%E3%83%B3%E3%83%AA%E3%83%83%E3%83%81%E3%83%97%E3%83%A9%E3%82%B9%20%E4%B9%B3%E6%B6%B2" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #6b2fbc;color:#6b2fbc;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Yahooショッピング</a>
+    <a href="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Ffancl-shop%2F3764-21%2F" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #bf1a1a;color:#bf1a1a;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">楽天市場</a>
+    <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB09CL8KVPP" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
+    <a href="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%E3%83%95%E3%82%A1%E3%83%B3%E3%82%B1%E3%83%AB%2B%E3%82%A8%E3%83%B3%E3%83%AA%E3%83%83%E3%83%81%E3%83%97%E3%83%A9%E3%82%B9%2B%E4%B9%B3%E6%B6%B2" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #6b2fbc;color:#6b2fbc;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Yahooショッピング</a>
   </div>
 </div>
 {{< /rawhtml >}}
@@ -115,9 +117,9 @@ cover:
 {{< product
   title="ファンケル エンリッチプラス 乳液 II しっとり"
   img="https://www.rakuten.ne.jp/gold/fancl-shop/img/enrich_plus/3764-21_202303_01.jpg"
-  rakuten="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Ffancl-shop%2F3764-21%2F"
-  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B09CL8KVPP"
-  yahoo="https://shopping.yahoo.co.jp/search?p=%E3%83%95%E3%82%A1%E3%83%B3%E3%82%B1%E3%83%AB+%E3%82%A8%E3%83%B3%E3%83%AA%E3%83%83%E3%83%81%E3%83%97%E3%83%A9%E3%82%B9+%E4%B9%B3%E6%B6%B2"
+  rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Ffancl-shop%2F3764-21%2F"
+  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB09CL8KVPP"
+  yahoo="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%E3%83%95%E3%82%A1%E3%83%B3%E3%82%B1%E3%83%AB%2B%E3%82%A8%E3%83%B3%E3%83%AA%E3%83%83%E3%83%81%E3%83%97%E3%83%A9%E3%82%B9%2B%E4%B9%B3%E6%B6%B2"
 >}}
 
 ---
@@ -132,7 +134,7 @@ cover:
     <p>セラミドケアの医薬部外品</p>
   </div>
   <div class="product-heading-img">
-    <img src="https://m.media-amazon.com/images/I/71I4CSLP3hL._SL500_.jpg" alt="キュレル 潤浸保湿 フェイスクリーム">
+    <img src="https://m.media-amazon.com/images/P/B0DJNSNZ1S.09._SL500_.jpg" alt="キュレル 潤浸保湿 フェイスクリーム">
   </div>
 </div>
 {{< /rawhtml >}}
@@ -167,10 +169,10 @@ cover:
 
 {{< product
   title="キュレル 潤浸保湿 フェイスクリーム 70g"
-  img="https://m.media-amazon.com/images/I/71I4CSLP3hL._SL500_.jpg"
-  rakuten="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fbeautyplaza1%2F4901301450555%2F"
-  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B0DJNSNZ1S"
-  yahoo="https://shopping.yahoo.co.jp/search?p=%E3%82%AD%E3%83%A5%E3%83%AC%E3%83%AB+%E6%BD%A4%E6%B5%B8%E4%BF%9D%E6%B9%BF+%E3%83%95%E3%82%A7%E3%82%A4%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%A0"
+  img="https://m.media-amazon.com/images/P/B0DJNSNZ1S.09._SL500_.jpg"
+  rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fbeautyplaza1%2F4901301450555%2F"
+  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB0DJNSNZ1S"
+  yahoo="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%E3%82%AD%E3%83%A5%E3%83%AC%E3%83%AB%2B%E6%BD%A4%E6%B5%B8%E4%BF%9D%E6%B9%BF%2B%E3%83%95%E3%82%A7%E3%82%A4%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%A0"
 >}}
 
 ---
@@ -185,7 +187,7 @@ cover:
     <p>日本初承認シワ改善成分・ニールワン配合</p>
   </div>
   <div class="product-heading-img">
-    <img src="https://m.media-amazon.com/images/I/514Uq-5bGdL._SL500_.jpg" alt="ポーラ リンクルショット メディカル セラム N">
+    <img src="https://m.media-amazon.com/images/P/B08PCLLHBL.09._SL500_.jpg" alt="ポーラ リンクルショット メディカル セラム N">
   </div>
 </div>
 {{< /rawhtml >}}
@@ -218,10 +220,10 @@ cover:
 
 {{< product
   title="ポーラ リンクルショット メディカル セラム N 20g"
-  img="https://m.media-amazon.com/images/I/514Uq-5bGdL._SL500_.jpg"
-  rakuten="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fcosmeticroyal%2F4953923308509%2F"
-  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B08PCLLHBL"
-  yahoo="https://shopping.yahoo.co.jp/search?p=%E3%83%9D%E3%83%BC%E3%83%A9+%E3%83%AA%E3%83%B3%E3%82%AF%E3%83%AB%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88+%E3%83%A1%E3%83%87%E3%82%A3%E3%82%AB%E3%83%AB+%E3%82%BB%E3%83%A9%E3%83%A0"
+  img="https://m.media-amazon.com/images/P/B08PCLLHBL.09._SL500_.jpg"
+  rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fcosmeticroyal%2F4953923308509%2F"
+  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB08PCLLHBL"
+  yahoo="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%E3%83%9D%E3%83%BC%E3%83%A9%2B%E3%83%AA%E3%83%B3%E3%82%AF%E3%83%AB%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%2B%E3%83%A1%E3%83%87%E3%82%A3%E3%82%AB%E3%83%AB%2B%E3%82%BB%E3%83%A9%E3%83%A0"
 >}}
 
 ---
@@ -366,9 +368,8 @@ A. エアコンによる乾燥がある環境では、夏も必要なことが�
 {{< product
   title="ファンケル エンリッチプラス 乳液 II しっとり"
   img="https://www.rakuten.ne.jp/gold/fancl-shop/img/enrich_plus/3764-21_202303_01.jpg"
-  rakuten="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Ffancl-shop%2F3764-21%2F"
-  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B09CL8KVPP"
-  yahoo="https://shopping.yahoo.co.jp/search?p=%E3%83%95%E3%82%A1%E3%83%B3%E3%82%B1%E3%83%AB+%E3%82%A8%E3%83%B3%E3%83%AA%E3%83%83%E3%83%81%E3%83%97%E3%83%A9%E3%82%B9+%E4%B9%B3%E6%B6%B2"
+  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB09CL8KVPP"
+  yahoo="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%E3%83%95%E3%82%A1%E3%83%B3%E3%82%B1%E3%83%AB%2B%E3%82%A8%E3%83%B3%E3%83%AA%E3%83%83%E3%83%81%E3%83%97%E3%83%A9%E3%82%B9%2B%E4%B9%B3%E6%B6%B2"
 >}}
 
 {{< rawhtml >}}

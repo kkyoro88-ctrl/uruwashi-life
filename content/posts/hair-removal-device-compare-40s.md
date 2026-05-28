@@ -18,12 +18,14 @@ cover:
 この記事では、実際に使ってきた目線から**ケノン・Ulike Air10・トリア4X**を正直に比較します。40代の肌に合う選び方のポイントと、タイプ別のおすすめも合わせて解説します。
 
 {{< rawhtml >}}
-<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);">
+<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);;display:flex;align-items:center;gap:16px;">
+  <img src="https://m.media-amazon.com/images/P/B0CZDQW6QJ.09._SL500_.jpg" alt="Ulike Air10 脱毛器 光美容器" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;">
+  <div>
   <div style="font-weight:700;font-size:1.05em;margin-bottom:16px;">Ulike Air10 脱毛器 光美容器</div>
   <div style="display:flex;gap:10px;flex-wrap:wrap;">
-    <a href="https://search.rakuten.co.jp/search/mall/Ulike%20Air10%20%E5%85%89%E7%BE%8E%E5%AE%B9%E5%99%A8/" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #bf1a1a;color:#bf1a1a;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">楽天市場</a>
-    <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B0CZDQW6QJ" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
-    <a href="https://shopping.yahoo.co.jp/search?first=1&p=Ulike%20Air10%20%E5%85%89%E7%BE%8E%E5%AE%B9%E5%99%A8" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #6b2fbc;color:#6b2fbc;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Yahooショッピング</a>
+    <a href="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fmrock%2Fke-non%2F" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #bf1a1a;color:#bf1a1a;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">楽天市場</a>
+    <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB0CZDQW6QJ" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
+    <a href="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DUlike%2BAir10%2B%E5%85%89%E7%BE%8E%E5%AE%B9%E5%99%A8" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #6b2fbc;color:#6b2fbc;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Yahooショッピング</a>
   </div>
 </div>
 {{< /rawhtml >}}
@@ -102,7 +104,7 @@ cover:
 
 {{< rawhtml >}}
 <div style="text-align:center; margin: 1.5em 0;">
-  <a href="https://rpx.a8.net/svt/ejp?a8mat=4B1QDP+BQ4COI+2HOM+BWGDT&rakuten=y&a8ejpredirect=https%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2Fg00prkp4.2bo11018.g00prkp4.2bo12d64%2Fa26042104339_4B1QDP_BQ4COI_2HOM_BWGDT%3Fpc%3Dhttps%253A%252F%252Fitem.rakuten.co.jp%252Fmrock%252Fke-non%252F%26m%3Dhttp%253A%252F%252Fm.rakuten.co.jp%252Fmrock%252Fi%252F10012094%252F%26rafcid%3Dwsc_i_is_33f72da33714639c415e592c9633ecd7" target="_blank" rel="nofollow noopener" style="display:inline-block; background:#e8554e; color:#fff; padding:16px 40px; border-radius:30px; font-size:1.1em; font-weight:bold; text-decoration:none;">
+  <a href="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fmrock%2Fke-non%2F" target="_blank" rel="nofollow noopener" style="display:inline-block; background:#e8554e; color:#fff; padding:16px 40px; border-radius:30px; font-size:1.1em; font-weight:bold; text-decoration:none;">
     ケノン公式を楽天で見てみる →
   </a>
   <img border="0" width="1" height="1" src="https://www19.a8.net/0.gif?a8mat=4B1QDP+BQ4COI+2HOM+BWGDT" alt="">

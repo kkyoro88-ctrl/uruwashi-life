@@ -19,12 +19,14 @@ draft: false
 迷ったら、まず **スカルプDボーテ 薬用スカルプシャンプー** から試してみてください。育毛専門メーカー・アンファーが開発した医薬部外品で、薬用育毛成分配合の女性向けスカルプシャンプーです。
 
 {{< rawhtml >}}
-<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);">
+<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);;display:flex;align-items:center;gap:16px;">
+  <img src="https://m.media-amazon.com/images/P/B09S3C8MRB.09._SL500_.jpg" alt="スカルプDボーテ 薬用スカルプシャンプー ボリューム" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;">
+  <div>
   <div style="font-weight:700;font-size:1.05em;margin-bottom:16px;">スカルプDボーテ 薬用スカルプシャンプー ボリューム</div>
   <div style="display:flex;gap:10px;flex-wrap:wrap;">
-    <a href="https://search.rakuten.co.jp/search/mall/%E3%82%B9%E3%82%AB%E3%83%AB%E3%83%97D%E3%83%9C%E3%83%BC%E3%83%86%20%E8%96%AC%E7%94%A8%E3%82%B9%E3%82%AB%E3%83%AB%E3%83%97%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%97%E3%83%BC/" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #bf1a1a;color:#bf1a1a;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">楽天市場</a>
-    <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B09S3C8MRB" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
-    <a href="https://shopping.yahoo.co.jp/search?first=1&p=%E3%82%B9%E3%82%AB%E3%83%AB%E3%83%97D%E3%83%9C%E3%83%BC%E3%83%86%20%E8%96%AC%E7%94%A8%E3%82%B9%E3%82%AB%E3%83%AB%E3%83%97%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%97%E3%83%BC" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #6b2fbc;color:#6b2fbc;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Yahooショッピング</a>
+    <a href="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fangfa%2Fbeaute-s%2F" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #bf1a1a;color:#bf1a1a;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">楽天市場</a>
+    <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB09S3C8MRB" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
+    <a href="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%E3%82%B9%E3%82%AB%E3%83%AB%E3%83%97D%E3%83%9C%E3%83%BC%E3%83%86%2B%E8%96%AC%E7%94%A8%E3%82%B9%E3%82%AB%E3%83%AB%E3%83%97%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%97%E3%83%BC" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #6b2fbc;color:#6b2fbc;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Yahooショッピング</a>
   </div>
 </div>
 {{< /rawhtml >}}
@@ -125,7 +127,7 @@ draft: false
     <div class="product-heading-num">No.1 イチ推し</div>
     <div class="product-heading-name">スカルプDボーテ 薬用スカルプシャンプー（女性用）350ml</div>
   </div>
-  <img class="product-heading-img" src="https://m.media-amazon.com/images/I/61UIkdiYxuL._SL500_.jpg" alt="スカルプDボーテ 薬用スカルプシャンプー">
+  <img class="product-heading-img" src="https://m.media-amazon.com/images/P/B09S3C8MRB.09._SL500_.jpg" alt="スカルプDボーテ 薬用スカルプシャンプー">
 </div>
 {{< /rawhtml >}}
 
@@ -165,11 +167,11 @@ draft: false
 {{< /rawhtml >}}
 {{< product
   title="スカルプDボーテ 薬用スカルプシャンプー ボリューム 350ml【医薬部外品】"
-  img="https://m.media-amazon.com/images/I/61UIkdiYxuL._SL500_.jpg"
+  img="https://m.media-amazon.com/images/P/B09S3C8MRB.09._SL500_.jpg"
   price="公式価格参照 / 350ml"
-  rakuten="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fangfa%2Fbeaute-s%2F"
-  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B09S3C8MRB"
-  yahoo="https://shopping.yahoo.co.jp/search?p=%E3%82%B9%E3%82%AB%E3%83%AB%E3%83%97D+%E3%83%9C%E3%83%BC%E3%83%86+%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%97%E3%83%BC+%E3%83%9C%E3%83%AA%E3%83%A5%E3%83%BC%E3%83%A0"
+  rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fangfa%2Fbeaute-s%2F"
+  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB09S3C8MRB"
+  yahoo="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%E3%82%B9%E3%82%AB%E3%83%AB%E3%83%97D%2B%E3%83%9C%E3%83%BC%E3%83%86%2B%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%97%E3%83%BC%2B%E3%83%9C%E3%83%AA%E3%83%A5%E3%83%BC%E3%83%A0"
 >}}
 {{< rawhtml >}}
 </div>
@@ -183,7 +185,7 @@ draft: false
     <div class="product-heading-num">No.2</div>
     <div class="product-heading-name">ルメント 高濃度炭酸オイルシャンプー 200g</div>
   </div>
-  <img class="product-heading-img" src="https://m.media-amazon.com/images/I/41qC+QIzExL._SL500_.jpg" alt="ルメント 高濃度炭酸シャンプー">
+  <img class="product-heading-img" src="https://m.media-amazon.com/images/P/B09S3C8MRB.09._SL500_.jpg" alt="ルメント 高濃度炭酸シャンプー">
 </div>
 {{< /rawhtml >}}
 
@@ -214,11 +216,11 @@ draft: false
 
 {{< product
   title="ルメント 高濃度炭酸オイルシャンプー 200g"
-  img="https://m.media-amazon.com/images/I/41qC+QIzExL._SL500_.jpg"
+  img="https://m.media-amazon.com/images/P/B0BHYJQCKT.09._SL500_.jpg"
   price="公式価格参照 / 200g"
-  rakuten="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fmagicnumber%2Fsoc-s01%2F"
-  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B0BHYJQCKT"
-  yahoo="https://shopping.yahoo.co.jp/search?p=%E3%83%AB%E3%83%A1%E3%83%B3%E3%83%88+%E7%82%AD%E9%85%B8%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%97%E3%83%BC"
+  rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fmagicnumber%2Fsoc-s01%2F"
+  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB0BHYJQCKT"
+  yahoo="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%E3%83%AB%E3%83%A1%E3%83%B3%E3%83%88%2B%E7%82%AD%E9%85%B8%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%97%E3%83%BC"
 >}}
 
 ---
@@ -361,11 +363,10 @@ A. 40代であれば今すぐが最適のタイミングです。ヘアサイク
 
 {{< product
   title="スカルプDボーテ 薬用スカルプシャンプー ボリューム 350ml【医薬部外品】"
-  img="https://m.media-amazon.com/images/I/61UIkdiYxuL._SL500_.jpg"
+  img="https://m.media-amazon.com/images/P/B09S3C8MRB.09._SL500_.jpg"
   price="公式価格参照 / 350ml"
-  rakuten="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fangfa%2Fbeaute-s%2F"
-  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B09S3C8MRB"
-  yahoo="https://shopping.yahoo.co.jp/search?p=%E3%82%B9%E3%82%AB%E3%83%AB%E3%83%97D+%E3%83%9C%E3%83%BC%E3%83%86+%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%97%E3%83%BC+%E3%83%9C%E3%83%AA%E3%83%A5%E3%83%BC%E3%83%A0"
+  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB09S3C8MRB"
+  yahoo="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%E3%82%B9%E3%82%AB%E3%83%AB%E3%83%97D%2B%E3%83%9C%E3%83%BC%E3%83%86%2B%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%97%E3%83%BC%2B%E3%83%9C%E3%83%AA%E3%83%A5%E3%83%BC%E3%83%A0"
 >}}
 
 {{< rawhtml >}}

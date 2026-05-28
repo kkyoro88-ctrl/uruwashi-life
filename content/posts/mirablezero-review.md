@@ -5,7 +5,7 @@ lastmod: 2026-05-17
 draft: false
 affiliate: true
 categories: ["口コミ・レビュー", "スキンケア"]
-tags: ["シャワーヘッド", "スキンケア", "口コミ"]
+tags: ["スキンケア", "口コミ"]
 description: "ミラブルzeroを実際に使った本音レビュー。シャワーヘッドの使用感・ウルトラファインミストの効果から、効果なし・悪い評判・デメリットまで正直に公開します。"
 cover:
   image: "/images/mirablezero-review.png"
@@ -65,13 +65,14 @@ cover:
 ---
 
 {{< rawhtml >}}
-<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);">
+<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);;display:flex;align-items:center;gap:16px;">
+  <img src="https://m.media-amazon.com/images/I/51cOCI3-AZL._SL300_.jpg" alt="ミラブルzero" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;">
+  <div>
   <div style="font-weight:700;font-size:1.05em;margin-bottom:16px;">ミラブルzero</div>
   <div style="display:flex;gap:10px;flex-wrap:wrap;">
     <a href="https://px.a8.net/svt/ejp?a8mat=4B1QDW+4Q9ZSI+4X44+BWVTE" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #2d7d46;color:#2d7d46;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">公式サイト</a>
-    <a href="https://search.rakuten.co.jp/search/mall/ミラブルzero/" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #bf1a1a;color:#bf1a1a;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">楽天市場</a>
-    <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/s?k=ミラブルzero" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
-    <a href="https://shopping.yahoo.co.jp/search?p=ミラブルzero" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #6b2fbc;color:#6b2fbc;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Yahooショッピング</a>
+    <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%E3%83%9F%E3%83%A9%E3%83%96%E3%83%ABzero" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
+    <a href="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%E3%83%9F%E3%83%A9%E3%83%96%E3%83%ABzero" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #6b2fbc;color:#6b2fbc;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Yahooショッピング</a>
   </div>
 </div>
 {{< /rawhtml >}}
@@ -316,13 +317,14 @@ Amazonや楽天で「ミラブル」に似た商品が安く売られていま�
 30代・40代って、スキンケアに力を入れているのに「なかなか変わらない」と感じることが増えてきませんか？ミラブルzeroは、そのループを根本から変えてくれるアイテムだと思っています。
 
 {{< rawhtml >}}
-<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);">
+<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);;display:flex;align-items:center;gap:16px;">
+  <img src="https://m.media-amazon.com/images/I/51cOCI3-AZL._SL300_.jpg" alt="ミラブルzero" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;">
+  <div>
   <div style="font-weight:700;font-size:1.05em;margin-bottom:16px;">ミラブルzero</div>
   <div style="display:flex;gap:10px;flex-wrap:wrap;">
     <a href="https://px.a8.net/svt/ejp?a8mat=4B1QDW+4Q9ZSI+4X44+BWVTE" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #2d7d46;color:#2d7d46;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">公式サイト</a>
-    <a href="https://search.rakuten.co.jp/search/mall/ミラブルzero/" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #bf1a1a;color:#bf1a1a;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">楽天市場</a>
-    <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/s?k=ミラブルzero" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
-    <a href="https://shopping.yahoo.co.jp/search?p=ミラブルzero" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #6b2fbc;color:#6b2fbc;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Yahooショッピング</a>
+    <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%E3%83%9F%E3%83%A9%E3%83%96%E3%83%ABzero" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
+    <a href="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%E3%83%9F%E3%83%A9%E3%83%96%E3%83%ABzero" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #6b2fbc;color:#6b2fbc;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Yahooショッピング</a>
   </div>
 </div>
 {{< /rawhtml >}}

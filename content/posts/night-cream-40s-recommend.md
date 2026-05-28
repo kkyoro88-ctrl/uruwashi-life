@@ -1,10 +1,11 @@
 ---
 title: "【2026年最新】ナイトクリームおすすめ40代向け3選｜乾燥・シワへの夜間アプローチ"
 date: 2026-05-20
+lastmod: 2026-05-26
 draft: false
 affiliate: true
 categories: ["スキンケア"]
-tags: ["40代", "ナイトクリーム", "エイジングケア", "乾燥肌", "シワ改善", "医薬部外品"]
+tags: ["40代", "スキンケア", "エイジングケア", "乾燥肌", "シワケア"]
 description: "40代の乾燥・シワ・たるみに向けたナイトクリームの選び方を解説。医薬部外品のシワ改善クリームから保湿重視のプチプラまで、40代乾燥敏感肌が正直に選んだ3本をまとめました。"
 cover:
   image: "/images/night-cream-40s-recommend.png"
@@ -22,13 +23,13 @@ cover:
 {{< rawhtml >}}
 <div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);">
   <div style="display:flex;gap:16px;align-items:flex-start;flex-wrap:wrap;">
-    <img src="https://thumbnail.image.rakuten.co.jp/@0_mall/yayoi-cosme/cabinet/10309740/imgrc0094499011.jpg" alt="エリクシール シュペリエル リフトナイトクリーム W" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;" loading="lazy">
+    <img src="https://thumbnail.image.rakuten.co.jp/@0_mall/yayoi-cosme/cabinet/10309740/imgrc0094499011.jpg" alt="エリクシール シュペリエル リフトナイトクリーム W" style="width:160px;height:160px;object-fit:contain;flex-shrink:0;" loading="lazy">
     <div style="flex:1;min-width:200px;">
       <div style="font-weight:700;font-size:1.05em;margin-bottom:12px;">エリクシール シュペリエル リフトナイトクリーム W</div>
       <div style="display:flex;gap:10px;flex-wrap:wrap;">
-        <a href="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=27059&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fyayoi-cosme%2F05670%2F" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #bf1a1a;color:#bf1a1a;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">楽天市場</a>
+        <a href="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fyayoi-cosme%2F05670%2F" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #bf1a1a;color:#bf1a1a;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">楽天市場</a>
         <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=27060&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%E3%82%A8%E3%83%AA%E3%82%AF%E3%82%B7%E3%83%BC%E3%83%AB%2B%E3%82%B7%E3%83%A5%E3%83%9A%E3%83%AA%E3%82%A8%E3%83%AB%2B%E3%83%AA%E3%83%95%E3%83%88%E3%83%8A%E3%82%A4%E3%83%88%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%A0" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
-        <a href="https://shopping.yahoo.co.jp/search?p=%E3%82%A8%E3%83%AA%E3%82%AF%E3%82%B7%E3%83%BC%E3%83%AB+%E3%82%B7%E3%83%A5%E3%83%9A%E3%83%AA%E3%82%A8%E3%83%AB+%E3%83%AA%E3%83%95%E3%83%88%E3%83%8A%E3%82%A4%E3%83%88%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%A0" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #6b2fbc;color:#6b2fbc;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Yahooショッピング</a>
+        <a href="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%E3%82%A8%E3%83%AA%E3%82%AF%E3%82%B7%E3%83%BC%E3%83%AB%2B%E3%82%B7%E3%83%A5%E3%83%9A%E3%83%AA%E3%82%A8%E3%83%AB%2B%E3%83%AA%E3%83%95%E3%83%88%E3%83%8A%E3%82%A4%E3%83%88%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%A0" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #6b2fbc;color:#6b2fbc;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Yahooショッピング</a>
       </div>
     </div>
   </div>
@@ -107,13 +108,12 @@ cover:
 {{< rawhtml >}}
 <div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);">
   <div style="display:flex;gap:16px;align-items:flex-start;flex-wrap:wrap;">
-    <img src="https://thumbnail.image.rakuten.co.jp/@0_mall/yayoi-cosme/cabinet/10309740/imgrc0094499011.jpg" alt="エリクシール シュペリエル リフトナイトクリーム W" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;" loading="lazy">
+    <img src="https://thumbnail.image.rakuten.co.jp/@0_mall/yayoi-cosme/cabinet/10309740/imgrc0094499011.jpg" alt="エリクシール シュペリエル リフトナイトクリーム W" style="width:160px;height:160px;object-fit:contain;flex-shrink:0;" loading="lazy">
     <div style="flex:1;min-width:200px;">
       <div style="font-weight:700;font-size:1.05em;margin-bottom:12px;">エリクシール シュペリエル リフトナイトクリーム W</div>
       <div style="display:flex;gap:10px;flex-wrap:wrap;">
-        <a href="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=27059&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fyayoi-cosme%2F05670%2F" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #bf1a1a;color:#bf1a1a;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">楽天市場</a>
         <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=27060&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%E3%82%A8%E3%83%AA%E3%82%AF%E3%82%B7%E3%83%BC%E3%83%AB%2B%E3%82%B7%E3%83%A5%E3%83%9A%E3%83%AA%E3%82%A8%E3%83%AB%2B%E3%83%AA%E3%83%95%E3%83%88%E3%83%8A%E3%82%A4%E3%83%88%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%A0" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
-        <a href="https://shopping.yahoo.co.jp/search?p=%E3%82%A8%E3%83%AA%E3%82%AF%E3%82%B7%E3%83%BC%E3%83%AB+%E3%82%B7%E3%83%A5%E3%83%9A%E3%83%AA%E3%82%A8%E3%83%AB+%E3%83%AA%E3%83%95%E3%83%88%E3%83%8A%E3%82%A4%E3%83%88%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%A0" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #6b2fbc;color:#6b2fbc;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Yahooショッピング</a>
+        <a href="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%E3%82%A8%E3%83%AA%E3%82%AF%E3%82%B7%E3%83%BC%E3%83%AB%2B%E3%82%B7%E3%83%A5%E3%83%9A%E3%83%AA%E3%82%A8%E3%83%AB%2B%E3%83%AA%E3%83%95%E3%83%88%E3%83%8A%E3%82%A4%E3%83%88%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%A0" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #6b2fbc;color:#6b2fbc;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Yahooショッピング</a>
       </div>
     </div>
   </div>
@@ -132,6 +132,10 @@ cover:
 - 化粧品（医薬部外品ではない）のためシワ改善の訴求はできない
 - ジェルに近いテクスチャーで、超乾燥肌には物足りない場合も
 - 香りはほぼないが、独特のテクスチャーが好みによる
+- **合わなかった理由：** シワへの変化実感はなく「保湿はできているけど次のステップに進みたい」と感じて卒業した
+
+**使ってみて感じたこと**
+ナイトクリームを習慣にするための最初の1本として使いました。乾燥が落ち着いた実感は3週間ほどで出てきました。ただ「シワが改善した」という感覚は薄く、保湿の土台ができたあとに医薬部外品に切り替えたくなりました。「まず夜にクリームを塗る習慣を作る」目的としては十分役割を果たしてくれた一本です。
 
 **コスパを重視する方への選択肢**
 1,400〜1,600円前後で購入できるため、「まずナイトクリームを習慣にしてから、次のステップとして医薬部外品に移行する」という方にも向いています。
@@ -139,13 +143,13 @@ cover:
 {{< rawhtml >}}
 <div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);">
   <div style="display:flex;gap:16px;align-items:flex-start;flex-wrap:wrap;">
-    <img src="https://thumbnail.image.rakuten.co.jp/@0_mall/matsukiyo/cabinet/d0074/4987241171316_1.jpg" alt="ロート製薬 肌ラボ 極潤 薬用ハリクリーム 50g（医薬部外品）" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;" loading="lazy">
+    <img src="https://thumbnail.image.rakuten.co.jp/@0_mall/matsukiyo/cabinet/d0074/4987241171316_1.jpg" alt="ロート製薬 肌ラボ 極潤 薬用ハリクリーム 50g（医薬部外品）" style="width:160px;height:160px;object-fit:contain;flex-shrink:0;" loading="lazy">
     <div style="flex:1;min-width:200px;">
       <div style="font-weight:700;font-size:1.05em;margin-bottom:12px;">ロート製薬 肌ラボ 極潤 薬用ハリクリーム 50g（医薬部外品）</div>
       <div style="display:flex;gap:10px;flex-wrap:wrap;">
-        <a href="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=27059&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fmatsukiyo%2F4987241171316%2F" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #bf1a1a;color:#bf1a1a;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">楽天市場</a>
+        <a href="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fmatsukiyo%2F4987241171316%2F" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #bf1a1a;color:#bf1a1a;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">楽天市場</a>
         <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=27060&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%E8%82%8C%E3%83%A9%E3%83%9C%2B%E6%A5%B5%E6%BD%A4%2B%E8%96%AC%E7%94%A8%E3%83%8F%E3%83%AA%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%A0%2B50g" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
-        <a href="https://shopping.yahoo.co.jp/search?p=%E8%82%8C%E3%83%A9%E3%83%9C+%E6%A5%B5%E6%BD%A4+%E8%96%AC%E7%94%A8%E3%83%8F%E3%83%AA%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%A0+50g" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #6b2fbc;color:#6b2fbc;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Yahooショッピング</a>
+        <a href="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%E8%82%8C%E3%83%A9%E3%83%9C%2B%E6%A5%B5%E6%BD%A4%2B%E8%96%AC%E7%94%A8%E3%83%8F%E3%83%AA%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%A0%2B50g" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #6b2fbc;color:#6b2fbc;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Yahooショッピング</a>
       </div>
     </div>
   </div>
@@ -164,6 +168,10 @@ cover:
 - 医薬部外品ではないため、シワ改善の有効成分なし
 - テクスチャーはやや軽めで、超乾燥肌には重ねづけが必要な場合も
 - 公式サイト購入が基本（定期購入で割引あり）
+- **合わなかった理由：** 乾燥が強い日はテクスチャーが軽すぎて物足りなく、クリームを重ね塗りしても追いつかないと感じた
+
+**使ってみて感じたこと**
+使い続けた1ヶ月で、朝の肌のバリア感が変わった気がします。「肌が整った」という落ち着き感があって、刺激を感じにくい日が増えた印象です。ただ乾燥が強い秋冬は物足りなく、同じブランドでもう少し油分のあるクリームに変えたくなりました。オルビスブランドへの信頼感は使ってから高まりました。
 
 **バランス型の選択肢として**
 2,970円前後で、香料・着色料・鉱物油・アルコールフリーの設計は、「肌に合わないものを排除したい」40代乾燥敏感肌の方に選ばれています。化粧品ですが、保湿力と使い続けやすさのバランスが良い一本です。
@@ -171,13 +179,13 @@ cover:
 {{< rawhtml >}}
 <div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);">
   <div style="display:flex;gap:16px;align-items:flex-start;flex-wrap:wrap;">
-    <img src="https://thumbnail.image.rakuten.co.jp/@0_mall/cosme21/cabinet/g/orbis1551_001.jpg" alt="ORBIS オルビスユー ジェルモイスチャライザー 50g" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;" loading="lazy">
+    <img src="https://thumbnail.image.rakuten.co.jp/@0_mall/cosme21/cabinet/g/orbis1551_001.jpg" alt="ORBIS オルビスユー ジェルモイスチャライザー 50g" style="width:160px;height:160px;object-fit:contain;flex-shrink:0;" loading="lazy">
     <div style="flex:1;min-width:200px;">
       <div style="font-weight:700;font-size:1.05em;margin-bottom:12px;">ORBIS オルビスユー ジェルモイスチャライザー 50g</div>
       <div style="display:flex;gap:10px;flex-wrap:wrap;">
-        <a href="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=27059&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fcosme21%2Forbis1551%2F" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #bf1a1a;color:#bf1a1a;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">楽天市場</a>
+        <a href="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fcosme21%2Forbis1551%2F" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #bf1a1a;color:#bf1a1a;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">楽天市場</a>
         <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=27060&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DORBIS%2B%E3%82%AA%E3%83%AB%E3%83%93%E3%82%B9%E3%83%A6%E3%83%BC%2B%E3%82%B8%E3%82%A7%E3%83%AB%E3%83%A2%E3%82%A4%E3%82%B9%E3%83%81%E3%83%A3%E3%83%A9%E3%82%A4%E3%82%B6%E3%83%BC" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
-        <a href="https://shopping.yahoo.co.jp/search?p=ORBIS+%E3%82%AA%E3%83%AB%E3%83%93%E3%82%B9%E3%83%A6%E3%83%BC+%E3%82%B8%E3%82%A7%E3%83%AB%E3%83%A2%E3%82%A4%E3%82%B9%E3%83%81%E3%83%A3%E3%83%A9%E3%82%A4%E3%82%B6%E3%83%BC" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #6b2fbc;color:#6b2fbc;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Yahooショッピング</a>
+        <a href="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DORBIS%2B%E3%82%AA%E3%83%AB%E3%83%93%E3%82%B9%E3%83%A6%E3%83%BC%2B%E3%82%B8%E3%82%A7%E3%83%AB%E3%83%A2%E3%82%A4%E3%82%B9%E3%83%81%E3%83%A3%E3%83%A9%E3%82%A4%E3%82%B6%E3%83%BC" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #6b2fbc;color:#6b2fbc;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Yahooショッピング</a>
       </div>
     </div>
   </div>
@@ -250,6 +258,12 @@ A. 40代以降は乳液の油分量だけでは物足りなくなるケースが
 
 ---
 
+## 次に試してみたい1本
+
+エリクシールを続けてきて、ナイアシンアミドのシワ改善アプローチには手応えを感じています。次のステップとして、夜専用のレチノール配合クリームも試してみたいと思っています。レチノールは夜の肌修復のタイミングに合わせた成分なので、ナイトクリームとの相性は良いはず。「ナイアシンアミドで整えてきたところに、レチノールで攻める」という順序が今の肌には合いそうだと感じています。
+
+---
+
 ## 2025年8月リニューアルの注目作
 
 ### エリクシール シュペリエル リフトナイトクリーム W（コラジェネシス配合）
@@ -268,12 +282,13 @@ A. 40代以降は乳液の油分量だけでは物足りなくなるケースが
 | 向いている方 | コラーゲンアプローチのナイトケアを手頃に始めたい方 |
 
 {{< rawhtml >}}
-<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);">
+<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);;display:flex;align-items:center;gap:16px;">
+  <img src="https://m.media-amazon.com/images/P/B01LPFB6UQ.09._SL500_.jpg" alt="エリクシール シュペリエル リフトナイトクリーム W" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;">
+  <div>
   <div style="font-weight:700;font-size:1.05em;margin-bottom:16px;">エリクシール シュペリエル リフトナイトクリーム W</div>
   <div style="display:flex;gap:10px;flex-wrap:wrap;">
-    <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%A8%E3%83%AA%E3%82%AF%E3%82%B7%E3%83%BC%E3%83%AB+%E3%83%AA%E3%83%95%E3%83%88%E3%83%8A%E3%82%A4%E3%83%88%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%A0+W%2F" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #bf1a1a;color:#bf1a1a;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">楽天市場</a>
-    <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B01LPFB6UQ" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
-    <a href="https://shopping.yahoo.co.jp/search?p=%E3%82%A8%E3%83%AA%E3%82%AF%E3%82%B7%E3%83%BC%E3%83%AB+%E3%83%AA%E3%83%95%E3%83%88%E3%83%8A%E3%82%A4%E3%83%88%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%A0+W" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #6b2fbc;color:#6b2fbc;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Yahooショッピング</a>
+    <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB01LPFB6UQ" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
+    <a href="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%E3%82%A8%E3%83%AA%E3%82%AF%E3%82%B7%E3%83%BC%E3%83%AB%2B%E3%83%AA%E3%83%95%E3%83%88%E3%83%8A%E3%82%A4%E3%83%88%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%A0%2BW" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #6b2fbc;color:#6b2fbc;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Yahooショッピング</a>
   </div>
 </div>
 {{< /rawhtml >}}
@@ -295,13 +310,12 @@ A. 40代以降は乳液の油分量だけでは物足りなくなるケースが
 {{< rawhtml >}}
 <div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);">
   <div style="display:flex;gap:16px;align-items:flex-start;flex-wrap:wrap;">
-    <img src="https://thumbnail.image.rakuten.co.jp/@0_mall/yayoi-cosme/cabinet/10309740/imgrc0094499011.jpg" alt="エリクシール シュペリエル リフトナイトクリーム W" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;" loading="lazy">
+    <img src="https://thumbnail.image.rakuten.co.jp/@0_mall/yayoi-cosme/cabinet/10309740/imgrc0094499011.jpg" alt="エリクシール シュペリエル リフトナイトクリーム W" style="width:160px;height:160px;object-fit:contain;flex-shrink:0;" loading="lazy">
     <div style="flex:1;min-width:200px;">
       <div style="font-weight:700;font-size:1.05em;margin-bottom:12px;">エリクシール シュペリエル リフトナイトクリーム W</div>
       <div style="display:flex;gap:10px;flex-wrap:wrap;">
-        <a href="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=27059&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fyayoi-cosme%2F05670%2F" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #bf1a1a;color:#bf1a1a;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">楽天市場</a>
         <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=27060&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%E3%82%A8%E3%83%AA%E3%82%AF%E3%82%B7%E3%83%BC%E3%83%AB%2B%E3%82%B7%E3%83%A5%E3%83%9A%E3%83%AA%E3%82%A8%E3%83%AB%2B%E3%83%AA%E3%83%95%E3%83%88%E3%83%8A%E3%82%A4%E3%83%88%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%A0" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
-        <a href="https://shopping.yahoo.co.jp/search?p=%E3%82%A8%E3%83%AA%E3%82%AF%E3%82%B7%E3%83%BC%E3%83%AB+%E3%82%B7%E3%83%A5%E3%83%9A%E3%83%AA%E3%82%A8%E3%83%AB+%E3%83%AA%E3%83%95%E3%83%88%E3%83%8A%E3%82%A4%E3%83%88%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%A0" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #6b2fbc;color:#6b2fbc;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Yahooショッピング</a>
+        <a href="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%E3%82%A8%E3%83%AA%E3%82%AF%E3%82%B7%E3%83%BC%E3%83%AB%2B%E3%82%B7%E3%83%A5%E3%83%9A%E3%83%AA%E3%82%A8%E3%83%AB%2B%E3%83%AA%E3%83%95%E3%83%88%E3%83%8A%E3%82%A4%E3%83%88%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%A0" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #6b2fbc;color:#6b2fbc;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Yahooショッピング</a>
       </div>
     </div>
   </div>

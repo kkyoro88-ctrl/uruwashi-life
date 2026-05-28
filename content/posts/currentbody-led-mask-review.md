@@ -38,13 +38,14 @@ cover:
 {{< /rawhtml >}}
 
 {{< rawhtml >}}
-<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);">
+<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);;display:flex;align-items:center;gap:16px;">
+  <img src="https://m.media-amazon.com/images/P/B0DPLTQ22L.09._SL500_.jpg" alt="CurrentBody LEDフェイスマスク" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;">
+  <div>
   <div style="font-weight:700;font-size:1.05em;margin-bottom:16px;">CurrentBody LEDフェイスマスク</div>
   <div style="display:flex;gap:10px;flex-wrap:wrap;">
     <a href="https://px.a8.net/svt/ejp?a8mat=4B1R5P+FYJBJM+54TM+60H7M" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #2d7d46;color:#2d7d46;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">公式サイト</a>
-    <a href="https://search.rakuten.co.jp/search/mall/CurrentBody+LEDフェイスマスク/" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #bf1a1a;color:#bf1a1a;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">楽天市場</a>
-    <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/s?k=CurrentBody+LED+フェイスマスク" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
-    <a href="https://shopping.yahoo.co.jp/search?p=CurrentBody+LEDフェイスマスク" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #6b2fbc;color:#6b2fbc;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Yahooショッピング</a>
+    <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DCurrentBody%2BLED%2B%E3%83%95%E3%82%A7%E3%82%A4%E3%82%B9%E3%83%9E%E3%82%B9%E3%82%AF" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
+    <a href="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DCurrentBody%2BLED%E3%83%95%E3%82%A7%E3%82%A4%E3%82%B9%E3%83%9E%E3%82%B9%E3%82%AF" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #6b2fbc;color:#6b2fbc;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Yahooショッピング</a>
   </div>
 </div>
 {{< /rawhtml >}}
@@ -95,22 +96,24 @@ CurrentBodyのLEDマスクは現在2種類展開されています。
 {{< /rawhtml >}}
 
 {{< rawhtml >}}
-<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);">
+<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);;display:flex;align-items:center;gap:16px;">
+  <img src="https://m.media-amazon.com/images/P/B0DPLTQ22L.09._SL500_.jpg" alt="CurrentBody LEDライトセラピーマスク シリーズ2" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;">
+  <div>
   <div style="font-weight:700;font-size:1.05em;margin-bottom:16px;">CurrentBody LEDライトセラピーマスク シリーズ2</div>
   <div style="display:flex;gap:10px;flex-wrap:wrap;">
     <a href="https://px.a8.net/svt/ejp?a8mat=4B1R5P+FYJBJM+54TM+60H7M" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #2d7d46;color:#2d7d46;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">公式サイト</a>
-    <a href="https://search.rakuten.co.jp/search/mall/CurrentBody+LEDマスク/" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #bf1a1a;color:#bf1a1a;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">楽天市場</a>
-    <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/s?k=CurrentBody+LED+マスク" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
-    <a href="https://shopping.yahoo.co.jp/search?p=CurrentBody+LEDマスク" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #6b2fbc;color:#6b2fbc;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Yahooショッピング</a>
+    <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DCurrentBody%2BLED%2B%E3%83%9E%E3%82%B9%E3%82%AF" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
+    <a href="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DCurrentBody%2BLED%E3%83%9E%E3%82%B9%E3%82%AF" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #6b2fbc;color:#6b2fbc;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Yahooショッピング</a>
   </div>
 </div>
-<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);">
+<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);;display:flex;align-items:center;gap:16px;">
+  <img src="https://m.media-amazon.com/images/P/B0DPLTQ22L.09._SL500_.jpg" alt="CurrentBody LEDマルチライトマスク（4イン1）" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;">
+  <div>
   <div style="font-weight:700;font-size:1.05em;margin-bottom:16px;">CurrentBody LEDマルチライトマスク（4イン1）</div>
   <div style="display:flex;gap:10px;flex-wrap:wrap;">
     <a href="https://px.a8.net/svt/ejp?a8mat=4B1R5P+FYJBJM+54TM+60WN6" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #2d7d46;color:#2d7d46;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">公式サイト</a>
-    <a href="https://search.rakuten.co.jp/search/mall/CurrentBody+LEDマスク/" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #bf1a1a;color:#bf1a1a;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">楽天市場</a>
-    <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/s?k=CurrentBody+LED+マスク+マルチ" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
-    <a href="https://shopping.yahoo.co.jp/search?p=CurrentBody+LEDマルチライトマスク" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #6b2fbc;color:#6b2fbc;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Yahooショッピング</a>
+    <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DCurrentBody%2BLED%2B%E3%83%9E%E3%82%B9%E3%82%AF%2B%E3%83%9E%E3%83%AB%E3%83%81" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
+    <a href="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DCurrentBody%2BLED%E3%83%9E%E3%83%AB%E3%83%81%E3%83%A9%E3%82%A4%E3%83%88%E3%83%9E%E3%82%B9%E3%82%AF" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #6b2fbc;color:#6b2fbc;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Yahooショッピング</a>
   </div>
 </div>
 {{< /rawhtml >}}
@@ -216,13 +219,14 @@ LEDマスクは「今ある悩みに対処する」だけのアイテムでは�
 {{< /rawhtml >}}
 
 {{< rawhtml >}}
-<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);">
+<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);;display:flex;align-items:center;gap:16px;">
+  <img src="https://m.media-amazon.com/images/P/B0DPLTQ22L.09._SL500_.jpg" alt="CurrentBody LEDフェイスマスク シリーズ2" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;">
+  <div>
   <div style="font-weight:700;font-size:1.05em;margin-bottom:16px;">CurrentBody LEDフェイスマスク シリーズ2</div>
   <div style="display:flex;gap:10px;flex-wrap:wrap;">
     <a href="https://px.a8.net/svt/ejp?a8mat=4B1R5P+FYJBJM+54TM+60H7M" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #2d7d46;color:#2d7d46;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">公式サイト</a>
-    <a href="https://search.rakuten.co.jp/search/mall/CurrentBody+LEDマスク/" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #bf1a1a;color:#bf1a1a;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">楽天市場</a>
-    <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/s?k=CurrentBody+LED+マスク" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
-    <a href="https://shopping.yahoo.co.jp/search?p=CurrentBody+LEDマスク" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #6b2fbc;color:#6b2fbc;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Yahooショッピング</a>
+    <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DCurrentBody%2BLED%2B%E3%83%9E%E3%82%B9%E3%82%AF" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
+    <a href="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DCurrentBody%2BLED%E3%83%9E%E3%82%B9%E3%82%AF" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #6b2fbc;color:#6b2fbc;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Yahooショッピング</a>
   </div>
 </div>
 {{< /rawhtml >}}
@@ -284,22 +288,24 @@ LEDマスクは「続けることで育てていく美容」です。
 CurrentBodyは年に数回セールを実施するブランドです。公式サイトで最新のセール情報を確認してから購入するのがおすすめです。
 
 {{< rawhtml >}}
-<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);">
+<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);;display:flex;align-items:center;gap:16px;">
+  <img src="https://m.media-amazon.com/images/P/B0DPLTQ22L.09._SL500_.jpg" alt="CurrentBody LEDライトセラピーマスク シリーズ2" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;">
+  <div>
   <div style="font-weight:700;font-size:1.05em;margin-bottom:16px;">CurrentBody LEDライトセラピーマスク シリーズ2</div>
   <div style="display:flex;gap:10px;flex-wrap:wrap;">
     <a href="https://px.a8.net/svt/ejp?a8mat=4B1R5P+FYJBJM+54TM+60H7M" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #2d7d46;color:#2d7d46;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">公式サイト</a>
-    <a href="https://search.rakuten.co.jp/search/mall/CurrentBody+LEDマスク/" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #bf1a1a;color:#bf1a1a;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">楽天市場</a>
-    <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/s?k=CurrentBody+LED+マスク" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
-    <a href="https://shopping.yahoo.co.jp/search?p=CurrentBody+LEDマスク" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #6b2fbc;color:#6b2fbc;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Yahooショッピング</a>
+    <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DCurrentBody%2BLED%2B%E3%83%9E%E3%82%B9%E3%82%AF" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
+    <a href="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DCurrentBody%2BLED%E3%83%9E%E3%82%B9%E3%82%AF" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #6b2fbc;color:#6b2fbc;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Yahooショッピング</a>
   </div>
 </div>
-<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);">
+<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);;display:flex;align-items:center;gap:16px;">
+  <img src="https://m.media-amazon.com/images/P/B0DPLTQ22L.09._SL500_.jpg" alt="CurrentBody LEDマルチライトマスク（4イン1）" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;">
+  <div>
   <div style="font-weight:700;font-size:1.05em;margin-bottom:16px;">CurrentBody LEDマルチライトマスク（4イン1）</div>
   <div style="display:flex;gap:10px;flex-wrap:wrap;">
     <a href="https://px.a8.net/svt/ejp?a8mat=4B1R5P+FYJBJM+54TM+60WN6" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #2d7d46;color:#2d7d46;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">公式サイト</a>
-    <a href="https://search.rakuten.co.jp/search/mall/CurrentBody+LEDマスク/" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #bf1a1a;color:#bf1a1a;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">楽天市場</a>
-    <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/s?k=CurrentBody+LED+マスク+マルチ" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
-    <a href="https://shopping.yahoo.co.jp/search?p=CurrentBody+LEDマルチライトマスク" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #6b2fbc;color:#6b2fbc;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Yahooショッピング</a>
+    <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DCurrentBody%2BLED%2B%E3%83%9E%E3%82%B9%E3%82%AF%2B%E3%83%9E%E3%83%AB%E3%83%81" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
+    <a href="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DCurrentBody%2BLED%E3%83%9E%E3%83%AB%E3%83%81%E3%83%A9%E3%82%A4%E3%83%88%E3%83%9E%E3%82%B9%E3%82%AF" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #6b2fbc;color:#6b2fbc;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Yahooショッピング</a>
   </div>
 </div>
 {{< /rawhtml >}}

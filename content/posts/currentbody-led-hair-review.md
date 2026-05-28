@@ -4,7 +4,7 @@ date: 2026-04-25
 draft: false
 affiliate: true
 categories: ["口コミ・レビュー", "ヘアケア"]
-tags: ["ヘアケア", "口コミ", "エイジングケア", "LED頭皮ケア", "抜け毛対策", "育毛デバイス"]
+tags: ["ヘアケア", "口コミ", "エイジングケア", "頭皮ケア"]
 description: "抜け毛・頭皮ケアに悩む40代向け。CurrentBody（カレントボディ）LED頭皮ケアデバイスを3ヶ月使った口コミ・レビュー。育毛剤との違い・効果・デメリットを正直に解説します。"
 summary_points:
   - "CurrentBodyがLED光療法で頭皮にアプローチする仕組み"
@@ -41,13 +41,14 @@ cover:
 {{< /rawhtml >}}
 
 {{< rawhtml >}}
-<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);">
+<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);;display:flex;align-items:center;gap:16px;">
+  <img src="https://m.media-amazon.com/images/P/B0DPLTQ22L.09._SL500_.jpg" alt="CurrentBody LED頭皮ケアデバイス" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;">
+  <div>
   <div style="font-weight:700;font-size:1.05em;margin-bottom:16px;">CurrentBody LED頭皮ケアデバイス</div>
   <div style="display:flex;gap:10px;flex-wrap:wrap;">
     <a href="https://px.a8.net/svt/ejp?a8mat=4B1R5P+FYJBJM+54TM+60OXE" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #2d7d46;color:#2d7d46;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">公式サイト</a>
-    <a href="https://search.rakuten.co.jp/search/mall/CurrentBody+LED+頭皮/" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #bf1a1a;color:#bf1a1a;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">楽天市場</a>
-    <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/s?k=CurrentBody+LED+頭皮ケア" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
-    <a href="https://shopping.yahoo.co.jp/search?p=CurrentBody+LED+頭皮ケア" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #6b2fbc;color:#6b2fbc;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Yahooショッピング</a>
+    <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DCurrentBody%2BLED%2B%E9%A0%AD%E7%9A%AE%E3%82%B1%E3%82%A2" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
+    <a href="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DCurrentBody%2BLED%2B%E9%A0%AD%E7%9A%AE%E3%82%B1%E3%82%A2" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #6b2fbc;color:#6b2fbc;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Yahooショッピング</a>
   </div>
 </div>
 {{< /rawhtml >}}
@@ -214,13 +215,14 @@ SNSや公式レビューでよく見られる声を整理するとこういっ�
 CurrentBodyは年に数回セールを実施するブランドです。通常価格4〜6万円台ですが、セール時に割引クーポンが適用されることが多いため、公式サイトで最新情報を確認してから購入するのがおすすめです。
 
 {{< rawhtml >}}
-<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);">
+<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);;display:flex;align-items:center;gap:16px;">
+  <img src="https://m.media-amazon.com/images/P/B0DPLTQ22L.09._SL500_.jpg" alt="CurrentBody LED頭皮ケアデバイス" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;">
+  <div>
   <div style="font-weight:700;font-size:1.05em;margin-bottom:16px;">CurrentBody LED頭皮ケアデバイス</div>
   <div style="display:flex;gap:10px;flex-wrap:wrap;">
     <a href="https://px.a8.net/svt/ejp?a8mat=4B1R5P+FYJBJM+54TM+60OXE" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #2d7d46;color:#2d7d46;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">公式サイト</a>
-    <a href="https://search.rakuten.co.jp/search/mall/CurrentBody+LED+頭皮/" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #bf1a1a;color:#bf1a1a;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">楽天市場</a>
-    <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/s?k=CurrentBody+LED+頭皮ケア" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
-    <a href="https://shopping.yahoo.co.jp/search?p=CurrentBody+LED+頭皮ケア" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #6b2fbc;color:#6b2fbc;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Yahooショッピング</a>
+    <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DCurrentBody%2BLED%2B%E9%A0%AD%E7%9A%AE%E3%82%B1%E3%82%A2" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
+    <a href="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DCurrentBody%2BLED%2B%E9%A0%AD%E7%9A%AE%E3%82%B1%E3%82%A2" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #6b2fbc;color:#6b2fbc;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Yahooショッピング</a>
   </div>
 </div>
 {{< /rawhtml >}}
@@ -256,13 +258,14 @@ LEDデバイスは即効性こそありませんが、週3〜4回の光刺激が
 価格は高めですが、ランニングコスト（電気代のみ）を考えると長期では育毛剤より割安になる場合もあります。
 
 {{< rawhtml >}}
-<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);">
+<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);;display:flex;align-items:center;gap:16px;">
+  <img src="https://m.media-amazon.com/images/P/B0DPLTQ22L.09._SL500_.jpg" alt="CurrentBody LED頭皮ケアデバイス" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;">
+  <div>
   <div style="font-weight:700;font-size:1.05em;margin-bottom:16px;">CurrentBody LED頭皮ケアデバイス</div>
   <div style="display:flex;gap:10px;flex-wrap:wrap;">
     <a href="https://px.a8.net/svt/ejp?a8mat=4B1R5P+FYJBJM+54TM+60OXE" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #2d7d46;color:#2d7d46;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">公式サイト</a>
-    <a href="https://search.rakuten.co.jp/search/mall/CurrentBody+LED+頭皮/" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #bf1a1a;color:#bf1a1a;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">楽天市場</a>
-    <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/s?k=CurrentBody+LED+頭皮ケア" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
-    <a href="https://shopping.yahoo.co.jp/search?p=CurrentBody+LED+頭皮ケア" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #6b2fbc;color:#6b2fbc;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Yahooショッピング</a>
+    <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DCurrentBody%2BLED%2B%E9%A0%AD%E7%9A%AE%E3%82%B1%E3%82%A2" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
+    <a href="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DCurrentBody%2BLED%2B%E9%A0%AD%E7%9A%AE%E3%82%B1%E3%82%A2" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #6b2fbc;color:#6b2fbc;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Yahooショッピング</a>
   </div>
 </div>
 {{< /rawhtml >}}

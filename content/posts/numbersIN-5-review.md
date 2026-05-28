@@ -4,7 +4,7 @@ date: 2026-05-20
 draft: false
 affiliate: true
 categories: ["スキンケア"]
-tags: ["40代", "ナンバーズイン", "美容液", "くすみ", "エイジングケア"]
+tags: ["40代", "スキンケア", "美白・くすみケア", "エイジングケア"]
 description: "ナンバーズイン5番 白玉グルタチオンC美容液を40代乾燥敏感肌が使用した正直な口コミ。グルタチオン・ビタミンC誘導体・ナイアシンアミドの三成分でくすみ・トーンにアプローチした変化をレポート。"
 cover:
   image: "/images/numbersIN-5-review.png"
@@ -20,16 +20,17 @@ cover:
 早い方で2〜3週間ほどから「朝の顔色が変わった気がする」という変化を感じやすいとされています。この記事では、使い始めから感じた変化・デメリット・向いている人を正直に書きます。
 
 {{< rawhtml >}}
-<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);">
+<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);;display:flex;align-items:center;gap:16px;">
+  <img src="https://m.media-amazon.com/images/P/B0C61FD7P9.09._SL500_.jpg" alt="ナンバーズイン 5番 白玉グルタチオンC 美容液" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;">
+  <div>
   <div style="display:flex;gap:16px;align-items:flex-start;flex-wrap:wrap;">
     <div style="flex:1;min-width:200px;">
       <div style="font-weight:700;font-size:1.05em;margin-bottom:12px;">ナンバーズイン 5番 白玉グルタチオンC 美容液</div>
       <div style="display:flex;gap:10px;flex-wrap:wrap;">
-        <a href="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=27059&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%8A%E3%83%B3%E3%83%90%E3%83%BC%E3%82%BA%E3%82%A4%E3%83%B3%2B5%E7%95%AA%2F" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #bf1a1a;color:#bf1a1a;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">楽天市場</a>
         <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%E3%83%8A%E3%83%B3%E3%83%90%E3%83%BC%E3%82%BA%E3%82%A4%E3%83%B3%2B5%E7%95%AA" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
-        <a href="https://shopping.yahoo.co.jp/search?p=%E3%83%8A%E3%83%B3%E3%83%90%E3%83%BC%E3%82%BA%E3%82%A4%E3%83%B3+5%E7%95%AA" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #6b2fbc;color:#6b2fbc;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Yahooショッピング</a>
-      </div>
-    </div>
+        <a href="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%E3%83%8A%E3%83%B3%E3%83%90%E3%83%BC%E3%82%BA%E3%82%A4%E3%83%B3%2B5%E7%95%AA" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #6b2fbc;color:#6b2fbc;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Yahooショッピング</a>
+  </div>
+</div>
   </div>
 </div>
 {{< /rawhtml >}}
@@ -149,16 +150,17 @@ cover:
 まだ途中だけど、これを選んで後悔はしていません。
 
 {{< rawhtml >}}
-<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);">
+<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);;display:flex;align-items:center;gap:16px;">
+  <img src="https://m.media-amazon.com/images/P/B0C61FD7P9.09._SL500_.jpg" alt="ナンバーズイン 5番 白玉グルタチオンC 美容液" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;">
+  <div>
   <div style="display:flex;gap:16px;align-items:flex-start;flex-wrap:wrap;">
     <div style="flex:1;min-width:200px;">
       <div style="font-weight:700;font-size:1.05em;margin-bottom:12px;">ナンバーズイン 5番 白玉グルタチオンC 美容液</div>
       <div style="display:flex;gap:10px;flex-wrap:wrap;">
-        <a href="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=27059&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%8A%E3%83%B3%E3%83%90%E3%83%BC%E3%82%BA%E3%82%A4%E3%83%B3%2B5%E7%95%AA%2F" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #bf1a1a;color:#bf1a1a;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">楽天市場</a>
         <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%E3%83%8A%E3%83%B3%E3%83%90%E3%83%BC%E3%82%BA%E3%82%A4%E3%83%B3%2B5%E7%95%AA" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
-        <a href="https://shopping.yahoo.co.jp/search?p=%E3%83%8A%E3%83%B3%E3%83%90%E3%83%BC%E3%82%BA%E3%82%A4%E3%83%B3+5%E7%95%AA" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #6b2fbc;color:#6b2fbc;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Yahooショッピング</a>
-      </div>
-    </div>
+        <a href="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%E3%83%8A%E3%83%B3%E3%83%90%E3%83%BC%E3%82%BA%E3%82%A4%E3%83%B3%2B5%E7%95%AA" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #6b2fbc;color:#6b2fbc;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Yahooショッピング</a>
+  </div>
+</div>
   </div>
 </div>
 {{< /rawhtml >}}

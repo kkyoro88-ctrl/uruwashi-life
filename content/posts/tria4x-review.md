@@ -4,7 +4,7 @@ date: 2026-04-22
 draft: false
 affiliate: true
 categories: ["口コミ・レビュー", "スキンケア"]
-tags: ["脱毛器", "口コミ", "家庭用脱毛器", "レーザー脱毛", "自己処理", "40代スキンケア"]
+tags: ["脱毛器", "口コミ", "40代"]
 description: "家庭用レーザー脱毛器「トリア4X」の口コミ・レビュー。効果・痛み・IPL光脱毛との違いを40代女性目線で正直に評価。自己処理に疲れた方向けに詳しく解説します。"
 summary_points:
   - "トリア4Xが家庭用で唯一のレーザー式脱毛器である理由"
@@ -169,9 +169,9 @@ cover:
 {{< product
   title="トリア 4X レーザー脱毛器"
   img="https://m.media-amazon.com/images/I/51GFswhJOjL._SL500_.jpg"
-  rakuten="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Ftriabeauty%2Ftria%2F"
-  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B00JXB0OGC"
-  yahoo="https://shopping.yahoo.co.jp/search?p=%E3%83%88%E3%83%AA%E3%82%A24X+%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%E8%84%B1%E6%AF%9B%E5%99%A8"
+  rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Ftriabeauty%2Ftria%2F"
+  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%E3%83%88%E3%83%AA%E3%82%A2%2B4X%2B%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%E8%84%B1%E6%AF%9B%E5%99%A8"
+  yahoo="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%E3%83%88%E3%83%AA%E3%82%A24X%2B%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%E8%84%B1%E6%AF%9B%E5%99%A8"
 >}}
 {{< rawhtml >}}
 </div>

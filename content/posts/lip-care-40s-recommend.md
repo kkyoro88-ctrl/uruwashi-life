@@ -4,7 +4,7 @@ date: 2026-05-18
 draft: false
 affiliate: true
 categories: ["リップケア"]
-tags: ["40代", "リップ美容液", "リップケア", "乾燥肌", "エイジングケア"]
+tags: ["40代", "ボディケア", "乾燥肌", "エイジングケア"]
 description: "40代の唇の縦じわ・乾燥・ひび割れに悩む方へ。タカミリップ・ロクシタン・ニベア ロイヤルブルーリップを比較。40代に合うリップ美容液の選び方も解説します。"
 cover:
   image: "/images/lip-care-40s-recommend.png"
@@ -22,13 +22,12 @@ cover:
 {{< rawhtml >}}
 <div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);">
   <div style="display:flex;gap:16px;align-items:flex-start;flex-wrap:wrap;">
-    <img src="https://m.media-amazon.com/images/I/51YCsLmSBSL._SL100_.jpg" alt="TAKAMI タカミリップ" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;" loading="lazy">
+    <img src="https://m.media-amazon.com/images/P/B0DHTX9Z91.09._SL500_.jpg" alt="TAKAMI タカミリップ" style="width:160px;height:160px;object-fit:contain;flex-shrink:0;" loading="lazy">
     <div style="flex:1;min-width:200px;">
       <div style="font-weight:700;font-size:1.05em;margin-bottom:12px;">TAKAMI タカミリップ 7g</div>
       <div style="display:flex;gap:10px;flex-wrap:wrap;">
-        <a href="https://search.rakuten.co.jp/search/mall/タカミリップ/" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #bf1a1a;color:#bf1a1a;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">楽天市場</a>
-        <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B0DHTX9Z91" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
-        <a href="https://shopping.yahoo.co.jp/search?p=タカミリップ" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #6b2fbc;color:#6b2fbc;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Yahooショッピング</a>
+        <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB0DHTX9Z91" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
+        <a href="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%E3%82%BF%E3%82%AB%E3%83%9F%E3%83%AA%E3%83%83%E3%83%97" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #6b2fbc;color:#6b2fbc;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Yahooショッピング</a>
       </div>
     </div>
   </div>
@@ -130,13 +129,12 @@ Amazonリップクリームカテゴリで18位（2026年5月時点）、過去1
 {{< rawhtml >}}
 <div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);">
   <div style="display:flex;gap:16px;align-items:flex-start;flex-wrap:wrap;">
-    <img src="https://m.media-amazon.com/images/I/51YCsLmSBSL._SL100_.jpg" alt="TAKAMI タカミリップ" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;" loading="lazy">
+    <img src="https://m.media-amazon.com/images/P/B0DHTX9Z91.09._SL500_.jpg" alt="TAKAMI タカミリップ" style="width:160px;height:160px;object-fit:contain;flex-shrink:0;" loading="lazy">
     <div style="flex:1;min-width:200px;">
       <div style="font-weight:700;font-size:1.05em;margin-bottom:12px;">TAKAMI タカミリップ 7g</div>
       <div style="display:flex;gap:10px;flex-wrap:wrap;">
-        <a href="https://search.rakuten.co.jp/search/mall/タカミリップ/" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #bf1a1a;color:#bf1a1a;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">楽天市場</a>
-        <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B0DHTX9Z91" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
-        <a href="https://shopping.yahoo.co.jp/search?p=タカミリップ" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #6b2fbc;color:#6b2fbc;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Yahooショッピング</a>
+        <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB0DHTX9Z91" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
+        <a href="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%E3%82%BF%E3%82%AB%E3%83%9F%E3%83%AA%E3%83%83%E3%83%97" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #6b2fbc;color:#6b2fbc;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Yahooショッピング</a>
       </div>
     </div>
   </div>
@@ -179,13 +177,12 @@ Amazonリップクリームカテゴリで18位（2026年5月時点）、過去1
 {{< rawhtml >}}
 <div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);">
   <div style="display:flex;gap:16px;align-items:flex-start;flex-wrap:wrap;">
-    <img src="https://m.media-amazon.com/images/I/41JNbrzuZ8L._SL100_.jpg" alt="ロクシタン シア リップバーム" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;" loading="lazy">
+    <img src="https://m.media-amazon.com/images/P/B0CPPZV3X1.09._SL500_.jpg" alt="ロクシタン シア リップバーム" style="width:160px;height:160px;object-fit:contain;flex-shrink:0;" loading="lazy">
     <div style="flex:1;min-width:200px;">
       <div style="font-weight:700;font-size:1.05em;margin-bottom:12px;">ロクシタン シア リップバーム 12ml</div>
       <div style="display:flex;gap:10px;flex-wrap:wrap;">
-        <a href="https://search.rakuten.co.jp/search/mall/ロクシタン+シア+リップバーム/" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #bf1a1a;color:#bf1a1a;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">楽天市場</a>
-        <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B0CPPZV3X1" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
-        <a href="https://shopping.yahoo.co.jp/search?p=ロクシタン+シア+リップバーム" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #6b2fbc;color:#6b2fbc;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Yahooショッピング</a>
+        <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB0CPPZV3X1" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
+        <a href="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%E3%83%AD%E3%82%AF%E3%82%B7%E3%82%BF%E3%83%B3%2B%E3%82%B7%E3%82%A2%2B%E3%83%AA%E3%83%83%E3%83%97%E3%83%90%E3%83%BC%E3%83%A0" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #6b2fbc;color:#6b2fbc;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Yahooショッピング</a>
       </div>
     </div>
   </div>
@@ -228,13 +225,12 @@ Amazonリップクリームカテゴリで18位（2026年5月時点）、過去1
 {{< rawhtml >}}
 <div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);">
   <div style="display:flex;gap:16px;align-items:flex-start;flex-wrap:wrap;">
-    <img src="https://m.media-amazon.com/images/I/71BIyOWi20L._SL100_.jpg" alt="ニベア ロイヤルブルーリップ 濃密美容ケア" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;" loading="lazy">
+    <img src="https://m.media-amazon.com/images/P/B09DG57XPV.09._SL500_.jpg" alt="ニベア ロイヤルブルーリップ 濃密美容ケア" style="width:160px;height:160px;object-fit:contain;flex-shrink:0;" loading="lazy">
     <div style="flex:1;min-width:200px;">
       <div style="font-weight:700;font-size:1.05em;margin-bottom:12px;">ニベア ロイヤルブルーリップ 濃密美容ケア 6g</div>
       <div style="display:flex;gap:10px;flex-wrap:wrap;">
-        <a href="https://search.rakuten.co.jp/search/mall/ニベア+ロイヤルブルーリップ+濃密/" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #bf1a1a;color:#bf1a1a;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">楽天市場</a>
-        <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B09DG57XPV" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
-        <a href="https://shopping.yahoo.co.jp/search?p=ニベア+ロイヤルブルーリップ+濃密美容ケア" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #6b2fbc;color:#6b2fbc;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Yahooショッピング</a>
+        <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB09DG57XPV" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
+        <a href="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%E3%83%8B%E3%83%99%E3%82%A2%2B%E3%83%AD%E3%82%A4%E3%83%A4%E3%83%AB%E3%83%96%E3%83%AB%E3%83%BC%E3%83%AA%E3%83%83%E3%83%97%2B%E6%BF%83%E5%AF%86%E7%BE%8E%E5%AE%B9%E3%82%B1%E3%82%A2" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #6b2fbc;color:#6b2fbc;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Yahooショッピング</a>
       </div>
     </div>
   </div>
@@ -304,13 +300,12 @@ Amazonリップクリームカテゴリで18位（2026年5月時点）、過去1
 {{< rawhtml >}}
 <div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);">
   <div style="display:flex;gap:16px;align-items:flex-start;flex-wrap:wrap;">
-    <img src="https://m.media-amazon.com/images/I/51YCsLmSBSL._SL100_.jpg" alt="TAKAMI タカミリップ" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;" loading="lazy">
+    <img src="https://m.media-amazon.com/images/P/B0DHTX9Z91.09._SL500_.jpg" alt="TAKAMI タカミリップ" style="width:160px;height:160px;object-fit:contain;flex-shrink:0;" loading="lazy">
     <div style="flex:1;min-width:200px;">
       <div style="font-weight:700;font-size:1.05em;margin-bottom:12px;">TAKAMI タカミリップ 7g</div>
       <div style="display:flex;gap:10px;flex-wrap:wrap;">
-        <a href="https://search.rakuten.co.jp/search/mall/タカミリップ/" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #bf1a1a;color:#bf1a1a;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">楽天市場</a>
-        <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B0DHTX9Z91" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
-        <a href="https://shopping.yahoo.co.jp/search?p=タカミリップ" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #6b2fbc;color:#6b2fbc;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Yahooショッピング</a>
+        <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB0DHTX9Z91" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
+        <a href="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%E3%82%BF%E3%82%AB%E3%83%9F%E3%83%AA%E3%83%83%E3%83%97" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #6b2fbc;color:#6b2fbc;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Yahooショッピング</a>
       </div>
     </div>
   </div>

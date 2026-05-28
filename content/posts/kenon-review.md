@@ -5,7 +5,7 @@ lastmod: 2026-05-14
 draft: false
 affiliate: true
 categories: ["口コミ・レビュー", "スキンケア"]
-tags: ["脱毛器", "美顔器", "口コミ", "光美容器", "40代スキンケア"]
+tags: ["脱毛器", "美顔器", "口コミ", "40代"]
 description: "ケノンの美顔器（スキンケアカートリッジ）を実際に使った口コミ・レビュー。脱毛器としても使える家庭用美容器を40代が3ヶ月使ってわかった変化とデメリットを正直に解説。"
 summary_points:
   - "脱毛器として有名なケノンが美顔器になる仕組み"
@@ -31,20 +31,22 @@ cover:
     <p>脱毛＋美顔1台完結／楽天口コミ196,000件超／10段階レベル調整・冷却機能つき</p>
   </div>
   <div class="product-heading-img">
-    <a href="https://rpx.a8.net/svt/ejp?a8mat=4B1QDP+BQ4COI+2HOM+BWGDT&rakuten=y&a8ejpredirect=https%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2Fg00prkp4.2bo11018.g00prkp4.2bo12d64%2Fa26042104339_4B1QDP_BQ4COI_2HOM_BWGDT%3Fpc%3Dhttps%253A%252F%252Fitem.rakuten.co.jp%252Fmrock%252Fke-non%252F%26m%3Dhttp%253A%252F%252Fm.rakuten.co.jp%252Fmrock%252Fi%252F10012094%252F%26rafcid%3Dwsc_i_is_33f72da33714639c415e592c9633ecd7" target="_blank" rel="nofollow noopener">
-      <img src="https://m.media-amazon.com/images/I/61gqdu6m8kL._SL500_.jpg" alt="ケノン 光美容器">
+    <a href="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fmrock%2Fke-non%2F" target="_blank" rel="nofollow noopener">
+      <img src="https://m.media-amazon.com/images/P/B01GTN65Z0.09._SL500_.jpg" alt="ケノン 光美容器">
     </a>
   </div>
 </div>
 {{< /rawhtml >}}
 
 {{< rawhtml >}}
-<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);">
+<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);;display:flex;align-items:center;gap:16px;">
+  <img src="https://m.media-amazon.com/images/P/B01GTN65Z0.09._SL500_.jpg" alt="エムテック ケノン KE-NON 光美容器" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;">
+  <div>
   <div style="font-weight:700;font-size:1.05em;margin-bottom:16px;">エムテック ケノン KE-NON 光美容器</div>
   <div style="display:flex;gap:10px;flex-wrap:wrap;">
-    <a href="https://search.rakuten.co.jp/search/mall/%E3%82%B1%E3%83%8E%E3%83%B3%20KE-NON%20%E5%85%89%E7%BE%8E%E5%AE%B9%E5%99%A8/" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #bf1a1a;color:#bf1a1a;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">楽天市場</a>
-    <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B01GTN65Z0" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
-    <a href="https://shopping.yahoo.co.jp/search?first=1&p=%E3%82%B1%E3%83%8E%E3%83%B3%20KE-NON%20%E5%85%89%E7%BE%8E%E5%AE%B9%E5%99%A8" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #6b2fbc;color:#6b2fbc;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Yahooショッピング</a>
+    <a href="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fmrock%2Fke-non%2F" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #bf1a1a;color:#bf1a1a;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">楽天市場</a>
+    <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB01GTN65Z0" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
+    <a href="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%E3%82%B1%E3%83%8E%E3%83%B3%2BKE-NON%2B%E5%85%89%E7%BE%8E%E5%AE%B9%E5%99%A8" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #6b2fbc;color:#6b2fbc;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Yahooショッピング</a>
   </div>
 </div>
 {{< /rawhtml >}}
@@ -233,7 +235,7 @@ cover:
 
 {{< rawhtml >}}
 <div style="text-align:center; margin: 2em 0;">
-  <a href="https://rpx.a8.net/svt/ejp?a8mat=4B1QDP+BQ4COI+2HOM+BWGDT&rakuten=y&a8ejpredirect=https%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2Fg00prkp4.2bo11018.g00prkp4.2bo12d64%2Fa26042104339_4B1QDP_BQ4COI_2HOM_BWGDT%3Fpc%3Dhttps%253A%252F%252Fitem.rakuten.co.jp%252Fmrock%252Fke-non%252F%26m%3Dhttp%253A%252F%252Fm.rakuten.co.jp%252Fmrock%252Fi%252F10012094%252F%26rafcid%3Dwsc_i_is_33f72da33714639c415e592c9633ecd7" target="_blank" rel="nofollow noopener" style="display:inline-block; background:#c85048; color:#fff; padding:16px 40px; border-radius:30px; font-size:1.1em; font-weight:bold; text-decoration:none;">
+  <a href="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fmrock%2Fke-non%2F" target="_blank" rel="nofollow noopener" style="display:inline-block; background:#c85048; color:#fff; padding:16px 40px; border-radius:30px; font-size:1.1em; font-weight:bold; text-decoration:none;">
     ケノン公式を楽天で見てみる →
   </a>
   <img border="0" width="1" height="1" src="https://www19.a8.net/0.gif?a8mat=4B1QDP+BQ4COI+2HOM+BWGDT" alt="">

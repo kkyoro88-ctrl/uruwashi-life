@@ -5,7 +5,7 @@ lastmod: 2026-05-23
 draft: false
 affiliate: true
 categories: ["ヘアケア", "おすすめ"]
-tags: ["白髪ケア", "カラートリートメント", "40代", "ヘアケア"]
+tags: ["ヘアケア", "40代"]
 description: "40代の白髪ケアにカラートリートメントをおすすめする理由と、選び方・使い方を解説。髪を傷めずに染まるタイプを厳選5本比較しました。"
 cover:
   image: "/images/hair-color-treatment-40s-recommend.png"
@@ -19,12 +19,13 @@ cover:
 この記事では、40代の白髪ケアにカラートリートメントが向いている理由と、続けやすい5本の選び方を紹介します。
 
 {{< rawhtml >}}
-<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);">
+<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);;display:flex;align-items:center;gap:16px;">
+  <img src="https://m.media-amazon.com/images/P/B00JKOGP0G.09._SL500_.jpg" alt="利尻ヘアカラートリートメント 200g ブラック" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;">
+  <div>
   <div style="font-weight:700;font-size:1.05em;margin-bottom:16px;">利尻ヘアカラートリートメント 200g ブラック</div>
   <div style="display:flex;gap:10px;flex-wrap:wrap;">
-    <a href="https://search.rakuten.co.jp/search/mall/%E5%88%A9%E5%B0%BB%E3%83%98%E3%82%A2%E3%82%AB%E3%83%A9%E3%83%BC%E3%83%88%E3%83%AA%E3%83%BC%E3%83%88%E3%83%A1%E3%83%B3%E3%83%88/" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #bf1a1a;color:#bf1a1a;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">楽天市場</a>
-    <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B00JKOGP0G" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
-    <a href="https://shopping.yahoo.co.jp/search?first=1&p=%E5%88%A9%E5%B0%BB%E3%83%98%E3%82%A2%E3%82%AB%E3%83%A9%E3%83%BC%E3%83%88%E3%83%AA%E3%83%BC%E3%83%88%E3%83%A1%E3%83%B3%E3%83%88" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #6b2fbc;color:#6b2fbc;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Yahooショッピング</a>
+    <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB00JKOGP0G" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
+    <a href="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%E5%88%A9%E5%B0%BB%E3%83%98%E3%82%A2%E3%82%AB%E3%83%A9%E3%83%BC%E3%83%88%E3%83%AA%E3%83%BC%E3%83%88%E3%83%A1%E3%83%B3%E3%83%88" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #6b2fbc;color:#6b2fbc;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Yahooショッピング</a>
   </div>
 </div>
 {{< /rawhtml >}}
@@ -156,7 +157,7 @@ cover:
     <p>利尻昆布エキス配合・天然由来成分・自然な仕上がりで40代に人気No.1</p>
   </div>
   <div class="product-heading-img">
-    <img src="https://m.media-amazon.com/images/I/31oKiUqN-PL._SL500_.jpg" alt="利尻ヘアカラートリートメント">
+    <img src="https://m.media-amazon.com/images/P/B00JKOGP0G.09._SL500_.jpg" alt="利尻ヘアカラートリートメント">
   </div>
 </div>
 {{< /rawhtml >}}
@@ -190,12 +191,13 @@ cover:
 {{< /rawhtml >}}
 
 {{< rawhtml >}}
-<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);">
+<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);;display:flex;align-items:center;gap:16px;">
+  <img src="https://m.media-amazon.com/images/P/B00JKOGP0G.09._SL500_.jpg" alt="Sastty[白髪用] 利尻ヘアカラートリートメント 200g（ブラック）" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;">
+  <div>
   <div style="font-weight:700;font-size:1.05em;margin-bottom:16px;">Sastty[白髪用] 利尻ヘアカラートリートメント 200g（ブラック）</div>
   <div style="display:flex;gap:10px;flex-wrap:wrap;">
-    <a href="https://search.rakuten.co.jp/search/mall/Sastty%5B%E7%99%BD%E9%AB%AA%E7%94%A8%5D%20%E5%88%A9%E5%B0%BB%E3%83%98%E3%82%A2%E3%82%AB%E3%83%A9%E3%83%BC%E3%83%88%E3%83%AA%E3%83%BC%E3%83%88%E3%83%A1%E3%83%B3%E3%83%88%20200g%EF%BC%88%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%EF%BC%89/" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #bf1a1a;color:#bf1a1a;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">楽天市場</a>
-    <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B00JKOGP0G" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
-    <a href="https://shopping.yahoo.co.jp/search?first=1&p=Sastty%5B%E7%99%BD%E9%AB%AA%E7%94%A8%5D%20%E5%88%A9%E5%B0%BB%E3%83%98%E3%82%A2%E3%82%AB%E3%83%A9%E3%83%BC%E3%83%88%E3%83%AA%E3%83%BC%E3%83%88%E3%83%A1%E3%83%B3%E3%83%88%20200g%EF%BC%88%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%EF%BC%89" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #6b2fbc;color:#6b2fbc;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Yahooショッピング</a>
+    <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB00JKOGP0G" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
+    <a href="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DSastty%5B%E7%99%BD%E9%AB%AA%E7%94%A8%5D%2B%E5%88%A9%E5%B0%BB%E3%83%98%E3%82%A2%E3%82%AB%E3%83%A9%E3%83%BC%E3%83%88%E3%83%AA%E3%83%BC%E3%83%88%E3%83%A1%E3%83%B3%E3%83%88%2B200g%EF%BC%88%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%EF%BC%89" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #6b2fbc;color:#6b2fbc;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Yahooショッピング</a>
   </div>
 </div>
 {{< /rawhtml >}}
@@ -212,7 +214,7 @@ cover:
     <p>フコイダン（沖縄もずく）配合・フォームタイプあり・手が汚れにくく続けやすい</p>
   </div>
   <div class="product-heading-img">
-    <img src="https://m.media-amazon.com/images/I/41rRIqaDzuL._SL500_.jpg" alt="ルプルプ ヘアカラートリートメント">
+    <img src="https://m.media-amazon.com/images/P/B09L421QHH.09._SL500_.jpg" alt="ルプルプ ヘアカラートリートメント">
   </div>
 </div>
 {{< /rawhtml >}}
@@ -245,12 +247,13 @@ cover:
 {{< /rawhtml >}}
 
 {{< rawhtml >}}
-<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);">
+<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);;display:flex;align-items:center;gap:16px;">
+  <img src="https://m.media-amazon.com/images/P/B09L421QHH.09._SL500_.jpg" alt="【白髪に3分/選べる5色】 ルプルプ LPLP エッセンス カラートリートメント ウォルナットブラウン 170g 約1ヵ月分 ショートヘア約5回分 手袋 ヘアキャップ 付き 白髪染め ヘアカラー トリートメント 毛染め メンズ レディース 部分 ノンジアミン オーガニック ヘアケア essence 人気 90354" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;">
+  <div>
   <div style="font-weight:700;font-size:1.05em;margin-bottom:16px;">【白髪に3分/選べる5色】 ルプルプ LPLP エッセンス カラートリートメント ウォルナットブラウン 170g 約1ヵ月分 ショートヘア約5回分 手袋 ヘアキャップ 付き 白髪染め ヘアカラー トリートメント 毛染め メンズ レディース 部分 ノンジアミン オーガニック ヘアケア essence 人気 90354</div>
   <div style="display:flex;gap:10px;flex-wrap:wrap;">
-    <a href="https://search.rakuten.co.jp/search/mall/%E3%80%90%E7%99%BD%E9%AB%AA%E3%81%AB3%E5%88%86%2F%E9%81%B8%E3%81%B9%E3%82%8B5%E8%89%B2%E3%80%91%20%E3%83%AB%E3%83%97%E3%83%AB%E3%83%97%20LPLP%20%E3%82%A8%E3%83%83%E3%82%BB%E3%83%B3%E3%82%B9%20%E3%82%AB%E3%83%A9%E3%83%BC%E3%83%88%E3%83%AA%E3%83%BC%E3%83%88%E3%83%A1%E3%83%B3%E3%83%88%20%E3%82%A6%E3%82%A9%E3%83%AB%E3%83%8A%E3%83%83%E3%83%88%E3%83%96%E3%83%A9%E3%82%A6%E3%83%B3%20170g/" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #bf1a1a;color:#bf1a1a;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">楽天市場</a>
-    <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B09L421QHH" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
-    <a href="https://shopping.yahoo.co.jp/search?first=1&p=%E3%80%90%E7%99%BD%E9%AB%AA%E3%81%AB3%E5%88%86%2F%E9%81%B8%E3%81%B9%E3%82%8B5%E8%89%B2%E3%80%91%20%E3%83%AB%E3%83%97%E3%83%AB%E3%83%97%20LPLP%20%E3%82%A8%E3%83%83%E3%82%BB%E3%83%B3%E3%82%B9%20%E3%82%AB%E3%83%A9%E3%83%BC%E3%83%88%E3%83%AA%E3%83%BC%E3%83%88%E3%83%A1%E3%83%B3%E3%83%88%20%E3%82%A6%E3%82%A9%E3%83%AB%E3%83%8A%E3%83%83%E3%83%88%E3%83%96%E3%83%A9%E3%82%A6%E3%83%B3%20170g" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #6b2fbc;color:#6b2fbc;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Yahooショッピング</a>
+    <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB09L421QHH" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
+    <a href="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%E3%80%90%E7%99%BD%E9%AB%AA%E3%81%AB3%E5%88%86%2F%E9%81%B8%E3%81%B9%E3%82%8B5%E8%89%B2%E3%80%91%2B%E3%83%AB%E3%83%97%E3%83%AB%E3%83%97%2BLPLP%2B%E3%82%A8%E3%83%83%E3%82%BB%E3%83%B3%E3%82%B9%2B%E3%82%AB%E3%83%A9%E3%83%BC%E3%83%88%E3%83%AA%E3%83%BC%E3%83%88%E3%83%A1%E3%83%B3%E3%83%88%2B%E3%82%A6%E3%82%A9%E3%83%AB%E3%83%8A%E3%83%83%E3%83%88%E3%83%96%E3%83%A9%E3%82%A6%E3%83%B3%2B170g" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #6b2fbc;color:#6b2fbc;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Yahooショッピング</a>
   </div>
 </div>
 {{< /rawhtml >}}
@@ -267,7 +270,7 @@ cover:
     <p>シュワルツコフ（Schwarzkopf）・ドラッグストアで入手可・プチプラでコスパ◎</p>
   </div>
   <div class="product-heading-img">
-    <img src="https://m.media-amazon.com/images/I/41+wNbVxb6L._SL500_.jpg" alt="サイオス カラートリートメント">
+    <img src="https://m.media-amazon.com/images/P/B0CHLTY67B.09._SL500_.jpg" alt="サイオス カラートリートメント">
   </div>
 </div>
 {{< /rawhtml >}}
@@ -300,12 +303,13 @@ cover:
 {{< /rawhtml >}}
 
 {{< rawhtml >}}
-<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);">
+<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);;display:flex;align-items:center;gap:16px;">
+  <img src="https://m.media-amazon.com/images/P/B0CHLTY67B.09._SL500_.jpg" alt="サイオス カラートリートメント ダークブラウン 180グラム おまけ付き" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;">
+  <div>
   <div style="font-weight:700;font-size:1.05em;margin-bottom:16px;">サイオス カラートリートメント ダークブラウン 180グラム おまけ付き</div>
   <div style="display:flex;gap:10px;flex-wrap:wrap;">
-    <a href="https://search.rakuten.co.jp/search/mall/%E3%82%B5%E3%82%A4%E3%82%AA%E3%82%B9%20%E3%82%AB%E3%83%A9%E3%83%BC%E3%83%88%E3%83%AA%E3%83%BC%E3%83%88%E3%83%A1%E3%83%B3%E3%83%88%20%E3%83%80%E3%83%BC%E3%82%AF%E3%83%96%E3%83%A9%E3%82%A6%E3%83%B3%20180%E3%82%B0%E3%83%A9%E3%83%A0%20%E3%81%8A%E3%81%BE%E3%81%91%E4%BB%98%E3%81%8D/" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #bf1a1a;color:#bf1a1a;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">楽天市場</a>
-    <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B0CHLTY67B" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
-    <a href="https://shopping.yahoo.co.jp/search?first=1&p=%E3%82%B5%E3%82%A4%E3%82%AA%E3%82%B9%20%E3%82%AB%E3%83%A9%E3%83%BC%E3%83%88%E3%83%AA%E3%83%BC%E3%83%88%E3%83%A1%E3%83%B3%E3%83%88%20%E3%83%80%E3%83%BC%E3%82%AF%E3%83%96%E3%83%A9%E3%82%A6%E3%83%B3%20180%E3%82%B0%E3%83%A9%E3%83%A0%20%E3%81%8A%E3%81%BE%E3%81%91%E4%BB%98%E3%81%8D" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #6b2fbc;color:#6b2fbc;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Yahooショッピング</a>
+    <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB0CHLTY67B" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
+    <a href="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%E3%82%B5%E3%82%A4%E3%82%AA%E3%82%B9%2B%E3%82%AB%E3%83%A9%E3%83%BC%E3%83%88%E3%83%AA%E3%83%BC%E3%83%88%E3%83%A1%E3%83%B3%E3%83%88%2B%E3%83%80%E3%83%BC%E3%82%AF%E3%83%96%E3%83%A9%E3%82%A6%E3%83%B3%2B180%E3%82%B0%E3%83%A9%E3%83%A0%2B%E3%81%8A%E3%81%BE%E3%81%91%E4%BB%98%E3%81%8D" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #6b2fbc;color:#6b2fbc;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Yahooショッピング</a>
   </div>
 </div>
 {{< /rawhtml >}}
@@ -322,7 +326,7 @@ cover:
     <p>ノンジアミン・ノンシリコン・サロン品質の低刺激カラートリートメント</p>
   </div>
   <div class="product-heading-img">
-    <img src="https://m.media-amazon.com/images/I/41vRDx6gIUL._SL500_.jpg" alt="LPLP ヘアカラートリートメント">
+    <img src="https://m.media-amazon.com/images/P/B0792JFDTR.09._SL500_.jpg" alt="LPLP ヘアカラートリートメント">
   </div>
 </div>
 {{< /rawhtml >}}
@@ -355,12 +359,13 @@ cover:
 {{< /rawhtml >}}
 
 {{< rawhtml >}}
-<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);">
+<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);;display:flex;align-items:center;gap:16px;">
+  <img src="https://m.media-amazon.com/images/P/B0792JFDTR.09._SL500_.jpg" alt="【染まるうるおう】 ルプルプ LPLP オリジナル カラートリートメント モカブラウン 200g 約1ヵ月分 白髪染め ヘアカラー トリートメント 毛染め メンズ レディース 部分 ノンジアミン オーガニック ヘアケア 人気 90327" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;">
+  <div>
   <div style="font-weight:700;font-size:1.05em;margin-bottom:16px;">【染まるうるおう】 ルプルプ LPLP オリジナル カラートリートメント モカブラウン 200g 約1ヵ月分 白髪染め ヘアカラー トリートメント 毛染め メンズ レディース 部分 ノンジアミン オーガニック ヘアケア 人気 90327</div>
   <div style="display:flex;gap:10px;flex-wrap:wrap;">
-    <a href="https://search.rakuten.co.jp/search/mall/%E3%80%90%E6%9F%93%E3%81%BE%E3%82%8B%E3%81%86%E3%82%8B%E3%81%8A%E3%81%86%E3%80%91%20%E3%83%AB%E3%83%97%E3%83%AB%E3%83%97%20LPLP%20%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%8A%E3%83%AB%20%E3%82%AB%E3%83%A9%E3%83%BC%E3%83%88%E3%83%AA%E3%83%BC%E3%83%88%E3%83%A1%E3%83%B3%E3%83%88%20%E3%83%A2%E3%82%AB%E3%83%96%E3%83%A9%E3%82%A6%E3%83%B3%20200g/" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #bf1a1a;color:#bf1a1a;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">楽天市場</a>
-    <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B0792JFDTR" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
-    <a href="https://shopping.yahoo.co.jp/search?first=1&p=%E3%80%90%E6%9F%93%E3%81%BE%E3%82%8B%E3%81%86%E3%82%8B%E3%81%8A%E3%81%86%E3%80%91%20%E3%83%AB%E3%83%97%E3%83%AB%E3%83%97%20LPLP%20%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%8A%E3%83%AB%20%E3%82%AB%E3%83%A9%E3%83%BC%E3%83%88%E3%83%AA%E3%83%BC%E3%83%88%E3%83%A1%E3%83%B3%E3%83%88%20%E3%83%A2%E3%82%AB%E3%83%96%E3%83%A9%E3%82%A6%E3%83%B3%20200g" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #6b2fbc;color:#6b2fbc;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Yahooショッピング</a>
+    <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB0792JFDTR" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
+    <a href="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%E3%80%90%E6%9F%93%E3%81%BE%E3%82%8B%E3%81%86%E3%82%8B%E3%81%8A%E3%81%86%E3%80%91%2B%E3%83%AB%E3%83%97%E3%83%AB%E3%83%97%2BLPLP%2B%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%8A%E3%83%AB%2B%E3%82%AB%E3%83%A9%E3%83%BC%E3%83%88%E3%83%AA%E3%83%BC%E3%83%88%E3%83%A1%E3%83%B3%E3%83%88%2B%E3%83%A2%E3%82%AB%E3%83%96%E3%83%A9%E3%82%A6%E3%83%B3%2B200g" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #6b2fbc;color:#6b2fbc;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Yahooショッピング</a>
   </div>
 </div>
 {{< /rawhtml >}}
@@ -377,7 +382,7 @@ cover:
     <p>育毛専門ブランド・頭皮ケア成分配合・白髪ケアと頭皮ケアを同時に</p>
   </div>
   <div class="product-heading-img">
-    <img src="https://m.media-amazon.com/images/I/317+FsucW+S._SL500_.jpg" alt="スカルプDボーテ メディカルカラートリートメント">
+    <img src="https://m.media-amazon.com/images/P/B08GPMP73F.09._SL500_.jpg" alt="スカルプDボーテ メディカルカラートリートメント">
   </div>
 </div>
 {{< /rawhtml >}}
@@ -410,12 +415,13 @@ cover:
 {{< /rawhtml >}}
 
 {{< rawhtml >}}
-<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);">
+<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);;display:flex;align-items:center;gap:16px;">
+  <img src="https://m.media-amazon.com/images/P/B08GPMP73F.09._SL500_.jpg" alt="アンファー (ANGFA) スカルプD ボーテ ヘアカラートリートメント[ 白髪染め ] [ 深染め ][ 女性用 ][ サロン仕上がり][ 自宅で簡単][ ボリューム ][ ツヤ感 ][ 全体染め染毛料 ] (3.【2021年版/新色】ナチュラルブラウン)" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;">
+  <div>
   <div style="font-weight:700;font-size:1.05em;margin-bottom:16px;">アンファー (ANGFA) スカルプD ボーテ ヘアカラートリートメント[ 白髪染め ] [ 深染め ][ 女性用 ][ サロン仕上がり][ 自宅で簡単][ ボリューム ][ ツヤ感 ][ 全体染め染毛料 ] (3.【2021年版/新色】ナチュラルブラウン)</div>
   <div style="display:flex;gap:10px;flex-wrap:wrap;">
-    <a href="https://search.rakuten.co.jp/search/mall/%E3%82%A2%E3%83%B3%E3%83%95%E3%82%A1%E3%83%BC%20(ANGFA)%20%E3%82%B9%E3%82%AB%E3%83%AB%E3%83%97D%20%E3%83%9C%E3%83%BC%E3%83%86%20%E3%83%98%E3%82%A2%E3%82%AB%E3%83%A9%E3%83%BC%E3%83%88%E3%83%AA%E3%83%BC%E3%83%88%E3%83%A1%E3%83%B3%E3%83%88%5B%20%E7%99%BD%E9%AB%AA%E6%9F%93%E3%82%81%20%5D/" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #bf1a1a;color:#bf1a1a;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">楽天市場</a>
-    <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B08GPMP73F" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
-    <a href="https://shopping.yahoo.co.jp/search?first=1&p=%E3%82%A2%E3%83%B3%E3%83%95%E3%82%A1%E3%83%BC%20(ANGFA)%20%E3%82%B9%E3%82%AB%E3%83%AB%E3%83%97D%20%E3%83%9C%E3%83%BC%E3%83%86%20%E3%83%98%E3%82%A2%E3%82%AB%E3%83%A9%E3%83%BC%E3%83%88%E3%83%AA%E3%83%BC%E3%83%88%E3%83%A1%E3%83%B3%E3%83%88%5B%20%E7%99%BD%E9%AB%AA%E6%9F%93%E3%82%81%20%5D" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #6b2fbc;color:#6b2fbc;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Yahooショッピング</a>
+    <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB08GPMP73F" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
+    <a href="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%E3%82%A2%E3%83%B3%E3%83%95%E3%82%A1%E3%83%BC%2B%28ANGFA%29%2B%E3%82%B9%E3%82%AB%E3%83%AB%E3%83%97D%2B%E3%83%9C%E3%83%BC%E3%83%86%2B%E3%83%98%E3%82%A2%E3%82%AB%E3%83%A9%E3%83%BC%E3%83%88%E3%83%AA%E3%83%BC%E3%83%88%E3%83%A1%E3%83%B3%E3%83%88%5B%2B%E7%99%BD%E9%AB%AA%E6%9F%93%E3%82%81%2B%5D" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #6b2fbc;color:#6b2fbc;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Yahooショッピング</a>
   </div>
 </div>
 {{< /rawhtml >}}
@@ -492,12 +498,13 @@ cover:
 | 向いている方 | 1回でしっかり色を入れたい・毎日の使用が難しい方 |
 
 {{< rawhtml >}}
-<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);">
+<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);;display:flex;align-items:center;gap:16px;">
+  <img src="https://m.media-amazon.com/images/P/B0DBGXX19D.09._SL500_.jpg" alt="ウエラトーン エッセンスイン カラートリートメント" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;">
+  <div>
   <div style="font-weight:700;font-size:1.05em;margin-bottom:16px;">ウエラトーン エッセンスイン カラートリートメント</div>
   <div style="display:flex;gap:10px;flex-wrap:wrap;">
-    <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%A6%E3%82%A8%E3%83%A9%E3%83%88%E3%83%BC%E3%83%B3+%E3%82%A8%E3%83%83%E3%82%BB%E3%83%B3%E3%82%B9%E3%82%A4%E3%83%B3+%E3%82%AB%E3%83%A9%E3%83%BC%E3%83%88%E3%83%AA%E3%83%BC%E3%83%88%E3%83%A1%E3%83%B3%E3%83%88%2F" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #bf1a1a;color:#bf1a1a;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">楽天市場</a>
-    <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B0DBGXX19D" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
-    <a href="https://shopping.yahoo.co.jp/search?p=%E3%82%A6%E3%82%A8%E3%83%A9%E3%83%88%E3%83%BC%E3%83%B3+%E3%82%A8%E3%83%83%E3%82%BB%E3%83%B3%E3%82%B9%E3%82%A4%E3%83%B3+%E3%82%AB%E3%83%A9%E3%83%BC%E3%83%88%E3%83%AA%E3%83%BC%E3%83%88%E3%83%A1%E3%83%B3%E3%83%88" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #6b2fbc;color:#6b2fbc;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Yahooショッピング</a>
+    <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB0DBGXX19D" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
+    <a href="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%E3%82%A6%E3%82%A8%E3%83%A9%E3%83%88%E3%83%BC%E3%83%B3%2B%E3%82%A8%E3%83%83%E3%82%BB%E3%83%B3%E3%82%B9%E3%82%A4%E3%83%B3%2B%E3%82%AB%E3%83%A9%E3%83%BC%E3%83%88%E3%83%AA%E3%83%BC%E3%83%88%E3%83%A1%E3%83%B3%E3%83%88" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #6b2fbc;color:#6b2fbc;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Yahooショッピング</a>
   </div>
 </div>
 {{< /rawhtml >}}

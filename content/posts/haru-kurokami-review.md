@@ -5,7 +5,7 @@ lastmod: 2026-05-14
 draft: false
 affiliate: true
 categories: ["ヘアケア", "口コミ・レビュー"]
-tags: ["haru kurokami", "シャンプー", "口コミ", "40代", "頭皮ケア", "ヘアケア", "スカルプシャンプー"]
+tags: ["シャンプー", "口コミ", "40代", "頭皮ケア", "ヘアケア"]
 description: "haru kurokami スカルプの口コミ・成分・使い方を40代目線でレビュー。最初のきしみの原因・30日返金保証の実態・変化が出るまでの期間を正直にまとめました。"
 cover:
   image: "/images/haru-kurokami-review.png"
@@ -17,12 +17,14 @@ cover:
 ¥4,940という価格を前に何度も後回しにしてきたのに、返金保証があると知ってから「試さない理由がない」と気持ちが変わりました。この記事では、実際に使ってわかったことと、購入前に知っておきたいことを正直にまとめています。
 
 {{< rawhtml >}}
-<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);">
+<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);;display:flex;align-items:center;gap:16px;">
+  <img src="https://m.media-amazon.com/images/P/B07ZB81Q8J.09._SL500_.jpg" alt="haru kurokami スカルプシャンプー" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;">
+  <div>
   <div style="font-weight:700;font-size:1.05em;margin-bottom:16px;">haru kurokami スカルプシャンプー</div>
   <div style="display:flex;gap:10px;flex-wrap:wrap;">
-    <a href="https://search.rakuten.co.jp/search/mall/haru%20kurokami%20%E3%82%B9%E3%82%AB%E3%83%AB%E3%83%97%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%97%E3%83%BC/" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #bf1a1a;color:#bf1a1a;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">楽天市場</a>
-    <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B07ZB81Q8J" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
-    <a href="https://shopping.yahoo.co.jp/search?first=1&p=haru%20kurokami%20%E3%82%B9%E3%82%AB%E3%83%AB%E3%83%97%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%97%E3%83%BC" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #6b2fbc;color:#6b2fbc;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Yahooショッピング</a>
+    <a href="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fharushop%2Fharushampoo001%2F" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #bf1a1a;color:#bf1a1a;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">楽天市場</a>
+    <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB07ZB81Q8J" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
+    <a href="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3Dharu%2Bkurokami%2B%E3%82%B9%E3%82%AB%E3%83%AB%E3%83%97%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%97%E3%83%BC" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #6b2fbc;color:#6b2fbc;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Yahooショッピング</a>
   </div>
 </div>
 {{< /rawhtml >}}
@@ -197,11 +199,11 @@ haru kurokami の成分で特に注目しているのは以下の3つです。
 
 {{< product
   title="haru kurokami スカルプ シャンプー"
-  img="https://m.media-amazon.com/images/I/61+vMDxaz-L._SL500_.jpg"
+  img="https://m.media-amazon.com/images/P/B07ZB81Q8J.09._SL500_.jpg"
   price="¥4,940 / 400mL（楽天公式）"
-  rakuten="https://rpx.a8.net/svt/ejp?a8mat=4B1QDP+BQ4COI+2HOM+BWGDT&rakuten=y&a8ejpredirect=https%3A%2F%2Fitem.rakuten.co.jp%2Fharushop%2Fharushampoo001%2F"
-  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B07ZB81Q8J"
-  yahoo="https://shopping.yahoo.co.jp/search?p=haru+kurokami+%E3%82%B9%E3%82%AB%E3%83%AB%E3%83%97"
+  rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fharushop%2Fharushampoo001%2F"
+  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB07ZB81Q8J"
+  yahoo="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3Dharu%2Bkurokami%2B%E3%82%B9%E3%82%AB%E3%83%AB%E3%83%97"
 >}}
 
 ---

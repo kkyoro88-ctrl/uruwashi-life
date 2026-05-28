@@ -5,7 +5,7 @@ lastmod: 2026-05-14
 draft: false
 affiliate: true
 categories: ["ギフト・プレゼント"]
-tags: ["プレゼント", "スキンケア"]
+tags: ["スキンケア", "ボディケア"]
 description: "母の日に贈る美容ギフト5選。自分ではなかなか買わないけど貰ったら絶対嬉しい、自然派コスメ・ハンドケア・入浴剤など。40代・50代のお母さんへのプレゼントに迷ったらこれ。"
 cover:
   image: "/images/mothers-day-beauty-gift-banner.png"
@@ -22,12 +22,13 @@ cover:
 今回は「もらったら素直に嬉しいけど自分では買わない」美容ギフトを5つ厳選しました。毎日使うたびに思い出してもらえる、そんなプレゼントです。
 
 {{< rawhtml >}}
-<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);">
+<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);;display:flex;align-items:center;gap:16px;">
+  <img src="https://m.media-amazon.com/images/P/B0G1S9PG9V.09._SL500_.jpg" alt="ハウスオブローゼ Oh!Baby ボディケア 3点セット" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;">
+  <div>
   <div style="font-weight:700;font-size:1.05em;margin-bottom:16px;">ハウスオブローゼ Oh!Baby ボディケア 3点セット</div>
   <div style="display:flex;gap:10px;flex-wrap:wrap;">
-    <a href="https://search.rakuten.co.jp/search/mall/%E3%83%8F%E3%82%A6%E3%82%B9%E3%82%AA%E3%83%96%E3%83%AD%E3%83%BC%E3%82%BC%20%E3%82%AE%E3%83%95%E3%83%88%E3%82%BB%E3%83%83%E3%83%88/" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #bf1a1a;color:#bf1a1a;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">楽天市場</a>
-    <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B0G1S9PG9V" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
-    <a href="https://shopping.yahoo.co.jp/search?first=1&p=%E3%83%8F%E3%82%A6%E3%82%B9%E3%82%AA%E3%83%96%E3%83%AD%E3%83%BC%E3%82%BC%20%E3%82%AE%E3%83%95%E3%83%88%E3%82%BB%E3%83%83%E3%83%88" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #6b2fbc;color:#6b2fbc;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Yahooショッピング</a>
+    <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB0G1S9PG9V" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
+    <a href="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%E3%83%8F%E3%82%A6%E3%82%B9%E3%82%AA%E3%83%96%E3%83%AD%E3%83%BC%E3%82%BC%2B%E3%82%AE%E3%83%95%E3%83%88%E3%82%BB%E3%83%83%E3%83%88" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #6b2fbc;color:#6b2fbc;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Yahooショッピング</a>
   </div>
 </div>
 {{< /rawhtml >}}

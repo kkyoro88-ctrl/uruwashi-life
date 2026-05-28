@@ -4,7 +4,7 @@ date: 2026-05-20
 draft: false
 affiliate: true
 categories: ["ヘアケア"]
-tags: ["40代", "シャンプー", "セグレタ", "ボリュームアップ", "ヘアケア"]
+tags: ["40代", "シャンプー", "頭皮ケア", "ヘアケア"]
 description: "セグレタ プレミア シャンプーを40代目線でレビュー。ぺたんこ髪・ハリコシ不足に悩む方への正直な使用感・デメリット・向いている人をまとめました。"
 cover:
   image: "/images/segreta-shampoo-review.png"
@@ -18,15 +18,13 @@ cover:
 プチプラでも「40代のぺたんこ髪向け」と明記されているものがあるとは知らなくて。花王というブランドへの信頼もあって、とりあえず試してみた正直な記録を書きます。
 
 {{< rawhtml >}}
-<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);">
-  <div style="display:flex;gap:16px;align-items:flex-start;flex-wrap:wrap;">
-    <div style="flex:1;min-width:200px;">
-      <div style="font-weight:700;font-size:1.05em;margin-bottom:12px;">セグレタ プレミア シャンプー</div>
-      <div style="display:flex;gap:10px;flex-wrap:wrap;">
-        <a href="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=27059&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%BB%E3%82%B0%E3%83%AC%E3%82%BF%2B%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%2B%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%97%E3%83%BC%2F" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #bf1a1a;color:#bf1a1a;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">楽天市場</a>
-        <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%E3%82%BB%E3%82%B0%E3%83%AC%E3%82%BF%2B%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%2B%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%97%E3%83%BC" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
-        <a href="https://shopping.yahoo.co.jp/search?p=%E3%82%BB%E3%82%B0%E3%83%AC%E3%82%BF+%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2+%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%97%E3%83%BC" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #6b2fbc;color:#6b2fbc;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Yahooショッピング</a>
-      </div>
+<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);display:flex;align-items:center;gap:16px;">
+  <img src="https://item-shopping.c.yimg.jp/i/l/sundrugec_4901301447227" alt="セグレタ プレミア 凝縮美容液シャンプー" style="width:150px;height:150px;object-fit:contain;flex-shrink:0;">
+  <div>
+    <div style="font-weight:700;font-size:1.05em;margin-bottom:16px;">セグレタ プレミア 凝縮美容液シャンプー</div>
+    <div style="display:flex;gap:10px;flex-wrap:wrap;">
+      <a href="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fkao-haircare%2Fsegreta-20%2F" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #bf1a1a;color:#bf1a1a;padding:8px 16px;border-radius:4px;font-size:0.82em;font-weight:700;text-decoration:none;">楽天市場</a>
+      <a href="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%E3%82%BB%E3%82%B0%E3%83%AC%E3%82%BF%2B%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%2B%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%97%E3%83%BC" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #6b2fbc;color:#6b2fbc;padding:8px 16px;border-radius:4px;font-size:0.82em;font-weight:700;text-decoration:none;">Yahooショッピング</a>
     </div>
   </div>
 </div>
@@ -195,15 +193,13 @@ cover:
 40代のシャンプー選び全体については[40代シャンプーおすすめ3選](/posts/shampoo-40s-recommend/)でまとめています。ヘアケアのベースを整えたい方は[40代ヘアケアおすすめガイド](/posts/haircare-40s-guide/)もあわせて読んでみてください。
 
 {{< rawhtml >}}
-<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);">
-  <div style="display:flex;gap:16px;align-items:flex-start;flex-wrap:wrap;">
-    <div style="flex:1;min-width:200px;">
-      <div style="font-weight:700;font-size:1.05em;margin-bottom:12px;">セグレタ プレミア シャンプー</div>
-      <div style="display:flex;gap:10px;flex-wrap:wrap;">
-        <a href="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=27059&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%BB%E3%82%B0%E3%83%AC%E3%82%BF%2B%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%2B%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%97%E3%83%BC%2F" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #bf1a1a;color:#bf1a1a;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">楽天市場</a>
-        <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%E3%82%BB%E3%82%B0%E3%83%AC%E3%82%BF%2B%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%2B%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%97%E3%83%BC" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
-        <a href="https://shopping.yahoo.co.jp/search?p=%E3%82%BB%E3%82%B0%E3%83%AC%E3%82%BF+%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2+%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%97%E3%83%BC" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #6b2fbc;color:#6b2fbc;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Yahooショッピング</a>
-      </div>
+<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);display:flex;align-items:center;gap:16px;">
+  <img src="https://item-shopping.c.yimg.jp/i/l/sundrugec_4901301447227" alt="セグレタ プレミア 凝縮美容液シャンプー" style="width:150px;height:150px;object-fit:contain;flex-shrink:0;">
+  <div>
+    <div style="font-weight:700;font-size:1.05em;margin-bottom:16px;">セグレタ プレミア 凝縮美容液シャンプー</div>
+    <div style="display:flex;gap:10px;flex-wrap:wrap;">
+      <a href="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fkao-haircare%2Fsegreta-20%2F" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #bf1a1a;color:#bf1a1a;padding:8px 16px;border-radius:4px;font-size:0.82em;font-weight:700;text-decoration:none;">楽天市場</a>
+      <a href="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%E3%82%BB%E3%82%B0%E3%83%AC%E3%82%BF%2B%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%2B%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%97%E3%83%BC" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #6b2fbc;color:#6b2fbc;padding:8px 16px;border-radius:4px;font-size:0.82em;font-weight:700;text-decoration:none;">Yahooショッピング</a>
     </div>
   </div>
 </div>
