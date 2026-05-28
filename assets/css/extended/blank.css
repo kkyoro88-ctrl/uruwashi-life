@@ -2343,7 +2343,8 @@ details.single-toc[open] .single-toc-title::after { content: '▴'; }
 .comparison-rank {
   border-collapse: separate;
   border-spacing: 0;
-  min-width: 560px;
+  width: max-content;
+  min-width: 600px;
   background: #fff;
 }
 .comparison-rank th {
