@@ -18,7 +18,7 @@ price_checked: "2026-05-28"
 ¥4,940という価格を前に何度も後回しにしてきたのに、返金保証があると知ってから「試さない理由がない」と気持ちが変わりました。この記事では、実際に使ってわかったことと、購入前に知っておきたいことを正直にまとめています。
 
 {{< rawhtml >}}
-<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);;display:flex;align-items:center;gap:16px;">
+<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);display:flex;align-items:center;gap:16px;">
   <img src="https://m.media-amazon.com/images/I/61+vMDxaz-L._AC_SL500_.jpg" alt="haru kurokami スカルプシャンプー" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;">
   <div>
   <div style="font-weight:700;font-size:1.05em;margin-bottom:16px;">haru kurokami スカルプシャンプー</div>
