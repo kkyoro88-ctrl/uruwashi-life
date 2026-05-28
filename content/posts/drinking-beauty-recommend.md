@@ -85,9 +85,9 @@ cover:
   title="オルビス アンバー ドリンク"
   img="https://www29.a8.net/svt/bgt?aid=260423344033&wid=001&eno=01&mid=s00000008657026006000&mc=1"
   official="https://px.a8.net/svt/ejp?a8mat=4B1RXS+JNBQQ+1USQ+4AV9VM"
-  rakuten="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%AA%E3%83%AB%E3%83%93%E3%82%B9%2B%E3%82%A2%E3%83%B3%E3%83%90%E3%83%BC%2F"
-  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/s?k=%E3%82%AA%E3%83%AB%E3%83%93%E3%82%B9+%E3%82%A2%E3%83%B3%E3%83%90%E3%83%BC"
-  yahoo="https://shopping.yahoo.co.jp/search?p=%E3%82%AA%E3%83%AB%E3%83%93%E3%82%B9+%E3%82%A2%E3%83%B3%E3%83%90%E3%83%BC"
+  rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Ffujifilm-h%2F16433510%2F"
+  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%E3%82%AA%E3%83%AB%E3%83%93%E3%82%B9%2B%E3%82%A2%E3%83%B3%E3%83%90%E3%83%BC"
+  yahoo="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%E3%82%AA%E3%83%AB%E3%83%93%E3%82%B9%2B%E3%82%A2%E3%83%B3%E3%83%90%E3%83%BC"
 >}}
 
 ---
@@ -133,9 +133,8 @@ cover:
 {{< product
   title="アスタリフト ドリンク ピュアコラーゲン10000"
   img="https://m.media-amazon.com/images/P/B07T48DDFQ.01._SL500_.jpg"
-  rakuten="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%A2%E3%82%B9%E3%82%BF%E3%83%AA%E3%83%95%E3%83%88+%E3%83%89%E3%83%AA%E3%83%B3%E3%82%AF+%E3%83%94%E3%83%A5%E3%82%A2%E3%82%B3%E3%83%A9%E3%83%BC%E3%82%B2%E3%83%B310000%2F"
-  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B07T48DDFQ"
-  yahoo="https://shopping.yahoo.co.jp/search?p=B07T48DDFQ"
+  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB07T48DDFQ"
+  yahoo="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%E3%82%A2%E3%82%B9%E3%82%BF%E3%83%AA%E3%83%95%E3%83%88%2B%E3%83%89%E3%83%AA%E3%83%B3%E3%82%AF%2B%E3%82%B3%E3%83%A9%E3%83%BC%E3%82%B2%E3%83%B3"
 >}}
 
 ---
@@ -150,7 +149,7 @@ cover:
     <p>低分子コラーゲン3,000mg・毎日続けやすいフルーティードリンク</p>
   </div>
   <div class="product-heading-img">
-    <img src="https://m.media-amazon.com/images/P/B0BJ6W7QZT.01._SL500_.jpg" alt="ファンケル ドリンクコラーゲン">
+    <img src="https://m.media-amazon.com/images/P/B08WLNDDJR.01._SL500_.jpg" alt="ファンケル ドリンクコラーゲン">
   </div>
 </div>
 {{< /rawhtml >}}
@@ -180,10 +179,9 @@ cover:
 
 {{< product
   title="ファンケル ドリンクコラーゲン 50mL×10本"
-  img="https://m.media-amazon.com/images/P/B0BJ6W7QZT.01._SL500_.jpg"
-  rakuten="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%95%E3%82%A1%E3%83%B3%E3%82%B1%E3%83%AB+%E3%83%89%E3%83%AA%E3%83%B3%E3%82%AF%E3%82%B3%E3%83%A9%E3%83%BC%E3%82%B2%E3%83%B3%2F"
-  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https://www.amazon.co.jp/dp/B0BJ6W7QZT"
-  yahoo="https://shopping.yahoo.co.jp/search?p=B0BJ6W7QZT"
+  img="https://m.media-amazon.com/images/P/B08WLNDDJR.01._SL500_.jpg"
+  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB08WLNDDJR"
+  yahoo="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%E3%83%95%E3%82%A1%E3%83%B3%E3%82%B1%E3%83%AB%2B%E3%83%89%E3%83%AA%E3%83%B3%E3%82%AF%E3%82%B3%E3%83%A9%E3%83%BC%E3%82%B2%E3%83%B3"
 >}}
 
 ---
