@@ -688,7 +688,7 @@ h1.post-title {
   color: var(--secondary);
   font-style: normal;
 }
-.post-content table {
+.post-content table:not(.comparison-rank) {
   width: 100%;
   border-collapse: collapse;
   font-size: 0.88rem;
