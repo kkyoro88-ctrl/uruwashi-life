@@ -1790,9 +1790,9 @@ details.single-toc[open] .single-toc-title::after { content: '▴'; }
    モバイル追加修正
    ============================================================ */
 
-/* ── 1. テーブル横スクロール ── */
-.single-body table,
-.post-content table {
+/* ── 1. テーブル横スクロール（.comparison-rank は .comparison-wrap が担うので除外） ── */
+.single-body table:not(.comparison-rank),
+.post-content table:not(.comparison-rank) {
   display: block;
   overflow-x: auto;
   -webkit-overflow-scrolling: touch;
