@@ -10,6 +10,7 @@ description: "30代・40代のパサつき・うねりに効いたヘアオイ�
 cover:
   image: "/images/hair-oil-recommend.png"
   alt: "ヘアオイルおすすめ5選"
+price_checked: "2026-05-28"
 ---
 
 「昔はサラサラだったのに、最近なんでこんなにパサパサなんだろう」——そう思ったことはありませんか？
@@ -20,13 +21,13 @@ cover:
 
 {{< rawhtml >}}
 <div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);;display:flex;align-items:center;gap:16px;">
-  <img src="https://m.media-amazon.com/images/P/B09BDSMW2Y.09._SL500_.jpg" alt="BOTANIST ボタニカルヘアオイル スムース 80mL" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;">
+  <img src="https://m.media-amazon.com/images/I/61d3eJQ1cOL._AC_SL500_.jpg" alt="BOTANIST ボタニカルヘアオイル スムース 80mL" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;">
   <div>
   <div style="font-weight:700;font-size:1.05em;margin-bottom:16px;">BOTANIST ボタニカルヘアオイル スムース 80mL</div>
   <div style="display:flex;gap:10px;flex-wrap:wrap;">
     <a href="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fdrugkirin%2F4582521682928%2F" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #bf1a1a;color:#bf1a1a;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">楽天市場</a>
     <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB09BDSMW2Y" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
-    <a href="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DBOTANIST%2B%E3%83%9C%E3%82%BF%E3%83%8B%E3%82%AB%E3%83%AB%E3%83%98%E3%82%A2%E3%82%AA%E3%82%A4%E3%83%AB%2B%E3%82%B9%E3%83%A0%E3%83%BC%E3%82%B9" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #6b2fbc;color:#6b2fbc;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Yahooショッピング</a>
+    
   </div>
 </div>
 {{< /rawhtml >}}
@@ -74,7 +75,7 @@ cover:
     <p>植物由来成分・ドライヤー前に使うサラサラ仕上がり</p>
   </div>
   <div class="product-heading-img">
-    <img src="https://m.media-amazon.com/images/P/B09BDSMW2Y.09._SL500_.jpg" alt="BOTANIST ボタニカルヘアオイル スムース">
+    <img src="https://m.media-amazon.com/images/I/61d3eJQ1cOL._AC_SL500_.jpg" alt="BOTANIST ボタニカルヘアオイル スムース">
   </div>
 </div>
 {{< /rawhtml >}}
@@ -109,10 +110,9 @@ cover:
 
 {{< product
   title="BOTANIST ボタニカルヘアオイル スムース 80mL"
-  img="https://m.media-amazon.com/images/P/B09BDSMW2Y.09._SL500_.jpg"
+  img="https://m.media-amazon.com/images/I/61d3eJQ1cOL._AC_SL500_.jpg"
   rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fdrugkirin%2F4582521682928%2F"
   amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB09BDSMW2Y"
-  yahoo="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DBOTANIST%2B%E3%83%9C%E3%82%BF%E3%83%8B%E3%82%AB%E3%83%AB%E3%83%98%E3%82%A2%E3%82%AA%E3%82%A4%E3%83%AB%2B%E3%82%B9%E3%83%A0%E3%83%BC%E3%82%B9"
 >}}
 
 ---
@@ -165,7 +165,6 @@ cover:
   img="https://image.rakuten.co.jp/oshimatsubaki/cabinet/item/haircare/ost01.jpg"
   rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Foshimatsubaki%2F4970170109161%2F"
   amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB00UBWOCUQ"
-  yahoo="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%E5%A4%A7%E5%B3%B6%E6%A4%BF%2B%E6%A4%BF%E6%B2%B9"
 >}}
 
 ---
@@ -218,7 +217,6 @@ cover:
   img="https://image.rakuten.co.jp/lorealparis/cabinet/30/2601_z1.jpg"
   rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Florealparis%2F404130%2F"
   amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB019SL0KN8"
-  yahoo="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%E3%83%AD%E3%83%AC%E3%82%A2%E3%83%AB%E3%83%91%E3%83%AA%2B%E3%82%A8%E3%83%AB%E3%82%BB%E3%83%BC%E3%83%B4%2B%E3%83%98%E3%82%A2%E3%82%AA%E3%82%A4%E3%83%AB"
 >}}
 
 ---
@@ -271,7 +269,6 @@ cover:
   img="https://image.rakuten.co.jp/kerastase-varie/cabinet/thumbna/hu-huilsubn_100/2507_01.jpg"
   rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fkerastase-varie%2Fhu-huilsubn_100%2F"
   amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB0D5J3FPFW"
-  yahoo="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%E3%82%B1%E3%83%A9%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BC%2B%E3%83%A6%E3%82%A4%E3%83%AB%E3%82%B9%E3%83%96%E3%83%AA%E3%83%A0"
 >}}
 
 ---
@@ -286,7 +283,7 @@ cover:
     <p>椿オイル配合・湿気による広がりを抑えるスムースオイル</p>
   </div>
   <div class="product-heading-img">
-    <img src="https://m.media-amazon.com/images/P/B0DBH77YRL.09._SL500_.jpg" alt="TSUBAKI オイルフォース M">
+    <img src="https://m.media-amazon.com/images/I/61r0bNK63uL._AC_SL500_.jpg" alt="TSUBAKI オイルフォース M">
   </div>
 </div>
 {{< /rawhtml >}}
@@ -321,10 +318,9 @@ cover:
 
 {{< product
   title="TSUBAKI オイルフォース M 60mL"
-  img="https://m.media-amazon.com/images/P/B0DBH77YRL.09._SL500_.jpg"
+  img="https://m.media-amazon.com/images/I/61r0bNK63uL._AC_SL500_.jpg"
   rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fcosmecomonline%2F1000196014%2F"
   amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB0DBH77YRL"
-  yahoo="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DTSUBAKI%2B%E3%82%AA%E3%82%A4%E3%83%AB%E3%83%95%E3%82%A9%E3%83%BC%E3%82%B9"
 >}}
 
 ---
@@ -495,9 +491,8 @@ A. 毎日使うことで保護効果が継続し、ドライヤーの熱ダメ�
 
 {{< product
   title="BOTANIST ボタニカルヘアオイル スムース 80mL"
-  img="https://m.media-amazon.com/images/P/B09BDSMW2Y.09._SL500_.jpg"
+  img="https://m.media-amazon.com/images/I/61d3eJQ1cOL._AC_SL500_.jpg"
   amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB09BDSMW2Y"
-  yahoo="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DBOTANIST%2B%E3%83%9C%E3%82%BF%E3%83%8B%E3%82%AB%E3%83%AB%E3%83%98%E3%82%A2%E3%82%AA%E3%82%A4%E3%83%AB%2B%E3%82%B9%E3%83%A0%E3%83%BC%E3%82%B9"
 >}}
 
 {{< rawhtml >}}

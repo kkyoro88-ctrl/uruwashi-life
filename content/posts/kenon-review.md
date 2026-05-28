@@ -15,6 +15,7 @@ summary_points:
 cover:
   image: "/images/kenon-review.png"
   alt: "ケノン 美顔器 スキンケアカートリッジ 口コミレビュー"
+price_checked: "2026-05-28"
 ---
 
 「脱毛器を買うつもりが、気づいたら毎朝の美顔器になっていた」——これが私のケノン体験の正直なまとめです。
@@ -32,7 +33,7 @@ cover:
   </div>
   <div class="product-heading-img">
     <a href="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fmrock%2Fke-non%2F" target="_blank" rel="nofollow noopener">
-      <img src="https://m.media-amazon.com/images/P/B01GTN65Z0.09._SL500_.jpg" alt="ケノン 光美容器">
+      <img src="https://m.media-amazon.com/images/I/61Ikz68hVuL._AC_SL500_.jpg" alt="ケノン 光美容器">
     </a>
   </div>
 </div>
@@ -40,13 +41,13 @@ cover:
 
 {{< rawhtml >}}
 <div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);;display:flex;align-items:center;gap:16px;">
-  <img src="https://m.media-amazon.com/images/P/B01GTN65Z0.09._SL500_.jpg" alt="エムテック ケノン KE-NON 光美容器" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;">
+  <img src="https://m.media-amazon.com/images/I/61Ikz68hVuL._AC_SL500_.jpg" alt="エムテック ケノン KE-NON 光美容器" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;">
   <div>
   <div style="font-weight:700;font-size:1.05em;margin-bottom:16px;">エムテック ケノン KE-NON 光美容器</div>
   <div style="display:flex;gap:10px;flex-wrap:wrap;">
     <a href="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fmrock%2Fke-non%2F" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #bf1a1a;color:#bf1a1a;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">楽天市場</a>
     <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB01GTN65Z0" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
-    <a href="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%E3%82%B1%E3%83%8E%E3%83%B3%2BKE-NON%2B%E5%85%89%E7%BE%8E%E5%AE%B9%E5%99%A8" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #6b2fbc;color:#6b2fbc;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Yahooショッピング</a>
+    
   </div>
 </div>
 {{< /rawhtml >}}

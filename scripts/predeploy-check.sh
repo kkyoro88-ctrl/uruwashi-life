@@ -59,6 +59,19 @@ if [ -n "$BAD" ]; then
   ERRORS=$((ERRORS+1))
 fi
 
+# -----------------------------------------------
+# 3c. Amazon 検索URL（/s?k=）内のダブルエンコード
+#     /dp/ASIN が推奨。やむを得ず /s?k= を使う場合も
+#     キーワードはシングルエンコード（%E3%83...）であること
+#     NG: url=...%2Fs%3Fk%3D%25E3... （%25E3 = ダブルエンコード）
+# -----------------------------------------------
+BAD=$(grep -rn 'amazon\.co\.jp%2Fs%3Fk%3D%25E[3-9]' $TARGET 2>/dev/null | grep 'af\.moshimo' || true)
+if [ -n "$BAD" ]; then
+  red "Amazon 検索URLがダブルエンコード（%25E3等）— 商品ページに到達しません"
+  echo "$BAD" | head -5
+  ERRORS=$((ERRORS+1))
+fi
+
 # 楽天市場ラベルのボタンが Yahoo a_id (5525312) を使っていないか（rawhtml内）
 BAD=$(grep -rn '>楽天市場<' $TARGET 2>/dev/null | grep 'a_id=5525312' || true)
 if [ -n "$BAD" ]; then
@@ -129,6 +142,147 @@ BAD=$(grep -rn 'amazon\.co\.jp%2Fdp%2F' $TARGET 2>/dev/null | grep -vE 'dp%2F[A-
 if [ -n "$BAD" ]; then
   yellow "Amazon ASIN 形式が不正の可能性（要目視確認）"
   echo "$BAD" | head -5
+fi
+
+# -----------------------------------------------
+# 7. Yahoo search URL（shopping.yahoo.co.jp/search）→ もしもで「無効な広告リンク」
+# -----------------------------------------------
+FILES=$(grep -rl 'shopping\.yahoo\.co\.jp%2Fsearch' $TARGET 2>/dev/null || true)
+if [ -n "$FILES" ]; then
+  COUNT=$(echo "$FILES" | wc -l | tr -d ' ')
+  red "shopping.yahoo.co.jp/search が ${COUNT}ファイルに存在（もしもで無効な広告リンク）— yahoo= パラメータから削除してください"
+  echo "$FILES"
+  ERRORS=$((ERRORS+1))
+fi
+
+# -----------------------------------------------
+# 8. カバー画像ファイル存在確認
+# -----------------------------------------------
+BAD=$(python3 - "$TARGET" <<'PYEOF' 2>/dev/null
+import re, os, sys, glob
+
+target = sys.argv[1]
+files = []
+if os.path.isfile(target):
+    files = [target]
+elif os.path.isdir(target):
+    for f in sorted(glob.glob(os.path.join(target, '*.md'))):
+        files.append(f)
+
+issues = []
+for fpath in files:
+    with open(fpath) as f:
+        content = f.read()
+    m = re.search(r'image:\s*"(/images/[^"]+)"', content)
+    if m:
+        img_path = os.path.join('/Users/boa/uruwashi-life/static', m.group(1).lstrip('/'))
+        if not os.path.exists(img_path):
+            issues.append(f'{os.path.basename(fpath)}: {m.group(1)} が見つかりません')
+if issues:
+    print('\n'.join(issues))
+PYEOF
+)
+if [ -n "$BAD" ]; then
+  red "カバー画像ファイルが存在しません:"
+  echo "$BAD"
+  ERRORS=$((ERRORS+1))
+fi
+
+# -----------------------------------------------
+# 9. rawhtml内のYahooボタン色が正しいか（#720096 以外はNG）
+# -----------------------------------------------
+BAD=$(grep -rn 'Yahooショッピング' $TARGET 2>/dev/null | grep 'style=' | grep -v '#720096' || true)
+if [ -n "$BAD" ]; then
+  red "rawhtml内のYahooボタン色が不正（#720096 以外が使われています）"
+  echo "$BAD" | head -5
+  ERRORS=$((ERRORS+1))
+fi
+
+# -----------------------------------------------
+# 10. rawhtml内でAmazonボタンが楽天ボタンより前にある（順番逆転）
+# -----------------------------------------------
+BAD=$(python3 - "$TARGET" <<'PYEOF' 2>/dev/null
+import re, os, sys, glob
+
+target = sys.argv[1]
+files = []
+if os.path.isfile(target):
+    files = [target]
+elif os.path.isdir(target):
+    for f in sorted(glob.glob(os.path.join(target, '*.md'))):
+        files.append(f)
+
+issues = []
+for fpath in files:
+    with open(fpath) as f:
+        content = f.read()
+    blocks = re.findall(r'{{<\s*rawhtml\s*>}}(.*?){{<\s*/rawhtml\s*>}}', content, re.DOTALL)
+    for block in blocks:
+        if '>Amazon<' in block and '>楽天市場<' in block:
+            if block.index('>Amazon<') < block.index('>楽天市場<'):
+                issues.append(os.path.basename(fpath))
+                break
+if issues:
+    print('\n'.join(sorted(set(issues))))
+PYEOF
+)
+if [ -n "$BAD" ]; then
+  red "rawhtml内でAmazonボタンが楽天より前にあります（正しい順：楽天→Amazon→Yahoo）"
+  echo "$BAD"
+  ERRORS=$((ERRORS+1))
+fi
+
+# -----------------------------------------------
+# 11. price_checked フィールド（商品リンクあり記事）
+#     - フィールド未設定 → エラー
+#     - 90日以上経過 → 警告
+# -----------------------------------------------
+BAD=$(python3 - "$TARGET" <<'PYEOF' 2>/dev/null
+import re, os, sys, glob
+from datetime import date, datetime
+
+target = sys.argv[1]
+files = []
+if os.path.isfile(target):
+    files = [target]
+elif os.path.isdir(target):
+    for f in sorted(glob.glob(os.path.join(target, '*.md'))):
+        files.append(f)
+
+missing = []
+stale = []
+today = date.today()
+
+for fpath in files:
+    with open(fpath) as f:
+        content = f.read()
+    if 'af.moshimo.com' not in content:
+        continue
+    m = re.search(r'^price_checked:\s*"?(\d{4}-\d{2}-\d{2})"?', content, re.MULTILINE)
+    if not m:
+        missing.append(os.path.basename(fpath))
+    else:
+        checked = datetime.strptime(m.group(1), '%Y-%m-%d').date()
+        days = (today - checked).days
+        if days > 90:
+            stale.append(f'{os.path.basename(fpath)}: {m.group(1)}（{days}日経過）')
+
+if missing:
+    print('MISSING:' + ','.join(missing))
+if stale:
+    print('STALE:' + ','.join(stale))
+PYEOF
+)
+if echo "$BAD" | grep -q '^MISSING:'; then
+  MISSING_FILES=$(echo "$BAD" | grep '^MISSING:' | sed 's/^MISSING://' | tr ',' '\n')
+  red "price_checked フィールドがありません（商品リンクのある記事には必須）:"
+  echo "$MISSING_FILES"
+  ERRORS=$((ERRORS+1))
+fi
+if echo "$BAD" | grep -q '^STALE:'; then
+  STALE_FILES=$(echo "$BAD" | grep '^STALE:' | sed 's/^STALE://' | tr ',' '\n')
+  yellow "price_checked が90日以上前 — 価格を目視確認してください:"
+  echo "$STALE_FILES"
 fi
 
 # -----------------------------------------------

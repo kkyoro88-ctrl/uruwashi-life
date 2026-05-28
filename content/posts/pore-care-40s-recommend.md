@@ -14,6 +14,7 @@ summary_points:
 cover:
   image: "/images/pore-care-40s-recommend.png"
   alt: "40代の毛穴ケアおすすめ3選"
+price_checked: "2026-05-28"
 ---
 
 「洗顔もクレンジングもちゃんとしているのに、毛穴が目立つ」——40代になってからそう感じる方が多いのは、毛穴の「種類」が変わっているからです。
@@ -24,13 +25,14 @@ cover:
 
 {{< rawhtml >}}
 <div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);display:flex;align-items:flex-start;gap:20px;">
-  <img src="https://m.media-amazon.com/images/P/B091PJNLCB.01._SL500_.jpg" alt="ファンケル ディープクリア 洗顔パウダー" style="width:150px;height:150px;object-fit:contain;flex-shrink:0;">
+  <img src="https://m.media-amazon.com/images/I/51QOhnDEycL._AC_SL500_.jpg" alt="ファンケル ディープクリア 洗顔パウダー" style="width:150px;height:150px;object-fit:contain;flex-shrink:0;">
   <div style="flex:1;">
     <div style="font-weight:700;font-size:1.05em;margin-bottom:16px;">ファンケル ディープクリア 洗顔パウダー 30個入</div>
     <div style="display:flex;gap:8px;flex-wrap:wrap;">
-      <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB091PJNLCB" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:8px 16px;border-radius:4px;font-size:0.82em;font-weight:700;text-decoration:none;">Amazon</a>
-      <a href="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%E3%83%95%E3%82%A1%E3%83%B3%E3%82%B1%E3%83%AB%2B%E3%83%87%E3%82%A3%E3%83%BC%E3%83%97%E3%82%AF%E3%83%AA%E3%82%A2%2B%E6%B4%97%E9%A1%94%E3%83%91%E3%82%A6%E3%83%80%E3%83%BC" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #6b2fbc;color:#6b2fbc;padding:8px 16px;border-radius:4px;font-size:0.82em;font-weight:700;text-decoration:none;">Yahooショッピング</a>
       <a href="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Ffancl-shop%2F3738-01%2F" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #bf0000;color:#bf0000;padding:8px 16px;border-radius:4px;font-size:0.82em;font-weight:700;text-decoration:none;">楽天市場</a>
+      <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB091PJNLCB" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:8px 16px;border-radius:4px;font-size:0.82em;font-weight:700;text-decoration:none;">Amazon</a>
+      
+      
     </div>
   </div>
 </div>
@@ -120,7 +122,7 @@ cover:
     <div class="product-heading-num">No.1</div>
     <div class="product-heading-name">ファンケル ディープクリア 洗顔パウダー</div>
   </div>
-  <img class="product-heading-img" src="https://m.media-amazon.com/images/P/B091PJNLCB.01._SL500_.jpg" alt="ファンケル ディープクリア 洗顔パウダー">
+  <img class="product-heading-img" src="https://m.media-amazon.com/images/I/51QOhnDEycL._AC_SL500_.jpg" alt="ファンケル ディープクリア 洗顔パウダー">
 </div>
 {{< /rawhtml >}}
 
@@ -158,10 +160,9 @@ cover:
 {{< /rawhtml >}}
 {{< product
   title="ファンケル ディープクリア 洗顔パウダー 30個入"
-  img="https://m.media-amazon.com/images/P/B091PJNLCB.01._SL500_.jpg"
+  img="https://m.media-amazon.com/images/I/51QOhnDEycL._AC_SL500_.jpg"
   price="¥900〜 / 30個"
   amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB091PJNLCB"
-  yahoo="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%E3%83%95%E3%82%A1%E3%83%B3%E3%82%B1%E3%83%AB%2B%E3%83%87%E3%82%A3%E3%83%BC%E3%83%97%E3%82%AF%E3%83%AA%E3%82%A2%2B%E6%B4%97%E9%A1%94%E3%83%91%E3%82%A6%E3%83%80%E3%83%BC"
   rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Ffancl-shop%2F3738-01%2F"
 >}}
 {{< rawhtml >}}
@@ -178,7 +179,7 @@ cover:
     <div class="product-heading-num">No.2</div>
     <div class="product-heading-name">ビオレ 毛穴すっきりパック 鼻用＋気になる部分用</div>
   </div>
-  <img class="product-heading-img" src="https://m.media-amazon.com/images/P/B002OH99CW.01._SL500_.jpg" alt="ビオレ 毛穴すっきりパック">
+  <img class="product-heading-img" src="https://m.media-amazon.com/images/I/51e5RWS8KeL._AC_SL500_.jpg" alt="ビオレ 毛穴すっきりパック">
 </div>
 {{< /rawhtml >}}
 
@@ -213,10 +214,9 @@ cover:
 
 {{< product
   title="ビオレ 毛穴すっきりパック 鼻用＋気になる部分用 15枚"
-  img="https://m.media-amazon.com/images/P/B002OH99CW.01._SL500_.jpg"
+  img="https://m.media-amazon.com/images/I/51e5RWS8KeL._AC_SL500_.jpg"
   price="¥650〜 / 15枚"
   amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB002OH99CW"
-  yahoo="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%E3%83%93%E3%82%AA%E3%83%AC%2B%E6%AF%9B%E7%A9%B4%E3%81%99%E3%81%A3%E3%81%8D%E3%82%8A%E3%83%91%E3%83%83%E3%82%AF"
   rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fzagzag%2Fg4901301200228_mailx3%2F"
 >}}
 
@@ -230,7 +230,7 @@ cover:
     <div class="product-heading-num">No.3</div>
     <div class="product-heading-name">ソフィーナiP ハリ弾力注入美容液</div>
   </div>
-  <img class="product-heading-img" src="https://m.media-amazon.com/images/P/B0CCJBHQKR.01._SL500_.jpg" alt="ソフィーナiP ハリ弾力注入美容液">
+  <img class="product-heading-img" src="https://m.media-amazon.com/images/I/514Uq-5bGdL._AC_SL500_.jpg" alt="ソフィーナiP ハリ弾力注入美容液">
 </div>
 {{< /rawhtml >}}
 
@@ -264,10 +264,9 @@ cover:
 
 {{< product
   title="ソフィーナiP ハリ弾力注入美容液 40g"
-  img="https://m.media-amazon.com/images/P/B0CCJBHQKR.01._SL500_.jpg"
+  img="https://m.media-amazon.com/images/I/514Uq-5bGdL._AC_SL500_.jpg"
   price="¥4,400〜 / 40g"
   amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB0CCJBHQKR"
-  yahoo="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%E3%82%BD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%8AiP%2B%E3%83%8F%E3%83%AA%E5%BC%BE%E5%8A%9B%2B%E6%B3%A8%E5%85%A5%E7%BE%8E%E5%AE%B9%E6%B6%B2"
   rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F4901301422750%2F"
 >}}
 
@@ -385,10 +384,9 @@ A. 詰まり毛穴の改善は早ければ2〜4週間で変化を感じる方も
 
 {{< product
   title="ファンケル ディープクリア 洗顔パウダー 30個入"
-  img="https://m.media-amazon.com/images/P/B091PJNLCB.01._SL500_.jpg"
+  img="https://m.media-amazon.com/images/I/51QOhnDEycL._AC_SL500_.jpg"
   price="¥900〜 / 30個"
   amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB091PJNLCB"
-  yahoo="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%E3%83%95%E3%82%A1%E3%83%B3%E3%82%B1%E3%83%AB%2B%E3%83%87%E3%82%A3%E3%83%BC%E3%83%97%E3%82%AF%E3%83%AA%E3%82%A2%2B%E6%B4%97%E9%A1%94%E3%83%91%E3%82%A6%E3%83%80%E3%83%BC"
   rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Ffancl-shop%2F3738-01%2F"
 >}}
 

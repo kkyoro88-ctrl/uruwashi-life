@@ -14,6 +14,7 @@ summary_points:
 cover:
   image: "/images/lotion-recommend.png"
   alt: "化粧水おすすめ40代向け"
+price_checked: "2026-05-28"
 ---
 
 「化粧水、ずっと同じものを使っているのになんか最近手応えを感じにくい」——そう感じたのが、化粧水を見直したきっかけでした。
@@ -24,13 +25,13 @@ cover:
 
 {{< rawhtml >}}
 <div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);;display:flex;align-items:center;gap:16px;">
-  <img src="https://m.media-amazon.com/images/P/B00V4PBEZU.09._SL500_.jpg" alt="HABA 薬用VCローション" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;">
+  <img src="https://m.media-amazon.com/images/I/514Uq-5bGdL._AC_SL500_.jpg" alt="HABA 薬用VCローション" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;">
   <div>
   <div style="font-weight:700;font-size:1.05em;margin-bottom:16px;">HABA 薬用VCローション</div>
   <div style="display:flex;gap:10px;flex-wrap:wrap;">
     <a href="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fkirei-mitsuketa%2Fh-b_0001437%2F" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #bf1a1a;color:#bf1a1a;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">楽天市場</a>
     <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB00V4PBEZU" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
-    <a href="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DHABA%2B%E8%96%AC%E7%94%A8VC%E3%83%AD%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #6b2fbc;color:#6b2fbc;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Yahooショッピング</a>
+    
   </div>
 </div>
 {{< /rawhtml >}}
@@ -119,7 +120,7 @@ cover:
     <div class="product-heading-num">No.1 イチ推し</div>
     <div class="product-heading-name">HABA 薬用VCローション 180ml</div>
   </div>
-  <img class="product-heading-img" src="https://m.media-amazon.com/images/P/B00V4PBEZU.09._SL500_.jpg" alt="HABA 薬用VCローション">
+  <img class="product-heading-img" src="https://m.media-amazon.com/images/I/514Uq-5bGdL._AC_SL500_.jpg" alt="HABA 薬用VCローション">
 </div>
 {{< /rawhtml >}}
 
@@ -167,11 +168,10 @@ cover:
 {{< /rawhtml >}}
 {{< product
   title="HABA 薬用VCローション 180ml【医薬部外品】"
-  img="https://m.media-amazon.com/images/P/B00V4PBEZU.09._SL500_.jpg"
+  img="https://m.media-amazon.com/images/I/514Uq-5bGdL._AC_SL500_.jpg"
   price="¥3,520 / 180ml"
   rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fkirei-mitsuketa%2Fh-b_0001437%2F"
   amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB00V4PBEZU"
-  yahoo="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DHABA%2B%E8%96%AC%E7%94%A8VC%E3%83%AD%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%2B180ml"
 >}}
 {{< rawhtml >}}
 </div>
@@ -185,7 +185,7 @@ cover:
     <div class="product-heading-num">No.2</div>
     <div class="product-heading-name">イプサ ザ・タイムR アクア 200ml</div>
   </div>
-  <img class="product-heading-img" src="https://m.media-amazon.com/images/P/B00V4PBEZU.09._SL500_.jpg" alt="イプサ ザ・タイムR アクア">
+  <img class="product-heading-img" src="https://m.media-amazon.com/images/I/514Uq-5bGdL._AC_SL500_.jpg" alt="イプサ ザ・タイムR アクア">
 </div>
 {{< /rawhtml >}}
 
@@ -217,11 +217,10 @@ cover:
 
 {{< product
   title="イプサ ザ・タイムR アクア 200ml"
-  img="https://m.media-amazon.com/images/P/B00N0JKYZE.09._SL500_.jpg"
+  img="https://m.media-amazon.com/images/I/715Gkhnm-cL._AC_SL500_.jpg"
   price="¥4,730 / 200ml"
   rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Flifeplaza01%2F4931449437378%2F"
   amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB00N0JKYZE"
-  yahoo="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%E3%82%A4%E3%83%97%E3%82%B5%2B%E3%82%B6%E3%83%BB%E3%82%BF%E3%82%A4%E3%83%A0R%2B%E3%82%A2%E3%82%AF%E3%82%A2%2B200ml"
 >}}
 
 ---
@@ -232,7 +231,7 @@ cover:
     <div class="product-heading-num">No.3</div>
     <div class="product-heading-name">無印良品 化粧水 敏感肌用 高保湿タイプ（大容量）400ml</div>
   </div>
-  <img class="product-heading-img" src="https://m.media-amazon.com/images/P/B00V4PBEZU.09._SL500_.jpg" alt="無印良品 化粧水 敏感肌用 高保湿タイプ">
+  <img class="product-heading-img" src="https://m.media-amazon.com/images/I/514Uq-5bGdL._AC_SL500_.jpg" alt="無印良品 化粧水 敏感肌用 高保湿タイプ">
 </div>
 {{< /rawhtml >}}
 
@@ -264,11 +263,10 @@ cover:
 
 {{< product
   title="無印良品 化粧水 敏感肌用 高保湿タイプ（大容量）400ml"
-  img="https://m.media-amazon.com/images/P/B01D5ZZQIM.09._SL500_.jpg"
+  img="https://m.media-amazon.com/images/I/419WCai4acL._AC_SL500_.jpg"
   price="¥1,190 / 400ml"
   rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fmujirushi-ryohin%2F4548076448341%2F"
   amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB01D5ZZQIM"
-  yahoo="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%E7%84%A1%E5%8D%B0%E8%89%AF%E5%93%81%2B%E5%8C%96%E7%B2%A7%E6%B0%B4%2B%E6%95%8F%E6%84%9F%E8%82%8C%E7%94%A8%2B%E9%AB%98%E4%BF%9D%E6%B9%BF%2B400ml"
 >}}
 
 ---
@@ -409,13 +407,13 @@ HABAで美白の土台を整えてきたので、次はセラミドと美白成�
 
 {{< rawhtml >}}
 <div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);;display:flex;align-items:center;gap:16px;">
-  <img src="https://m.media-amazon.com/images/P/B0FQT2K617.09._SL500_.jpg" alt="CNP Laboratory ダーマアンサー スキン ブースティング トナー" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;">
+  <img src="https://m.media-amazon.com/images/I/51xHXr8MdPL._AC_SL500_.jpg" alt="CNP Laboratory ダーマアンサー スキン ブースティング トナー" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;">
   <div>
   <div style="font-weight:700;font-size:1.05em;margin-bottom:16px;">CNP Laboratory ダーマアンサー スキン ブースティング トナー</div>
   <div style="display:flex;gap:10px;flex-wrap:wrap;">
     <a href="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fkirei-mitsuketa%2Fh-b_0001437%2F" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #bf1a1a;color:#bf1a1a;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">楽天市場</a>
     <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB0FQT2K617" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
-    <a href="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DCNP%2B%E3%83%80%E3%83%BC%E3%83%9E%E3%82%A2%E3%83%B3%E3%82%B5%E3%83%BC%2B%E3%83%88%E3%83%8A%E3%83%BC" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #6b2fbc;color:#6b2fbc;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Yahooショッピング</a>
+    
   </div>
 </div>
 {{< /rawhtml >}}
@@ -434,10 +432,9 @@ HABAで美白の土台を整えてきたので、次はセラミドと美白成�
 
 {{< product
   title="HABA 薬用VCローション 180ml【医薬部外品】"
-  img="https://m.media-amazon.com/images/P/B00V4PBEZU.09._SL500_.jpg"
+  img="https://m.media-amazon.com/images/I/514Uq-5bGdL._AC_SL500_.jpg"
   price="¥3,520 / 180ml"
   amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB00V4PBEZU"
-  yahoo="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DHABA%2B%E8%96%AC%E7%94%A8VC%E3%83%AD%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%2B180ml"
 >}}
 
 {{< rawhtml >}}

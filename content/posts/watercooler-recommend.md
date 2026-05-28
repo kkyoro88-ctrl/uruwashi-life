@@ -9,6 +9,7 @@ description: "ウォーターサーバーを比較検討した結果、オーケ
 cover:
   image: "/images/watercooler-recommend.png"
   alt: "オーケンウォーター ウォーターサーバー"
+price_checked: "2026-05-28"
 ---
 
 
@@ -26,7 +27,7 @@ cover:
   <div style="display:flex;gap:10px;flex-wrap:wrap;">
     <a href="https://px.a8.net/svt/ejp?a8mat=4B1RXP+DNS2GI+1LOO+6CWQP" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #2d7d46;color:#2d7d46;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">公式サイト</a>
     <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%E3%82%AA%E3%83%BC%E3%82%B1%E3%83%B3%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%BF%E3%83%BC%2B%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
-    <a href="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%E3%82%AA%E3%83%BC%E3%82%B1%E3%83%B3%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%BF%E3%83%BC%2B%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #6b2fbc;color:#6b2fbc;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Yahooショッピング</a>
+    
   </div>
 </div>
 {{< /rawhtml >}}
@@ -273,7 +274,7 @@ cover:
   <div style="display:flex;gap:10px;flex-wrap:wrap;">
     <a href="https://px.a8.net/svt/ejp?a8mat=4B1RXP+DNS2GI+1LOO+6CWQP" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #2d7d46;color:#2d7d46;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">公式サイト</a>
     <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%E3%82%AA%E3%83%BC%E3%82%B1%E3%83%B3%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%BF%E3%83%BC%2B%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
-    <a href="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%E3%82%AA%E3%83%BC%E3%82%B1%E3%83%B3%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%BF%E3%83%BC%2B%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #6b2fbc;color:#6b2fbc;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Yahooショッピング</a>
+    
   </div>
 </div>
 {{< /rawhtml >}}

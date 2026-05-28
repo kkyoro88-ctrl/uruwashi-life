@@ -10,6 +10,7 @@ affiliate: true
 cover:
   image: "/images/equol-supplement-40s-recommend.png"
   alt: "エクオールサプリおすすめ40代向け"
+price_checked: "2026-05-28"
 ---
 
 40代の半ばになって、突然顔がカーッと熱くなる日が増えました。夜中に目が覚めて汗びっしょり、なんてことも。「これって更年期？」と調べ始めて、最初に出てきたのが「エクオール」という言葉でした。
@@ -22,12 +23,13 @@ cover:
 
 {{< rawhtml >}}
 <div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);display:flex;align-items:flex-start;gap:20px;">
-  <img src="https://m.media-amazon.com/images/P/B01MUBY004.09._SL500_.jpg" alt="エクエル パウチ" style="width:160px;height:160px;object-fit:contain;flex-shrink:0;">
+  <img src="https://m.media-amazon.com/images/I/61dRDQ8iYcL._AC_SL500_.jpg" alt="エクエル パウチ" style="width:160px;height:160px;object-fit:contain;flex-shrink:0;">
   <div style="flex:1;">
     <div style="font-weight:700;font-size:1.05em;margin-bottom:16px;">エクエル パウチ 120粒 約30日分</div>
     <div style="display:flex;gap:10px;flex-wrap:wrap;">
+      <a href="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fpycno%2F4018-018%2F" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #bf1a1a;color:#bf1a1a;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">楽天市場</a>
       <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB01MUBY004" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
-      <a href="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%E3%82%A8%E3%82%AF%E3%82%A8%E3%83%AB%2B%E3%83%91%E3%82%A6%E3%83%81%2B%E5%A4%A7%E5%A1%9A%E8%A3%BD%E8%96%AC" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #6b2fbc;color:#6b2fbc;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Yahooショッピング</a>
+      
     </div>
   </div>
 </div>
@@ -80,7 +82,7 @@ cover:
     <h3>エクエル パウチ（大塚製薬）</h3>
     <p>日本初エクオール含有食品・婦人科推薦・多数の臨床研究データあり</p>
   </div>
-  <img class="product-heading-img" src="https://m.media-amazon.com/images/P/B01MUBY004.09._SL500_.jpg" alt="エクエル パウチ 大塚製薬">
+  <img class="product-heading-img" src="https://m.media-amazon.com/images/I/61dRDQ8iYcL._AC_SL500_.jpg" alt="エクエル パウチ 大塚製薬">
 </div>
 {{< /rawhtml >}}
 
@@ -123,9 +125,9 @@ cover:
 {{< /rawhtml >}}
 {{< product
   title="エクエル パウチ 120粒 約30日分"
-  img="https://m.media-amazon.com/images/P/B01MUBY004.09._SL500_.jpg"
+  img="https://m.media-amazon.com/images/I/61dRDQ8iYcL._AC_SL500_.jpg"
+  rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fpycno%2F4018-018%2F"
   amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB01MUBY004"
-  yahoo="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%E3%82%A8%E3%82%AF%E3%82%A8%E3%83%AB%2B%E3%83%91%E3%82%A6%E3%83%81%2B%E5%A4%A7%E5%A1%9A%E8%A3%BD%E8%96%AC"
 >}}
 {{< rawhtml >}}
 </div>
@@ -182,8 +184,8 @@ cover:
 {{< product
   title="DHC 大豆イソフラボン エクオール 30日分"
   img="https://m.media-amazon.com/images/I/718uwNYnEkL._SL500_.jpg"
+  rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fdhcshop%2F8000032780%2F"
   amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DDHC%2B%E5%A4%A7%E8%B1%86%E3%82%A4%E3%82%BD%E3%83%95%E3%83%A9%E3%83%9C%E3%83%B3%E3%82%A8%E3%82%AF%E3%82%AA%E3%83%BC%E3%83%AB"
-  yahoo="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DDHC%2B%E5%A4%A7%E8%B1%86%E3%82%A4%E3%82%BD%E3%83%95%E3%83%A9%E3%83%9C%E3%83%B3%2B%E3%82%A8%E3%82%AF%E3%82%AA%E3%83%BC%E3%83%AB"
 >}}
 
 ---
@@ -197,7 +199,7 @@ cover:
     <h3>ベルタエクリズム</h3>
     <p>エクオール＋複合成分設計・更年期の複合的な不調にアプローチ</p>
   </div>
-  <img class="product-heading-img" src="https://m.media-amazon.com/images/P/B0CYPV92ZG.09._SL500_.jpg" alt="ベルタエクリズム エクオール">
+  <img class="product-heading-img" src="https://m.media-amazon.com/images/I/71uPtXFiSEL._AC_SL500_.jpg" alt="ベルタエクリズム エクオール">
 </div>
 {{< /rawhtml >}}
 
@@ -236,9 +238,9 @@ cover:
 
 {{< product
   title="ベルタエクリズム エクオール サプリ 30日分"
-  img="https://m.media-amazon.com/images/P/B0CYPV92ZG.09._SL500_.jpg"
+  img="https://m.media-amazon.com/images/I/71uPtXFiSEL._AC_SL500_.jpg"
+  rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fgirls-web%2Fbelta-equrhythm-single%2F"
   amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB0CYPV92ZG"
-  yahoo="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%E3%83%99%E3%83%AB%E3%82%BF%E3%82%A8%E3%82%AF%E3%83%AA%E3%82%BA%E3%83%A0"
 >}}
 
 ---
@@ -339,9 +341,9 @@ A. 明確な基準はありませんが、40代から始める方が多いです
 {{< /rawhtml >}}
 {{< product
   title="エクエル パウチ 120粒 約30日分"
-  img="https://m.media-amazon.com/images/P/B01MUBY004.09._SL500_.jpg"
+  img="https://m.media-amazon.com/images/I/61dRDQ8iYcL._AC_SL500_.jpg"
+  rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fpycno%2F4018-018%2F"
   amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB01MUBY004"
-  yahoo="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%E3%82%A8%E3%82%AF%E3%82%A8%E3%83%AB%2B%E3%83%91%E3%82%A6%E3%83%81%2B%E5%A4%A7%E5%A1%9A%E8%A3%BD%E8%96%AC"
 >}}
 {{< rawhtml >}}
 </div>

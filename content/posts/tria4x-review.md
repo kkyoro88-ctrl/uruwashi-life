@@ -14,6 +14,7 @@ summary_points:
 cover:
   image: "/images/tria4x-review.png"
   alt: "トリア4X 家庭用レーザー脱毛器"
+price_checked: "2026-05-28"
 ---
 
 
@@ -171,7 +172,6 @@ cover:
   img="https://m.media-amazon.com/images/I/51GFswhJOjL._SL500_.jpg"
   rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Ftriabeauty%2Ftria%2F"
   amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%E3%83%88%E3%83%AA%E3%82%A2%2B4X%2B%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%E8%84%B1%E6%AF%9B%E5%99%A8"
-  yahoo="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%E3%83%88%E3%83%AA%E3%82%A24X%2B%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%E8%84%B1%E6%AF%9B%E5%99%A8"
 >}}
 {{< rawhtml >}}
 </div>

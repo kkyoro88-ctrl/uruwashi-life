@@ -84,18 +84,28 @@
 </script>
 
 <script>
-// アフィリエイトリンク クリック計測
+// アフィリエイトリンク クリック計測（もしも + A8）
 document.addEventListener('click', function(e) {
   var link = e.target.closest('a[href]');
   if (!link) return;
   var href = link.getAttribute('href') || '';
-  if (href.indexOf('a8.net') === -1) return;
+  var isAffiliate = href.indexOf('af.moshimo.com') !== -1 || href.indexOf('a8.net') !== -1;
+  if (!isAffiliate) return;
   if (typeof gtag === 'undefined') return;
+
+  var platform = href.indexOf('af.moshimo.com') !== -1 ? 'moshimo' : 'a8';
+  var destination = '';
+  if (href.indexOf('rakuten') !== -1) destination = 'rakuten';
+  else if (href.indexOf('amazon') !== -1) destination = 'amazon';
+  else if (href.indexOf('yahoo') !== -1) destination = 'yahoo';
+  else destination = 'other';
 
   gtag('event', 'affiliate_click', {
     'link_url': href,
     'link_text': link.textContent.trim().slice(0, 100),
-    'page_path': window.location.pathname
+    'page_path': window.location.pathname,
+    'affiliate_platform': platform,
+    'affiliate_destination': destination
   });
 });
 </script>

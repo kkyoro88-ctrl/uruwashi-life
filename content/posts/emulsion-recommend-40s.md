@@ -1,7 +1,7 @@
 ---
 title: "【2026年最新】乳液おすすめ40代5選｜乾燥・エイジングケア・テクスチャー別の選び方"
 date: 2026-05-15
-lastmod: 2026-05-27
+lastmod: 2026-05-28
 draft: false
 affiliate: true
 categories: ["スキンケア"]
@@ -14,6 +14,7 @@ summary_points:
 cover:
   image: "/images/emulsion-recommend-40s.png"
   alt: "乳液おすすめ40代向け"
+price_checked: "2026-05-28"
 ---
 
 「化粧水をしっかりつけているのに、夕方になると乾燥している」——この悩みを感じはじめたのは40代に入ってからでした。
@@ -26,26 +27,10 @@ cover:
 
 {{< product
   title="エリクシール シュペリエル リフトモイスト エマルジョン 130mL"
-  img="https://m.media-amazon.com/images/P/B0FHJZ7LDZ.01._SL500_.jpg"
+  img="https://m.media-amazon.com/images/I/51QOhnDEycL._AC_SL500_.jpg"
   amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB0FHJZ7LDZ"
-  yahoo="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%E3%82%A8%E3%83%AA%E3%82%AF%E3%82%B7%E3%83%BC%E3%83%AB%2B%E3%83%AA%E3%83%95%E3%83%88%E3%83%A2%E3%82%A4%E3%82%B9%E3%83%88%2B%E3%82%A8%E3%83%9E%E3%83%AB%E3%82%B8%E3%83%A7%E3%83%B3"
   rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F9000010029276%2F"
 >}}
-
----
-
-## 2026年のエイジングケア乳液トレンド
-
-乳液のカテゴリも、2025〜2026年にかけて成分の進化が進んでいます。
-
-**ナイアシンアミド配合乳液の広がり**
-美白・くすみ・シワへの複合アプローチで評価されてきたナイアシンアミドが、化粧水・美容液だけでなく乳液にも配合されるケースが増えています。保湿ステップでくすみにもアプローチできるため、スキンケアのステップ数を増やしたくない40代に向いています。
-
-**ペプチド複合配合**
-コラーゲン産生をサポートするとされるペプチドを複数種類配合した乳液が中価格帯にも登場。「保湿しながらハリもケアする」乳液の選択肢が広がっています。
-
-**ノンオイル×高保湿の両立**
-ベタつかずに保湿できるノンオイル乳液の処方精度が高まり、混合肌・夏肌の40代も乳液をルーティンに取り入れやすくなっています。
 
 ---
 
@@ -151,9 +136,8 @@ cover:
 
 {{< product
   title="エリクシール シュペリエル リフトモイスト エマルジョン 130mL"
-  img="https://m.media-amazon.com/images/P/B0FHJZ7LDZ.01._SL500_.jpg"
+  img="https://m.media-amazon.com/images/I/51QOhnDEycL._AC_SL500_.jpg"
   amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB0FHJZ7LDZ"
-  yahoo="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%E3%82%A8%E3%83%AA%E3%82%AF%E3%82%B7%E3%83%BC%E3%83%AB%2B%E3%83%AA%E3%83%95%E3%83%88%E3%83%A2%E3%82%A4%E3%82%B9%E3%83%88%2B%E3%82%A8%E3%83%9E%E3%83%AB%E3%82%B8%E3%83%A7%E3%83%B3"
   rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F9000010029276%2F"
 >}}
 
@@ -208,9 +192,8 @@ ORBISの看板スキンケアライン「オルビスユー」の乳液。ノン
 
 {{< product
   title="ORBIS オルビスユー モイスチャー 50g"
-  img="https://m.media-amazon.com/images/P/B0B8MGS3L4.01._SL500_.jpg"
+  img="https://m.media-amazon.com/images/I/51BFwOkehIL._AC_SL500_.jpg"
   amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB0B8MGS3L4"
-  yahoo="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%E3%82%AA%E3%83%AB%E3%83%93%E3%82%B9%E3%83%A6%E3%83%BC%2B%E3%83%A2%E3%82%A4%E3%82%B9%E3%83%81%E3%83%A3%E3%83%BC"
   rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Forbis-shop%2Fr4908064091551%2F"
 >}}
 
@@ -265,9 +248,8 @@ ORBISの看板スキンケアライン「オルビスユー」の乳液。ノン
 
 {{< product
   title="アスタリフト ホワイトエマルジョン 100mL"
-  img="https://m.media-amazon.com/images/P/B0851C9HH3.01._SL500_.jpg"
+  img="https://m.media-amazon.com/images/I/613ohxQxkQL._AC_SL500_.jpg"
   amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB0851C9HH3"
-  yahoo="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%E3%82%A2%E3%82%B9%E3%82%BF%E3%83%AA%E3%83%95%E3%83%88%2B%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%2B%E3%82%A8%E3%83%9E%E3%83%AB%E3%82%B8%E3%83%A7%E3%83%B3"
   rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Ffujifilm-h%2F16614578%2F"
 >}}
 
@@ -322,9 +304,8 @@ ORBISの看板スキンケアライン「オルビスユー」の乳液。ノン
 
 {{< product
   title="肌ラボ 極潤プレミアム ヒアルロン乳液 140mL"
-  img="https://m.media-amazon.com/images/P/B08DRK9VH8.01._SL500_.jpg"
+  img="https://m.media-amazon.com/images/I/71cRBAijiBL._AC_SL500_.jpg"
   amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB08DRK9VH8"
-  yahoo="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%E8%82%8C%E3%83%A9%E3%83%9C%2B%E6%A5%B5%E6%BD%A4%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0%2B%E3%83%92%E3%82%A2%E3%83%AB%E3%83%AD%E3%83%B3%E4%B9%B3%E6%B6%B2"
   rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F4987241167029%2F"
 >}}
 
@@ -379,9 +360,8 @@ ORBISの看板スキンケアライン「オルビスユー」の乳液。ノン
 
 {{< product
   title="無印良品 エイジングケア乳液 200mL"
-  img="https://m.media-amazon.com/images/P/B0CT37VMC3.01._SL500_.jpg"
+  img="https://m.media-amazon.com/images/I/51gA3L3WRnL._AC_SL500_.jpg"
   amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB0CT37VMC3"
-  yahoo="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%E7%84%A1%E5%8D%B0%E8%89%AF%E5%93%81%2B%E3%82%A8%E3%82%A4%E3%82%B8%E3%83%B3%E3%82%B0%E3%82%B1%E3%82%A2%E4%B9%B3%E6%B6%B2"
   rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fmujirushi-ryohin%2F4548076029076%2F"
 >}}
 
@@ -508,9 +488,8 @@ ORBISの看板スキンケアライン「オルビスユー」の乳液。ノン
 
 {{< product
   title="エリクシール シュペリエル リフトモイスト エマルジョン 130mL"
-  img="https://m.media-amazon.com/images/P/B0FHJZ7LDZ.01._SL500_.jpg"
+  img="https://m.media-amazon.com/images/I/51QOhnDEycL._AC_SL500_.jpg"
   amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB0FHJZ7LDZ"
-  yahoo="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%E3%82%A8%E3%83%AA%E3%82%AF%E3%82%B7%E3%83%BC%E3%83%AB%2B%E3%83%AA%E3%83%95%E3%83%88%E3%83%A2%E3%82%A4%E3%82%B9%E3%83%88%2B%E3%82%A8%E3%83%9E%E3%83%AB%E3%82%B8%E3%83%A7%E3%83%B3"
   rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F9000010029276%2F"
 >}}
 

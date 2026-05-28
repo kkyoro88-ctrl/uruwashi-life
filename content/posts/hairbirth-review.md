@@ -9,6 +9,7 @@ description: "ヘアバース（HAIRBIRTH）の口コミ・評価。薄毛・育
 cover:
   image: "/images/hairbirth-review.png"
   alt: "ヘアバース HAIRBIRTH 育毛サプリ"
+price_checked: "2026-05-28"
 ---
 
 「最近、抜け毛が増えた気がする」「分け目が気になってきた」——そう感じながら、何か対策をしたいけれど何から始めればいいかわからない、という方は多いと思います。
@@ -38,7 +39,7 @@ cover:
   <div style="display:flex;gap:10px;flex-wrap:wrap;">
     <a href="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fhairborn%2Fhairborn001%2F" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #2d7d46;color:#2d7d46;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">公式サイト</a>
     <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%E3%83%98%E3%82%A2%E3%83%90%E3%83%BC%E3%82%B9%2BHAIRBIRTH" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
-    <a href="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%E3%83%98%E3%82%A2%E3%83%90%E3%83%BC%E3%82%B9%2BHAIRBIRTH" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #6b2fbc;color:#6b2fbc;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Yahooショッピング</a>
+    
   </div>
 </div>
 {{< /rawhtml >}}
@@ -196,7 +197,7 @@ cover:
   <div style="display:flex;gap:10px;flex-wrap:wrap;">
     <a href="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fhairborn%2Fhairborn001%2F" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #2d7d46;color:#2d7d46;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">公式サイト</a>
     <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%E3%83%98%E3%82%A2%E3%83%90%E3%83%BC%E3%82%B9%2BHAIRBIRTH" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
-    <a href="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%E3%83%98%E3%82%A2%E3%83%90%E3%83%BC%E3%82%B9%2BHAIRBIRTH" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #6b2fbc;color:#6b2fbc;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Yahooショッピング</a>
+    
   </div>
 </div>
 {{< /rawhtml >}}
