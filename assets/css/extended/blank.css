@@ -2338,6 +2338,84 @@ details.single-toc[open] .single-toc-title::after { content: '▴'; }
   .cmp-price { font-size: 0.82rem; }
 }
 
+/* ===== 比較表：マイベスト風（ランク番号型・標準テンプレ）===== */
+.comparison-rank {
+  width: 100%;
+  border-collapse: collapse;
+  min-width: 560px;
+  background: #fff;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 1px 8px rgba(0,0,0,.08);
+}
+.comparison-rank th {
+  padding: 12px 8px;
+  font-size: 0.78rem;
+  font-weight: 700;
+  text-align: center;
+  background: #fff;
+  border-bottom: 2px solid #f0e8e0;
+}
+.comparison-rank th.cr-featured {
+  border-top: 3px solid #c9576b;
+}
+.comparison-rank .cr-rank {
+  display: inline-block;
+  background: #c9576b;
+  color: #fff;
+  border-radius: 50%;
+  width: 20px;
+  height: 20px;
+  font-size: 0.65rem;
+  line-height: 20px;
+  text-align: center;
+  margin-bottom: 4px;
+}
+.comparison-rank .cr-rank2 { background: #999; }
+.comparison-rank .cr-rank3 { background: #b87333; }
+.comparison-rank .cr-rank4 { background: #5a8a9a; }
+.comparison-rank .cr-rank5 { background: #c06080; }
+.comparison-rank .cr-badge {
+  display: block;
+  background: #c9576b;
+  color: #fff;
+  font-size: 0.6rem;
+  padding: 2px 6px;
+  border-radius: 10px;
+  margin-bottom: 4px;
+}
+.comparison-rank .cr-name {
+  font-size: 0.75rem;
+  line-height: 1.3;
+  color: #222;
+}
+.comparison-rank td {
+  padding: 10px 8px;
+  font-size: 0.75rem;
+  text-align: center;
+  border-bottom: 1px solid #f5f0ec;
+  color: #444;
+}
+.comparison-rank td.cr-label {
+  background: #faf6f2;
+  font-weight: 600;
+  color: #888;
+  font-size: 0.68rem;
+  text-align: left;
+  padding-left: 10px;
+  white-space: nowrap;
+}
+.comparison-rank td.cr-hi {
+  background: #fff8f9;
+  font-weight: 600;
+  color: #c9576b;
+}
+.comparison-rank tr:last-child td { border-bottom: none; }
+@media (max-width: 560px) {
+  .comparison-rank td.cr-label { font-size: 0.62rem; padding-left: 6px; }
+  .comparison-rank th, .comparison-rank td { font-size: 0.68rem; padding: 8px 5px; }
+}
+
 /* ===== 商品見出し（画像付き） ===== */
 .product-heading {
   display: flex;

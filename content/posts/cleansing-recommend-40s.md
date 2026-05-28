@@ -68,49 +68,49 @@ price_checked: "2026-05-28"
 
 {{< rawhtml >}}
 <div class="comparison-wrap">
-<table class="comparison-table">
+<table class="comparison-rank">
   <thead>
     <tr>
-      <th class="th-empty"></th>
-      <th class="th-answer"><span class="top-badge">★ イチ推し</span><br>ファンケル マイルドクレンジングオイル</th>
-      <th class="th-haru">DHC 薬用ディープクレンジングオイル</th>
-      <th class="th-ipsa">アテニア スキンクリア クレンズ オイル</th>
-      <th class="th-haba">キュレル ジェルメイク落とし</th>
-      <th class="th-melt">ビオレ ザクレンズ オイル</th>
+      <th style="width:80px; background:#f8f4f0;"></th>
+      <th class="cr-featured"><span class="cr-badge">★ イチ推し</span><div class="cr-rank">1</div><div class="cr-name">ファンケル<br>マイルドクレンジングオイル</div></th>
+      <th><div class="cr-rank cr-rank2">2</div><div class="cr-name">DHC<br>薬用ディープクレンジング</div></th>
+      <th><div class="cr-rank cr-rank3">3</div><div class="cr-name">アテニア<br>スキンクリアクレンズ</div></th>
+      <th><div class="cr-rank cr-rank4">4</div><div class="cr-name">キュレル<br>ジェルメイク落とし</div></th>
+      <th><div class="cr-rank cr-rank5">5</div><div class="cr-name">ビオレ<br>ザクレンズ オイル</div></th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td class="td-label">🎯 タイプ</td>
-      <td>オイル（無添加）</td>
+      <td class="cr-label">🎯 タイプ</td>
+      <td class="cr-hi">オイル（無添加）</td>
       <td>オイル（薬用）</td>
       <td>オイル（エイジングケア）</td>
-      <td>ジェル（敏感肌向け）</td>
+      <td>ジェル（敏感肌）</td>
       <td>オイル（プチプラ）</td>
     </tr>
     <tr>
-      <td class="td-label">👤 向いている肌</td>
-      <td>乾燥・敏感肌・まつエクOK</td>
-      <td>普通〜混合肌・濃いメイク</td>
+      <td class="cr-label">👤 向いている肌</td>
+      <td class="cr-hi">乾燥・敏感肌<br>まつエクOK</td>
+      <td>普通〜混合肌<br>濃いメイク</td>
       <td>乾燥・エイジングケア重視</td>
-      <td>超敏感肌・セラミドケア</td>
-      <td>ふだん使い・コスパ重視</td>
+      <td>超敏感肌<br>セラミドケア</td>
+      <td>ふだん使い<br>コスパ重視</td>
     </tr>
     <tr>
-      <td class="td-label">💰 価格帯</td>
-      <td>中価格帯</td>
-      <td>プチプラ〜中価格</td>
+      <td class="cr-label">💰 価格帯</td>
+      <td class="cr-hi">中価格帯</td>
+      <td>プチプラ〜中</td>
       <td>中〜高価格</td>
-      <td>中価格帯（ドラッグストア）</td>
+      <td>中価格（ドラッグ）</td>
       <td>プチプラ</td>
     </tr>
     <tr>
-      <td class="td-label">✨ 特徴</td>
-      <td>防腐剤・香料・着色料なし</td>
-      <td>薬用処方・毛穴ケア</td>
-      <td>バラ・椿オイル配合</td>
-      <td>セラミド機能成分配合</td>
-      <td>ダブル洗顔不要・速攻メイクオフ</td>
+      <td class="cr-label">✨ 特徴</td>
+      <td class="cr-hi">防腐剤・香料<br>着色料なし</td>
+      <td>薬用処方<br>毛穴ケア</td>
+      <td>バラ・椿<br>オイル配合</td>
+      <td>セラミド<br>機能成分配合</td>
+      <td>ダブル洗顔不要<br>速攻メイクオフ</td>
     </tr>
   </tbody>
 </table>
