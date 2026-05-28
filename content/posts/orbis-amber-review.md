@@ -32,7 +32,7 @@ price_checked: "2026-05-28"
 {{< /rawhtml >}}
 
 {{< rawhtml >}}
-<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);;display:flex;align-items:center;gap:16px;">
+<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);display:flex;align-items:center;gap:16px;">
   <img src="https://m.media-amazon.com/images/I/51Gby2t4hdL._AC_SL500_.jpg" alt="オルビス アンバー" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;">
   <div>
   <div style="font-weight:700;font-size:1.05em;margin-bottom:16px;">オルビス アンバー</div>
@@ -40,6 +40,7 @@ price_checked: "2026-05-28"
     <a href="https://px.a8.net/svt/ejp?a8mat=4B1RXS+JNBQQ+1USQ+4AV9VM" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #2d7d46;color:#2d7d46;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">公式サイト</a>
     <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%E3%82%AA%E3%83%AB%E3%83%93%E3%82%B9%2B%E3%82%A2%E3%83%B3%E3%83%90%E3%83%BC" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
     
+  </div>
   </div>
 </div>
 {{< /rawhtml >}}
@@ -61,7 +62,7 @@ price_checked: "2026-05-28"
 - 無香料・無着色
 
 {{< rawhtml >}}
-<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);;display:flex;align-items:center;gap:16px;">
+<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);display:flex;align-items:center;gap:16px;">
   <img src="https://m.media-amazon.com/images/I/51Gby2t4hdL._AC_SL500_.jpg" alt="オルビス アンバー" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;">
   <div>
   <div style="font-weight:700;font-size:1.05em;margin-bottom:16px;">オルビス アンバー</div>
@@ -69,6 +70,7 @@ price_checked: "2026-05-28"
     <a href="https://px.a8.net/svt/ejp?a8mat=4B1RXS+JNBQQ+1USQ+4AV9VM" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #2d7d46;color:#2d7d46;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">公式サイト</a>
     <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%E3%82%AA%E3%83%AB%E3%83%93%E3%82%B9%2B%E3%82%A2%E3%83%B3%E3%83%90%E3%83%BC" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
     
+  </div>
   </div>
 </div>
 {{< /rawhtml >}}
@@ -202,7 +204,7 @@ price_checked: "2026-05-28"
 まだ途中ですが、「外側だけでは足りない」と感じていたあの物足りなさが、少し埋まってきた気がしています。
 
 {{< rawhtml >}}
-<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);;display:flex;align-items:center;gap:16px;">
+<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);display:flex;align-items:center;gap:16px;">
   <img src="https://m.media-amazon.com/images/I/51Gby2t4hdL._AC_SL500_.jpg" alt="オルビス アンバー" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;">
   <div>
   <div style="font-weight:700;font-size:1.05em;margin-bottom:16px;">オルビス アンバー</div>
@@ -210,6 +212,7 @@ price_checked: "2026-05-28"
     <a href="https://px.a8.net/svt/ejp?a8mat=4B1RXS+JNBQQ+1USQ+4AV9VM" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #2d7d46;color:#2d7d46;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">公式サイト</a>
     <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%E3%82%AA%E3%83%AB%E3%83%93%E3%82%B9%2B%E3%82%A2%E3%83%B3%E3%83%90%E3%83%BC" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
     
+  </div>
   </div>
 </div>
 {{< /rawhtml >}}

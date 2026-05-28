@@ -20,13 +20,14 @@ price_checked: "2026-05-28"
 この記事では、40代の白髪ケアにカラートリートメントが向いている理由と、続けやすい5本の選び方を紹介します。
 
 {{< rawhtml >}}
-<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);;display:flex;align-items:center;gap:16px;">
+<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);display:flex;align-items:center;gap:16px;">
   <img src="https://m.media-amazon.com/images/I/51BFwOkehIL._AC_SL500_.jpg" alt="利尻ヘアカラートリートメント 200g ブラック" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;">
   <div>
   <div style="font-weight:700;font-size:1.05em;margin-bottom:16px;">利尻ヘアカラートリートメント 200g ブラック</div>
   <div style="display:flex;gap:10px;flex-wrap:wrap;">
     <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB00JKOGP0G" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
     
+  </div>
   </div>
 </div>
 {{< /rawhtml >}}
@@ -192,13 +193,14 @@ price_checked: "2026-05-28"
 {{< /rawhtml >}}
 
 {{< rawhtml >}}
-<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);;display:flex;align-items:center;gap:16px;">
+<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);display:flex;align-items:center;gap:16px;">
   <img src="https://m.media-amazon.com/images/I/51BFwOkehIL._AC_SL500_.jpg" alt="Sastty[白髪用] 利尻ヘアカラートリートメント 200g（ブラック）" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;">
   <div>
   <div style="font-weight:700;font-size:1.05em;margin-bottom:16px;">Sastty[白髪用] 利尻ヘアカラートリートメント 200g（ブラック）</div>
   <div style="display:flex;gap:10px;flex-wrap:wrap;">
     <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB00JKOGP0G" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
     
+  </div>
   </div>
 </div>
 {{< /rawhtml >}}
@@ -248,13 +250,14 @@ price_checked: "2026-05-28"
 {{< /rawhtml >}}
 
 {{< rawhtml >}}
-<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);;display:flex;align-items:center;gap:16px;">
+<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);display:flex;align-items:center;gap:16px;">
   <img src="https://m.media-amazon.com/images/I/61Ikz68hVuL._AC_SL500_.jpg" alt="【白髪に3分/選べる5色】 ルプルプ LPLP エッセンス カラートリートメント ウォルナットブラウン 170g 約1ヵ月分 ショートヘア約5回分 手袋 ヘアキャップ 付き 白髪染め ヘアカラー トリートメント 毛染め メンズ レディース 部分 ノンジアミン オーガニック ヘアケア essence 人気 90354" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;">
   <div>
   <div style="font-weight:700;font-size:1.05em;margin-bottom:16px;">【白髪に3分/選べる5色】 ルプルプ LPLP エッセンス カラートリートメント ウォルナットブラウン 170g 約1ヵ月分 ショートヘア約5回分 手袋 ヘアキャップ 付き 白髪染め ヘアカラー トリートメント 毛染め メンズ レディース 部分 ノンジアミン オーガニック ヘアケア essence 人気 90354</div>
   <div style="display:flex;gap:10px;flex-wrap:wrap;">
     <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB09L421QHH" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
     
+  </div>
   </div>
 </div>
 {{< /rawhtml >}}
@@ -304,13 +307,14 @@ price_checked: "2026-05-28"
 {{< /rawhtml >}}
 
 {{< rawhtml >}}
-<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);;display:flex;align-items:center;gap:16px;">
+<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);display:flex;align-items:center;gap:16px;">
   <img src="https://m.media-amazon.com/images/I/61f4gZLHdLL._AC_SL500_.jpg" alt="サイオス カラートリートメント ダークブラウン 180グラム おまけ付き" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;">
   <div>
   <div style="font-weight:700;font-size:1.05em;margin-bottom:16px;">サイオス カラートリートメント ダークブラウン 180グラム おまけ付き</div>
   <div style="display:flex;gap:10px;flex-wrap:wrap;">
     <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB0CHLTY67B" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
     
+  </div>
   </div>
 </div>
 {{< /rawhtml >}}
@@ -360,13 +364,14 @@ price_checked: "2026-05-28"
 {{< /rawhtml >}}
 
 {{< rawhtml >}}
-<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);;display:flex;align-items:center;gap:16px;">
+<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);display:flex;align-items:center;gap:16px;">
   <img src="https://m.media-amazon.com/images/I/61GpP0oO3ML._AC_SL500_.jpg" alt="【染まるうるおう】 ルプルプ LPLP オリジナル カラートリートメント モカブラウン 200g 約1ヵ月分 白髪染め ヘアカラー トリートメント 毛染め メンズ レディース 部分 ノンジアミン オーガニック ヘアケア 人気 90327" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;">
   <div>
   <div style="font-weight:700;font-size:1.05em;margin-bottom:16px;">【染まるうるおう】 ルプルプ LPLP オリジナル カラートリートメント モカブラウン 200g 約1ヵ月分 白髪染め ヘアカラー トリートメント 毛染め メンズ レディース 部分 ノンジアミン オーガニック ヘアケア 人気 90327</div>
   <div style="display:flex;gap:10px;flex-wrap:wrap;">
     <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB0792JFDTR" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
     
+  </div>
   </div>
 </div>
 {{< /rawhtml >}}
@@ -416,13 +421,14 @@ price_checked: "2026-05-28"
 {{< /rawhtml >}}
 
 {{< rawhtml >}}
-<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);;display:flex;align-items:center;gap:16px;">
+<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);display:flex;align-items:center;gap:16px;">
   <img src="https://m.media-amazon.com/images/I/612mBveG2NL._AC_SL500_.jpg" alt="アンファー (ANGFA) スカルプD ボーテ ヘアカラートリートメント[ 白髪染め ] [ 深染め ][ 女性用 ][ サロン仕上がり][ 自宅で簡単][ ボリューム ][ ツヤ感 ][ 全体染め染毛料 ] (3.【2021年版/新色】ナチュラルブラウン)" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;">
   <div>
   <div style="font-weight:700;font-size:1.05em;margin-bottom:16px;">アンファー (ANGFA) スカルプD ボーテ ヘアカラートリートメント[ 白髪染め ] [ 深染め ][ 女性用 ][ サロン仕上がり][ 自宅で簡単][ ボリューム ][ ツヤ感 ][ 全体染め染毛料 ] (3.【2021年版/新色】ナチュラルブラウン)</div>
   <div style="display:flex;gap:10px;flex-wrap:wrap;">
     <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB08GPMP73F" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
     
+  </div>
   </div>
 </div>
 {{< /rawhtml >}}
@@ -499,13 +505,14 @@ price_checked: "2026-05-28"
 | 向いている方 | 1回でしっかり色を入れたい・毎日の使用が難しい方 |
 
 {{< rawhtml >}}
-<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);;display:flex;align-items:center;gap:16px;">
+<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);display:flex;align-items:center;gap:16px;">
   <img src="https://m.media-amazon.com/images/I/51r2qSfOnzL._AC_SL500_.jpg" alt="ウエラトーン エッセンスイン カラートリートメント" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;">
   <div>
   <div style="font-weight:700;font-size:1.05em;margin-bottom:16px;">ウエラトーン エッセンスイン カラートリートメント</div>
   <div style="display:flex;gap:10px;flex-wrap:wrap;">
     <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB0DBGXX19D" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
     
+  </div>
   </div>
 </div>
 {{< /rawhtml >}}

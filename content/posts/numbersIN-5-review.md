@@ -21,7 +21,7 @@ price_checked: "2026-05-28"
 早い方で2〜3週間ほどから「朝の顔色が変わった気がする」という変化を感じやすいとされています。この記事では、使い始めから感じた変化・デメリット・向いている人を正直に書きます。
 
 {{< rawhtml >}}
-<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);;display:flex;align-items:center;gap:16px;">
+<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);display:flex;align-items:center;gap:16px;">
   <img src="https://m.media-amazon.com/images/I/619n2xnK+7L._AC_SL500_.jpg" alt="ナンバーズイン 5番 白玉グルタチオンC 美容液" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;">
   <div>
   <div style="display:flex;gap:16px;align-items:flex-start;flex-wrap:wrap;">
@@ -32,6 +32,7 @@ price_checked: "2026-05-28"
         
   </div>
 </div>
+  </div>
   </div>
 </div>
 {{< /rawhtml >}}
@@ -151,7 +152,7 @@ price_checked: "2026-05-28"
 まだ途中だけど、これを選んで後悔はしていません。
 
 {{< rawhtml >}}
-<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);;display:flex;align-items:center;gap:16px;">
+<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);display:flex;align-items:center;gap:16px;">
   <img src="https://m.media-amazon.com/images/I/619n2xnK+7L._AC_SL500_.jpg" alt="ナンバーズイン 5番 白玉グルタチオンC 美容液" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;">
   <div>
   <div style="display:flex;gap:16px;align-items:flex-start;flex-wrap:wrap;">
@@ -162,6 +163,7 @@ price_checked: "2026-05-28"
         
   </div>
 </div>
+  </div>
   </div>
 </div>
 {{< /rawhtml >}}
