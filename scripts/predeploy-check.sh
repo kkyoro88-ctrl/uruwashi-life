@@ -286,6 +286,19 @@ if echo "$BAD" | grep -q '^STALE:'; then
 fi
 
 # -----------------------------------------------
+# 12. images/P/ 形式の Amazon 画像 URL（非推奨・43バイト問題）
+#     images/P/{ASIN}.XX._SL500_.jpg は多くのASINで壊れる
+#     正しい形式: images/I/{imageID}._AC_SL500_.jpg
+# -----------------------------------------------
+FILES=$(grep -rl 'images/P/[A-Z0-9]\{10\}\.' $TARGET 2>/dev/null || true)
+if [ -n "$FILES" ]; then
+  COUNT=$(echo "$FILES" | wc -l | tr -d ' ')
+  red "images/P/ 形式の Amazon 画像 URL が ${COUNT}ファイルに存在（43バイト問題 → images/I/ 形式に修正が必要）"
+  echo "$FILES"
+  ERRORS=$((ERRORS+1))
+fi
+
+# -----------------------------------------------
 # 結果サマリ
 # -----------------------------------------------
 echo ""

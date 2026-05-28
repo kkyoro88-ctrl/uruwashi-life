@@ -43,7 +43,7 @@ price_checked: "2026-05-28"
 
 {{< rawhtml >}}
 <div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);;display:flex;align-items:center;gap:16px;">
-  <img src="https://m.media-amazon.com/images/P/B0DPLTQ22L.09._SL500_.jpg" alt="CurrentBody LED頭皮ケアデバイス" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;">
+  <img src="https://m.media-amazon.com/images/I/61kHBpoHIGL._AC_SL500_.jpg" alt="CurrentBody LED頭皮ケアデバイス" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;">
   <div>
   <div style="font-weight:700;font-size:1.05em;margin-bottom:16px;">CurrentBody LED頭皮ケアデバイス</div>
   <div style="display:flex;gap:10px;flex-wrap:wrap;">
@@ -217,7 +217,7 @@ CurrentBodyは年に数回セールを実施するブランドです。通常価
 
 {{< rawhtml >}}
 <div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);;display:flex;align-items:center;gap:16px;">
-  <img src="https://m.media-amazon.com/images/P/B0DPLTQ22L.09._SL500_.jpg" alt="CurrentBody LED頭皮ケアデバイス" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;">
+  <img src="https://m.media-amazon.com/images/I/61kHBpoHIGL._AC_SL500_.jpg" alt="CurrentBody LED頭皮ケアデバイス" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;">
   <div>
   <div style="font-weight:700;font-size:1.05em;margin-bottom:16px;">CurrentBody LED頭皮ケアデバイス</div>
   <div style="display:flex;gap:10px;flex-wrap:wrap;">
@@ -260,7 +260,7 @@ LEDデバイスは即効性こそありませんが、週3〜4回の光刺激が
 
 {{< rawhtml >}}
 <div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);;display:flex;align-items:center;gap:16px;">
-  <img src="https://m.media-amazon.com/images/P/B0DPLTQ22L.09._SL500_.jpg" alt="CurrentBody LED頭皮ケアデバイス" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;">
+  <img src="https://m.media-amazon.com/images/I/61kHBpoHIGL._AC_SL500_.jpg" alt="CurrentBody LED頭皮ケアデバイス" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;">
   <div>
   <div style="font-weight:700;font-size:1.05em;margin-bottom:16px;">CurrentBody LED頭皮ケアデバイス</div>
   <div style="display:flex;gap:10px;flex-wrap:wrap;">
