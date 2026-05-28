@@ -299,6 +299,41 @@ if [ -n "$FILES" ]; then
 fi
 
 # -----------------------------------------------
+# 13. rawhtml内のdiv開閉バランスチェック
+#     <div の数 ≠ </div> の数 → ページレイアウト崩壊の原因
+# -----------------------------------------------
+BAD=$(python3 - "$TARGET" <<'PYEOF' 2>/dev/null
+import re, os, sys, glob
+
+target = sys.argv[1]
+files = []
+if os.path.isfile(target):
+    files = [target]
+elif os.path.isdir(target):
+    for f in sorted(glob.glob(os.path.join(target, '*.md'))):
+        files.append(f)
+
+issues = []
+for fpath in files:
+    with open(fpath) as f:
+        content = f.read()
+    blocks = re.findall(r'{{<\s*rawhtml\s*>}}(.*?){{<\s*/rawhtml\s*>}}', content, re.DOTALL)
+    for block in blocks:
+        opens = block.count('<div')
+        closes = block.count('</div>')
+        if opens != closes and 'display:flex' in block:
+            issues.append(f'{os.path.basename(fpath)}: <div>={opens} </div>={closes}')
+if issues:
+    print('\n'.join(sorted(set(issues))))
+PYEOF
+)
+if [ -n "$BAD" ]; then
+  red "rawhtml内でdivの開閉が一致しないflex商品カードが存在（ページレイアウト崩壊の原因）:"
+  echo "$BAD"
+  ERRORS=$((ERRORS+1))
+fi
+
+# -----------------------------------------------
 # 結果サマリ
 # -----------------------------------------------
 echo ""
