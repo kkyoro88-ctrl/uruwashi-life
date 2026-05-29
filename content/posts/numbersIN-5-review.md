@@ -1,6 +1,7 @@
 ---
 title: "ナンバーズイン5番の口コミ｜40代のくすみに試した正直レビュー"
 date: 2026-05-20
+lastmod: 2026-05-29
 draft: false
 affiliate: true
 categories: ["スキンケア"]
@@ -20,22 +21,11 @@ price_checked: "2026-05-28"
 
 早い方で2〜3週間ほどから「朝の顔色が変わった気がする」という変化を感じやすいとされています。この記事では、使い始めから感じた変化・デメリット・向いている人を正直に書きます。
 
-{{< rawhtml >}}
-<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);display:flex;align-items:center;gap:16px;">
-  <img src="https://m.media-amazon.com/images/I/619n2xnK+7L._AC_SL500_.jpg" alt="ナンバーズイン 5番 白玉グルタチオンC 美容液" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;">
-  <div>
-  <div style="display:flex;gap:16px;align-items:flex-start;flex-wrap:wrap;">
-    <div style="flex:1;min-width:200px;">
-      <div style="font-weight:700;font-size:1.05em;margin-bottom:12px;">ナンバーズイン 5番 白玉グルタチオンC 美容液</div>
-      <div style="display:flex;gap:10px;flex-wrap:wrap;">
-        <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%E3%83%8A%E3%83%B3%E3%83%90%E3%83%BC%E3%82%BA%E3%82%A4%E3%83%B3%2B5%E7%95%AA" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
-        
-  </div>
-</div>
-  </div>
-  </div>
-</div>
-{{< /rawhtml >}}
+{{< product
+  title="ナンバーズイン 5番 白玉グルタチオンC 美容液"
+  img="https://m.media-amazon.com/images/I/619n2xnK+7L._AC_SL500_.jpg"
+  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%E3%83%8A%E3%83%B3%E3%83%90%E3%83%BC%E3%82%BA%E3%82%A4%E3%83%B3%2B5%E7%95%AA"
+>}}
 
 ---
 
@@ -151,22 +141,11 @@ price_checked: "2026-05-28"
 
 まだ途中だけど、これを選んで後悔はしていません。
 
-{{< rawhtml >}}
-<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);display:flex;align-items:center;gap:16px;">
-  <img src="https://m.media-amazon.com/images/I/619n2xnK+7L._AC_SL500_.jpg" alt="ナンバーズイン 5番 白玉グルタチオンC 美容液" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;">
-  <div>
-  <div style="display:flex;gap:16px;align-items:flex-start;flex-wrap:wrap;">
-    <div style="flex:1;min-width:200px;">
-      <div style="font-weight:700;font-size:1.05em;margin-bottom:12px;">ナンバーズイン 5番 白玉グルタチオンC 美容液</div>
-      <div style="display:flex;gap:10px;flex-wrap:wrap;">
-        <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%E3%83%8A%E3%83%B3%E3%83%90%E3%83%BC%E3%82%BA%E3%82%A4%E3%83%B3%2B5%E7%95%AA" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
-        
-  </div>
-</div>
-  </div>
-  </div>
-</div>
-{{< /rawhtml >}}
+{{< product
+  title="ナンバーズイン 5番 白玉グルタチオンC 美容液"
+  img="https://m.media-amazon.com/images/I/619n2xnK+7L._AC_SL500_.jpg"
+  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%E3%83%8A%E3%83%B3%E3%83%90%E3%83%BC%E3%82%BA%E3%82%A4%E3%83%B3%2B5%E7%95%AA"
+>}}
 
 ---
 
