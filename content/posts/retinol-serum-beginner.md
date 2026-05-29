@@ -145,9 +145,8 @@ summary_points:
 {{< product
   title="No46. ピュアRTセラム"
   img="https://m.media-amazon.com/images/I/51gA3L3WRnL._AC_SL500_.jpg"
-  rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FNo46%2B%E3%83%94%E3%83%A5%E3%82%A2RT%E3%82%BB%E3%83%A9%E3%83%A0%2F"
+  rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fwhitelapin%2Fnarth%2F"
   amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB0F18BNLL6"
-  yahoo="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DNo46%2B%E3%83%94%E3%83%A5%E3%82%A2RT%E3%82%BB%E3%83%A9%E3%83%A0"
 >}}
 
 ---
