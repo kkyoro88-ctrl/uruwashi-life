@@ -24,7 +24,9 @@ price_checked: "2026-05-28"
 {{< product
   title="ナンバーズイン 5番 白玉グルタチオンC 美容液"
   img="https://m.media-amazon.com/images/I/619n2xnK+7L._AC_SL500_.jpg"
+  rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fnumbuzin%2F10000052%2F"
   amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%E3%83%8A%E3%83%B3%E3%83%90%E3%83%BC%E3%82%BA%E3%82%A4%E3%83%B3%2B5%E7%95%AA"
+  yahoo="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fladydrugheartshop%2F8809652583389.html"
 >}}
 
 ---
@@ -144,7 +146,9 @@ price_checked: "2026-05-28"
 {{< product
   title="ナンバーズイン 5番 白玉グルタチオンC 美容液"
   img="https://m.media-amazon.com/images/I/619n2xnK+7L._AC_SL500_.jpg"
+  rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fnumbuzin%2F10000052%2F"
   amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%E3%83%8A%E3%83%B3%E3%83%90%E3%83%BC%E3%82%BA%E3%82%A4%E3%83%B3%2B5%E7%95%AA"
+  yahoo="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fladydrugheartshop%2F8809652583389.html"
 >}}
 
 ---
