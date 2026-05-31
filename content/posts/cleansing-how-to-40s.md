@@ -1,7 +1,7 @@
 ---
 title: "40代の正しい洗顔・クレンジング方法【肌負担を減らす7つのポイント】"
 date: 2026-04-28
-lastmod: 2026-05-27
+lastmod: 2026-05-31
 draft: false
 affiliate: false
 categories: ["スキンケア", "ケア方法"]

@@ -1,6 +1,7 @@
 ---
 title: "ZIIP HALOの口コミ・レビュー【40代が3ヶ月使って正直評価】"
 date: 2026-04-22
+lastmod: 2026-05-31
 draft: false
 affiliate: true
 categories: ["口コミ・レビュー", "スキンケア"]

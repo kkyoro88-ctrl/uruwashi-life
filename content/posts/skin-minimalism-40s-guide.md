@@ -1,6 +1,7 @@
 ---
 title: "40代のスキンミニマリズム実践ガイド｜アイテムを減らして肌が整う本当の理由"
 date: 2026-05-22
+lastmod: 2026-05-31
 draft: false
 affiliate: false
 categories: ["スキンケア"]

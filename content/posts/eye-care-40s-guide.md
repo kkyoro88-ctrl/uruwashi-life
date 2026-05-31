@@ -1,7 +1,7 @@
 ---
 title: "40代の目元ケアガイド｜アイクリーム・まつ毛・眉毛を一緒に見直す方法"
 date: 2026-05-18
-lastmod: 2026-05-27
+lastmod: 2026-05-31
 draft: false
 affiliate: true
 categories: ["スキンケア"]
@@ -230,3 +230,33 @@ cover:
 *[眉毛美容液おすすめ40代の選び方と3選](/posts/eyebrow-serum-40s-recommend/)*
 
 *関連記事：[40代エイジングケアおすすめガイド｜シワ・くすみ・たるみに成分で選ぶ方法](/posts/antiaging-skincare-40s-guide/)*
+
+---
+
+各アイテムのおすすめ商品です。
+
+**アイクリーム**（まずこれから始めるなら）
+
+{{< product
+  title="RF28 Wエフェクトアイクリーム"
+  img="https://m.media-amazon.com/images/I/41jRRXLl9sL._AC_SL500_.jpg"
+  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB08ZYDSSWD"
+>}}
+
+**まつ毛美容液**（まつ毛の密度・長さが気になる方へ）
+
+{{< product
+  title="スカルプD ボーテ ピュアフリーアイラッシュセラム プレミアム"
+  img="https://m.media-amazon.com/images/I/51BFwOkehIL._AC_SL500_.jpg"
+  rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Frusion%2Fmrkk_4580168652960%2F"
+  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB0CWGYFSJB"
+  yahoo="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Frusion%2Fmrkk_4580168652960.html"
+>}}
+
+**眉毛美容液**（眉が薄くなってきた方へ）
+
+{{< product
+  title="スカルプDボーテ MEDI アイブロウエッセンス"
+  img="https://m.media-amazon.com/images/I/51qQNaRFg-L._AC_SL500_.jpg"
+  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB0CWGBKPPS"
+>}}
