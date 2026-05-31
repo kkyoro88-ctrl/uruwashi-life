@@ -2176,6 +2176,8 @@ details.single-toc[open] .single-toc-title::after { content: '▴'; }
 .product-btn--amazon:hover  { background: #FF9900; color: #fff !important; }
 .product-btn--yahoo   { color: #720096 !important; border-color: #720096; background: #fff; }
 .product-btn--yahoo:hover   { background: #720096; color: #fff !important; }
+.product-btn--official { color: #2e7d32 !important; border-color: #2e7d32; background: #fff; }
+.product-btn--official:hover { background: #2e7d32; color: #fff !important; }
 @media (max-width: 480px) {
   .product-card { flex-direction: column; gap: 12px; }
   .product-card-img { width: 80px; }

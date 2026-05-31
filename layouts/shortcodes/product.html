@@ -1,10 +1,12 @@
-{{- $title   := .Get "title" -}}
-{{- $img     := .Get "img" | default "" -}}
-{{- $price   := .Get "price" | default "" -}}
-{{- $sale    := .Get "sale" | default "" -}}
-{{- $rakuten := .Get "rakuten" | default "" -}}
-{{- $amazon  := .Get "amazon" | default "" -}}
-{{- $yahoo   := .Get "yahoo" | default "" -}}
+{{- $title        := .Get "title" -}}
+{{- $img          := .Get "img" | default "" -}}
+{{- $price        := .Get "price" | default "" -}}
+{{- $sale         := .Get "sale" | default "" -}}
+{{- $rakuten      := .Get "rakuten" | default "" -}}
+{{- $amazon       := .Get "amazon" | default "" -}}
+{{- $yahoo        := .Get "yahoo" | default "" -}}
+{{- $official     := .Get "official" | default "" -}}
+{{- $officialtext := .Get "officialtext" | default "公式サイト" -}}
 <div class="product-card">
   {{- if $img -}}
   <div class="product-card-img">
@@ -16,6 +18,9 @@
     {{- if $price -}}<p class="product-card-price">{{ $price }}</p>{{- end -}}
     {{- if $sale -}}<p class="product-card-sale">{{ $sale }}</p>{{- end -}}
     <div class="product-card-btns">
+      {{- if $official -}}
+      <a href="{{ $official }}" target="_blank" rel="nofollow noopener" class="product-btn product-btn--official">{{ $officialtext }}</a>
+      {{- end -}}
       {{- if $rakuten -}}
       <a href="{{ $rakuten }}" target="_blank" rel="nofollow noopener" class="product-btn product-btn--rakuten">楽天市場</a>
       {{- end -}}
