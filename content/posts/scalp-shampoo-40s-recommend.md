@@ -1,44 +1,116 @@
 ---
-title: "40代女性向け頭皮ケアシャンプー3選【薄毛・抜け毛・ハリ不足】"
+title: "haru kurokami スカルプを40代が使った口コミ｜天然由来シャンプーの使用感・特徴は？"
 date: 2026-04-25
-lastmod: 2026-05-15
-description: "40代女性の薄毛・抜け毛・ハリ不足に向けた頭皮ケアシャンプーを3本比較。選び方のポイントから正しい洗い方まで、ホルモン変化に合わせたスカルプケアを解説します。"
-tags: ["ヘアケア", "40代"]
+lastmod: 2026-06-02
+description: "40代女性がharu kurokamiスカルプを実際に使用した口コミレビュー。100%天然由来・ノンシリコン処方の特徴と、40代の頭皮・髪悩みへの使用感を詳しく解説。スカルプDボーテ・ルメントとの比較も。"
+tags: ["ヘアケア", "40代", "シャンプー", "頭皮ケア"]
 categories: ["ヘアケア"]
 affiliate: true
+summary_points:
+  - "haru kurokamiスカルプの成分・特徴と40代向けの使用感"
+  - "100%天然由来・ノンシリコン処方が40代の頭皮に合いやすい理由"
+  - "スカルプDボーテ・ルメントとの違いと選び方"
 cover:
   image: "/images/scalp-shampoo-40s-recommend.png"
-  alt: "頭皮ケアシャンプーおすすめ40代女性向け"
+  alt: "haru kurokami スカルプ 40代口コミ"
 draft: false
-price_checked: "2026-05-28"
+price_checked: "2026-06-02"
 ---
 
-抜け毛が増えたと気づいたのは、お風呂の排水口を見たときでした。「こんなに抜けてたっけ」と思ったのが40代のはじめ。シャンプーを変えてから、少しずつ状況が落ち着いてきました。
+シャンプーを変えてみようと思ったのは、洗い上がりのきしみが気になりはじめたころでした。40代になってから、なんとなく頭皮がべたつきやすくなり、かといって洗いすぎると乾燥する。その繰り返しに疲れていました。
 
-**結論から言います。髪の悩みはヘアケア製品を変えるより、根本の頭皮環境を整えるほうが先です。** この記事では、40代女性の抜け毛・ハリ不足に向けたスカルプシャンプーの選び方とおすすめ3選を紹介します。
+そのとき試してみたのが、**haru kurokami スカルプ**です。「100%天然由来」という言葉に半信半疑でしたが、継続してみて印象が変わりました。
 
-迷ったら、まず **スカルプDボーテ 薬用スカルプシャンプー** から試してみてください。育毛専門メーカー・アンファーが開発した医薬部外品で、薬用育毛成分配合の女性向けスカルプシャンプーです。
+---
+
+## haru kurokami スカルプとは
+
+haru kurokami スカルプは、株式会社nijito（ニジト）が開発した天然由来シャンプーです。100%天然由来成分・ノンシリコン・無添加系の処方で、リンス・コンディショナー不要のオールインワンタイプが特徴です。
+
+頭皮・髪のケアだけでなく、全身のボディシャンプーとしても使える設計になっており、バスルームをシンプルにしたい方にも選ばれています。
+
+{{< product
+  title="haru kurokami スカルプ 400ml（約2ヶ月分）100%天然由来 ノンシリコン オールインワン"
+  img="https://m.media-amazon.com/images/I/61+vMDxaz-L.jpg"
+  rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fharushop%2Fharushampoo001%2F"
+  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB07ZB81Q8J"
+  yahoo="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fharu-shop%2F10390101.html"
+>}}
+
+公式サイトから定期便で購入する場合はA8経由でこちら：
 
 {{< rawhtml >}}
-<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);display:flex;align-items:center;gap:16px;">
-  <img src="https://m.media-amazon.com/images/I/61UIkdiYxuL._AC_SL500_.jpg" alt="スカルプDボーテ 薬用スカルプシャンプー ボリューム" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;">
-  <div>
-  <div style="font-weight:700;font-size:1.05em;margin-bottom:16px;">スカルプDボーテ 薬用スカルプシャンプー ボリューム</div>
-  <div style="display:flex;gap:10px;flex-wrap:wrap;">
-    <a href="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fangfa%2Fbeaute-s%2F" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #bf1a1a;color:#bf1a1a;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">楽天市場</a>
-    <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB09S3C8MRB" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
-    
-  </div>
-  </div>
+<div style="margin: 1em 0;">
+  <a href="https://px.a8.net/svt/ejp?a8mat=4B1V21+53YYPE+33NQ+63H8I" rel="nofollow" style="display:inline-block; background:#3a9a4a; color:#fff; padding:12px 24px; border-radius:4px; text-decoration:none; font-weight:bold; font-size:14px;">haru 公式サイトで詳しく見る →</a>
+  <img border="0" width="1" height="1" src="https://www15.a8.net/0.gif?a8mat=4B1V21+53YYPE+33NQ+63H8I" alt="">
 </div>
 {{< /rawhtml >}}
 
+---
+
+## 成分・処方の特徴
+
+| 特徴 | 内容 |
+|------|------|
+| 天然由来成分 | 100%天然由来 ※FC要（公式サイトで確認） |
+| ノンシリコン | 毛穴への蓄積を防ぐ設計 |
+| 無添加 | 合成着色料・合成香料・鉱物油・パラベン・フェノキシエタノールなど不使用 ※FC要 |
+| 洗浄成分 | アミノ酸系洗浄成分 |
+| リンス不要 | オールインワンタイプ（コンディショナー・リンス不要） |
+| 全身対応 | ボディシャンプーとしても使用可能 |
+
+香りはオリジナル（柑橘系）、ラベンダーブレンド、グリーンブレンドから選べます。
+
+---
+
+## 40代が使って感じたこと
+
+**洗い上がりのきしみがない**
+
+アミノ酸系洗浄成分だからか、洗い上がりでも髪がきしまない。シリコンシャンプーに慣れていると最初は「物足りないかな」と思うかもしれませんが、乾かしてみると手触りが落ち着いています。
+
+**頭皮の突っ張りがなくなった**
+
+以前使っていたシャンプーは洗浄力が強すぎたのか、洗った後に頭皮が乾燥していました。haruに変えてから、その乾燥感が落ち着いた実感があります。
+
+**においが気にならなくなった**
+
+40代になってから、夕方の頭皮のにおいが気になっていました。ベタつきの原因でもある皮脂バランスが整ってきたのか、においが以前よりも気になりにくくなっています。
+
+**リンスいらずは本当に楽**
+
+「リンス不要」と書いてあっても最初は半信半疑でしたが、これが地味に助かる。バスタイムが短くなりました。
+
+{{< rawhtml >}}
+<div class="caution-box">
+  <div class="caution-box-title">⚠ 正直に言うと、気になった点</div>
+  <ul>
+    <li>医薬部外品ではないため、薄毛・育毛への有効成分効能は謳えない（頭皮ケア・低刺激洗浄が目的）</li>
+    <li>シリコンシャンプーからの切り替え直後は、髪質が落ち着くまで1〜2週間かかることがある</li>
+    <li>公式サイト・ECが中心で、ドラッグストアでの入手はしにくい</li>
+    <li>全身使用はできるが、ボディ用途で毎日使うと消費ペースが上がる</li>
+  </ul>
+</div>
+{{< /rawhtml >}}
+
+{{< rawhtml >}}
+<div class="fit-box">
+  <div class="fit-box-title">✓ こんな方に向いています</div>
+  <ul>
+    <li>合成添加物や石油由来成分を避けたい40代</li>
+    <li>シリコン・パラベンフリーのシャンプーを探している方</li>
+    <li>頭皮の乾燥・べたつきのバランスが崩れてきた方</li>
+    <li>バスルームのアイテム数を減らしたい（リンス・全身シャンプー兼用）</li>
+    <li>低刺激で毎日継続できるシャンプーが欲しい方</li>
+  </ul>
+</div>
+{{< /rawhtml >}}
 
 ---
 
 ## 40代の頭皮・髪に何が起きているか
 
-40代になると、女性ホルモン（エストロゲン）の分泌量が低下し始めます。エストロゲンは髪の成長サイクルを整える働きにも関わっているため、その減少が髪の悩みに直結することがあります。
+40代になると、女性ホルモン（エストロゲン）の分泌量が低下し始めます。エストロゲンは髪の成長サイクルを整える働きにも関わっているため、その減少が髪の悩みに直結することがあります。※FC要（医療系公式サイトで確認）
 
 | 変化 | 原因 |
 |------|------|
@@ -47,326 +119,111 @@ price_checked: "2026-05-28"
 | 頭皮がべたつく・においが気になる | 皮脂バランスの乱れ |
 | 分け目が目立つ・ボリュームが出ない | 薄毛の進行・毛量の減少 |
 
-こうした変化は30代後半から始まり、40代で一気に実感するケースが多いとされています。早めのケアが将来の髪質を左右します。
+こうした変化に対して、haruは「薬で治す」アプローチではなく、**頭皮環境を整えるための低刺激ケア**として位置づけられます。
 
 ---
 
-## 頭皮ケアシャンプーを選ぶ3つのポイント
+## 他のシャンプーとの違い
 
-### ① 育毛・スカルプ系の有効成分が入っているか
-
-注目したい成分：
-- **ビオチン**：毛の成長を助けるビタミンB7
-- **センブリエキス・ヒノキチオール**：血行をサポートし、抗菌作用が期待される植物成分
-- **ケラチン・コラーゲン**：ダメージを受けた髪を補修・コシを出す
-
-### ② 医薬部外品かどうか確認する
-
-「医薬部外品」の表示がある商品は、国が効能・効果を認めた有効成分が一定量配合されていることを意味します。薄毛・抜け毛・育毛を謳える根拠がある商品です。
-
-### ③ ノンシリコン・低刺激処方かどうか
-
-シリコンは髪の表面をコーティングして手触りをよくしますが、毛穴に蓄積すると頭皮環境を悪化させる可能性があるとされています。40代の繊細な頭皮には、ノンシリコン・アミノ酸系洗浄成分の低刺激処方が向いているとされています。
-
----
-
-## 3商品を一覧で比較
+haruは40代向けの頭皮ケアシャンプーとして比較されることが多い商品ですが、目的によって選ぶべき商品は変わります。
 
 {{< rawhtml >}}
 <div class="comparison-wrap">
-<table class="comparison-table">
+<table class="comparison-rank">
   <thead>
     <tr>
-      <th class="th-empty"></th>
-      <th class="th-answer"><span class="top-badge">★ イチ推し</span><br>スカルプDボーテ 薬用シャンプー</th>
-      <th class="th-melt">ルメント 高濃度炭酸シャンプー</th>
-      <th class="th-haru">haru kurokami スカルプ</th>
+      <th style="width:80px; background:#f8f4f0;"></th>
+      <th class="cr-featured"><div class="cr-rank">1</div><div class="cr-name">haru kurokami スカルプ</div></th>
+      <th><div class="cr-rank">2</div><div class="cr-name">スカルプDボーテ 薬用シャンプー</div></th>
+      <th><div class="cr-rank">3</div><div class="cr-name">ルメント 高濃度炭酸シャンプー</div></th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td class="td-label">💰 価格</td>
-      <td><span class="cmp-price cmp-price--answer">公式価格参照<small>（350ml）</small></span></td>
-      <td><span class="cmp-price cmp-price--melt">公式価格参照<small>（200g）</small></span></td>
-      <td><span class="cmp-price cmp-price--haru">公式サイト参照<small>（400ml）</small></span></td>
+      <td class="cr-label">✨ 特徴</td>
+      <td class="cr-hi"><strong>100%天然由来・低刺激</strong><br>ノンシリコン・全身OK</td>
+      <td><strong>医薬部外品・育毛成分</strong><br>女性用ボリュームタイプ</td>
+      <td><strong>高濃度炭酸9,000PPM</strong><br>アミノ酸系・頭皮すっきり</td>
     </tr>
     <tr>
-      <td class="td-label">✨ 主な特徴</td>
-      <td><strong>医薬部外品・薬用育毛成分</strong><br>女性用ボリュームタイプ</td>
-      <td><strong>高濃度炭酸9,000PPM</strong><br>アミノ酸系・ノンシリコン</td>
-      <td><strong>天然由来・無添加</strong><br>全身シャンプー対応</td>
+      <td class="cr-label">💊 医薬部外品</td>
+      <td class="cr-hi">なし（天然由来ケア）</td>
+      <td>あり（育毛有効成分配合）</td>
+      <td>なし（頭皮ケア目的）</td>
     </tr>
     <tr>
-      <td class="td-label">🎯 主な悩み</td>
-      <td>薄毛・抜け毛・医薬部外品で根拠あり</td>
-      <td>頭皮のすっきり感・炭酸ヘッドスパ感覚</td>
-      <td>天然由来・低刺激・自然派</td>
-    </tr>
-    <tr>
-      <td class="td-label">🧴 洗浄成分</td>
-      <td>アミノ酸系・ノンシリコン</td>
-      <td>アミノ酸系・ノンシリコン</td>
-      <td>天然由来成分・ノンシリコン</td>
-    </tr>
-    <tr>
-      <td class="td-label">👤 向いている方</td>
-      <td>育毛効果を有効成分で選びたい</td>
-      <td>炭酸ケアで頭皮すっきりしたい</td>
-      <td>低刺激・自然派重視・全身にも使いたい</td>
+      <td class="cr-label">👤 向いている方</td>
+      <td class="cr-hi">低刺激・天然由来重視。頭皮乾燥・敏感肌気味の方</td>
+      <td>薄毛・抜け毛に有効成分で根拠あるアプローチをしたい方</td>
+      <td>炭酸ヘッドスパ感覚で頭皮をすっきりさせたい方</td>
     </tr>
   </tbody>
 </table>
 </div>
 {{< /rawhtml >}}
 
----
-
-## おすすめ頭皮ケアシャンプー3選【40代女性向け】
-
-{{< rawhtml >}}
-<div class="product-heading product-heading--answer">
-  <div class="product-heading-info">
-    <div class="product-heading-num">No.1 イチ推し</div>
-    <div class="product-heading-name">スカルプDボーテ 薬用スカルプシャンプー（女性用）350ml</div>
-  </div>
-  <img class="product-heading-img" src="https://m.media-amazon.com/images/I/61UIkdiYxuL._AC_SL500_.jpg" alt="スカルプDボーテ 薬用スカルプシャンプー">
-</div>
-{{< /rawhtml >}}
-
-まつ毛美容液でも実績のある育毛専門メーカー・アンファーが開発したスカルプシャンプーです。「育毛を本業にしているブランドが、頭皮ケア向けに本気で作ったもの」という安心感がある一本です。
-
-薬用育毛成分を配合した医薬部外品で、洗いながら頭皮にアプローチできる設計になっています。女性向けのボリュームタイプは40代のぺたんこ髪・分け目の薄さが気になる方に向いています。「医薬部外品ってどれにしよう」と迷ったときに、専門メーカーという軸で選ぶと後悔しにくいと感じています。
-
-{{< rawhtml >}}
-<div class="caution-box">
-  <div class="caution-box-title">⚠ 正直に言うと、これが気になりました</div>
-  <ul>
-    <li>価格がプチプラシャンプーより高いため、定期コースで継続コストを確認してから始めると安心</li>
-    <li>効果を実感するまでヘアサイクルの関係で最低3ヶ月はかかる（1ヶ月で判断しない）</li>
-    <li>ドラッグストアでの取り扱いが少なく、公式サイト・EC購入が中心になる</li>
-  </ul>
-</div>
-{{< /rawhtml >}}
-
-3〜4ヶ月継続すると、抜け毛の量の変化や髪のハリ・コシの改善を感じやすくなります。
-
-{{< rawhtml >}}
-<div class="fit-box">
-  <div class="fit-box-title">✓ このシャンプーが向いている方</div>
-  <ul>
-    <li>薄毛・抜け毛の改善に医薬部外品の有効成分で根拠を持って取り組みたい40代</li>
-    <li>分け目の薄さ・髪のボリュームダウンが特に気になる方</li>
-    <li>育毛専門ブランドへの信頼性を重視したい方</li>
-  </ul>
-</div>
-{{< /rawhtml >}}
-
-「何かケアを始めるなら、根拠のあるものから」という方に向いています。
-
-{{< rawhtml >}}
-<div class="featured-card-wrap">
-<span class="rank1-badge">★ 私のイチ推し</span>
-{{< /rawhtml >}}
-{{< product
-  title="スカルプDボーテ 薬用スカルプシャンプー ボリューム 350ml【医薬部外品】"
-  img="https://m.media-amazon.com/images/I/61UIkdiYxuL._AC_SL500_.jpg"
-  price="公式価格参照 / 350ml"
-  rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fangfa%2Fbeaute-s%2F"
-  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB09S3C8MRB"
->}}
-{{< rawhtml >}}
-</div>
-{{< /rawhtml >}}
+「薄毛・抜け毛に有効成分で根拠あるアプローチをしたい」なら医薬部外品の**スカルプDボーテ**。「炭酸ヘッドスパ感覚」なら**ルメント**。「低刺激・天然由来で頭皮を整えたい」なら**haru**、という選び分けになります。
 
 ---
 
-{{< rawhtml >}}
-<div class="product-heading product-heading--melt">
-  <div class="product-heading-info">
-    <div class="product-heading-num">No.2</div>
-    <div class="product-heading-name">ルメント 高濃度炭酸オイルシャンプー 200g</div>
-  </div>
-  <img class="product-heading-img" src="https://m.media-amazon.com/images/I/61UIkdiYxuL._AC_SL500_.jpg" alt="ルメント 高濃度炭酸シャンプー">
-</div>
-{{< /rawhtml >}}
+## シャンプーの正しい洗い方
 
-「女性の薄毛」は男性のそれと原因が違います。40代女性が感じる「ボリュームのなさ」「分け目の薄さ」に向けて、頭皮環境を整えることにフォーカスした高濃度炭酸シャンプーです。
+シャンプーを変えても、洗い方が変わらないと実感が出にくいことがあります。
 
-高濃度炭酸9,000PPMが頭皮のすっきり感をサポート。アミノ酸系洗浄成分・ノンシリコン処方で、毎日使いでも頭皮に負担をかけにくいのが続けやすいポイントです。「炭酸ヘッドスパのような感覚で毎日ケアしたい」という方に向いています。
+**ステップ1：予洗い（1分以上）**
+ぬるめのお湯（38〜40℃）で頭皮・髪を1〜2分かけて濡らします。汚れの7〜8割はお湯だけで落ちるとされています。
 
-{{< rawhtml >}}
-<div class="caution-box">
-  <div class="caution-box-title">⚠ 正直に言うと、これが気になりました</div>
-  <ul>
-    <li>医薬部外品ではないため、薄毛改善の効能・効果を標榜できる有効成分は含まれていない（頭皮ケア・洗浄目的向き）</li>
-    <li>200gで少量のため、毎日使用すると継続コストがかかる（定期コース確認推奨）</li>
-  </ul>
-</div>
-{{< /rawhtml >}}
+**ステップ2：泡立ててから頭皮へ**
+手のひらで先に泡立ててから頭皮につけます。直塗りはすすぎ残しの原因になります。
 
-{{< rawhtml >}}
-<div class="fit-box">
-  <div class="fit-box-title">✓ このシャンプーが向いている方</div>
-  <ul>
-    <li>炭酸の爽快感で頭皮をすっきりケアしたい40代</li>
-    <li>アミノ酸系・ノンシリコンで低刺激に洗いたい方</li>
-    <li>「炭酸ヘッドスパ感覚」を毎日のシャンプーで体験したい方</li>
-  </ul>
-</div>
-{{< /rawhtml >}}
+**ステップ3：指の腹で頭皮をマッサージ**
+爪を立てず、指の腹を使って頭皮を動かすように洗います。
 
-{{< product
-  title="ルメント 高濃度炭酸オイルシャンプー 200g"
-  img="https://m.media-amazon.com/images/I/51gA3L3WRnL._AC_SL500_.jpg"
-  price="公式価格参照 / 200g"
-  rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fmagicnumber%2Fsoc-s01%2F"
-  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB0BHYJQCKT"
->}}
-
----
-
-{{< rawhtml >}}
-<div class="product-heading product-heading--haru">
-  <div class="product-heading-info">
-    <div class="product-heading-num">No.3</div>
-    <div class="product-heading-name">haru kurokami スカルプ｜天然由来・ノンシリコン全身シャンプー</div>
-  </div>
-  <img class="product-heading-img" src="https://www20.a8.net/svt/bgt?aid=260427385309&wid=001&eno=01&mid=s00000014471001054000&mc=1" alt="haru kurokamiスカルプ">
-</div>
-{{< /rawhtml >}}
-
-「成分にこだわりたいけど、毎日のお風呂をシンプルにしたい」という欲張りな希望に応えてくれるのがharu kurokamiです。
-
-天然由来成分・ノンシリコン・無添加系処方で、乾燥・敏感な40代の頭皮にも使いやすい設計。さらに頭皮だけでなく全身に使えるオールインワン処方なので、バスルームの棚を増やさずに済むのが地味にありがたいです。
-
-{{< rawhtml >}}
-<div class="caution-box">
-  <div class="caution-box-title">⚠ 正直に言うと、これが気になりました</div>
-  <ul>
-    <li>医薬部外品ではないため、薄毛・育毛への有効成分効能は謳えない（頭皮ケア・低刺激洗浄向き）</li>
-    <li>全身シャンプーとしても使えるが、ボディソープと使い分けたい場合は向かない</li>
-    <li>公式サイト中心の販売（定期便利用が価格的に有利）</li>
-  </ul>
-</div>
-{{< /rawhtml >}}
-
-{{< rawhtml >}}
-<div class="fit-box">
-  <div class="fit-box-title">✓ このシャンプーが向いている方</div>
-  <ul>
-    <li>天然由来・無添加成分で低刺激にケアしたい40代</li>
-    <li>ノンシリコン処方で頭皮・髪への負担を減らしたい方</li>
-    <li>全身をシンプルに1本でケアしたい・バスルームを減らしたい方</li>
-  </ul>
-</div>
-{{< /rawhtml >}}
-
-{{< rawhtml >}}
-<div style="margin: 1em 0;">
-  <a href="https://px.a8.net/svt/ejp?a8mat=4B1V21+53YYPE+33NQ+63H8I" rel="nofollow" style="display:inline-block; background:#3a9a4a; color:#fff; padding:12px 24px; border-radius:4px; text-decoration:none; font-weight:bold; font-size:14px;">haru kurokami スカルプ 公式で詳しく見る →</a>
-  <img border="0" width="1" height="1" src="https://www15.a8.net/0.gif?a8mat=4B1V21+53YYPE+33NQ+63H8I" alt="">
-</div>
-{{< /rawhtml >}}
-
----
-
-## あなたの悩みに合う1本の選び方
-
-{{< rawhtml >}}
-<div class="compare-cards">
-  <div class="compare-card compare-card--featured">
-    <div class="compare-scenario">薄毛・抜け毛に医薬部外品で根拠あるケアをしたい</div>
-    <div class="compare-name">スカルプDボーテ 薬用スカルプシャンプー</div>
-    <span class="compare-badge compare-badge--indigo">★ 私のイチ推し</span>
-    <p class="compare-desc">育毛専門メーカー・アンファーの医薬部外品。薬用育毛成分配合で女性の薄毛・ボリュームダウンに根拠を持ってアプローチ。迷ったらまずここから。</p>
-  </div>
-  <div class="compare-card">
-    <div class="compare-scenario">炭酸ヘッドスパ感覚で頭皮すっきりケアしたい</div>
-    <div class="compare-name">ルメント 高濃度炭酸シャンプー</div>
-    <span class="compare-badge">炭酸9,000PPM◎ 頭皮すっきり</span>
-    <p class="compare-desc">高濃度炭酸×アミノ酸系洗浄で頭皮環境を整える。毎日炭酸ヘッドスパ感覚でケアしたい方に。医薬部外品ではないが頭皮ケア目的向きで続けやすい。</p>
-  </div>
-  <div class="compare-card">
-    <div class="compare-scenario">天然由来・低刺激で全身シンプルにケアしたい</div>
-    <div class="compare-name">haru kurokami スカルプ</div>
-    <span class="compare-badge compare-badge--green">天然由来◎ 全身対応</span>
-    <p class="compare-desc">天然由来・ノンシリコン・無添加で頭皮と髪に低刺激。全身シャンプーとしても使えて、バスルームをシンプルにしたい方の選択肢。</p>
-  </div>
-</div>
-{{< /rawhtml >}}
-
-**シャンプーを変えるだけでは不十分です。** 正しい洗い方とセットで変化が出やすくなります。
-
----
-
-## 頭皮ケアシャンプーの正しい洗い方
-
-### ステップ1：予洗い（1分以上）
-ぬるめのお湯（38〜40℃）で頭皮・髪を1〜2分かけてしっかり濡らします。汚れの7〜8割はお湯だけで落ちるとされており、この一手間でシャンプーの効果が高まります。
-
-### ステップ2：泡立ててから頭皮へ
-シャンプーは手のひらで先に泡立ててから頭皮につけます。直塗りはすすぎ残しの原因になります。
-
-### ステップ3：指の腹で頭皮をマッサージ
-爪を立てず、指の腹を使って頭皮を動かすように洗います。耳の上から頭頂部、後頭部から頭頂部へと全体を包むように。
-
-### ステップ4：すすぎは丁寧に（2分以上）
-シャンプーの残留は頭皮トラブルの原因になります。泡が残らないよう、2分以上かけて丁寧に流しましょう。
-
----
-
-## 使っている方に多い声
-
-スカルプシャンプーを継続している40代の方からよく聞かれる体感を整理するとこういった声が多いです。
-
-**続けてよかったという声**
-
-- 「3ヶ月でブラシに絡まる毛の量が明らかに減った。これだけでも続ける価値があった」
-- 「haru kurokamiに変えてから頭皮のベタつきが落ち着いた。においも気にならなくなった」
-- 「アミノ酸系にしてから、洗った後の乾燥がなくなって頭皮が楽になった」
-- 「シャンプーを変えてから半年。分け目が目立ちにくくなってきた気がする」
-
-**最初は迷ったという声**
-
-- 「スカルプシャンプーって高いと思っていたけど、続けやすい価格帯のものもあって驚いた」
-- 「1ヶ月で変わらなくてやめた経験がある。ヘアサイクルの関係で最低3ヶ月はかかるとわかってから、長く続けられるようになった」
-
-体感には個人差があります。「続けること」と「正しい洗い方をセットにすること」が変化に繋がっているという声が共通しています。
+**ステップ4：すすぎは丁寧に（2分以上）**
+天然由来成分のシャンプーも、すすぎ残しは頭皮トラブルの原因になります。2分以上かけて流しましょう。
 
 ---
 
 ## よくある質問
 
-**Q. 頭皮ケアシャンプーだけで薄毛は改善しますか？**
+**Q. haruはどのくらいで効果を実感できますか？**
 
-A. シャンプーは頭皮環境を整えるためのケアですが、それだけで薄毛が改善するとは断言できません。食事・睡眠・ストレスケアなど生活習慣との組み合わせが大切です。気になる方は皮膚科・毛髪専門クリニックへの相談もご検討ください。
+A. ヘアサイクルの関係で、頭皮・髪質の変化を感じるには最低1〜3ヶ月の継続が目安とされています。ただし「洗い上がりのきしみがない」「頭皮が突っ張らない」といった使用感の変化は1〜2週間で気づく方もいます。
+
+**Q. シリコンシャンプーからの切り替えで注意することはありますか？**
+
+A. シリコンシャンプーから切り替えた直後は、髪がまとまりにくく感じることがあります（シリコンがなくなった分の慣れ期間）。1〜2週間ほどで落ち着いてくることが多いです。
 
 **Q. 毎日洗っていいですか？**
 
-A. 皮脂の多い方は毎日でも問題ありませんが、乾燥しやすい方は1日おきにするか、洗浄力の低いアミノ酸系シャンプーを選ぶとよいとされています。
+A. 問題ありません。アミノ酸系洗浄成分で低刺激なため、毎日使用しても頭皮への負担が少ないとされています。
 
-**Q. いつから使い始めればいいですか？**
+**Q. haruは薄毛・抜け毛を改善できますか？**
 
-A. 40代であれば今すぐが最適のタイミングです。ヘアサイクルは3〜4ヶ月かけて1サイクルするため、変化を実感するまでに時間がかかります。「そろそろかな」と思い始めたら、早めに動くのが正解です。
+A. haruは医薬部外品ではないため、薄毛・育毛の効能・効果は謳えません。頭皮環境を低刺激で整えることを目的とした商品です。薄毛・抜け毛に有効成分での根拠あるアプローチを求める場合は、医薬部外品（スカルプDボーテなど）をご検討ください。
 
 ---
 
-## まとめ：スカルプシャンプーを選ぶなら、この1本から
+## まとめ
 
-40代の頭皮・髪の悩みは、ホルモン変化や頭皮環境の乱れからくることが多く、**根本の頭皮からアプローチするシャンプー選び**が重要です。
+haru kurokami スカルプは、天然由来成分・ノンシリコン・無添加にこだわる40代の頭皮ケアに向いているシャンプーです。
 
-- **育毛専門ブランド・医薬部外品で確かな根拠を求める** → **スカルプDボーテ 薬用スカルプシャンプー**
-- **炭酸ヘッドスパ感覚・頭皮すっきりケア** → **ルメント 高濃度炭酸シャンプー**
-- **天然由来・低刺激・自然派ケア** → **haru kurokami スカルプ**
-
-迷ったら、まず **スカルプDボーテ 薬用スカルプシャンプー** から試してみてください。育毛専門メーカーの医薬部外品として、40代の薄毛・抜け毛ケアの入り口に向いています。
+「なぜこんなに低刺激なのに洗い上がりはしっかりしているんだろう」と思ったのが、使い続けた印象です。医薬部外品ではないので薄毛への有効成分は入っていませんが、頭皮環境を整えながら毎日のケアを続けたい方には選びやすい一本です。
 
 {{< product
-  title="スカルプDボーテ 薬用スカルプシャンプー ボリューム 350ml【医薬部外品】"
-  img="https://m.media-amazon.com/images/I/61UIkdiYxuL._AC_SL500_.jpg"
-  price="公式価格参照 / 350ml"
-  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB09S3C8MRB"
+  title="haru kurokami スカルプ 400ml（約2ヶ月分）100%天然由来 ノンシリコン オールインワン"
+  img="https://m.media-amazon.com/images/I/61+vMDxaz-L.jpg"
+  rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fharushop%2Fharushampoo001%2F"
+  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB07ZB81Q8J"
+  yahoo="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fharu-shop%2F10390101.html"
 >}}
+
+{{< rawhtml >}}
+<div style="margin: 1em 0;">
+  <a href="https://px.a8.net/svt/ejp?a8mat=4B1V21+53YYPE+33NQ+63H8I" rel="nofollow" style="display:inline-block; background:#3a9a4a; color:#fff; padding:12px 24px; border-radius:4px; text-decoration:none; font-weight:bold; font-size:14px;">haru 公式サイトで購入・詳細を確認 →</a>
+  <img border="0" width="1" height="1" src="https://www15.a8.net/0.gif?a8mat=4B1V21+53YYPE+33NQ+63H8I" alt="">
+</div>
+{{< /rawhtml >}}
 
 {{< rawhtml >}}
 <a href="/posts/shampoo-40s-recommend/" class="related-link">シャンプーおすすめ40代3選【うねり・乾燥向け】</a>

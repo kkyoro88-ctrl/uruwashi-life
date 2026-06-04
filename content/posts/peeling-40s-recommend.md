@@ -93,18 +93,6 @@ summary_points:
 
 ### No.1｜suisai ビューティークリア パウダーウォッシュ（カネボウ）
 
-{{< rawhtml >}}
-<div class="product-heading product-heading--answer">
-  <div class="product-heading-info">
-    <div class="product-heading-num">No.1</div>
-    <div class="product-heading-name">suisai ビューティークリア パウダーウォッシュ</div>
-  </div>
-  <div class="product-heading-img">
-    <img src="https://m.media-amazon.com/images/I/810xcmuK8QL._AC_SL500_.jpg" alt="suisai ビューティークリア パウダーウォッシュN">
-  </div>
-</div>
-{{< /rawhtml >}}
-
 カネボウの「suisai（スイサイ）」から出ている酵素洗顔パウダー。1回1粒の使いきりパウダータイプで、**たんぱく質分解酵素（プロテアーゼ）と皮脂分解酵素（リパーゼ）**の2種の酵素が配合されています。
 
 水に溶かして泡立て、通常の洗顔と同じ感覚で使えるため、「ピーリングのハードルが高い」という方にも取り入れやすいアイテムです。すすいだ後に「つるっとした」と感じる方が多く、朝洗顔の流れで週2〜3回使っている方も。
@@ -116,22 +104,22 @@ summary_points:
 **次に試したいなら：** ゴールドやブラックなどバリエーションも豊富なので、肌状態に合わせて選び替えもできます。
 
 {{< rawhtml >}}
+<div class="caution-box">
+  <p class="caution-box-title">⚠️ こんな点は注意</p>
+  <ul>
+    <li>酵素の刺激が気になる方は最初は週1から試す</li>
+    <li>使用後はしっかり保湿を</li>
+  </ul>
+</div>
+{{< /rawhtml >}}
+
+{{< rawhtml >}}
 <div class="fit-box">
   <p class="fit-box-title">✅ こんな方に向いています</p>
   <ul>
     <li>はじめて角質ケアを取り入れたい方</li>
     <li>敏感肌・乾燥肌でスクラブが使えない方</li>
     <li>洗顔の流れで使いたい方</li>
-  </ul>
-</div>
-{{< /rawhtml >}}
-
-{{< rawhtml >}}
-<div class="caution-box">
-  <p class="caution-box-title">⚠️ こんな点は注意</p>
-  <ul>
-    <li>酵素の刺激が気になる方は最初は週1から試す</li>
-    <li>使用後はしっかり保湿を</li>
   </ul>
 </div>
 {{< /rawhtml >}}
@@ -149,18 +137,6 @@ summary_points:
 
 ### No.2｜ソフィーナ iP 角層トリートメント 基礎化粧液（花王）
 
-{{< rawhtml >}}
-<div class="product-heading product-heading--melt">
-  <div class="product-heading-info">
-    <div class="product-heading-num">No.2</div>
-    <div class="product-heading-name">ソフィーナ iP 角層トリートメント 基礎化粧液</div>
-  </div>
-  <div class="product-heading-img">
-    <img src="https://m.media-amazon.com/images/I/51GFswhJOjL._AC_SL500_.jpg" alt="ソフィーナiP 角層トリートメント 基礎化粧液">
-  </div>
-</div>
-{{< /rawhtml >}}
-
 花王ソフィーナの「iP（アイピー）」シリーズの基礎化粧液。洗顔後のファーストステップとして使うタイプで、**角層をやわらかくうるおし、次のスキンケアの浸透をサポート**する設計です。
 
 毎日使いできる穏やかな処方が特徴で、Amazonでもロングセラーとして人気。角質ケアというよりも「角層環境を整える」アプローチで、長期的に肌の土台を変えたい方に向いています。
@@ -172,22 +148,22 @@ summary_points:
 **次に試したいなら：** ソフィーナ iP シリーズには美容液タイプもあるので、基礎化粧液に慣れてきたらステップアップしてみるのも良いと思います。
 
 {{< rawhtml >}}
+<div class="caution-box">
+  <p class="caution-box-title">⚠️ こんな点は注意</p>
+  <ul>
+    <li>即効性より長期的な肌の土台づくりが目的のアイテム</li>
+    <li>継続使用で変化を感じやすい（最低1〜2ヶ月）</li>
+  </ul>
+</div>
+{{< /rawhtml >}}
+
+{{< rawhtml >}}
 <div class="fit-box">
   <p class="fit-box-title">✅ こんな方に向いています</p>
   <ul>
     <li>毎日使える穏やかな角質ケアを探している方</li>
     <li>保湿もしながら肌のキメを整えたい方</li>
     <li>スキンケアのステップに自然に組み込みたい方</li>
-  </ul>
-</div>
-{{< /rawhtml >}}
-
-{{< rawhtml >}}
-<div class="caution-box">
-  <p class="caution-box-title">⚠️ こんな点は注意</p>
-  <ul>
-    <li>即効性より長期的な肌の土台づくりが目的のアイテム</li>
-    <li>継続使用で変化を感じやすい（最低1〜2ヶ月）</li>
   </ul>
 </div>
 {{< /rawhtml >}}
@@ -205,18 +181,6 @@ summary_points:
 
 ### No.3｜DETクリア ブライト&ピール ピーリングジェリー（明色化粧品）
 
-{{< rawhtml >}}
-<div class="product-heading product-heading--haru">
-  <div class="product-heading-info">
-    <div class="product-heading-num">No.3</div>
-    <div class="product-heading-name">DETクリア ブライト&ピール ピーリングジェリー</div>
-  </div>
-  <div class="product-heading-img">
-    <img src="https://m.media-amazon.com/images/I/61dRDQ8iYcL._AC_SL500_.jpg" alt="DETクリア ブライト&ピール ピーリングジェリー 無香料タイプ">
-  </div>
-</div>
-{{< /rawhtml >}}
-
 明色化粧品の「DETクリア」シリーズのピーリングジェル。乾いた顔に塗ってくるくるとなじませると、古い角質がよれてからめとられる**こすり落としタイプ**のピーリングです。無香料タイプは医薬部外品で、敏感になりやすい40代の肌にも配慮した処方。
 
 「ジェルをくるくるして落ちるのを見るのが楽しい」という声が多く、角質ケアの手応えを実感しやすいのが特徴。ドラッグストアでも手に入りやすく、コスパ重視で週1ケアを続けたい方の定番として知られています。
@@ -228,22 +192,22 @@ summary_points:
 **次に試したいなら：** ミルクタイプやクリームタイプなど、よりマイルドなテクスチャーのバリエーションもあるので、肌状態によって使い分けるのもおすすめです。
 
 {{< rawhtml >}}
+<div class="caution-box">
+  <p class="caution-box-title">⚠️ こんな点は注意</p>
+  <ul>
+    <li>こするタイプのため、敏感肌・赤みが出やすい肌は要注意</li>
+    <li>使用後はしっかり保湿を忘れずに</li>
+  </ul>
+</div>
+{{< /rawhtml >}}
+
+{{< rawhtml >}}
 <div class="fit-box">
   <p class="fit-box-title">✅ こんな方に向いています</p>
   <ul>
     <li>コスパ重視でピーリングを試してみたい方</li>
     <li>角質ケアの実感が欲しい方</li>
     <li>週1ケアとして手軽に続けたい方</li>
-  </ul>
-</div>
-{{< /rawhtml >}}
-
-{{< rawhtml >}}
-<div class="caution-box">
-  <p class="caution-box-title">⚠️ こんな点は注意</p>
-  <ul>
-    <li>こするタイプのため、敏感肌・赤みが出やすい肌は要注意</li>
-    <li>使用後はしっかり保湿を忘れずに</li>
   </ul>
 </div>
 {{< /rawhtml >}}

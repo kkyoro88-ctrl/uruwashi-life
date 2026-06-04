@@ -1,6 +1,7 @@
 ---
 title: "セグレタ プレミア シャンプー 口コミ【40代・ぺたんこ髪に使ってみた】"
 date: 2026-05-20
+lastmod: 2026-05-30
 draft: false
 affiliate: true
 categories: ["ヘアケア"]
@@ -18,18 +19,11 @@ price_checked: "2026-05-28"
 
 プチプラでも「40代のぺたんこ髪向け」と明記されているものがあるとは知らなくて。花王というブランドへの信頼もあって、とりあえず試してみた正直な記録を書きます。
 
-{{< rawhtml >}}
-<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);display:flex;align-items:center;gap:16px;">
-  <img src="https://item-shopping.c.yimg.jp/i/l/sundrugec_4901301447227" alt="セグレタ プレミア 凝縮美容液シャンプー" style="width:150px;height:150px;object-fit:contain;flex-shrink:0;">
-  <div>
-    <div style="font-weight:700;font-size:1.05em;margin-bottom:16px;">セグレタ プレミア 凝縮美容液シャンプー</div>
-    <div style="display:flex;gap:10px;flex-wrap:wrap;">
-      <a href="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fkao-haircare%2Fsegreta-20%2F" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #bf1a1a;color:#bf1a1a;padding:8px 16px;border-radius:4px;font-size:0.82em;font-weight:700;text-decoration:none;">楽天市場</a>
-      
-    </div>
-  </div>
-</div>
-{{< /rawhtml >}}
+{{< product
+  title="セグレタ プレミア 凝縮美容液シャンプー"
+  img="https://item-shopping.c.yimg.jp/i/l/sundrugec_4901301447227"
+  rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fkao-haircare%2Fsegreta-20%2F"
+>}}
 
 ---
 
@@ -193,15 +187,8 @@ price_checked: "2026-05-28"
 
 40代のシャンプー選び全体については[40代シャンプーおすすめ3選](/posts/shampoo-40s-recommend/)でまとめています。ヘアケアのベースを整えたい方は[40代ヘアケアおすすめガイド](/posts/haircare-40s-guide/)もあわせて読んでみてください。
 
-{{< rawhtml >}}
-<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);display:flex;align-items:center;gap:16px;">
-  <img src="https://item-shopping.c.yimg.jp/i/l/sundrugec_4901301447227" alt="セグレタ プレミア 凝縮美容液シャンプー" style="width:150px;height:150px;object-fit:contain;flex-shrink:0;">
-  <div>
-    <div style="font-weight:700;font-size:1.05em;margin-bottom:16px;">セグレタ プレミア 凝縮美容液シャンプー</div>
-    <div style="display:flex;gap:10px;flex-wrap:wrap;">
-      <a href="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fkao-haircare%2Fsegreta-20%2F" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #bf1a1a;color:#bf1a1a;padding:8px 16px;border-radius:4px;font-size:0.82em;font-weight:700;text-decoration:none;">楽天市場</a>
-      
-    </div>
-  </div>
-</div>
-{{< /rawhtml >}}
+{{< product
+  title="セグレタ プレミア 凝縮美容液シャンプー"
+  img="https://item-shopping.c.yimg.jp/i/l/sundrugec_4901301447227"
+  rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fkao-haircare%2Fsegreta-20%2F"
+>}}

@@ -14,7 +14,7 @@ summary_points:
 cover:
   image: "/images/tria4x-review.png"
   alt: "トリア4X 家庭用レーザー脱毛器"
-price_checked: "2026-05-28"
+price_checked: "2026-05-30"
 ---
 
 
@@ -163,19 +163,13 @@ price_checked: "2026-05-28"
 
 > 光脱毛器との比較が気になる方は[Ulike Air10のレビュー記事](/posts/ulike-air10-review/)もあわせてどうぞ。
 
-{{< rawhtml >}}
-<div class="featured-card-wrap">
-<span class="rank1-badge">★ この記事のレビュー商品</span>
-{{< /rawhtml >}}
 {{< product
   title="トリア 4X レーザー脱毛器"
   img="https://m.media-amazon.com/images/I/51GFswhJOjL._SL500_.jpg"
   rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Ftriabeauty%2Ftria%2F"
   amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%E3%83%88%E3%83%AA%E3%82%A2%2B4X%2B%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%E8%84%B1%E6%AF%9B%E5%99%A8"
+  yahoo="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fmakxasstore%2F2569123.html"
 >}}
-{{< rawhtml >}}
-</div>
-{{< /rawhtml >}}
 
 {{< rawhtml >}}
 <div style="text-align:center; margin: 2em 0;">

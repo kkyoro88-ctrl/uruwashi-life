@@ -1,7 +1,7 @@
 ---
 title: "haru kurokami スカルプ 口コミ・レビュー【2026年・40代】"
 date: 2026-05-13
-lastmod: 2026-05-14
+lastmod: 2026-05-30
 draft: false
 affiliate: true
 categories: ["ヘアケア", "口コミ・レビュー"]
@@ -17,36 +17,16 @@ price_checked: "2026-05-28"
 
 ¥4,940という価格を前に何度も後回しにしてきたのに、返金保証があると知ってから「試さない理由がない」と気持ちが変わりました。この記事では、実際に使ってわかったことと、購入前に知っておきたいことを正直にまとめています。
 
-{{< rawhtml >}}
-<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);display:flex;align-items:center;gap:16px;">
-  <img src="https://m.media-amazon.com/images/I/61+vMDxaz-L._AC_SL500_.jpg" alt="haru kurokami スカルプシャンプー" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;">
-  <div>
-  <div style="font-weight:700;font-size:1.05em;margin-bottom:16px;">haru kurokami スカルプシャンプー</div>
-  <div style="display:flex;gap:10px;flex-wrap:wrap;">
-    <a href="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fharushop%2Fharushampoo001%2F" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #bf1a1a;color:#bf1a1a;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">楽天市場</a>
-    <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB07ZB81Q8J" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
-    
-  </div>
-  </div>
-</div>
-{{< /rawhtml >}}
+{{< product
+  title="haru kurokami スカルプシャンプー"
+  img="https://m.media-amazon.com/images/I/61+vMDxaz-L._AC_SL500_.jpg"
+  rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fharushop%2Fharushampoo001%2F"
+  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB07ZB81Q8J"
+>}}
 
 ---
 
 ## haru kurokami スカルプとはどんなシャンプーか
-
-{{< rawhtml >}}
-<div class="product-heading product-heading--answer">
-  <div class="product-heading-info">
-    <div class="product-heading-num">★ レビュー商品</div>
-    <h3>haru kurokami スカルプ シャンプー</h3>
-    <p>天然由来成分100%・ノンシリコン・累計800万本突破のスカルプシャンプー</p>
-  </div>
-  <div class="product-heading-img">
-    <img src="https://m.media-amazon.com/images/I/61+vMDxaz-L._SL500_.jpg" alt="haru kurokami スカルプ シャンプー">
-  </div>
-</div>
-{{< /rawhtml >}}
 
 haru kurokami スカルプは、**天然由来成分100%・ノンシリコン**を掲げる国内ブランドのスカルプシャンプーです。累計販売800万本を超え、美容メディアやSNSでの評価が高い商品として知られています。
 
@@ -140,6 +120,18 @@ haru kurokami の成分で特に注目しているのは以下の3つです。
 ## こんな方に向いています・向いていません
 
 {{< rawhtml >}}
+<div class="caution-box">
+  <p class="caution-box-title">⚠️ こんな方には正直、向いていないかもしれません</p>
+  <ul>
+    <li>1週間以内に変化を感じたい方（即効性はありません）</li>
+    <li>最初のきしみ期間を乗り越える自信がない方</li>
+    <li>毎回ヘアパックやトリートメントで補修しているヘビーダメージの方（別途ケアが必要になることがある）</li>
+    <li>コスパ最優先の方（400mL ¥4,940は市販品より高め）</li>
+  </ul>
+</div>
+{{< /rawhtml >}}
+
+{{< rawhtml >}}
 <div class="fit-box">
   <p class="fit-box-title">✅ こんな方に向いています</p>
   <ul>
@@ -148,18 +140,6 @@ haru kurokami の成分で特に注目しているのは以下の3つです。
     <li>市販のシャンプーを試し続けても変化がなかった方</li>
     <li>頭皮から根本的に変えたいと思っている方</li>
     <li>天然由来・低刺激の成分にこだわりたい方</li>
-  </ul>
-</div>
-{{< /rawhtml >}}
-
-{{< rawhtml >}}
-<div class="caution-box">
-  <p class="caution-box-title">⚠️ こんな方には正直、向いていないかもしれません</p>
-  <ul>
-    <li>1週間以内に変化を感じたい方（即効性はありません）</li>
-    <li>最初のきしみ期間を乗り越える自信がない方</li>
-    <li>毎回ヘアパックやトリートメントで補修しているヘビーダメージの方（別途ケアが必要になることがある）</li>
-    <li>コスパ最優先の方（400mL ¥4,940は市販品より高め）</li>
   </ul>
 </div>
 {{< /rawhtml >}}

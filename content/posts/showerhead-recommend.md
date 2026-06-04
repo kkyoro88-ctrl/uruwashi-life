@@ -1,7 +1,7 @@
 ---
 title: "シャワーヘッドおすすめ【30代・40代女性の肌・頭皮ケアに選ぶべき理由とミラブルzero評価】"
 date: 2026-04-21
-lastmod: 2026-05-27
+lastmod: 2026-05-30
 draft: false
 affiliate: true
 categories: ["スキンケア", "口コミ・レビュー"]
@@ -17,19 +17,11 @@ price_checked: "2026-05-28"
 
 私も化粧水・美容液を何度見直しても、肌の乾燥や毛穴の悩みが解決しませんでした。変わったのは、毎日のシャワーそのものを変えてから。シャワーヘッドを変えるだけで、入浴が「汚れを落とす時間」から「肌と頭皮をケアする時間」に変わりました。
 
-{{< rawhtml >}}
-<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);display:flex;align-items:center;gap:16px;">
-  <img src="https://m.media-amazon.com/images/I/51cOCI3-AZL._SL500_.jpg" alt="ミラブルzero" style="width:150px;height:150px;object-fit:contain;flex-shrink:0;">
-  <div>
-  <div style="font-weight:700;font-size:1.05em;margin-bottom:16px;">ミラブルzero</div>
-  <div style="display:flex;gap:10px;flex-wrap:wrap;">
-    <a href="https://px.a8.net/svt/ejp?a8mat=4B1QDW+4Q9ZSI+4X44+BWVTE" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #2d7d46;color:#2d7d46;padding:8px 16px;border-radius:4px;font-size:0.82em;font-weight:700;text-decoration:none;">公式サイト</a>
-    <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%E3%83%9F%E3%83%A9%E3%83%96%E3%83%ABzero" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:8px 16px;border-radius:4px;font-size:0.82em;font-weight:700;text-decoration:none;">Amazon</a>
-    
-  </div>
-  </div>
-</div>
-{{< /rawhtml >}}
+{{< product
+  title="ミラブルzero"
+  img="https://m.media-amazon.com/images/I/51cOCI3-AZL._AC_SL500_.jpg"
+  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%E3%83%9F%E3%83%A9%E3%83%96%E3%83%ABzero"
+>}}
 
 
 ---
@@ -61,39 +53,12 @@ price_checked: "2026-05-28"
 
 ## おすすめシャワーヘッド：ミラブルzero
 
-{{< rawhtml >}}
-<div class="product-heading product-heading--answer">
-  <div class="product-heading-info">
-    <div class="product-heading-num">★おすすめ</div>
-    <h3>ミラブルzero</h3>
-    <p>世界初トルネードファインバブル技術・ミスト＆ストレート2モード</p>
-  </div>
-  <div class="product-heading-img">
-    <a href="https://px.a8.net/svt/ejp?a8mat=4B1QDW+4Q9ZSI+4X44+BWVTE" target="_blank" rel="nofollow noopener">
-      <img src="https://www27.a8.net/svt/bgt?aid=260421332286&wid=001&eno=01&mid=s00000022954002009000&mc=1" alt="ミラブルzero">
-    </a>
-  </div>
-</div>
-{{< /rawhtml >}}
-
 株式会社サイエンスが開発した日本製シャワーヘッド。**世界初のトルネードファインバブル技術**を搭載し、直径1マイクロメートル（1/1000mm）以下のウルトラファインバブル（UFB）を発生させます。
 
 この極小気泡が毛穴の奥まで届いて汚れを浮かせ、通常のシャワーでは届かない場所まで洗浄してくれます。ミスト・ストレートの2モード切り替えで、顔・頭皮・体を用途に合わせて使い分けられます。
 
 **価格帯**：¥39,600（税込）  
 **ランニングコスト**：カートリッジ交換（3〜6ヶ月ごと、¥3,000前後）
-
-{{< rawhtml >}}
-<div class="fit-box">
-  <p class="fit-box-title">✅ こんな方に向いています</p>
-  <ul>
-    <li>乾燥肌・敏感肌で保湿に時間とお金をかけてきた方</li>
-    <li>毛穴の開き・黒ずみ・頭皮のべたつきが気になる方</li>
-    <li>スキンケアを変えても肌の変化を感じにくくなってきた方</li>
-    <li>毎日のシャワーをスキンケアタイムに変えたい方</li>
-  </ul>
-</div>
-{{< /rawhtml >}}
 
 {{< rawhtml >}}
 <div class="caution-box">
@@ -107,18 +72,22 @@ price_checked: "2026-05-28"
 {{< /rawhtml >}}
 
 {{< rawhtml >}}
-<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);display:flex;align-items:center;gap:16px;">
-  <img src="https://m.media-amazon.com/images/I/51cOCI3-AZL._SL500_.jpg" alt="ミラブルzero" style="width:150px;height:150px;object-fit:contain;flex-shrink:0;">
-  <div>
-  <div style="font-weight:700;font-size:1.05em;margin-bottom:16px;">ミラブルzero</div>
-  <div style="display:flex;gap:10px;flex-wrap:wrap;">
-    <a href="https://px.a8.net/svt/ejp?a8mat=4B1QDW+4Q9ZSI+4X44+BWVTE" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #2d7d46;color:#2d7d46;padding:8px 16px;border-radius:4px;font-size:0.82em;font-weight:700;text-decoration:none;">公式サイト</a>
-    <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%E3%83%9F%E3%83%A9%E3%83%96%E3%83%ABzero" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:8px 16px;border-radius:4px;font-size:0.82em;font-weight:700;text-decoration:none;">Amazon</a>
-    
-  </div>
-  </div>
+<div class="fit-box">
+  <p class="fit-box-title">✅ こんな方に向いています</p>
+  <ul>
+    <li>乾燥肌・敏感肌で保湿に時間とお金をかけてきた方</li>
+    <li>毛穴の開き・黒ずみ・頭皮のべたつきが気になる方</li>
+    <li>スキンケアを変えても肌の変化を感じにくくなってきた方</li>
+    <li>毎日のシャワーをスキンケアタイムに変えたい方</li>
+  </ul>
 </div>
 {{< /rawhtml >}}
+
+{{< product
+  title="ミラブルzero"
+  img="https://m.media-amazon.com/images/I/51cOCI3-AZL._AC_SL500_.jpg"
+  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%E3%83%9F%E3%83%A9%E3%83%96%E3%83%ABzero"
+>}}
 
 ---
 
@@ -166,19 +135,11 @@ price_checked: "2026-05-28"
 
 「化粧水を変えても変わらない」という方こそ、毎日365日使うシャワーの質を見直してみてください。ミラブルzeroは、そのアプローチを根本から変えてくれるアイテムです。
 
-{{< rawhtml >}}
-<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);display:flex;align-items:center;gap:16px;">
-  <img src="https://m.media-amazon.com/images/I/51cOCI3-AZL._SL500_.jpg" alt="ミラブルzero" style="width:150px;height:150px;object-fit:contain;flex-shrink:0;">
-  <div>
-  <div style="font-weight:700;font-size:1.05em;margin-bottom:16px;">ミラブルzero</div>
-  <div style="display:flex;gap:10px;flex-wrap:wrap;">
-    <a href="https://px.a8.net/svt/ejp?a8mat=4B1QDW+4Q9ZSI+4X44+BWVTE" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #2d7d46;color:#2d7d46;padding:8px 16px;border-radius:4px;font-size:0.82em;font-weight:700;text-decoration:none;">公式サイト</a>
-    <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%E3%83%9F%E3%83%A9%E3%83%96%E3%83%ABzero" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:8px 16px;border-radius:4px;font-size:0.82em;font-weight:700;text-decoration:none;">Amazon</a>
-    
-  </div>
-  </div>
-</div>
-{{< /rawhtml >}}
+{{< product
+  title="ミラブルzero"
+  img="https://m.media-amazon.com/images/I/51cOCI3-AZL._AC_SL500_.jpg"
+  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%E3%83%9F%E3%83%A9%E3%83%96%E3%83%ABzero"
+>}}
 
 > 口コミ・デメリット・よくある質問をもっと詳しく知りたい方は[ミラブルzeroの口コミ・レビュー記事](/posts/mirablezero-review/)もご覧ください。
 

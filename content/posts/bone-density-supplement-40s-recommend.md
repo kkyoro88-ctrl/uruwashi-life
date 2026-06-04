@@ -80,19 +80,6 @@ price_checked: "2026-05-28"
 
 ### 1位：雪印メグミルク 毎日一粒 MBP®｜骨密度を高めるトクホ成分・MBP配合タブレット
 
-{{< rawhtml >}}
-<div class="product-heading product-heading--answer">
-  <div class="product-heading-info">
-    <div class="product-heading-num">1位</div>
-    <h3>雪印メグミルク<br>毎日一粒 MBP®</h3>
-    <p>トクホ成分MBP®40mg配合・糖類ゼロのタブレット</p>
-  </div>
-  <div class="product-heading-img">
-    <img src="https://m.media-amazon.com/images/I/61nb8cwUeOL._AC_SL500_.jpg" alt="雪印メグミルク 毎日一粒 MBP ヨーグルト風味">
-  </div>
-</div>
-{{< /rawhtml >}}
-
 「骨密度を高める」と認定されたトクホ成分**MBP®（乳塩基性タンパク質）**を1粒に40mg配合。MBP®は特定保健用食品として認可されている、根拠のある成分です。
 
 ドリンクタイプの「毎日骨ケアMBP®」と同じMBP®成分を、飲みやすいタブレット1粒で摂れる設計。ヨーグルト風味で続けやすく、糖類ゼロ・シュガーレスなのもうれしいポイントです。「骨密度にフォーカスしたサプリを選びたい」という方に最初に試してほしい一本です。
@@ -129,19 +116,6 @@ price_checked: "2026-05-28"
 ---
 
 ### 2位：ファンケル 健骨サポート｜大豆イソフラボン＋カルシウム＋ビタミンD・機能性表示食品
-
-{{< rawhtml >}}
-<div class="product-heading product-heading--haru">
-  <div class="product-heading-info">
-    <div class="product-heading-num">2位</div>
-    <h3>ファンケル<br>健骨サポート</h3>
-    <p>大豆イソフラボン・カルシウム・ビタミンD・コラーゲン配合</p>
-  </div>
-  <div class="product-heading-img">
-    <img src="https://m.media-amazon.com/images/I/61DeYyBeW5L._AC_SL500_.jpg" alt="ファンケル 健骨サポート">
-  </div>
-</div>
-{{< /rawhtml >}}
 
 **機能性表示食品**として「骨の健康維持に役立つ」ことが届出されているファンケルの専門サプリ。大豆イソフラボン・カルシウム・ビタミンD・コラーゲンを1粒にまとめた設計が特徴です。
 
@@ -180,19 +154,6 @@ price_checked: "2026-05-28"
 
 ### 3位：ファンケル 40代からのサプリメント女性用｜骨＋疲れ＋美容を一本でカバー
 
-{{< rawhtml >}}
-<div class="product-heading product-heading--melt">
-  <div class="product-heading-info">
-    <div class="product-heading-num">3位</div>
-    <h3>ファンケル<br>40代からのサプリメント女性用</h3>
-    <p>40代の悩みにまとめて対応・カルシウム＋ビタミンC＋乳酸菌</p>
-  </div>
-  <div class="product-heading-img">
-    <img src="https://m.media-amazon.com/images/I/61jOcK6a0KL._AC_SL500_.jpg" alt="ファンケル 40代からのサプリメント女性用">
-  </div>
-</div>
-{{< /rawhtml >}}
-
 「骨だけ」ではなく、40代女性が気になりがちな**疲れ・美容・腸活・骨**をまとめてケアできるオールインワン設計のサプリです。カルシウムに加え、ビタミンC・乳酸菌など40代女性に必要な成分を個包装にまとめており、朝に一袋飲むだけで手軽に続けられます。
 
 「骨専用のサプリより、全体的な健康をまとめてサポートしたい」という方に向いている選択肢。ファンケルのAmazonレビューは4.5（1,600件超）と評価が高く、40代女性のリアルな愛用者が多い商品です。
@@ -230,19 +191,6 @@ price_checked: "2026-05-28"
 
 ### 4位：富士フイルム カルシウム＆マグネシウム｜噛んで食べるヨーグルト風味・コスパ重視ならコレ
 
-{{< rawhtml >}}
-<div class="product-heading product-heading--ipsa">
-  <div class="product-heading-info">
-    <div class="product-heading-num">4位</div>
-    <h3>富士フイルム<br>カルシウム＆マグネシウム</h3>
-    <p>噛んで食べるヨーグルト風味・ビタミンD配合・コスパ◎</p>
-  </div>
-  <div class="product-heading-img">
-    <img src="https://m.media-amazon.com/images/I/51xpevNKAGL._AC_SL500_.jpg" alt="富士フイルム カルシウム&マグネシウム">
-  </div>
-</div>
-{{< /rawhtml >}}
-
 富士フイルムが展開する栄養機能食品で、**カルシウム・マグネシウム・ビタミンD**の3成分セットが1,000円台のコスパで揃う手軽な一本。「噛んでもおいしいヨーグルト風味」という飲み方のバリエーションも特徴で、タブレットが苦手な方にも続けやすい設計です。
 
 Amazonベストセラーにも入っており、毎月2,000件以上購入される人気商品。「まずはカルシウムをきちんと補いたい」「コスパよく続けたい」という方のスタートサプリとして最適です。
@@ -279,19 +227,6 @@ Amazonベストセラーにも入っており、毎月2,000件以上購入され
 ---
 
 ### 5位：DHC コツプレミアムCBP｜乳清タンパクCBP×カルシウムで骨芽細胞を活性化
-
-{{< rawhtml >}}
-<div class="product-heading product-heading--muji">
-  <div class="product-heading-info">
-    <div class="product-heading-num">5位</div>
-    <h3>DHC<br>コツプレミアムCBP</h3>
-    <p>乳清タンパクCBP＋カルシウム・1日2粒で続けやすい</p>
-  </div>
-  <div class="product-heading-img">
-    <img src="https://m.media-amazon.com/images/I/51gA3L3WRnL._AC_SL500_.jpg" alt="DHC コツプレミアムCBP">
-  </div>
-</div>
-{{< /rawhtml >}}
 
 DHHCが展開する骨ケアに特化したサプリで、**CBP（乳清タンパク/Concentrated Bone Protein）**を配合。CBPは骨を作る「骨芽細胞」の増殖を促す働きがあるとされ、カルシウムとの相乗効果が注目されている成分です。
 

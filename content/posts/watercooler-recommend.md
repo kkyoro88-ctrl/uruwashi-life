@@ -1,10 +1,11 @@
 ---
 title: "水を変えたら肌の内側から変わった【40代がオーケンウォーターを選んだ理由・正直レビュー】"
 date: 2026-04-23
+lastmod: 2026-05-30
 draft: false
 affiliate: true
 categories: ["暮らし・美容グッズ"]
-tags: []
+tags: ["40代", "エイジングケア"]
 description: "ウォーターサーバーを比較検討した結果、オーケンウォーターに行き着いた理由を正直にレビュー。天然水・永久無料レンタル・乗り換えキャンペーンの実態を30代・40代の目線で解説します。"
 cover:
   image: "/images/watercooler-recommend.png"
@@ -19,19 +20,10 @@ price_checked: "2026-05-28"
 
 この記事では、40代がウォーターサーバーをスキンケアの一部として選んだ理由と、使ってわかったことを正直にレビューします。
 
-{{< rawhtml >}}
-<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);display:flex;align-items:center;gap:16px;">
-  <img src="https://www.o-ken.com/site/wp-content/themes/o-ken_astrachild/img/img-index/img_server_smartplus.png" alt="オーケンウォーター" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;">
-  <div>
-  <div style="font-weight:700;font-size:1.05em;margin-bottom:16px;">オーケンウォーター</div>
-  <div style="display:flex;gap:10px;flex-wrap:wrap;">
-    <a href="https://px.a8.net/svt/ejp?a8mat=4B1RXP+DNS2GI+1LOO+6CWQP" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #2d7d46;color:#2d7d46;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">公式サイト</a>
-    <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%E3%82%AA%E3%83%BC%E3%82%B1%E3%83%B3%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%BF%E3%83%BC%2B%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
-    
-  </div>
-  </div>
-</div>
-{{< /rawhtml >}}
+{{< product
+  title="オーケンウォーター"
+  img="https://www.o-ken.com/site/wp-content/themes/o-ken_astrachild/img/img-index/img_server_smartplus.png"
+>}}
 
 
 ---
@@ -267,19 +259,10 @@ price_checked: "2026-05-28"
 
 サーバーが永久無料レンタルで、天然水の質にこだわれるオーケンウォーターは、ウォーターサーバーを初めて試す方にも、今のサービスから乗り換えを検討している方にも、試しやすい選択肢です。
 
-{{< rawhtml >}}
-<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);display:flex;align-items:center;gap:16px;">
-  <img src="https://www.o-ken.com/site/wp-content/themes/o-ken_astrachild/img/img-index/img_server_smartplus.png" alt="オーケンウォーター" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;">
-  <div>
-  <div style="font-weight:700;font-size:1.05em;margin-bottom:16px;">オーケンウォーター</div>
-  <div style="display:flex;gap:10px;flex-wrap:wrap;">
-    <a href="https://px.a8.net/svt/ejp?a8mat=4B1RXP+DNS2GI+1LOO+6CWQP" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #2d7d46;color:#2d7d46;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">公式サイト</a>
-    <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%E3%82%AA%E3%83%BC%E3%82%B1%E3%83%B3%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%BF%E3%83%BC%2B%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
-    
-  </div>
-  </div>
-</div>
-{{< /rawhtml >}}
+{{< product
+  title="オーケンウォーター"
+  img="https://www.o-ken.com/site/wp-content/themes/o-ken_astrachild/img/img-index/img_server_smartplus.png"
+>}}
 
 > 「コストを固定したい」「浄水型で手軽に始めたい」方は[エブリィフレシャスのレビュー記事](/posts/everyfrecious-review/)もあわせてどうぞ。
 

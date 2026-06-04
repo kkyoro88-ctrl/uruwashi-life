@@ -1,7 +1,7 @@
 ---
 title: "コスメポーチおすすめ5選【40代の朝の「探せない」ストレスをなくす】"
 date: 2026-04-21
-lastmod: 2026-05-10
+lastmod: 2026-05-30
 draft: false
 affiliate: true
 categories: ["暮らし・美容グッズ"]
@@ -18,19 +18,6 @@ price_checked: "2026-05-28"
 そのプチストレスをなくしてくれたのが、ポーチの見直しでした。中身が見える・取り出しやすい・整理しやすい——たったそれだけで、朝のスタートが変わります。
 
 今回は40代の毎日に合う、使いやすくて長く使えるコスメポーチを5つ厳選しました。
-
-{{< rawhtml >}}
-<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);display:flex;align-items:center;gap:16px;">
-  <img src="https://m.media-amazon.com/images/I/81Oe77SgKaL._SL500_.jpg" alt="コスメポーチ" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;">
-  <div>
-  <div style="font-weight:700;font-size:1.05em;margin-bottom:16px;">コスメポーチ</div>
-  <div style="display:flex;gap:10px;flex-wrap:wrap;">
-    <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%E3%82%B3%E3%82%B9%E3%83%A1%E3%83%9D%E3%83%BC%E3%83%81%2B%E3%81%8A%E3%81%99%E3%81%99%E3%82%81" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
-    
-  </div>
-  </div>
-</div>
-{{< /rawhtml >}}
 
 
 ---
@@ -51,33 +38,9 @@ price_checked: "2026-05-28"
 
 ### 1位：メッシュコスメポーチ（半透明・ダブルファスナー）
 
-{{< rawhtml >}}
-<div class="product-heading product-heading--answer">
-  <div class="product-heading-info">
-    <div class="product-heading-num">1位</div>
-    <h3>メッシュコスメポーチ<br>半透明・ダブルファスナー</h3>
-    <p>中身が見えて探さなくていい・防水素材で清潔が続く</p>
-  </div>
-  <div class="product-heading-img">
-    <img src="https://m.media-amazon.com/images/I/81Oe77SgKaL._SL500_.jpg" alt="メッシュコスメポーチ">
-  </div>
-</div>
-{{< /rawhtml >}}
-
 「中身が見えるから探さなくていい」——これだけで朝の時短になります。シンプルなデザインと軽量さで毎日使いに向いており、防水素材でマチもあってコスメをしっかり収納できます。
 
 40代の「毎朝プチストレス」の原因のひとつが、ポーチの中を探す時間。半透明タイプに変えるだけで、その悩みが一気に解消されました。
-
-{{< rawhtml >}}
-<div class="fit-box">
-  <p class="fit-box-title">✅ こんな方に向いています</p>
-  <ul>
-    <li>毎朝「どこ？」と探す時間をなくしたい方</li>
-    <li>防水素材で液漏れのストレスをなくしたい方</li>
-    <li>シンプルで使いやすいデイリーポーチを探している方</li>
-  </ul>
-</div>
-{{< /rawhtml >}}
 
 {{< rawhtml >}}
 <div class="caution-box">
@@ -90,25 +53,37 @@ price_checked: "2026-05-28"
 {{< /rawhtml >}}
 
 {{< rawhtml >}}
-<table cellpadding="0" cellspacing="0" border="0" style=" border:1px solid #ccc; width:300px;"><tbody><tr style="border-style:none;"><td style="vertical-align:top; border-style:none; padding:10px; width:44px;"><a href="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fplusnao%2Fzak-22575%2F" rel="nofollow"><img style="max-width: initial;" border="0" alt="" src="https://m.media-amazon.com/images/I/81Oe77SgKaL._SL500_.jpg"></a></td><td style="font-size:12px; vertical-align:middle; border-style:none; padding:10px;"><p style="padding:0; margin:0;"><a href="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fplusnao%2Fzak-22575%2F" rel="nofollow">送料無料 化粧ポーチ メッシュ 防水 半透明 クリアポーチ ダブルファスナー マチあり</a></p><p style="color:#666; margin-top:5px; line-height:1.5;">価格:<span style="font-size:14px; color:#C00; font-weight:bold;">2130円</span><br><span style="font-size:10px; font-weight:normal;">(2026/4/24 時点)</span></p></td></tr></tbody></table>
-<img border="0" width="1" height="1" src="https://www19.a8.net/0.gif?a8mat=4B1QDP+BQ4COI+2HOM+BWGDT" alt="">
+<div class="fit-box">
+  <p class="fit-box-title">✅ こんな方に向いています</p>
+  <ul>
+    <li>毎朝「どこ？」と探す時間をなくしたい方</li>
+    <li>防水素材で液漏れのストレスをなくしたい方</li>
+    <li>シンプルで使いやすいデイリーポーチを探している方</li>
+  </ul>
+</div>
 {{< /rawhtml >}}
+
+{{< product
+  title="化粧ポーチ メッシュ 防水 半透明 クリアポーチ"
+  img="https://m.media-amazon.com/images/I/81Oe77SgKaL._SL500_.jpg"
+  rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fplusnao%2Fzak-22575%2F"
+>}}
 
 ---
 
 ### 2位：MUJI（無印良品）ポリエステル スタンドポーチ
 
+洗面台にそのまま立てて置けるから、収納を兼ねられます。「出す→しまう」という手間がなくなるだけで、毎日のスキンケアが続きやすくなります。シンプルなデザインで飽きがこなく、洗いやすいのも清潔を保てる理由のひとつです。
+
 {{< rawhtml >}}
-<div class="product-heading product-heading--melt">
-  <div class="product-heading-info">
-    <div class="product-heading-num">2位</div>
-    <h3>無印良品<br>ポリエステル スタンドポーチ</h3>
-    <p>自立するから洗面台に置けて収納も兼ねられる</p>
-  </div>
+<div class="caution-box">
+  <p class="caution-box-title">⚠️ こんな点は注意</p>
+  <ul>
+    <li>持ち歩きには向かない（外出用と分けて使うのがおすすめ）</li>
+    <li>容量がやや小さめのため、持ち物が多い方には不向き</li>
+  </ul>
 </div>
 {{< /rawhtml >}}
-
-洗面台にそのまま立てて置けるから、収納を兼ねられます。「出す→しまう」という手間がなくなるだけで、毎日のスキンケアが続きやすくなります。シンプルなデザインで飽きがこなく、洗いやすいのも清潔を保てる理由のひとつです。
 
 {{< rawhtml >}}
 <div class="fit-box">
@@ -121,31 +96,21 @@ price_checked: "2026-05-28"
 </div>
 {{< /rawhtml >}}
 
-{{< rawhtml >}}
-<div class="caution-box">
-  <p class="caution-box-title">⚠️ こんな点は注意</p>
-  <ul>
-    <li>持ち歩きには向かない（外出用と分けて使うのがおすすめ）</li>
-    <li>容量がやや小さめのため、持ち物が多い方には不向き</li>
-  </ul>
-</div>
-{{< /rawhtml >}}
-
 ---
 
 ### 3位：レザーコスメポーチ
 
+少し贅沢したいときに選びたい本革・合皮ポーチ。使い込むほど風合いが増して、自分だけの色になっていくのが楽しいです。大人の女性のバッグに合わせやすいデザインで、プレゼントにも喜ばれます。
+
 {{< rawhtml >}}
-<div class="product-heading product-heading--leather">
-  <div class="product-heading-info">
-    <div class="product-heading-num">3位</div>
-    <h3>レザーコスメポーチ</h3>
-    <p>使い込むほど味が出る・大人の普段使いに合う素材感</p>
-  </div>
+<div class="caution-box">
+  <p class="caution-box-title">⚠️ こんな点は注意</p>
+  <ul>
+    <li>本革は水濡れに注意・内側が汚れやすい場合も</li>
+    <li>合皮は価格が手頃だが経年劣化しやすい</li>
+  </ul>
 </div>
 {{< /rawhtml >}}
-
-少し贅沢したいときに選びたい本革・合皮ポーチ。使い込むほど風合いが増して、自分だけの色になっていくのが楽しいです。大人の女性のバッグに合わせやすいデザインで、プレゼントにも喜ばれます。
 
 {{< rawhtml >}}
 <div class="fit-box">
@@ -158,31 +123,21 @@ price_checked: "2026-05-28"
 </div>
 {{< /rawhtml >}}
 
-{{< rawhtml >}}
-<div class="caution-box">
-  <p class="caution-box-title">⚠️ こんな点は注意</p>
-  <ul>
-    <li>本革は水濡れに注意・内側が汚れやすい場合も</li>
-    <li>合皮は価格が手頃だが経年劣化しやすい</li>
-  </ul>
-</div>
-{{< /rawhtml >}}
-
 ---
 
 ### 4位：キャラクターコラボポーチ（仕切り多め）
 
+「かわいいものを持ち歩いていい」と思わせてくれるコラボポーチ。内側の仕切りが豊富で実用性も高いです。「毎日使うのが楽しくなる」という感覚は、ケアを続けるモチベーションにも影響します。
+
 {{< rawhtml >}}
-<div class="product-heading product-heading--chara">
-  <div class="product-heading-info">
-    <div class="product-heading-num">4位</div>
-    <h3>キャラクターコラボポーチ</h3>
-    <p>豊富な仕切り・毎日使うのが楽しくなるデザイン</p>
-  </div>
+<div class="caution-box">
+  <p class="caution-box-title">⚠️ こんな点は注意</p>
+  <ul>
+    <li>ビジネスシーンや落ち着いた場所では目立つことも</li>
+    <li>コラボ商品のため在庫がなくなると再入手しにくい</li>
+  </ul>
 </div>
 {{< /rawhtml >}}
-
-「かわいいものを持ち歩いていい」と思わせてくれるコラボポーチ。内側の仕切りが豊富で実用性も高いです。「毎日使うのが楽しくなる」という感覚は、ケアを続けるモチベーションにも影響します。
 
 {{< rawhtml >}}
 <div class="fit-box">
@@ -195,31 +150,21 @@ price_checked: "2026-05-28"
 </div>
 {{< /rawhtml >}}
 
-{{< rawhtml >}}
-<div class="caution-box">
-  <p class="caution-box-title">⚠️ こんな点は注意</p>
-  <ul>
-    <li>ビジネスシーンや落ち着いた場所では目立つことも</li>
-    <li>コラボ商品のため在庫がなくなると再入手しにくい</li>
-  </ul>
-</div>
-{{< /rawhtml >}}
-
 ---
 
 ### 5位：ロールアップポーチ（旅行・出張向け）
 
+旅行・出張が多い方向けに設計されたタイプです。ロールアップでコンパクトに収納でき、広げると大容量。フック付きで洗面台に吊るせるため、ホテルでも自宅と同じ動線でケアができます。
+
 {{< rawhtml >}}
-<div class="product-heading product-heading--roll">
-  <div class="product-heading-info">
-    <div class="product-heading-num">5位</div>
-    <h3>ロールアップポーチ</h3>
-    <p>コンパクト収納・広げると大容量・フック付きで洗面台に吊るせる</p>
-  </div>
+<div class="caution-box">
+  <p class="caution-box-title">⚠️ こんな点は注意</p>
+  <ul>
+    <li>広げるスペースが必要なため、毎日のデスクや洗面台では使いにくい</li>
+    <li>普段使いは別のポーチと併用するのがおすすめ</li>
+  </ul>
 </div>
 {{< /rawhtml >}}
-
-旅行・出張の多い方に特におすすめしたい一本。ロールアップでコンパクトに収納できて、広げると大容量。フック付きで洗面台に吊るせるのが地味に便利で、ホテルでも自宅と同じ動線でケアができます。
 
 {{< rawhtml >}}
 <div class="fit-box">
@@ -232,23 +177,12 @@ price_checked: "2026-05-28"
 </div>
 {{< /rawhtml >}}
 
-{{< rawhtml >}}
-<div class="caution-box">
-  <p class="caution-box-title">⚠️ こんな点は注意</p>
-  <ul>
-    <li>広げるスペースが必要なため、毎日のデスクや洗面台では使いにくい</li>
-    <li>普段使いは別のポーチと併用するのがおすすめ</li>
-  </ul>
-</div>
-{{< /rawhtml >}}
-
 ---
 
 ## 5本の比較表
 
 {{< rawhtml >}}
-<div class="comparison-wrap">
-<table class="comparison-table">
+<table class="comparison-rank">
   <thead>
     <tr>
       <th></th>
@@ -302,7 +236,6 @@ price_checked: "2026-05-28"
     </tr>
   </tbody>
 </table>
-</div>
 {{< /rawhtml >}}
 
 ---

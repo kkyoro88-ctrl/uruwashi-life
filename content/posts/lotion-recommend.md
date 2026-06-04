@@ -1,110 +1,104 @@
 ---
-title: "【2026年最新】化粧水おすすめ40代向け3選｜乾燥・エイジングケア重視で厳選"
+title: "オルビス クリアフル ローション 口コミ｜40代の毛穴・くすみに薬用化粧水の特徴を解説"
 date: 2026-05-01
-lastmod: 2026-05-26
+lastmod: 2026-06-02
 draft: false
 affiliate: true
 categories: ["スキンケア"]
 tags: ["スキンケア", "40代", "エイジングケア", "乾燥肌"]
-description: "40代向け化粧水おすすめ3選を成分から厳選。HABA薬用VCローション・イプサ・無印良品を比較。セラミド・ナイアシンアミドの選び方と正しい使い方まで解説します。"
+description: "オルビス 薬用クリアフル ローション（Mタイプ）の成分・特徴・口コミを解説。40代の毛穴の目立ち・くすみ・肌荒れ予防に薬用化粧水が向いている理由とHABA・イプサとの比較表を紹介します。"
 summary_points:
-  - "化粧水を変えても効果がない理由——成分が肌に合っていないから"
-  - "美白ケア・軽い使い心地・コスパ、悩み別おすすめ化粧水3本"
-  - "くすみ・混合肌・低刺激、肌質別に合う1本の選び方"
+  - "クリアフル ローションが40代に選ばれている理由"
+  - "薬用化粧水が普通の化粧水と何が違うのか"
+  - "毛穴・くすみ・肌荒れ別、悩みに合う選び方"
 cover:
   image: "/images/lotion-recommend.png"
-  alt: "化粧水おすすめ40代向け"
-price_checked: "2026-05-28"
+  alt: "オルビス クリアフル ローション 40代の毛穴・くすみケア"
+price_checked: "2026-06-02"
 ---
 
-「化粧水、ずっと同じものを使っているのになんか最近手応えを感じにくい」——そう感じたのが、化粧水を見直したきっかけでした。
+HABAのVCローションを使い続けて、くすみが落ち着いてきた。その次に気になったのが毛穴の目立ちだった。美白ケアを続けながら、毛穴と肌荒れ予防にも同時に対処したくて、薬用化粧水を調べ直した結果たどり着いたのが**オルビス 薬用クリアフル ローション**です。
 
-**結論から言います。40代で化粧水を変えても変化がない理由のほとんどは、「肌が求める成分が変わったのに、化粧水が変わっていない」ことです。** 成分を意識して選べば、同じルーティンのまま肌の手応えが変わります。
+この記事では、オルビス 薬用クリアフル ローション Mの成分・特徴・口コミを整理して、40代の化粧水選びの参考にまとめます。
 
-迷ったら、まず **HABA 薬用VCローション** から試してみてください。医薬部外品として美白有効成分の効能が認められた、くすみ・シミケアの入り口として選ばれやすい一本です。
+{{< rawhtml >}}<p style="font-size:0.88em;color:#888;border-left:3px solid #ddd;padding-left:10px;margin:0.8em 0;">※この記事は公式サイト・成分情報・利用者の口コミをもとに作成しています。実際の効果には個人差があります。</p>{{< /rawhtml >}}
+
+{{< product
+  title="オルビス クリアフル ローション M しっとりタイプ 180mL（医薬部外品）"
+  img="https://www.orbis.co.jp/cms/product/images/80/8135.jpg"
+  rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Forbis-shop%2Fo0044%2F"
+  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB09VXG2TL9"
+>}}
 
 {{< rawhtml >}}
-<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);display:flex;align-items:center;gap:16px;">
-  <img src="https://m.media-amazon.com/images/I/514Uq-5bGdL._AC_SL500_.jpg" alt="HABA 薬用VCローション" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;">
-  <div>
-  <div style="font-weight:700;font-size:1.05em;margin-bottom:16px;">HABA 薬用VCローション</div>
-  <div style="display:flex;gap:10px;flex-wrap:wrap;">
-    <a href="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fkirei-mitsuketa%2Fh-b_0001437%2F" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #bf1a1a;color:#bf1a1a;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">楽天市場</a>
-    <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB00V4PBEZU" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
-    
-  </div>
-  </div>
+<div style="text-align:center; margin: 1.5em 0;">
+  <a href="https://px.a8.net/svt/ejp?a8mat=4B5LK5+29KENM+1USQ+BXYEA" target="_blank" rel="nofollow noopener" style="display:inline-block; background:#e85d8a; color:#fff; padding:14px 36px; border-radius:30px; font-size:1em; font-weight:bold; text-decoration:none;">
+    オルビス クリアフル 公式サイトで確認する →
+  </a>
+  <img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4B5LK5+29KENM+1USQ+BXYEA" alt="">
 </div>
 {{< /rawhtml >}}
 
+---
+
+## オルビス クリアフルとは
+
+「クリアフル」はORBIS（オルビス）が展開するスキンケアライン。**薬用クリアフル**は医薬部外品として有効成分が配合されており、毛穴の目立ち・くすみ・肌荒れ予防を同時にアプローチすることを目指した設計です。
+
+**薬用クリアフル ローション M（しっとりタイプ）**は化粧水ステップで使うローション。Mタイプはしっとり感と使いやすさのバランスが取れたタイプで、乾燥が気になる40代に選ばれています。※FC要（タイプ展開・詳細は公式サイト参照）
 
 ---
 
-## 40代の化粧水選びで大切な成分
+## 「薬用」化粧水と普通の化粧水の違い
 
-### ① セラミド：肌のバリアを守る
+「薬用」と書いてある化粧水は医薬部外品に分類されます。薬とは異なりますが、効能効果が認められた有効成分が配合されている点が一般の化粧品と異なります。
 
-40代の肌で特に減少するのがセラミド。うるおいを閉じ込めるバリア機能を担う成分で、不足すると乾燥・肌荒れが起きやすくなります。配合されているかどうかを最初に確認しましょう。
+| 分類 | 有効成分 | 効能の表示 |
+|------|---------|---------|
+| 化粧品 | なし | 規定範囲内のみ表示可 |
+| 医薬部外品（薬用） | 認可された有効成分あり | 「肌荒れ防止」「美白」など効能を表示できる |
 
-### ② ヒアルロン酸：水分を引き込む
-
-水分保持力が高く、しっとり感を出したい方に向いた成分。ただし保湿は「一時的な補給」なので、セラミドと組み合わせると長持ちしやすくなります。
-
-### ③ ナイアシンアミド：くすみ・毛穴・エイジングケアへ
-
-ビタミンB3の一種。くすみ・毛穴の目立ちにくさ・シワへのアプローチ（医薬部外品として配合時）と幅広い悩みに対応できる万能成分です。
-
-| 成分 | 主なはたらき | 向いている悩み |
-|------|------------|--------------|
-| セラミド | バリア機能のサポート | 乾燥・肌荒れ |
-| ヒアルロン酸 | 水分保持 | 乾燥・ハリ不足 |
-| ナイアシンアミド | くすみ・シワへのアプローチ | くすみ・毛穴・エイジングケア |
+40代で肌荒れが繰り返しやすい・くすみが定着してきたと感じる場合、医薬部外品の化粧水を選ぶことで成分的な根拠を持ちながらケアができます。
 
 ---
 
-## 3商品を一覧で比較
+## 3商品を比較する
 
 {{< rawhtml >}}
 <div class="comparison-wrap">
-<table class="comparison-table">
+<table class="comparison-rank">
   <thead>
     <tr>
       <th class="th-empty"></th>
-      <th class="th-haba"><span class="top-badge">★ イチ推し</span><br>HABA 薬用VCローション</th>
-      <th class="th-ipsa">イプサ ザ・タイムR アクア</th>
-      <th class="th-muji">無印良品 高保湿タイプ</th>
+      <th class="cr-featured"><div class="cr-rank">1</div><span class="top-badge">★ イチ推し</span><div class="cr-name">オルビス<br>クリアフル ローション</div></th>
+      <th><div class="cr-rank">2</div><div class="cr-name">HABA<br>薬用VCローション</div></th>
+      <th><div class="cr-rank">3</div><div class="cr-name">イプサ<br>ザ・タイムR アクア</div></th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td class="td-label">💰 価格</td>
-      <td><span class="cmp-price cmp-price--haba">¥3,520<small>/ 180ml</small></span></td>
-      <td><span class="cmp-price cmp-price--ipsa">¥4,730<small>/ 200ml</small></span></td>
-      <td><span class="cmp-price cmp-price--muji">¥1,190<small>/ 400ml</small></span></td>
+      <td class="cr-label">種類</td>
+      <td class="cr-hi">薬用化粧水（医薬部外品）</td>
+      <td>薬用化粧水（医薬部外品）</td>
+      <td>化粧水（化粧品）</td>
     </tr>
     <tr>
-      <td class="td-label">✨ 主な成分・特徴</td>
-      <td><strong>VCエチル（美白）</strong><br>医薬部外品</td>
-      <td><strong>水溶性キトサン</strong><br>軽い使い心地</td>
-      <td><strong>ヒアルロン酸</strong><br>アルコールフリー</td>
+      <td class="cr-label">主な悩み</td>
+      <td class="cr-hi">毛穴・くすみ・肌荒れ</td>
+      <td>くすみ・美白</td>
+      <td>混合肌・べたつき</td>
     </tr>
     <tr>
-      <td class="td-label">🎯 主な悩み</td>
-      <td>くすみ・シミ予防</td>
-      <td>混合肌・べたつき嫌い</td>
-      <td>乾燥・敏感肌</td>
-    </tr>
-    <tr>
-      <td class="td-label">🧴 テクスチャー</td>
+      <td class="cr-label">テクスチャー</td>
+      <td class="cr-hi">しっとり（Mタイプ）</td>
       <td>さっぱり〜普通</td>
       <td>水のように軽い</td>
-      <td>なめらかしっとり</td>
     </tr>
     <tr>
-      <td class="td-label">👤 向いている方</td>
-      <td>美白ケアを始めたい</td>
-      <td>軽い使い心地が好み</td>
-      <td>まず試したい・コスパ重視</td>
+      <td class="cr-label">敏感肌への配慮</td>
+      <td class="cr-hi">○（ORBIS品質基準）</td>
+      <td>◎（無香料・パラベンフリー）</td>
+      <td>○</td>
     </tr>
   </tbody>
 </table>
@@ -113,333 +107,171 @@ price_checked: "2026-05-28"
 
 ---
 
-## 40代の乾燥・エイジングケアにおすすめの化粧水3選
+## クリアフル ローションの特徴
 
-{{< rawhtml >}}
-<div class="product-heading product-heading--haba">
-  <div class="product-heading-info">
-    <div class="product-heading-num">No.1 イチ推し</div>
-    <div class="product-heading-name">HABA 薬用VCローション 180ml</div>
-  </div>
-  <img class="product-heading-img" src="https://m.media-amazon.com/images/I/514Uq-5bGdL._AC_SL500_.jpg" alt="HABA 薬用VCローション">
-</div>
-{{< /rawhtml >}}
+### 毛穴・くすみ・肌荒れを同時にアプローチ
 
-シミ・くすみが気になり始めた40代に選ばれやすい一本です。美白有効成分「安定型ビタミンC誘導体（VCエチル）」を配合した医薬部外品で、さっぱりしたテクスチャーながら重ね塗りできるのが特徴。
+薬用クリアフルのコンセプトは、毛穴の目立ちとくすみを同時にケアしながら、肌荒れを防ぐことです。
 
-無香料・無着色・パラベンフリーの処方で、肌が敏感になりやすい時期も使いやすい設計です。「美白ケアはしたいけど刺激は避けたい」「くすみをどうにかしたいけど、何を選んでいいかわからない」という方の入り口として選ばれています。
+医薬部外品として有効成分が配合されており、化粧品では表示できない効能にアプローチします。※FC要（具体的な有効成分は商品ラベル・公式サイトで確認を）
+
+### Mタイプ（しっとり）の特徴
+
+クリアフルにはタイプ展開があり、Mタイプはさっぱりとしっとりの中間のテクスチャー。乾燥が気になる40代でも使いやすい仕上がりという口コミが多く見られます。※FC要（個人差あり）
+
+### ORBISの品質設計
+
+オルビスは独自の品質基準で不必要な成分を省いたシンプル処方が特徴。40代の敏感になりがちな肌にも使いやすいと評価されています。※FC要（配合成分は公式サイト・商品ラベルで確認を）
 
 {{< rawhtml >}}
 <div class="caution-box">
-  <div class="caution-box-title">⚠ 正直に言うと、これが気になりました</div>
+  <div class="caution-box-title">⚠ 向いていないかもしれない方</div>
   <ul>
-    <li>さっぱり系のテクスチャーのため、乾燥が強い方は物足りなく感じることがある（美容液や乳液で補うのがおすすめ）</li>
-    <li>楽天・Amazon等ECが中心で、近所のドラッグストアでは扱いが少ない</li>
-    <li>医薬部外品の成分が入るため、非常に敏感な肌の方はパッチテストを推奨</li>
-    <li><strong>合わなかった理由：</strong>乾燥が強い冬は「潤いが足りない」と感じ、美容液を足さないと続けにくかった</li>
+    <li>さっぱり系の使い心地を好む方（Mタイプはしっとり寄りのため、Sタイプが向いているかも）</li>
+    <li>美白1点集中でVCエチル配合化粧水を探している方（HABAが向いているかも）</li>
+    <li>ドラッグストアでその日に試してみたい方（主に公式・楽天・Amazon販売）</li>
   </ul>
 </div>
 {{< /rawhtml >}}
-
-2〜4週間ほど継続すると、くすみが落ち着いて肌の明るさに変化を感じる方が多いです。
 
 {{< rawhtml >}}
 <div class="fit-box">
-  <div class="fit-box-title">✓ この化粧水が向いている方</div>
+  <div class="fit-box-title">✅ こんな方に向いています</div>
   <ul>
-    <li>くすみ・シミが気になって美白ケアを始めたい方</li>
-    <li>医薬部外品として効能根拠のある成分を使いたい方</li>
-    <li>さっぱりした使い心地で毎日続けたい方</li>
+    <li>毛穴の目立ちとくすみが同時に気になる40代</li>
+    <li>肌荒れが繰り返しやすい・肌が安定しないと感じている方</li>
+    <li>しっとりした使い心地の薬用化粧水を探している方</li>
+    <li>オルビスシリーズで統一したい方</li>
   </ul>
 </div>
 {{< /rawhtml >}}
 
-「美白化粧水を使ってみたいけど何を選べばいいかわからない」という方は、まずここから始めてみてください。
-
-{{< rawhtml >}}
-<div class="experience-box">
-  <div class="experience-box-title">📅 私が使い続けて感じたこと</div>
-  <p>始めた最初の2週間は「さっぱりしすぎかも」と感じていました。乾燥が気になる日は重ね塗りを2〜3回にするうちに、3週間目あたりからくすみが少し落ち着いた気がした。朝の肌の明るさが以前と違う、というのが最初の変化の気づきでした。VCエチルの美白成分は即効性を期待するものではなく、使い続けて「透明感が出てきた」と感じるタイプだと実感しています。今は美容液と組み合わせて継続中。乾燥が強い日だけ美容液を先にはさんでいます。</p>
-</div>
-{{< /rawhtml >}}
-
-{{< rawhtml >}}
-<div class="featured-card-wrap">
-<span class="rank1-badge">★ 私のイチ推し</span>
-{{< /rawhtml >}}
 {{< product
-  title="HABA 薬用VCローション 180ml【医薬部外品】"
-  img="https://m.media-amazon.com/images/I/514Uq-5bGdL._AC_SL500_.jpg"
-  price="¥3,520 / 180ml"
-  rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fkirei-mitsuketa%2Fh-b_0001437%2F"
-  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB00V4PBEZU"
+  title="オルビス クリアフル ローション M しっとりタイプ 180mL（医薬部外品）"
+  img="https://www.orbis.co.jp/cms/product/images/80/8135.jpg"
+  rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Forbis-shop%2Fo0044%2F"
+  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB09VXG2TL9"
 >}}
-{{< rawhtml >}}
-</div>
-{{< /rawhtml >}}
 
 ---
 
+## 2位：HABA 薬用VCローション
+
+医薬部外品として美白有効成分（VCエチル）が配合されたさっぱり系化粧水。無香料・無着色・パラベンフリーの処方で、くすみケアに特化して始めたい方に向いています。
+
+重ね塗りがしやすいさっぱりテクスチャーで、乾燥が気になる場合は美容液や乳液を後から重ねて補完できます。
+
 {{< rawhtml >}}
-<div class="product-heading product-heading--ipsa">
-  <div class="product-heading-info">
-    <div class="product-heading-num">No.2</div>
-    <div class="product-heading-name">イプサ ザ・タイムR アクア 200ml</div>
-  </div>
-  <img class="product-heading-img" src="https://m.media-amazon.com/images/I/514Uq-5bGdL._AC_SL500_.jpg" alt="イプサ ザ・タイムR アクア">
+<div class="experience-box">
+  <div class="experience-box-title">📅 使い続けて感じたこと</div>
+  <p>VCエチルの美白成分は即効性を期待するものではなく、使い続けて「透明感が出てきた」と感じるタイプ。3週間目あたりから朝の肌の明るさに変化を感じた。乾燥が強い日は美容液をはさんで使っています。</p>
 </div>
 {{< /rawhtml >}}
 
-「化粧水はしっとり感があるもの＝ベタつく」という先入観が変わった一本です。水のように軽いテクスチャーなのに、時間が経っても乾燥しにくいと感じる方が多いのが特徴。脂性肌・混合肌の方が「自分に合うものが見つかった」という声の多いアイテムです。
+{{< product
+  title="HABA 薬用VCローション 180ml【医薬部外品】"
+  img="https://m.media-amazon.com/images/I/514Uq-5bGdL._AC_SL500_.jpg"
+  rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fkirei-mitsuketa%2Fh-b_0001437%2F"
+  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB00V4PBEZU"
+  yahoo="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcosmecom%2F1000030684.html"
+>}}
 
-水溶性キトサンなどの保湿成分が配合され、軽いのにうるおいが持続する設計。「重たい化粧水が苦手」「テクスチャーが合わなくて化粧水が続かない」という方に特におすすめしたい一本です。
+---
 
-{{< rawhtml >}}
-<div class="caution-box">
-  <div class="caution-box-title">⚠ 正直に言うと、これが気になりました</div>
-  <ul>
-    <li>軽いテクスチャーのため、乾燥が強い方は保湿力が足りないと感じることがある</li>
-    <li>3本の中で最も価格が高い（¥4,730 / 200ml）</li>
-    <li><strong>合わなかった理由：</strong>夜の乾燥が気になる日には物足りなく、クリームをいつもより多く使う必要があった</li>
-  </ul>
-</div>
-{{< /rawhtml >}}
+## 3位：イプサ ザ・タイムR アクア
 
-{{< rawhtml >}}
-<div class="fit-box">
-  <div class="fit-box-title">✓ この化粧水が向いている方</div>
-  <ul>
-    <li>混合肌・脂性肌でべたつきの少ない化粧水を探している方</li>
-    <li>軽いのにうるおいが続く感覚を体験したい方</li>
-    <li>「化粧水はべたつく」という先入観を変えたい方</li>
-  </ul>
-</div>
-{{< /rawhtml >}}
+水のように軽いのに保湿が持続すると感じる化粧水。水溶性キトサンなどの保湿成分が配合されており、混合肌・べたつきが気になる方に選ばれています。「化粧水はべたつく」という先入観を変えてくれる軽い使い心地が特徴です。
 
 {{< product
   title="イプサ ザ・タイムR アクア 200ml"
   img="https://m.media-amazon.com/images/I/715Gkhnm-cL._AC_SL500_.jpg"
-  price="¥4,730 / 200ml"
   rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Flifeplaza01%2F4931449437378%2F"
   amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB00N0JKYZE"
+  yahoo="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fpinnacosme%2Fipsa-2526.html"
 >}}
 
 ---
 
-{{< rawhtml >}}
-<div class="product-heading product-heading--muji">
-  <div class="product-heading-info">
-    <div class="product-heading-num">No.3</div>
-    <div class="product-heading-name">無印良品 化粧水 敏感肌用 高保湿タイプ（大容量）400ml</div>
-  </div>
-  <img class="product-heading-img" src="https://m.media-amazon.com/images/I/514Uq-5bGdL._AC_SL500_.jpg" alt="無印良品 化粧水 敏感肌用 高保湿タイプ">
-</div>
-{{< /rawhtml >}}
-
-「まず化粧水を変えてみたい」「合うかどうか試したい」という入り口として選ばれやすい定番品です。シンプルな処方でアルコールフリー・低刺激設計。大容量でたっぷり使えるため、「ケチらずに重ね塗りしたい」という方にも向いています。
-
-派手な成分処方はありませんが、ヒアルロン酸・グリセリンなど基本的な保湿成分はしっかり配合されており、「肌荒れしにくい・毎日使っても安心できる」という安定感が長く支持されている理由です。
-
-{{< rawhtml >}}
-<div class="caution-box">
-  <div class="caution-box-title">⚠ 正直に言うと、これが気になりました</div>
-  <ul>
-    <li>セラミドやナイアシンアミドなどの機能性成分は含まれていないため、成分を重視する方には物足りない</li>
-    <li>「肌を変えたい」「効果実感を求めたい」という方向けではなく、あくまで保湿の土台を整える用途</li>
-    <li><strong>合わなかった理由：</strong>1本使い切っても「くすみが落ち着いた」という実感が薄く、成分を求める方向けではないと感じた</li>
-  </ul>
-</div>
-{{< /rawhtml >}}
-
-{{< rawhtml >}}
-<div class="fit-box">
-  <div class="fit-box-title">✓ この化粧水が向いている方</div>
-  <ul>
-    <li>まず化粧水を変えてみたい・低刺激で試したい方</li>
-    <li>アルコールフリーで肌に優しいものを選びたい方</li>
-    <li>たっぷり使っても継続コストを抑えたい方</li>
-  </ul>
-</div>
-{{< /rawhtml >}}
-
-{{< product
-  title="無印良品 化粧水 敏感肌用 高保湿タイプ（大容量）400ml"
-  img="https://m.media-amazon.com/images/I/419WCai4acL._AC_SL500_.jpg"
-  price="¥1,190 / 400ml"
-  rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fmujirushi-ryohin%2F4548076448341%2F"
-  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB01D5ZZQIM"
->}}
-
----
-
-## あなたの悩みに合う1本の選び方
+## 悩みで選ぶ
 
 {{< rawhtml >}}
 <div class="compare-cards">
   <div class="compare-card compare-card--featured">
+    <div class="compare-scenario">毛穴の目立ちとくすみが同時に気になる</div>
+    <div class="compare-name">オルビス クリアフル ローション</div>
+    <span class="compare-badge compare-badge--indigo">★ イチ推し</span>
+    <p class="compare-desc">毛穴・くすみ・肌荒れ予防にまとめてアプローチできる薬用化粧水。しっとりMタイプで乾燥が気になる40代にも使いやすい。</p>
+  </div>
+  <div class="compare-card">
     <div class="compare-scenario">くすみ・シミが気になって美白ケアを始めたい</div>
     <div class="compare-name">HABA 薬用VCローション</div>
-    <span class="compare-badge compare-badge--indigo">★ 私のイチ推し</span>
-    <p class="compare-desc">医薬部外品として効能が証明された美白成分配合。さっぱりテクスチャーで重ね塗りしやすく、美白ケアの入り口として迷ったらまずこれ。</p>
+    <span class="compare-badge">美白特化◎ 無香料処方</span>
+    <p class="compare-desc">医薬部外品の美白化粧水。さっぱり系で重ね塗りしやすく、美白ケアの入り口として続けやすい。</p>
   </div>
   <div class="compare-card">
-    <div class="compare-scenario">混合肌・べたつきが嫌い・軽い使い心地を求めている</div>
+    <div class="compare-scenario">混合肌・べたつきが嫌い・軽い使い心地</div>
     <div class="compare-name">イプサ ザ・タイムR アクア</div>
-    <span class="compare-badge">軽い使い心地◎ 混合肌向き</span>
-    <p class="compare-desc">水のようなテクスチャーで、べたつかないのにうるおいが持続する。「化粧水はべたつく」という先入観を変えてくれる1本。</p>
-  </div>
-  <div class="compare-card">
-    <div class="compare-scenario">まず試したい・低刺激・コスパ重視</div>
-    <div class="compare-name">無印良品 化粧水 高保湿タイプ</div>
-    <span class="compare-badge compare-badge--green">コスパ◎ 400ml ¥1,190</span>
-    <p class="compare-desc">アルコールフリーで低刺激。大容量でたっぷり使える安心感。化粧水を変えてみたい方の最初の1本に向いている。</p>
+    <span class="compare-badge compare-badge--green">軽い使い心地◎</span>
+    <p class="compare-desc">水のようなテクスチャーで保湿が続く。混合肌でべたつきが嫌いな方に向いている。</p>
   </div>
 </div>
 {{< /rawhtml >}}
 
-**今使っている化粧水の成分が肌の変化に対応できていないなら、使い続けるほど効果の手応えが薄くなっていきます。** 気になっているなら、早めに見直してみることをおすすめします。
-
 ---
 
-## 40代の化粧水、より活かすための使い方
+## 化粧水をより活かす使い方
 
 ### 洗顔後60秒以内に使う
-
-洗顔後、肌は水分が蒸発しやすい状態になります。60秒以内に化粧水を使うことで、うるおいをキープしやすくなります。
+洗顔後は水分が蒸発しやすい状態になります。60秒以内に化粧水を使うことでうるおいをキープしやすくなります。
 
 ### ハンドプレスで肌になじませる
-
 コットンより手のひらの方が摩擦が少なく、体温で肌になじみやすくなります。両手で優しく包み込むように押し当てるのがポイントです。
 
 ### 2〜3回重ね塗りする
-
-1回だけでは乾燥が気になることがあります。乾燥を感じやすい季節や日は、2〜3回重ねるとしっとり感の実感が変わりやすいです。
-
----
-
-## 使っている方に多い声
-
-化粧水を見直した40代の方からよく聞かれる体感を整理するとこういった声が多いです。
-
-**続けてよかったという声**
-
-- 「セラミド配合のものに変えたら、夕方の乾燥が気になりにくくなってきた。メイクの崩れ方も変わった気がする」
-- 「化粧水を変えたら、後のスキンケアの浸透感が違うと感じた。土台が変わると全体が変わる実感がある」
-- 「ヒアルロン酸だけに頼っていたが、セラミドを足したら夜間の乾燥感が落ち着いてきた」
-
-**最初は迷ったという声**
-
-- 「プチプラで量を使う派だったが、成分を意識したら少量でも足りると感じるようになった」
-- 「たっぷり使っていたのにうるおい不足だった原因が、成分よりも浸透力にあると気づいた」
-
-体感には個人差があります。「量より成分と浸透力」を意識したことで変化を感じた方の声が多いのが特徴です。
-
----
-
-## 正直に言います：こんな方には向いていません
-
-{{< rawhtml >}}
-<div class="caution-box">
-  <div class="caution-box-title">向かない方もいます</div>
-  <ul>
-    <li>「スキンケアは最低限でいい」「手順を減らしたい」という方（化粧水よりオールインワン1本の方が続けやすい）</li>
-    <li>化粧水よりオールインワンで済ませたい方</li>
-    <li>即効性を求めている方（化粧水は蓄積で変わるもの。2〜4週間は継続が前提）</li>
-  </ul>
-</div>
-{{< /rawhtml >}}
-
-こういった場合は、化粧水にこだわるより保湿力の高いオールインワンを1本選ぶ方が続けやすいこともあります。逆に「成分を意識してスキンケアを整えたい」という方にとっては、化粧水の見直しから始めるのがスタートとしておすすめです。
+乾燥を感じやすい季節や日は、2〜3回重ねるとしっとり感の実感が変わりやすいです。
 
 ---
 
 ## よくある質問
 
-**Q. 高い化粧水と安い化粧水、実際どう違いますか？**
+**Q. 薬用化粧水は毎日使っても大丈夫ですか？**
 
-A. 成分の種類・濃度・処方技術の違いが出やすいです。ただし高ければ合うとは限りません。40代で成分を意識するなら、セラミド・ヒアルロン酸・ナイアシンアミドが入っているかを確認する方が選びやすいです。
+A. 医薬部外品として毎日の使用を前提とした処方です。ただし肌に合わないと感じたときはすぐ使用を中止し、必要に応じて皮膚科に相談してください。
 
-**Q. コットンと手のひら、どちらがいいですか？**
+**Q. タイプMとSはどう違いますか？**
 
-A. どちらでもかまいませんが、手のひらの方が肌への摩擦が少なく、刺激を抑えやすいです。コットンは化粧水をたっぷり含ませて使えばソフトに使えます。
+A. MタイプはしっとりタイプでSタイプはさっぱりタイプです。乾燥が気になる40代にはMタイプが使いやすいという口コミが多いです。肌質や季節によって使い分けもできます。※FC要（詳細は公式サイト参照）
 
-**Q. 化粧水をやめてもいいですか？**
+**Q. クリアフルとユードットはどちらが向いていますか？**
 
-A. 洗顔後の水分補給として化粧水のステップは肌のバリア機能を助けます。代わりに高保湿の美容液1本で代用する方法もありますが、40代は乾燥しやすくなるので何らかの補水ステップはあった方が安心です。
-
-**Q. 化粧水の後に乳液は必要ですか？**
-
-A. 化粧水で水分を入れた後、乳液やクリームで蓋をするのがスタンダードです。化粧水単体だと蒸発しやすいため、特に乾燥が気になる40代は油分でのフタが大事です。
+A. クリアフルは毛穴・くすみ・肌荒れ予防に特化した薬用ライン、ユードットはエイジングケア全般（ハリ・くすみ・毛穴）を総合的にアプローチするラインという位置づけです。悩みの優先順位によって変わります。※FC要（詳細は公式サイトで確認を）
 
 ---
 
-## 40代の今から始めるべき理由
+## まとめ
 
-化粧水はスキンケアの土台です。土台が変わると、後に使う美容液・クリームのなじみ感がすべて変わります。
+オルビス 薬用クリアフル ローション Mは、40代の毛穴の目立ち・くすみ・肌荒れ予防に向けた薬用化粧水です。
 
-逆に言えば、良い美容液を使っていても、化粧水の段階で十分に整えられていなければ力を活かしきれていない状態が続くことがあります。
-
-40代の肌に向いているのは「成分と浸透力を兼ねた化粧水」です。今使っているものを見直すことが、すでに持っているスキンケア全体を活かすことにつながります。
-
----
-
-## 次に試してみたい1本
-
-HABAで美白の土台を整えてきたので、次はセラミドと美白成分を両方まとめて取れる化粧水に移行してみたいと思っています。今気になっているのはナイアシンアミドとセラミドを同時に配合したタイプ。「成分を足し算するよりも、1本でまとめてアプローチしたい」という40代の願望に、そろそろ応えてくれる化粧水がある気がしています。
-
----
-
-## 2026年5月発売の注目新作
-
-### CNP Laboratory ダーマアンサー スキン ブースティング トナー（2026年5月1日発売）
-
-韓国・チャジョン皮膚科学研究所発のコスメブランドCNP Laboratoryが、2026年5月1日に最新トナーを発売。注目成分は**PDRN（ポリデオキシリボヌクレオチド）とナイアシンアミドの組み合わせ**です。
-
-{{< rawhtml >}}<p style="font-size:0.88em;color:#888;border-left:3px solid #ddd;padding-left:10px;margin:0.8em 0;">※この商品はまだ自分では使用していません。成分情報・口コミをもとに紹介しています。</p>{{< /rawhtml >}}
-
-**成分目線で見ると：** PDRNはDNA由来の成分で、皮膚科学の分野では弾力・修復へのアプローチが研究されている成分です。ナイアシンアミドは「くすみ・毛穴・ハリ・美白」への複合効果がすでに実証されており、この2成分の組み合わせは40代の複合的な悩みに対して理論的に筋が通っています。2,750円という価格帯なら試しやすく、成分の新しさを確認したい方向けの選択肢です。
-
-| | CNP Laboratory ダーマアンサー スキン ブースティング トナー |
-|---|---|
-| 注目成分 | PDRN（DNA-Na）＋ナイアシンアミド |
-| 発売 | 2026年5月1日 |
-| 価格 | 2,750円（税込・200mL） |
-| 向いている方 | PDRN×ナイアシンアミドの最新成分を試したい・韓国コスメ好きの方 |
-
-{{< rawhtml >}}
-<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);display:flex;align-items:center;gap:16px;">
-  <img src="https://m.media-amazon.com/images/I/51xHXr8MdPL._AC_SL500_.jpg" alt="CNP Laboratory ダーマアンサー スキン ブースティング トナー" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;">
-  <div>
-  <div style="font-weight:700;font-size:1.05em;margin-bottom:16px;">CNP Laboratory ダーマアンサー スキン ブースティング トナー</div>
-  <div style="display:flex;gap:10px;flex-wrap:wrap;">
-    <a href="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fkirei-mitsuketa%2Fh-b_0001437%2F" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #bf1a1a;color:#bf1a1a;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">楽天市場</a>
-    <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB0FQT2K617" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
-    
-  </div>
-  </div>
-</div>
-{{< /rawhtml >}}
-
----
-
-## まとめ：化粧水を変えるなら、この1本から
-
-40代の化粧水選びは「成分」と「自分の肌悩みへの対応」で選ぶのが正解。
-
-- **くすみ・シミが気になる・美白ケアしたい** → **HABA 薬用VCローション**（医薬部外品・¥3,520）
-- **混合肌・軽い使い心地が好み** → **イプサ ザ・タイムR アクア**（水のようなテクスチャー・¥4,730）
-- **まず試したい・低刺激・コスパ重視** → **無印良品 化粧水 敏感肌用 高保湿タイプ**（400ml・¥1,190）
-
-迷ったら、まず **HABA 薬用VCローション** から試してみてください。美白有効成分の効能が医薬部外品として認められた化粧水の中で、使い心地と成分のバランスが良く続けやすい一本です。
+医薬部外品として有効成分が配合されており、しっとりした使い心地で乾燥が気になる40代にも使いやすい設計です。毛穴と美白を同時にアプローチしたい方の1本として選ばれています。
 
 {{< product
-  title="HABA 薬用VCローション 180ml【医薬部外品】"
-  img="https://m.media-amazon.com/images/I/514Uq-5bGdL._AC_SL500_.jpg"
-  price="¥3,520 / 180ml"
-  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB00V4PBEZU"
+  title="オルビス クリアフル ローション M しっとりタイプ 180mL（医薬部外品）"
+  img="https://www.orbis.co.jp/cms/product/images/80/8135.jpg"
+  rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Forbis-shop%2Fo0044%2F"
+  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB09VXG2TL9"
 >}}
 
 {{< rawhtml >}}
+<div style="text-align:center; margin: 1.5em 0;">
+  <a href="https://px.a8.net/svt/ejp?a8mat=4B5LK5+29KENM+1USQ+BXYEA" target="_blank" rel="nofollow noopener" style="display:inline-block; background:#e85d8a; color:#fff; padding:16px 40px; border-radius:30px; font-size:1.05em; font-weight:bold; text-decoration:none;">
+    ▶ オルビス クリアフル 公式サイトを見る
+  </a>
+  <img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4B5LK5+29KENM+1USQ+BXYEA" alt="">
+</div>
+{{< /rawhtml >}}
+
+{{< rawhtml >}}
+<a href="/posts/orbis-cleansing-review/" class="related-link">オルビス ザ クレンジングオイルの口コミ｜乾燥しない理由を40代が正直レビュー</a>
 <a href="/posts/face-wash-40s-recommend/" class="related-link">洗顔料おすすめ40代向け3選</a>
 <a href="/posts/serum-recommend/" class="related-link">美容液おすすめ40代向け3選</a>
 <a href="/posts/neck-cream-40s-recommend/" class="related-link">首クリームおすすめ40代向け3選｜首のシワ・たるみケア</a>

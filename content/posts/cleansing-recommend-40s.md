@@ -23,7 +23,6 @@ price_checked: "2026-05-28"
 
 **でも違いました。** 40代の乾燥やくすみの原因が「クレンジングで落としすぎていること」だったと気づいたのは、無添加のオイルクレンジングに変えてから翌朝の肌が変わったときでした。
 
-迷ったら、まず **ファンケル マイルドクレンジングオイル** から試してみてください。防腐剤・香料・着色料ゼロの無添加処方で、40代の敏感・乾燥肌に向いたオイルクレンジングの定番です。まつエクをしている方にも対応しています。
 
 {{< product
   title="ファンケル マイルドクレンジングオイル 120mL"
@@ -122,16 +121,6 @@ price_checked: "2026-05-28"
 
 ## おすすめクレンジング5選【40代乾燥・敏感肌向け】
 
-{{< rawhtml >}}
-<div class="product-heading product-heading--answer">
-  <div class="product-heading-info">
-    <div class="product-heading-num">No.1 イチ推し</div>
-    <div class="product-heading-name">ファンケル マイルドクレンジングオイル 120mL</div>
-  </div>
-  <img class="product-heading-img" src="https://m.media-amazon.com/images/I/41qObf7auWL._AC_SL500_.jpg" alt="ファンケル マイルドクレンジングオイル">
-</div>
-{{< /rawhtml >}}
-
 「無添加なら刺激が少ない」という理由で選んだのですが、使い続けてみると、それ以上の違いがありました。
 
 防腐剤・香料・着色料を一切使わない処方で、毎日使っても肌へのダメージを最小限に抑えてくれる。オイルなのにさらっとしていて、馴染ませると毛穴の黒ずみや角栓もするっとオフできる感覚があります。洗い流した後のうるおい感が、以前使っていたクレンジングと明らかに違いました。
@@ -169,16 +158,6 @@ price_checked: "2026-05-28"
 >}}
 
 ---
-
-{{< rawhtml >}}
-<div class="product-heading product-heading--haru">
-  <div class="product-heading-info">
-    <div class="product-heading-num">No.2</div>
-    <div class="product-heading-name">DHC 薬用ディープクレンジングオイル(L) 200mL</div>
-  </div>
-  <img class="product-heading-img" src="https://m.media-amazon.com/images/I/51LqHRNLABL._AC_SL500_.jpg" alt="DHC 薬用ディープクレンジングオイル">
-</div>
-{{< /rawhtml >}}
 
 クレンジングオイルの定番として20年以上支持されてきたロングセラー。「なぜこんなに売れているんだろう」と思って使い始めたら、理由がすぐにわかりました。
 
@@ -218,16 +197,6 @@ price_checked: "2026-05-28"
 
 ---
 
-{{< rawhtml >}}
-<div class="product-heading product-heading--ipsa">
-  <div class="product-heading-info">
-    <div class="product-heading-num">No.3</div>
-    <div class="product-heading-name">アテニア スキンクリア クレンズ オイル アロマタイプ 175mL</div>
-  </div>
-  <img class="product-heading-img" src="https://m.media-amazon.com/images/I/41QwW36fXWL._SL500_.jpg" alt="アテニア スキンクリア クレンズ オイル">
-</div>
-{{< /rawhtml >}}
-
 「クレンジングにお金をかける意味ってあるの？」と思っていた時期がありました。アテニアのスキンクリア クレンズを使い始めてから、考えが変わりました。
 
 バラ・椿・ユズの植物オイルを配合したプレミアムオイルタイプ。メイクを落とすだけでなく、乾燥による小ジワへのアプローチ（薬用認証あり）と毛穴ケアも同時にできる処方です。のびがよく、香りもフレッシュシトラスで夜のクレンジングタイムが「ちょっといいリラックスタイム」に変わった気がしています。
@@ -266,16 +235,6 @@ price_checked: "2026-05-28"
 
 ---
 
-{{< rawhtml >}}
-<div class="product-heading product-heading--haba">
-  <div class="product-heading-info">
-    <div class="product-heading-num">No.4</div>
-    <div class="product-heading-name">キュレル ジェルメイク落とし 130g</div>
-  </div>
-  <img class="product-heading-img" src="https://m.media-amazon.com/images/I/51NVuJbZEJL._AC_SL500_.jpg" alt="キュレル ジェルメイク落とし">
-</div>
-{{< /rawhtml >}}
-
 「オイルクレンジングは肌への負担が怖い」と感じている方に向いているのが、キュレルのジェルタイプです。
 
 キュレル独自のセラミド機能成分を配合した低刺激ジェルクレンジング。洗浄力をしっかり持ちながら、肌のバリア機能をサポートする処方です。花王の皮膚科学研究に基づいた乾燥性敏感肌向けのブランドで、クレンジングも同様の考え方で作られています。
@@ -313,16 +272,6 @@ price_checked: "2026-05-28"
 >}}
 
 ---
-
-{{< rawhtml >}}
-<div class="product-heading product-heading--melt">
-  <div class="product-heading-info">
-    <div class="product-heading-num">No.5</div>
-    <div class="product-heading-name">ビオレ ザクレンズ オイルメイク落とし 190mL</div>
-  </div>
-  <img class="product-heading-img" src="https://m.media-amazon.com/images/I/71tNJgFSmpL._AC_SL500_.jpg" alt="ビオレ ザクレンズ オイルメイク落とし">
-</div>
-{{< /rawhtml >}}
 
 「とにかくコスパよく、普段使いのクレンジングを探したい」というときの正直な答えがこれです。
 

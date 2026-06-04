@@ -1,6 +1,7 @@
 ---
 title: "ボトル不要で水を飲む習慣が変わった【40代のエブリィフレシャス正直レビュー】"
 date: 2026-04-23
+lastmod: 2026-05-30
 draft: false
 affiliate: true
 categories: ["暮らし・美容グッズ"]
@@ -19,19 +20,11 @@ price_checked: "2026-05-28"
 
 水道水を注ぐだけで、きれいな水が飲める。その手軽さが、「水を飲む習慣」を変えてくれました。
 
-{{< rawhtml >}}
-<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);display:flex;align-items:center;gap:16px;">
-  <img src="https://every.frecious.jp/assets/images/share/apply_tall-server.png" alt="エブリィフレシャス" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;">
-  <div>
-  <div style="font-weight:700;font-size:1.05em;margin-bottom:16px;">エブリィフレシャス</div>
-  <div style="display:flex;gap:10px;flex-wrap:wrap;">
-    <a href="https://px.a8.net/svt/ejp?a8mat=4B1RXP+DQ5SVM+2B8Y+15Y7A9" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #2d7d46;color:#2d7d46;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">公式サイト</a>
-    <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%E3%82%A8%E3%83%96%E3%83%AA%E3%82%A3%E3%83%95%E3%83%AC%E3%82%B7%E3%83%A3%E3%82%B9" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
-    
-  </div>
-  </div>
-</div>
-{{< /rawhtml >}}
+{{< product
+  title="エブリィフレシャス"
+  img="https://every.frecious.jp/assets/images/share/apply_tall-server.png"
+  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%E3%82%A8%E3%83%96%E3%83%AA%E3%82%A3%E3%83%95%E3%83%AC%E3%82%B7%E3%83%A3%E3%82%B9"
+>}}
 
 
 ---
@@ -253,18 +246,10 @@ price_checked: "2026-05-28"
 
 初期費用0円・定額制・ボトル不要——この3点が揃っているのは浄水型ならでは。天然水型とは異なるアプローチですが、「毎日手軽においしい水を飲む習慣をつくる」という目的ではシンプルに機能します。
 
-{{< rawhtml >}}
-<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);display:flex;align-items:center;gap:16px;">
-  <img src="https://every.frecious.jp/assets/images/share/apply_tall-server.png" alt="エブリィフレシャス" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;">
-  <div>
-  <div style="font-weight:700;font-size:1.05em;margin-bottom:16px;">エブリィフレシャス</div>
-  <div style="display:flex;gap:10px;flex-wrap:wrap;">
-    <a href="https://px.a8.net/svt/ejp?a8mat=4B1RXP+DQ5SVM+2B8Y+15Y7A9" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #2d7d46;color:#2d7d46;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">公式サイト</a>
-    <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%E3%82%A8%E3%83%96%E3%83%AA%E3%82%A3%E3%83%95%E3%83%AC%E3%82%B7%E3%83%A3%E3%82%B9" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
-    
-  </div>
-  </div>
-</div>
-{{< /rawhtml >}}
+{{< product
+  title="エブリィフレシャス"
+  img="https://every.frecious.jp/assets/images/share/apply_tall-server.png"
+  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%E3%82%A8%E3%83%96%E3%83%AA%E3%82%A3%E3%83%95%E3%83%AC%E3%82%B7%E3%83%A3%E3%82%B9"
+>}}
 
 > 天然水にこだわるなら[オーケンウォーター（宅配天然水）](/posts/watercooler-recommend/)もあわせてどうぞ。

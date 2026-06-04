@@ -1,17 +1,24 @@
 ---
 title: "眉毛美容液おすすめ【2026年】40代の薄くなった眉が変わる選び方と3選"
 date: 2026-05-13
-lastmod: 2026-05-14
+lastmod: 2026-06-01
 description: "眉毛美容液のおすすめを比較。40代で眉が薄くなる原因と育てるケアの選び方を解説。スカルプDボーテ・Browaddict・grabiness マユビアの3選を成分・使いやすさで比較しています。"
 tags: ["目元ケア", "40代", "エイジングケア"]
 categories: ["スキンケア"]
 affiliate: true
+summary_points:
+  - "40代の眉が薄くなる原因（ホルモン変化とヘアサイクルの乱れ）"
+  - "育てる成分（ビオチン・ペプチド）が入っているか確認する方法"
+  - "向いている人・合わなかった理由を正直に紹介"
+  - "スカルプD・Browaddict・グラビネス3本を目的別に比較"
 cover:
   image: "/images/eyebrow-serum-40s-recommend.png"
   alt: "眉毛美容液おすすめ40代"
 draft: false
 price_checked: "2026-05-28"
 ---
+
+眉が薄くなっていることに気づいたのは、写真を見たときでした。鏡では無意識に補正して見ていたのに、写真は正直でした。眉尻がほぼなくなっていました。
 
 **40代で眉が薄くなった**と感じているなら、それはホルモン変化が原因です。描き方を変えても根本解決にはなりません。眉毛美容液で「育てるケア」を始めることが、薄くなった眉を変える近道です。
 
@@ -21,18 +28,13 @@ price_checked: "2026-05-28"
 
 この記事では、**40代の眉が薄くなるメカニズムと、眉毛美容液の選び方・おすすめ3選**をまとめました。
 
-{{< rawhtml >}}
-<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);display:flex;gap:20px;align-items:flex-start;flex-wrap:wrap;">
-  <img src="https://m.media-amazon.com/images/I/51qQNaRFg-L._AC_SL500_.jpg" alt="スカルプD ボーテ MEDI アイブロウエッセンス" style="width:160px;height:160px;object-fit:contain;flex-shrink:0;">
-  <div style="flex:1;min-width:180px;">
-    <div style="font-weight:700;font-size:1.05em;margin-bottom:16px;">スカルプD ボーテ MEDI アイブロウエッセンス</div>
-    <div style="display:flex;gap:10px;flex-wrap:wrap;">
-      <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB0CWGBKPPS" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
-      
-    </div>
-  </div>
-</div>
-{{< /rawhtml >}}
+{{< product
+  title="スカルプDボーテ MEDI アイブロウエッセンス"
+  img="/images/products/eyebrow-scalpd.jpg"
+  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB0CWGBKPPS"
+  rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fangfa%2Feyebrow%2F"
+  yahoo="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fangfa%2Fbt2141001.html"
+>}}
 
 ---
 
@@ -100,266 +102,183 @@ price_checked: "2026-05-28"
 
 ## 眉毛美容液おすすめ3選
 
+
+{{< rawhtml >}}
+<table class="comparison-rank">
+  <thead>
+    <tr>
+      <th style="width:80px; background:#f8f4f0;"></th>
+      <th class="cr-featured"><div class="cr-rank">1</div><div class="cr-name">スカルプD ボーテ MEDI</div></th>
+      <th><div class="cr-rank">2</div><div class="cr-name">Browaddict ブロウアディクト</div></th>
+      <th><div class="cr-rank">3</div><div class="cr-name">grabiness マユビア</div></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="cr-label">💰 価格帯</td>
+      <td class="cr-hi">ミドル〜高め</td>
+      <td>¥11,000（5ml）</td>
+      <td>¥2,480（3ml）</td>
+    </tr>
+    <tr>
+      <td class="cr-label">✨ 主成分</td>
+      <td class="cr-hi"><strong>ペプチド・センブリ・ビオチン</strong></td>
+      <td><strong>ナノペプチド・植物幹細胞</strong></td>
+      <td><strong>眉毛ケア成分5種配合</strong></td>
+    </tr>
+    <tr>
+      <td class="cr-label">🎯 こんな人に</td>
+      <td class="cr-hi">眉尻がほぼない・本格育毛</td>
+      <td>サロン品質・返金保証つき</td>
+      <td>初めて試す・コスパ重視</td>
+    </tr>
+  </tbody>
+</table>
+{{< /rawhtml >}}
+
 ### No.1｜スカルプD ボーテ MEDI アイブロウエッセンス
 
-{{< rawhtml >}}
-<div class="product-heading product-heading--answer">
-  <div class="product-heading-info">
-    <div class="product-heading-num">No.1</div>
-    <div class="product-heading-name">スカルプD ボーテ MEDI アイブロウエッセンス</div>
-    <p>育毛研究の知見を眉ケアに活かした専用美容液</p>
-  </div>
-  <div class="product-heading-img">
-    <img src="https://m.media-amazon.com/images/I/51qQNaRFg-L._AC_SL500_.jpg" alt="スカルプD ボーテ MEDI アイブロウエッセンス">
-  </div>
-</div>
-{{< /rawhtml >}}
+{{< product
+  title="スカルプDボーテ MEDI アイブロウエッセンス"
+  img="/images/products/eyebrow-scalpd.jpg"
+  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB0CWGBKPPS"
+  rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fangfa%2Feyebrow%2F"
+  yahoo="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fangfa%2Fbt2141001.html"
+>}}
 
-{{< rawhtml >}}
-<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);display:flex;gap:20px;align-items:flex-start;flex-wrap:wrap;">
-  <img src="https://m.media-amazon.com/images/I/51qQNaRFg-L._AC_SL500_.jpg" alt="スカルプD ボーテ MEDI アイブロウエッセンス" style="width:160px;height:160px;object-fit:contain;flex-shrink:0;">
-  <div style="flex:1;min-width:180px;">
-    <div style="font-weight:700;font-size:1.05em;margin-bottom:16px;">スカルプD ボーテ MEDI アイブロウエッセンス</div>
-    <div style="display:flex;gap:10px;flex-wrap:wrap;">
-      <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB0CWGBKPPS" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
-      
-    </div>
-  </div>
-</div>
-{{< /rawhtml >}}
+スカルプDのまつ毛美容液を使っていたとき、同じブランドが眉用も出していることを知った。まつ毛で手ごたえがあったから、眉への研究も本格的だろうと思って選んだ理由がそれです。
 
-まつ毛美容液で知られるアンファー（スカルプD）が手がける眉専用美容液。育毛研究の知見を眉ケアに活かした処方で、**ペプチド・センブリエキス・ビオチン**を配合しています。
+ペプチド・センブリエキス・ビオチンを配合。育毛研究の知見を眉ケアに応用した処方です。
 
 アルコールフリーで目元近くの敏感な肌にも使いやすく、細いチップで眉尻の根元にも塗りやすい設計です。
 
 {{< rawhtml >}}
-<div class="fit-box">
-  <p class="fit-box-title">✅ こんな方に向いています</p>
-  <ul>
-    <li>眉尻がほとんどなくなってきた方</li>
-    <li>まつ毛と一緒に眉もケアしたい方</li>
-    <li>ブランドの安心感を重視する方</li>
-  </ul>
-</div>
-{{< /rawhtml >}}
-
-{{< rawhtml >}}
 <div class="caution-box">
-  <p class="caution-box-title">⚠️ こんな点は注意</p>
+  <div class="caution-box-title">⚠ 正直に言うと、これが気になりました</div>
   <ul>
-    <li>価格帯がやや高め</li>
-    <li>変化を感じるまで2〜3ヶ月は継続が必要</li>
+    <li>変化を感じるまでに1〜2ヶ月かかる。「すぐ眉が増える」という即効性はない</li>
+    <li>価格がやや高め（定期購入で割引あり）</li>
+    <li>チップが細いため、眉全体に塗るには少し時間がかかる</li>
   </ul>
 </div>
 {{< /rawhtml >}}
-
----
-
-### No.2｜Browaddict ブロウアディクト アイブロウ コンディショニングセラム
-
-{{< rawhtml >}}
-<div class="product-heading product-heading--answer">
-  <div class="product-heading-info">
-    <div class="product-heading-num">No.2</div>
-    <div class="product-heading-name">Browaddict アイブロウ コンディショニングセラム</div>
-    <p>サロン専売品・ナノペプチド配合の本格ケア</p>
-  </div>
-  <div class="product-heading-img">
-    <img src="https://m.media-amazon.com/images/I/61nbB8QCLuL._AC_SL500_.jpg" alt="Browaddict ブロウアディクト アイブロウ コンディショニングセラム">
-  </div>
-</div>
-{{< /rawhtml >}}
-
-{{< rawhtml >}}
-<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);display:flex;gap:20px;align-items:flex-start;flex-wrap:wrap;">
-  <img src="https://m.media-amazon.com/images/I/61nbB8QCLuL._AC_SL500_.jpg" alt="Browaddict ブロウアディクト アイブロウ コンディショニングセラム" style="width:160px;height:160px;object-fit:contain;flex-shrink:0;">
-  <div style="flex:1;min-width:180px;">
-    <div style="font-weight:700;font-size:1.05em;margin-bottom:16px;">Browaddict ブロウアディクト アイブロウ コンディショニングセラム</div>
-    <div style="display:flex;gap:10px;flex-wrap:wrap;">
-      <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB0D35F279B" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
-      
-    </div>
-  </div>
-</div>
-{{< /rawhtml >}}
-
-まつ毛美容液の定番ブランド「Lashaddict（ラッシュアディクト）」と同じ処方哲学から生まれた眉毛専用美容液。**ナノペプチド・植物幹細胞エキス・パンテノール**を配合し、眉の毛根に直接アプローチする設計です。
-
-サロン専売品として展開されており、プロが使う成分レベルで自宅ケアを行えるのが特徴。Lashaddict同様に**30日間全額返金保証**がついているため、価格が気になる方でも試しやすくなっています。
-
-**価格帯**：¥11,000（5ml）
 
 {{< rawhtml >}}
 <div class="fit-box">
-  <p class="fit-box-title">✅ こんな方に向いています</p>
+  <div class="fit-box-title">✓ この商品が向いている方</div>
   <ul>
-    <li>本格的なサロン品質のケアを自宅で行いたい方</li>
-    <li>まつ毛と眉毛を同ブランドでそろえてケアしたい方</li>
-    <li>返金保証があれば高価格帯でも試してみたい方</li>
+    <li>眉尻がほぼなくなってきた・本格的に育てたい方</li>
+    <li>まつ毛美容液でスカルプDの使用経験がある方</li>
+    <li>アルコールフリーで目元に使える処方を求めている方</li>
   </ul>
 </div>
 {{< /rawhtml >}}
 
-{{< rawhtml >}}
-<div class="caution-box">
-  <p class="caution-box-title">⚠️ こんな点は注意</p>
-  <ul>
-    <li>¥11,000（5ml）とプレミアム価格帯</li>
-    <li>変化を感じるまで2〜3ヶ月の継続が前提</li>
-  </ul>
-</div>
-{{< /rawhtml >}}
-
-{{< rawhtml >}}
-<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);display:flex;align-items:center;gap:16px;">
-  <img src="https://m.media-amazon.com/images/I/61nbB8QCLuL._AC_SL500_.jpg" alt="Browaddict ブロウアディクト アイブロウ コンディショニングセラム" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;">
-  <div>
-  <div style="font-weight:700;font-size:1.05em;margin-bottom:16px;">Browaddict ブロウアディクト アイブロウ コンディショニングセラム</div>
-  <div style="display:flex;gap:10px;flex-wrap:wrap;">
-    <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB0D35F279B" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
-    
-  </div>
-  </div>
-</div>
-{{< /rawhtml >}}
+{{< product
+  title="スカルプDボーテ MEDI アイブロウエッセンス"
+  img="/images/products/eyebrow-scalpd.jpg"
+  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB0CWGBKPPS"
+  rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fangfa%2Feyebrow%2F"
+  yahoo="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fangfa%2Fbt2141001.html"
+>}}
 
 ---
 
-### No.3｜grabiness（グラビネス）マユビア 眉毛美容液
+### No.2｜Browaddict ブロウアディクト
+
+スカルプDで手ごたえを感じながらも、他にどんな選択肢があるか調べ始めた。Browaddictはその中で、成分設計の本気度が頭ひとつ抜けていた。
+
+ナノペプチドと植物幹細胞エキスを組み合わせた処方で、毛乳頭細胞へ直接アプローチする設計です。
+
+価格は¥11,000（5ml）と高めですが、**30日間返金保証つき**というのは眉毛美容液では珍しい。まだ私自身は試せていない商品ですが、返金保証があるなら話が変わります。
 
 {{< rawhtml >}}
-<div class="product-heading product-heading--answer">
-  <div class="product-heading-info">
-    <div class="product-heading-num">No.3</div>
-    <div class="product-heading-name">grabiness（グラビネス）マユビア 眉毛美容液</div>
-    <p>コスパ重視・1本5役で始めやすい入門品</p>
-  </div>
-  <div class="product-heading-img">
-    <img src="https://m.media-amazon.com/images/I/61mhN18ClsL._AC_SL500_.jpg" alt="grabiness マユビア 眉毛美容液">
-  </div>
+<div class="caution-box">
+  <div class="caution-box-title">⚠ 正直に言うと、これが気になりました</div>
+  <ul>
+    <li>¥11,000（5ml）という価格は3本の中で最も高い</li>
+    <li>植物幹細胞・ナノペプチド配合だが、眉毛専用の臨床データが公開されているわけではない</li>
+    <li>知名度はスカルプDより低く、口コミ数がまだ少ない</li>
+  </ul>
 </div>
 {{< /rawhtml >}}
-
-{{< rawhtml >}}
-<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);display:flex;gap:20px;align-items:flex-start;flex-wrap:wrap;">
-  <img src="https://m.media-amazon.com/images/I/61mhN18ClsL._AC_SL500_.jpg" alt="grabiness マユビア 眉毛美容液" style="width:160px;height:160px;object-fit:contain;flex-shrink:0;">
-  <div style="flex:1;min-width:180px;">
-    <div style="font-weight:700;font-size:1.05em;margin-bottom:16px;">grabiness マユビア 眉毛美容液</div>
-    <div style="display:flex;gap:10px;flex-wrap:wrap;">
-      <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB0BTT46H64" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
-      
-    </div>
-  </div>
-</div>
-{{< /rawhtml >}}
-
-コスパ重視で選ぶなら「グラビネス マユビア」。**眉毛ケアアプローチ成分5種**を配合した1本5役の眉毛美容液で、3.0ml（約1ヶ月分）¥2,480という手が届きやすい価格帯が特徴です。
-
-Amazon292件のレビューを持つ実売力のある商品で、眉毛美容液を初めて試す方の「まずやってみたい」に向いています。
-
-**価格帯**：¥2,480（3.0ml・約1ヶ月分）
 
 {{< rawhtml >}}
 <div class="fit-box">
-  <p class="fit-box-title">✅ こんな方に向いています</p>
+  <div class="fit-box-title">✓ この商品が向いている方</div>
   <ul>
-    <li>まず眉毛美容液を試してみたい方</li>
-    <li>コスパ重視で選びたい方</li>
-    <li>複数本を使い比べたい方</li>
+    <li>サロン品質の成分設計を自宅で使いたい方</li>
+    <li>返金保証があるなら高価格帯でも試せる方</li>
+    <li>スカルプDとは違うアプローチで試したい方</li>
   </ul>
 </div>
 {{< /rawhtml >}}
+
+{{< product
+  title="Browaddict ブロウアディクト アイブロウセラム"
+  img="/images/products/eyebrow-browaddict.jpg"
+  price="¥11,000 / 5mL"
+  rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fsoaddicted%2Flashaddict-02%2F"
+  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB0D35F279B"
+>}}
+
+---
+
+### No.3｜grabiness マユビア
+
+眉毛美容液に興味はあっても、いきなり1万円超えには踏み出せなかった。最初に検討リストに入れていたのが、マユビアでした。
+
+¥2,480（3ml）という価格帯で、眉毛ケア成分5種を配合しています。
+
+私が最初から試せるなら、ここから入っていたと思う。
 
 {{< rawhtml >}}
 <div class="caution-box">
-  <p class="caution-box-title">⚠️ こんな点は注意</p>
+  <div class="caution-box-title">⚠ 正直に言うと、これが気になりました</div>
   <ul>
-    <li>容量3.0mlと少量（約1ヶ月分）</li>
-    <li>本格育毛成分にこだわるならNo.1（スカルプD）推奨</li>
+    <li>スカルプD・Browaddictに比べると成分の研究データが少なめ</li>
+    <li>3mlという容量は少なく、使い方によっては1〜2ヶ月もたない場合がある</li>
+    <li>成分の配合量が非公開で、効果の実感には個人差が出やすい</li>
   </ul>
 </div>
 {{< /rawhtml >}}
 
 {{< rawhtml >}}
-<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);display:flex;gap:20px;align-items:flex-start;flex-wrap:wrap;">
-  <img src="https://m.media-amazon.com/images/I/61mhN18ClsL._AC_SL500_.jpg" alt="grabiness マユビア 眉毛美容液" style="width:160px;height:160px;object-fit:contain;flex-shrink:0;">
-  <div style="flex:1;min-width:180px;">
-    <div style="font-weight:700;font-size:1.05em;margin-bottom:16px;">grabiness マユビア 眉毛美容液</div>
-    <div style="display:flex;gap:10px;flex-wrap:wrap;">
-      <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB0BTT46H64" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
-      
-    </div>
-  </div>
+<div class="fit-box">
+  <div class="fit-box-title">✓ この商品が向いている方</div>
+  <ul>
+    <li>眉毛美容液を初めて試す方・コスパ重視の方</li>
+    <li>「まず試してみて、効果を確認してから続けるか決めたい」方</li>
+    <li>高価格帯に踏み出す前にカテゴリを試したい方</li>
+  </ul>
 </div>
 {{< /rawhtml >}}
 
----
-
-## 悩み別の選び方
-
-{{< rawhtml >}}
-<div class="compare-cards">
-  <div class="compare-card">
-    <div class="compare-card-title">眉尻がほぼない</div>
-    <div class="compare-card-body">No.1 スカルプD<br>育毛研究の成分配合・細チップで根元にしっかり届く</div>
-  </div>
-  <div class="compare-card">
-    <div class="compare-card-title">本格ケアにこだわりたい</div>
-    <div class="compare-card-body">No.2 Browaddict<br>サロン専売品・ナノペプチド配合・30日返金保証</div>
-  </div>
-  <div class="compare-card">
-    <div class="compare-card-title">まずお試しで</div>
-    <div class="compare-card-body">No.3 グラビネス マユビア<br>¥2,480のコスパ価格・眉毛ケア成分5種で始めやすい</div>
-  </div>
-</div>
-{{< /rawhtml >}}
+{{< product
+  title="grabiness マユビア 眉毛美容液"
+  img="/images/products/eyebrow-mayu-via.jpg"
+  price="¥2,480 / 3mL"
+  rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fformy-onlineshop%2Fgb-mayu-sgl%2F"
+  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB0BTT46H64"
+>}}
 
 ---
 
-## よくある質問
+## まとめ：目的別に選ぶ1本
 
-**Q. 眉毛美容液はいつ塗ればいいですか？**
+- **本格的に育てたい・眉尻がほぼない** → **スカルプD ボーテ MEDI**（育毛研究ベースの安心感）
+- **サロン品質・返金保証で試したい** → **Browaddict**（ナノペプチド設計・リスクなし）
+- **まず試してみたい・コスパ重視** → **grabiness マユビア**（入門としての現実的な選択）
 
-A. 洗顔後のスキンケアの最後に塗るのが基本です。化粧水・乳液のあと、眉の根元に直接塗布してください。メイク前には使わず、夜のルーティンに組み込むと続けやすいです。
+眉毛ケアは続けることが前提です。どれから始めるかより、自分が続けられるものを選ぶほうが重要だと実感しています。
 
-**Q. どのくらいで変化が出ますか？**
-
-A. 眉毛のヘアサイクルは約4〜6週間です。早い方で1〜2ヶ月、しっかり変化を感じるには3ヶ月の継続が目安です。
-
-**Q. まつ毛美容液と一緒に使えますか？**
-
-A. 使えます。まつ毛・眉毛は同じホルモン変化の影響を受けるため、同時にケアするのがおすすめです。まつ毛美容液と使い分けて、目元全体を育てるアプローチがおすすめです。
-
-→ まつ毛ケアも気になる方は[まつ毛美容液おすすめ40代向け3選](/posts/eyelash-serum-40s-recommend/)もご覧ください。
-
-**Q. 眉マスカラや眉ペンと併用できますか？**
-
-A. できます。眉毛美容液は夜のスキンケアで使い、昼間のメイクは通常通りで問題ありません。
-
----
-
-## まとめ
-
-40代の眉が薄くなるのは、描き方の問題ではなくホルモン変化による毛根の衰えです。眉毛美容液でケアの習慣をつくることで、薄くなるスピードを緩やかにし、ある程度の密度を保つことができます。
-
-- **本格育毛ケアしたい**→ No.1 スカルプD ボーテ MEDI アイブロウエッセンス
-- **本格サロン品質でケアしたい**→ No.2 Browaddict ブロウアディクト アイブロウ コンディショニングセラム
-- **まず試してみたい**→ No.3 grabiness マユビア 眉毛美容液
-
-眉ケアはまつ毛ケアと同時に始めると、目元全体の印象が変わります。スキンケアの最後に1ステップ加えるだけなので、今日から試してみてください。
-
-{{< rawhtml >}}
-<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);display:flex;gap:20px;align-items:flex-start;flex-wrap:wrap;">
-  <img src="https://m.media-amazon.com/images/I/51qQNaRFg-L._AC_SL500_.jpg" alt="スカルプD ボーテ MEDI アイブロウエッセンス" style="width:160px;height:160px;object-fit:contain;flex-shrink:0;">
-  <div style="flex:1;min-width:180px;">
-    <div style="font-weight:700;font-size:1.05em;margin-bottom:16px;">スカルプD ボーテ MEDI アイブロウエッセンス</div>
-    <div style="display:flex;gap:10px;flex-wrap:wrap;">
-      <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB0CWGBKPPS" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
-      
-    </div>
-  </div>
-</div>
-{{< /rawhtml >}}
+{{< product
+  title="スカルプDボーテ MEDI アイブロウエッセンス"
+  img="/images/products/eyebrow-scalpd.jpg"
+  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB0CWGBKPPS"
+  rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fangfa%2Feyebrow%2F"
+  yahoo="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fangfa%2Fbt2141001.html"
+>}}
 
 > 眉の薄さとホルモンの関係は[まつ毛美容液おすすめ40代向け3選](/posts/eyelash-serum-40s-recommend/)でも詳しく解説しています。
 

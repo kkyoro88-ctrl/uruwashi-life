@@ -1,6 +1,7 @@
 ---
 title: "ヘアバース（HAIRBIRTH）の口コミ・評価【育毛サプリを30・40代が正直レビュー】"
 date: 2026-04-23
+lastmod: 2026-05-30
 draft: false
 affiliate: true
 categories: ["インナーケア", "口コミ・レビュー"]
@@ -16,34 +17,12 @@ price_checked: "2026-05-28"
 
 外側からのケア（育毛剤・シャンプー）と並行して、内側からアプローチする手段として注目されているのが**育毛サプリ**です。その中でも「続けやすさ」と「成分の充実度」で選ばれているのが**ヘアバース（HAIRBIRTH）**です。
 
-{{< rawhtml >}}
-<div class="product-heading product-heading--hairbirth">
-  <div class="product-heading-info">
-    <div class="product-heading-num">★イチ推し</div>
-    <h3>ヘアバース（HAIRBIRTH）</h3>
-    <p>育毛をサポートする成分を凝縮・内側からアプローチする育毛サプリ</p>
-  </div>
-  <div class="product-heading-img">
-    <a href="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Flove-dream%2F100000401%2F" target="_blank" rel="nofollow noopener">
-      <img src="https://m.media-amazon.com/images/I/51Jwd7Uxq6L._SL500_.jpg" alt="ヘアバース HAIRBIRTH">
-    </a>
-  </div>
-</div>
-{{< /rawhtml >}}
-
-{{< rawhtml >}}
-<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);display:flex;align-items:center;gap:16px;">
-  <img src="https://m.media-amazon.com/images/I/51Jwd7Uxq6L._SL500_.jpg" alt="ヘアバース（HAIRBIRTH）" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;">
-  <div>
-  <div style="font-weight:700;font-size:1.05em;margin-bottom:16px;">ヘアバース（HAIRBIRTH）</div>
-  <div style="display:flex;gap:10px;flex-wrap:wrap;">
-    <a href="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fhairborn%2Fhairborn001%2F" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #2d7d46;color:#2d7d46;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">公式サイト</a>
-    <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%E3%83%98%E3%82%A2%E3%83%90%E3%83%BC%E3%82%B9%2BHAIRBIRTH" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
-    
-  </div>
-  </div>
-</div>
-{{< /rawhtml >}}
+{{< product
+  title="ヘアバース（HAIRBIRTH）"
+  img="https://m.media-amazon.com/images/I/51Jwd7Uxq6L._AC_SL500_.jpg"
+  rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fhairborn%2Fhairborn001%2F"
+  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%E3%83%98%E3%82%A2%E3%83%90%E3%83%BC%E3%82%B9%2BHAIRBIRTH"
+>}}
 
 
 ---
@@ -139,6 +118,16 @@ price_checked: "2026-05-28"
 ---
 
 {{< rawhtml >}}
+<div class="caution-box">
+  <p class="caution-box-title">⚠️ こんな方には向いていないかもしれません</p>
+  <ul>
+    <li>短期間で目に見える変化を求めている方</li>
+    <li>サプリメント全般が苦手な方</li>
+  </ul>
+</div>
+{{< /rawhtml >}}
+
+{{< rawhtml >}}
 <div class="fit-box">
   <p class="fit-box-title">✅ こんな方に向いています</p>
   <ul>
@@ -146,16 +135,6 @@ price_checked: "2026-05-28"
     <li>シャンプー・育毛剤に加えて、内側からもアプローチしたい</li>
     <li>忙しくて食事が偏りがちで、髪のための栄養が不足していると感じる</li>
     <li>毎日続けやすい形でのケアを探している</li>
-  </ul>
-</div>
-{{< /rawhtml >}}
-
-{{< rawhtml >}}
-<div class="caution-box">
-  <p class="caution-box-title">⚠️ こんな方には向いていないかもしれません</p>
-  <ul>
-    <li>短期間で目に見える変化を求めている方</li>
-    <li>サプリメント全般が苦手な方</li>
   </ul>
 </div>
 {{< /rawhtml >}}
@@ -190,19 +169,12 @@ price_checked: "2026-05-28"
 
 ヘアバースは、育毛をサポートする成分を手軽に継続して摂れるサプリとして、外側のケアとの併用に向いています。すぐに結果が出るものではありませんが、まずは3ヶ月を目安に続けてみることで、変化を感じやすくなります。
 
-{{< rawhtml >}}
-<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);display:flex;align-items:center;gap:16px;">
-  <img src="https://m.media-amazon.com/images/I/51Jwd7Uxq6L._SL500_.jpg" alt="ヘアバース（HAIRBIRTH）" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;">
-  <div>
-  <div style="font-weight:700;font-size:1.05em;margin-bottom:16px;">ヘアバース（HAIRBIRTH）</div>
-  <div style="display:flex;gap:10px;flex-wrap:wrap;">
-    <a href="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fhairborn%2Fhairborn001%2F" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #2d7d46;color:#2d7d46;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">公式サイト</a>
-    <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%E3%83%98%E3%82%A2%E3%83%90%E3%83%BC%E3%82%B9%2BHAIRBIRTH" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
-    
-  </div>
-  </div>
-</div>
-{{< /rawhtml >}}
+{{< product
+  title="ヘアバース（HAIRBIRTH）"
+  img="https://m.media-amazon.com/images/I/51Jwd7Uxq6L._AC_SL500_.jpg"
+  rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fhairborn%2Fhairborn001%2F"
+  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%E3%83%98%E3%82%A2%E3%83%90%E3%83%BC%E3%82%B9%2BHAIRBIRTH"
+>}}
 
 > 内側からのケアをもっと知りたい方は[飲む美容液おすすめ記事](/posts/drinking-beauty-recommend/)もあわせてどうぞ。
 

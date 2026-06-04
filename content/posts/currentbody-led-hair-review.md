@@ -27,21 +27,6 @@ price_checked: "2026-05-28"
 結論から言えば、育毛剤との組み合わせで3ヶ月後に変化を感じました。ただ、1〜2ヶ月目はほとんど実感がなく、やめようか迷った時期もあったのが正直なところです。このレビューでは、そういった部分も含めてお伝えします。
 
 {{< rawhtml >}}
-<div class="product-heading product-heading--cbhair">
-  <div class="product-heading-info">
-    <div class="product-heading-num">★イチ推し</div>
-    <h3>CurrentBody LED頭皮ケアデバイス</h3>
-    <p>赤色光650nm＋近赤外線830nm・週3〜4回15分の光ケアで頭皮環境を整える</p>
-  </div>
-  <div class="product-heading-img">
-    <a href="https://px.a8.net/svt/ejp?a8mat=4B1R5P+FYJBJM+54TM+60OXE" target="_blank" rel="nofollow noopener">
-      <img src="https://www29.a8.net/svt/bgt?aid=260422333965&wid=001&eno=01&mid=s00000023953001036000&mc=1" alt="CurrentBody LED頭皮ケアデバイス">
-    </a>
-  </div>
-</div>
-{{< /rawhtml >}}
-
-{{< rawhtml >}}
 <div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);display:flex;align-items:center;gap:16px;">
   <img src="https://m.media-amazon.com/images/I/61kHBpoHIGL._AC_SL500_.jpg" alt="CurrentBody LED頭皮ケアデバイス" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;">
   <div>
@@ -158,6 +143,16 @@ CurrentBodyはイギリス発の美容デバイスブランド。LEDフェイス
 ---
 
 {{< rawhtml >}}
+<div class="caution-box">
+  <p class="caution-box-title">⚠️ こんな方には向いていないかもしれません</p>
+  <ul>
+    <li>「1ヶ月で劇的に発毛したい」という即効性を求める方</li>
+    <li>AGA（男性型脱毛症）の治療として使いたい方（クリニックでの治療が優先）</li>
+  </ul>
+</div>
+{{< /rawhtml >}}
+
+{{< rawhtml >}}
 <div class="fit-box">
   <p class="fit-box-title">✅ こんな方に向いています</p>
   <ul>
@@ -166,16 +161,6 @@ CurrentBodyはイギリス発の美容デバイスブランド。LEDフェイス
     <li>育毛剤を試したが変化を感じられなかった</li>
     <li>頭皮に刺激を与えたくない（敏感肌・乾燥頭皮）</li>
     <li>顔のLEDケアと一緒に頭皮も整えたい</li>
-  </ul>
-</div>
-{{< /rawhtml >}}
-
-{{< rawhtml >}}
-<div class="caution-box">
-  <p class="caution-box-title">⚠️ こんな方には向いていないかもしれません</p>
-  <ul>
-    <li>「1ヶ月で劇的に発毛したい」という即効性を求める方</li>
-    <li>AGA（男性型脱毛症）の治療として使いたい方（クリニックでの治療が優先）</li>
   </ul>
 </div>
 {{< /rawhtml >}}

@@ -1,6 +1,7 @@
 ---
 title: "【2026年最新】フェイスパック・シートマスク 40代おすすめ5選｜乾燥・ハリ不足・くすみに週2回のスペシャルケア"
 date: 2026-05-25
+lastmod: 2026-05-30
 draft: false
 affiliate: true
 categories: ["スキンケア"]
@@ -16,22 +17,13 @@ price_checked: "2026-05-28"
 
 洗顔して化粧水して乳液して、という日課はきちんと続けているのに、なぜか肌に「うるおいが乗っていない感覚」がある。それを解消してくれたのが、週2〜3回のシートマスクでした。
 
-**結論から言います。40代の肌に週2回のシートマスクを取り入れると、翌朝の肌の感触がはっきり変わります。** 日々のスキンケアだけでは届きにくい集中保湿・美容液成分の浸透感を、シートマスク1枚が補ってくれるからです。
 
-迷ったら、まず **ルルルン プレシャス クリームGOLD** から試してみてください。濃密保湿×ハリケアの処方で、40代の「しっとり足りない」に直接応えてくれる一枚です。
 
-{{< rawhtml >}}
-<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);display:flex;align-items:flex-start;gap:20px;">
-  <img src="https://m.media-amazon.com/images/I/616tgo3gvjL._SL500_.jpg" alt="ルルルン プレシャス クリームGOLD" style="width:160px;height:160px;object-fit:contain;flex-shrink:0;">
-  <div style="flex:1;">
-    <div style="font-weight:700;font-size:1.05em;margin-bottom:16px;">ルルルン プレシャス クリームGOLD（7枚入）</div>
-    <div style="display:flex;gap:10px;flex-wrap:wrap;">
-      <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%E3%83%AB%E3%83%AB%E3%83%AB%E3%83%B3+%E3%83%97%E3%83%AC%E3%82%B7%E3%83%A3%E3%82%B9+%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%A0GOLD" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
-      
-    </div>
-  </div>
-</div>
-{{< /rawhtml >}}
+{{< product
+  title="ルルルン プレシャス クリームGOLD（7枚入）"
+  img="https://m.media-amazon.com/images/I/616tgo3gvjL._AC_SL500_.jpg"
+  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%E3%83%AB%E3%83%AB%E3%83%AB%E3%83%B3+%E3%83%97%E3%83%AC%E3%82%B7%E3%83%A3%E3%82%B9+%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%A0GOLD&i%3Dbeauty"
+>}}
 
 ---
 
@@ -101,18 +93,11 @@ price_checked: "2026-05-28"
 | 価格帯 | プチプラ |
 | 使用目安 | 週3〜毎日 |
 
-{{< rawhtml >}}
-<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);display:flex;align-items:flex-start;gap:20px;">
-  <img src="https://m.media-amazon.com/images/I/616tgo3gvjL._SL500_.jpg" alt="ルルルン プレシャス クリームGOLD" style="width:160px;height:160px;object-fit:contain;flex-shrink:0;">
-  <div style="flex:1;">
-    <div style="font-weight:700;font-size:1.05em;margin-bottom:16px;">ルルルン プレシャス クリームGOLD</div>
-    <div style="display:flex;gap:10px;flex-wrap:wrap;">
-      <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%E3%83%AB%E3%83%AB%E3%83%AB%E3%83%B3+%E3%83%97%E3%83%AC%E3%82%B7%E3%83%A3%E3%82%B9+%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%A0GOLD" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
-      
-    </div>
-  </div>
-</div>
-{{< /rawhtml >}}
+{{< product
+  title="ルルルン プレシャス クリームGOLD（7枚入）"
+  img="https://m.media-amazon.com/images/I/616tgo3gvjL._AC_SL500_.jpg"
+  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%E3%83%AB%E3%83%AB%E3%83%AB%E3%83%B3+%E3%83%97%E3%83%AC%E3%82%B7%E3%83%A3%E3%82%B9+%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%A0GOLD&i%3Dbeauty"
+>}}
 
 ---
 
@@ -131,18 +116,11 @@ price_checked: "2026-05-28"
 | 価格帯 | ミドル〜プレミアム |
 | 使用目安 | 週2〜3回 |
 
-{{< rawhtml >}}
-<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);display:flex;align-items:flex-start;gap:20px;">
-  <img src="https://m.media-amazon.com/images/I/51zetOZYNyL._SL500_.jpg" alt="エリクシール リフトモイスト パックT" style="width:160px;height:160px;object-fit:contain;flex-shrink:0;">
-  <div style="flex:1;">
-    <div style="font-weight:700;font-size:1.05em;margin-bottom:16px;">エリクシール リフトモイスト パックT</div>
-    <div style="display:flex;gap:10px;flex-wrap:wrap;">
-      <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%E3%82%A8%E3%83%AA%E3%82%AF%E3%82%B7%E3%83%BC%E3%83%AB+%E3%83%AA%E3%83%95%E3%83%88%E3%83%A2%E3%82%A4%E3%82%B9%E3%83%88+%E3%83%91%E3%83%83%E3%82%AF" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
-      
-    </div>
-  </div>
-</div>
-{{< /rawhtml >}}
+{{< product
+  title="エリクシール リフトモイストマスクW 30mL×6枚"
+  img="https://m.media-amazon.com/images/I/51ys4Y9Qj%2BL._AC_SL500_.jpg"
+  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB01IK09LFQ"
+>}}
 
 ---
 
@@ -161,18 +139,11 @@ price_checked: "2026-05-28"
 | 価格帯 | ミドル |
 | 使用目安 | 週2〜3回 |
 
-{{< rawhtml >}}
-<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);display:flex;align-items:flex-start;gap:20px;">
-  <img src="https://m.media-amazon.com/images/I/71U31cJHA9L._SL500_.jpg" alt="コーセー 雪肌精 マスク" style="width:160px;height:160px;object-fit:contain;flex-shrink:0;">
-  <div style="flex:1;">
-    <div style="font-weight:700;font-size:1.05em;margin-bottom:16px;">コーセー 雪肌精 マスク</div>
-    <div style="display:flex;gap:10px;flex-wrap:wrap;">
-      <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%E9%9B%AA%E8%82%8C%E7%B2%BE+%E3%83%9E%E3%82%B9%E3%82%AF" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
-      
-    </div>
-  </div>
-</div>
-{{< /rawhtml >}}
+{{< product
+  title="【医薬部外品】薬用 雪肌精 マスク エンリッチ"
+  img="https://m.media-amazon.com/images/I/71U31cJHA9L._AC_SL500_.jpg"
+  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB01LZXKPEV"
+>}}
 
 ---
 
@@ -191,18 +162,11 @@ price_checked: "2026-05-28"
 | 価格帯 | プチプラ |
 | 使用目安 | 週3〜毎日 |
 
-{{< rawhtml >}}
-<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);display:flex;align-items:flex-start;gap:20px;">
-  <img src="https://m.media-amazon.com/images/I/71X-D7cX1ES._SL500_.jpg" alt="肌美精 ターニングケア保湿 超高浸透マスク" style="width:160px;height:160px;object-fit:contain;flex-shrink:0;">
-  <div style="flex:1;">
-    <div style="font-weight:700;font-size:1.05em;margin-bottom:16px;">肌美精 ターニングケア保湿 超高浸透マスク</div>
-    <div style="display:flex;gap:10px;flex-wrap:wrap;">
-      <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%E8%82%8C%E7%BE%8E%E7%B2%BE+%E3%82%BF%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0%E3%82%B1%E3%82%A2+%E8%B6%85%E9%AB%98%E6%B5%B8%E9%80%8F%E3%83%9E%E3%82%B9%E3%82%AF" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
-      
-    </div>
-  </div>
-</div>
-{{< /rawhtml >}}
+{{< product
+  title="肌美精 ターニングケア保湿 超高浸透マスク"
+  img="https://m.media-amazon.com/images/I/71X-D7cX1ES._AC_SL500_.jpg"
+  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%E8%82%8C%E7%BE%8E%E7%B2%BE+%E3%82%BF%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0%E3%82%B1%E3%82%A2+%E8%B6%85%E9%AB%98%E6%B5%B8%E9%80%8F%E3%83%9E%E3%82%B9%E3%82%AF&i%3Dbeauty"
+>}}
 
 ---
 
@@ -221,18 +185,11 @@ SK-IIのフェイシャルトリートメントマスクは、ブランドの看
 | 価格帯 | プレミアム |
 | 使用目安 | 月4〜8回 |
 
-{{< rawhtml >}}
-<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);display:flex;align-items:flex-start;gap:20px;">
-  <img src="https://m.media-amazon.com/images/I/51ZI9vp%2BtyL._SL500_.jpg" alt="SK-II フェイシャルトリートメント マスク" style="width:160px;height:160px;object-fit:contain;flex-shrink:0;">
-  <div style="flex:1;">
-    <div style="font-weight:700;font-size:1.05em;margin-bottom:16px;">SK-II フェイシャルトリートメント マスク</div>
-    <div style="display:flex;gap:10px;flex-wrap:wrap;">
-      <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DSK-II+%E3%83%95%E3%82%A7%E3%82%A4%E3%82%B7%E3%83%A3%E3%83%AB%E3%83%88%E3%83%AA%E3%83%BC%E3%83%88%E3%83%A1%E3%83%B3%E3%83%88%E3%83%9E%E3%82%B9%E3%82%AF" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
-      
-    </div>
-  </div>
-</div>
-{{< /rawhtml >}}
+{{< product
+  title="SK-II フェイシャルトリートメント マスク"
+  img="https://m.media-amazon.com/images/I/51ZI9vp%2BtyL._AC_SL500_.jpg"
+  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB0DPHLDJQK"
+>}}
 
 ---
 

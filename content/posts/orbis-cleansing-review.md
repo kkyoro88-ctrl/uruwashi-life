@@ -1,7 +1,7 @@
 ---
 title: "オルビス ザ クレンジングオイルの口コミ・評価【乾燥しない理由を40代が正直レビュー】"
 date: 2026-04-23
-lastmod: 2026-05-27
+lastmod: 2026-05-30
 draft: false
 affiliate: true
 categories: ["スキンケア", "口コミ・レビュー"]
@@ -19,33 +19,11 @@ price_checked: "2026-05-28"
 
 そのジレンマを解消してくれたのが、**オルビス ザ クレンジングオイル**でした。
 
-{{< rawhtml >}}
-<div class="product-heading product-heading--cleansing">
-  <div class="product-heading-info">
-    <div class="product-heading-num">★イチ推し</div>
-    <h3>オルビス ザ クレンジングオイル</h3>
-    <p>美容液成分80%以上・落としながらうるおう次世代クレンジング</p>
-  </div>
-  <div class="product-heading-img">
-    <a href="https://px.a8.net/svt/ejp?a8mat=4B1RXR+DVIPBM+1USQ+4YM976" target="_blank" rel="nofollow noopener">
-      <img src="https://www22.a8.net/svt/bgt?aid=260423343839&wid=001&eno=01&mid=s00000008657030008000&mc=1" alt="オルビス ザ クレンジングオイル">
-    </a>
-  </div>
-</div>
-{{< /rawhtml >}}
-
-{{< rawhtml >}}
-<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);display:flex;align-items:center;gap:16px;">
-  <img src="https://m.media-amazon.com/images/I/51qQNaRFg-L._AC_SL500_.jpg" alt="オルビス ザ クレンジングオイル 120mL" style="width:150px;height:150px;object-fit:contain;flex-shrink:0;">
-  <div>
-  <div style="font-weight:700;font-size:1.05em;margin-bottom:16px;">オルビス ザ クレンジングオイル 120mL</div>
-  <div style="display:flex;gap:10px;flex-wrap:wrap;">
-    <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB0F785ZK2M" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:8px 16px;border-radius:4px;font-size:0.82em;font-weight:700;text-decoration:none;">Amazon</a>
-    
-  </div>
-  </div>
-</div>
-{{< /rawhtml >}}
+{{< product
+  title="オルビス ザ クレンジングオイル 120mL"
+  img="https://m.media-amazon.com/images/I/51qQNaRFg-L._AC_SL500_.jpg"
+  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB0F785ZK2M"
+>}}
 
 
 ---
@@ -113,6 +91,16 @@ price_checked: "2026-05-28"
 ---
 
 {{< rawhtml >}}
+<div class="caution-box">
+  <p class="caution-box-title">⚠️ こんな方には向いていないかもしれません</p>
+  <ul>
+    <li>ミルク・バームタイプのテクスチャーが好きな方</li>
+    <li>ウォータープルーフのアイメイクが多い方（別途アイメイクリムーバーの併用を）</li>
+  </ul>
+</div>
+{{< /rawhtml >}}
+
+{{< rawhtml >}}
 <div class="fit-box">
   <p class="fit-box-title">✅ こんな方に向いています</p>
   <ul>
@@ -120,16 +108,6 @@ price_checked: "2026-05-28"
     <li>スキンケアの浸透感がいまひとつだと感じている</li>
     <li>敏感肌で、刺激の少ないクレンジングを探している</li>
     <li>初回お試しで気軽に試したい</li>
-  </ul>
-</div>
-{{< /rawhtml >}}
-
-{{< rawhtml >}}
-<div class="caution-box">
-  <p class="caution-box-title">⚠️ こんな方には向いていないかもしれません</p>
-  <ul>
-    <li>ミルク・バームタイプのテクスチャーが好きな方</li>
-    <li>ウォータープルーフのアイメイクが多い方（別途アイメイクリムーバーの併用を）</li>
   </ul>
 </div>
 {{< /rawhtml >}}

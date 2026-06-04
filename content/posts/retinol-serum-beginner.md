@@ -97,19 +97,6 @@ summary_points:
 
 ### 1位：No46.ピュアRTセラム｜140年の肌研究が生んだ高濃度×低刺激
 
-{{< rawhtml >}}
-<div class="product-heading product-heading--answer">
-  <div class="product-heading-info">
-    <div class="product-heading-num">★ イチ推し</div>
-    <h3>No46. ピュアRTセラム</h3>
-    <p>桃谷順天館・創業140年の純粋レチノール高濃度美容液</p>
-  </div>
-  <div class="product-heading-img">
-    <a href="https://px.a8.net/svt/ejp?a8mat=4B1SPX+12P73M+3Q7E+1NLHNL" rel="nofollow"><img border="0" width="300" height="250" alt="No46.ピュアRTセラム" src="https://www22.a8.net/svt/bgt?aid=260424357065&wid=001&eno=01&mid=s00000017393010010000&mc=1"></a><img border="0" width="1" height="1" src="https://www16.a8.net/0.gif?a8mat=4B1SPX+12P73M+3Q7E+1NLHNL" alt="">
-  </div>
-</div>
-{{< /rawhtml >}}
-
 創業140年の老舗化粧品メーカー・桃谷順天館が、6万件の処方データをもとに開発したレチノール美容液です。純粋レチノールを高濃度配合しながら、なめらかなテクスチャーで肌への負担を抑えた設計。本格的なエイジングケアを求める40代に特におすすめです。
 
 {{< rawhtml >}}
@@ -152,19 +139,6 @@ summary_points:
 
 ### 2位：b.glen（ビーグレン）｜浸透技術で敏感肌でも使いやすいサイエンスコスメ
 
-{{< rawhtml >}}
-<div class="product-heading product-heading--melt">
-  <div class="product-heading-info">
-    <div class="product-heading-num">2位</div>
-    <h3>b.glen QuSomeレチノA</h3>
-    <p>独自カプセル処方で刺激を最小化・敏感肌でも使いやすいサイエンスコスメ</p>
-  </div>
-  <div class="product-heading-img">
-    <a href="https://px.a8.net/svt/ejp?a8mat=4B1THT+6NXPKI+YPG+71CDD" rel="nofollow"><img border="0" width="336" height="280" alt="b.glen QuSomeレチノA" src="https://www25.a8.net/svt/bgt?aid=260425361403&wid=001&eno=01&mid=s00000004498001182000&mc=1"></a><img border="0" width="1" height="1" src="https://www19.a8.net/0.gif?a8mat=4B1THT+6NXPKI+YPG+71CDD" alt="">
-  </div>
-</div>
-{{< /rawhtml >}}
-
 ビーグレン独自の「QuSome（キューソーム）技術」でレチノールをカプセル化し、肌の奥にじわじわ届ける設計。一気に高濃度が当たらないため、A反応が起きにくいのが最大の特徴です。皮膚科推薦多数の実績があり、「レチノールで以前荒れた」という方にも安心して使えます。
 
 {{< rawhtml >}}
@@ -201,19 +175,6 @@ summary_points:
 ---
 
 ### 3位：レチベイビー｜レチノールのデメリットを最大限排除した角質ケアクリーム
-
-{{< rawhtml >}}
-<div class="product-heading product-heading--haru">
-  <div class="product-heading-info">
-    <div class="product-heading-num">3位</div>
-    <h3>レチベイビー</h3>
-    <p>銀座ハリッチ監修・角質ケア×エイジングケアを1本で</p>
-  </div>
-  <div class="product-heading-img">
-    <a href="https://px.a8.net/svt/ejp?a8mat=4B1THT+6PQ0DU+4GNW+HVV0H" rel="nofollow"><img border="0" width="300" height="250" alt="レチベイビー" src="https://www28.a8.net/svt/bgt?aid=260425361406&wid=001&eno=01&mid=s00000020822003004000&mc=1"></a><img border="0" width="1" height="1" src="https://www19.a8.net/0.gif?a8mat=4B1THT+6PQ0DU+4GNW+HVV0H" alt="">
-  </div>
-</div>
-{{< /rawhtml >}}
 
 「角質をやわらかくしながらレチノールを届ける」という新発想の処方。銀座ハリッチが開発した本格派で、レチノールの刺激を極限まで抑えながらエイジングケアができます。毛穴の開き・黒ずみ・くすみと小ジワが気になる方に向いています。
 

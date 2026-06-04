@@ -1,12 +1,12 @@
 ---
 title: "【2026年最新】40代の毛穴ケアおすすめ3選｜たるみ毛穴・黒ずみを正しいアプローチでケア"
 date: 2026-05-28
-lastmod: 2026-05-28
+lastmod: 2026-05-29
 draft: false
 affiliate: true
 categories: ["スキンケア"]
 tags: ["スキンケア", "40代", "エイジングケア", "乾燥肌"]
-description: "40代に増える「たるみ毛穴」「黒ずみ」「開き毛穴」に効くアイテム3選。ファンケル酵素洗顔・ビオレ毛穴パック・ソフィーナiP美容液を比較。毛穴タイプ別の正しいケア方法も解説。"
+description: "40代に増える「たるみ毛穴」「黒ずみ」「開き毛穴」に効くアイテム3選。ファンケル酵素洗顔・イニスフリークレイマスク・ソフィーナiP美容液を比較。毛穴タイプ別の正しいケア方法も解説。"
 summary_points:
   - "40代の毛穴は「たるみ毛穴」が主体——若い頃と同じケアでは追いつかない理由"
   - "詰まり・開き・たるみ毛穴の3タイプ別、正しいアイテムの選び方"
@@ -23,20 +23,13 @@ price_checked: "2026-05-28"
 
 **まず試してほしいのは、ファンケル ディープクリア洗顔パウダーです。** 毎日の洗顔を酵素洗顔に切り替えるだけで、詰まり毛穴・黒ずみへの効果が変わります。毛穴ケアの入口として最もコスパが高い1本です。
 
-{{< rawhtml >}}
-<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);display:flex;align-items:flex-start;gap:20px;">
-  <img src="https://m.media-amazon.com/images/I/51QOhnDEycL._AC_SL500_.jpg" alt="ファンケル ディープクリア 洗顔パウダー" style="width:150px;height:150px;object-fit:contain;flex-shrink:0;">
-  <div style="flex:1;">
-    <div style="font-weight:700;font-size:1.05em;margin-bottom:16px;">ファンケル ディープクリア 洗顔パウダー 30個入</div>
-    <div style="display:flex;gap:8px;flex-wrap:wrap;">
-      <a href="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Ffancl-shop%2F3738-01%2F" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #bf0000;color:#bf0000;padding:8px 16px;border-radius:4px;font-size:0.82em;font-weight:700;text-decoration:none;">楽天市場</a>
-      <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB091PJNLCB" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:8px 16px;border-radius:4px;font-size:0.82em;font-weight:700;text-decoration:none;">Amazon</a>
-      
-      
-    </div>
-  </div>
-</div>
-{{< /rawhtml >}}
+{{< product
+  title="ファンケル ディープクリア 洗顔パウダー 30個入"
+  img="https://m.media-amazon.com/images/I/51QOhnDEycL._AC_SL500_.jpg"
+  rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Ffancl-shop%2F3738-01%2F"
+  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB091PJNLCB"
+  yahoo="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffancl-y%2F3675-71.html"
+>}}
 
 ---
 
@@ -65,66 +58,58 @@ price_checked: "2026-05-28"
 
 ## 3商品を一覧で比較
 
+{{< rawhtml >}}
 <div class="comparison-wrap">
-<table class="comparison-table">
+<table class="comparison-rank">
   <thead>
     <tr>
-      <th class="th-empty"></th>
-      <th class="th-answer"><span class="top-badge">★ イチ推し</span><br>ファンケル ディープクリア</th>
-      <th class="th-melt">ビオレ 毛穴パック</th>
-      <th class="th-haru">ソフィーナiP ハリ美容液</th>
+      <th style="width:80px; background:#f8f4f0;"></th>
+      <th class="cr-featured"><div class="cr-rank">1</div><div class="cr-name">ファンケル ディープクリア</div></th>
+      <th><div class="cr-rank">2</div><div class="cr-name">イニスフリー クレイマスク</div></th>
+      <th><div class="cr-rank">3</div><div class="cr-name">ソフィーナiP ハリ美容液</div></th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td class="td-label">💰 価格</td>
-      <td><span class="cmp-price cmp-price--answer">¥900〜<small>/ 30個</small></span></td>
-      <td><span class="cmp-price cmp-price--melt">¥650〜<small>/ 15枚</small></span></td>
-      <td><span class="cmp-price cmp-price--haru">¥4,400〜<small>/ 40g</small></span></td>
+      <td class="cr-label">💰 価格</td>
+      <td class="cr-hi">¥900〜 / 30個</td>
+      <td>¥1,560〜 / 100g</td>
+      <td>¥4,400〜 / 40g</td>
     </tr>
     <tr>
-      <td class="td-label">✨ 役割</td>
-      <td><strong>毎日の詰まり予防</strong></td>
-      <td><strong>週1の集中除去</strong></td>
+      <td class="cr-label">✨ 役割</td>
+      <td class="cr-hi"><strong>毎日の詰まり予防</strong></td>
+      <td><strong>週1のクレイクレンズ</strong></td>
       <td><strong>たるみ毛穴の根本ケア</strong></td>
     </tr>
     <tr>
-      <td class="td-label">⏱ 使用頻度</td>
-      <td>毎日（朝または夜）</td>
+      <td class="cr-label">⏱ 使用頻度</td>
+      <td class="cr-hi">毎日（朝または夜）</td>
       <td>週1〜2回</td>
       <td>毎日（化粧水後）</td>
     </tr>
     <tr>
-      <td class="td-label">🛒 購入場所</td>
-      <td><strong>ドラッグストア・EC</strong></td>
-      <td><strong>ドラッグストア・EC</strong></td>
+      <td class="cr-label">🛒 購入場所</td>
+      <td class="cr-hi">ドラッグストア・EC</td>
+      <td>EC（Amazon・楽天等）</td>
       <td>ドラッグストア・EC</td>
     </tr>
     <tr>
-      <td class="td-label">👤 向いている方</td>
-      <td>詰まり・黒ずみが気になる方</td>
-      <td>鼻の黒ずみを集中ケアしたい</td>
+      <td class="cr-label">👤 向いている方</td>
+      <td class="cr-hi">詰まり・黒ずみが気になる方</td>
+      <td>毛穴の皮脂・黒ずみをクレイで吸着したい</td>
       <td>たるみ毛穴に本格アプローチしたい</td>
     </tr>
   </tbody>
 </table>
 </div>
+{{< /rawhtml >}}
 
 ---
 
 ## 40代の毛穴ケアおすすめ3選
 
 ### No.1：ファンケル ディープクリア 洗顔パウダー｜毎日の洗顔を毛穴ケアに変える
-
-{{< rawhtml >}}
-<div class="product-heading product-heading--answer">
-  <div class="product-heading-info">
-    <div class="product-heading-num">No.1</div>
-    <div class="product-heading-name">ファンケル ディープクリア 洗顔パウダー</div>
-  </div>
-  <img class="product-heading-img" src="https://m.media-amazon.com/images/I/51QOhnDEycL._AC_SL500_.jpg" alt="ファンケル ディープクリア 洗顔パウダー">
-</div>
-{{< /rawhtml >}}
 
 「洗顔を変えるだけで毛穴の見え方が変わった」——そう感じはじめたのは、ファンケルの酵素洗顔に切り替えて2週間ほどでした。
 
@@ -154,49 +139,33 @@ price_checked: "2026-05-28"
 </div>
 {{< /rawhtml >}}
 
-{{< rawhtml >}}
-<div class="featured-card-wrap">
-<span class="rank1-badge">★ 私のイチ推し</span>
-{{< /rawhtml >}}
 {{< product
   title="ファンケル ディープクリア 洗顔パウダー 30個入"
   img="https://m.media-amazon.com/images/I/51QOhnDEycL._AC_SL500_.jpg"
   price="¥900〜 / 30個"
-  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB091PJNLCB"
   rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Ffancl-shop%2F3738-01%2F"
+  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB091PJNLCB"
+  yahoo="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffancl-y%2F3675-71.html"
 >}}
-{{< rawhtml >}}
-</div>
-{{< /rawhtml >}}
 
 ---
 
-### No.2：ビオレ 毛穴すっきりパック｜週1の鼻パックで黒ずみを集中オフ
+### No.2：イニスフリー スーパーヴォルカニックポアクレイマスク 2X｜週1のクレイマスクで毛穴の皮脂を吸着
 
-{{< rawhtml >}}
-<div class="product-heading product-heading--melt">
-  <div class="product-heading-info">
-    <div class="product-heading-num">No.2</div>
-    <div class="product-heading-name">ビオレ 毛穴すっきりパック 鼻用＋気になる部分用</div>
-  </div>
-  <img class="product-heading-img" src="https://m.media-amazon.com/images/I/51e5RWS8KeL._AC_SL500_.jpg" alt="ビオレ 毛穴すっきりパック">
-</div>
-{{< /rawhtml >}}
+「酵素洗顔を続けているのに、毛穴の皮脂汚れが蓄積してくる感じがある」——そういうときに週1回のクレイマスクが有効です。
 
-「酵素洗顔を続けているのに、鼻の黒ずみだけが頑固に残る」——そういうときに有効なのが、週1回の毛穴パックによる集中除去です。
+イニスフリーのスーパーヴォルカニックポアクレイマスクは、済州島の火山灰クレイを配合したパック。クレイが毛穴の余分な皮脂・汚れを吸着し、洗い流すことで毛穴をすっきりクリアに整えます。剥がすタイプとは異なり、40代の肌への刺激が少ないのも続けやすい理由です。
 
-ビオレの毛穴すっきりパックは、水と馴染むことで毛穴の奥まで届き、角栓ごと吸着して剥がし取る仕組みです。長年のベストセラーで、使い方がシンプルで続けやすいのが特徴。
-
-**週1回の使用を毎月続けることで、角栓の蓄積サイクルを断つ**のが最も効果的な使い方です。
+**約10分置いて洗い流すだけの簡単ケアを週1回続けることで、毛穴の詰まりサイクルを断つ**のが最も効果的な使い方です。
 
 {{< rawhtml >}}
 <div class="caution-box">
   <div class="caution-box-title">⚠ 40代での使い方の注意点</div>
   <ul>
-    <li>40代の肌は乾燥しやすい——パック後は必ず化粧水で保湿する</li>
-    <li>週2回以上の使用は毛穴が広がりやすくなるため週1回を守る</li>
-    <li>蒸しタオルで毛穴を開いてから使うと吸着力が上がる</li>
-    <li>無理に剥がすと肌を傷めるため、乾くまで待つことが重要</li>
+    <li>クレイが乾きすぎると肌が引っ張られるため、白くなったら洗い流す（乾かしすぎNG）</li>
+    <li>乾燥が強い日・肌が敏感になっている日は控える</li>
+    <li>使用後は必ず化粧水でしっかり保湿する</li>
+    <li>週2回以上の使用は乾燥を招くため、週1回を守る</li>
   </ul>
 </div>
 {{< /rawhtml >}}
@@ -205,34 +174,25 @@ price_checked: "2026-05-28"
 <div class="fit-box">
   <div class="fit-box-title">✓ こんな方に向いています</div>
   <ul>
-    <li>鼻・顎の黒ずみが特に気になる方</li>
-    <li>酵素洗顔だけでは取りきれない角栓が残っている方</li>
-    <li>週1回の集中ケアをルーティン化したい方</li>
+    <li>酵素洗顔では取りきれない皮脂汚れ・黒ずみが気になる方</li>
+    <li>剥がすタイプのパックが肌に合わない・負担を感じる方</li>
+    <li>週1回のクレイケアをルーティン化したい方</li>
   </ul>
 </div>
 {{< /rawhtml >}}
 
 {{< product
-  title="ビオレ 毛穴すっきりパック 鼻用＋気になる部分用 15枚"
-  img="https://m.media-amazon.com/images/I/51e5RWS8KeL._AC_SL500_.jpg"
-  price="¥650〜 / 15枚"
-  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB002OH99CW"
-  rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fzagzag%2Fg4901301200228_mailx3%2F"
+  title="イニスフリー スーパーヴォルカニックポアクレイマスク 2X 100g"
+  img="https://m.media-amazon.com/images/I/61qcazfJ-nL._AC_SL500_.jpg"
+  price="¥1,560〜 / 100g"
+  rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fflytoyou%2F401000137%2F"
+  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB08R42PMR1"
+  yahoo="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fzozo%2F92585810.html"
 >}}
 
 ---
 
 ### No.3：ソフィーナiP ハリ弾力注入美容液｜たるみ毛穴に根本からアプローチ
-
-{{< rawhtml >}}
-<div class="product-heading product-heading--haru">
-  <div class="product-heading-info">
-    <div class="product-heading-num">No.3</div>
-    <div class="product-heading-name">ソフィーナiP ハリ弾力注入美容液</div>
-  </div>
-  <img class="product-heading-img" src="https://m.media-amazon.com/images/I/514Uq-5bGdL._AC_SL500_.jpg" alt="ソフィーナiP ハリ弾力注入美容液">
-</div>
-{{< /rawhtml >}}
 
 「詰まりは取れているのに、毛穴が縦に広がって見える」——それが40代特有のたるみ毛穴のサインです。この悩みには、洗顔や毛穴パックではなく、**ハリを補う美容液**が必要です。
 
@@ -264,9 +224,10 @@ price_checked: "2026-05-28"
 
 {{< product
   title="ソフィーナiP ハリ弾力注入美容液 40g"
-  img="https://m.media-amazon.com/images/I/514Uq-5bGdL._AC_SL500_.jpg"
+  img="https://m.media-amazon.com/images/I/71lqPJAL68L._AC_SL500_.jpg"
   price="¥4,400〜 / 40g"
   amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB0CCJBHQKR"
+  yahoo="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4901301422750.html"
   rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F4901301422750%2F"
 >}}
 
@@ -283,10 +244,10 @@ price_checked: "2026-05-28"
     <p class="compare-desc">洗顔を変えるだけで毛穴の詰まりにアプローチ。コスパが高く、敏感肌でも続けやすい。毛穴ケアのスタートとして最適。</p>
   </div>
   <div class="compare-card">
-    <div class="compare-scenario">鼻の黒ずみ・角栓を集中的に除去したい</div>
-    <div class="compare-name">ビオレ 毛穴すっきりパック</div>
-    <span class="compare-badge">週1の集中ケア</span>
-    <p class="compare-desc">定番の鼻パックで角栓をまとめてオフ。酵素洗顔と週1パックの組み合わせが毛穴ケアの基本セットになる。</p>
+    <div class="compare-scenario">毛穴の皮脂・黒ずみをクレイで吸着したい</div>
+    <div class="compare-name">イニスフリー スーパーヴォルカニックポアクレイマスク 2X</div>
+    <span class="compare-badge">週1のクレイケア</span>
+    <p class="compare-desc">火山灰クレイが毛穴の余分な皮脂を吸着。週1回10分のマスクで、酵素洗顔だけでは届かない深い汚れにアプローチ。剥がすタイプより肌への負担が少ない。</p>
   </div>
   <div class="compare-card">
     <div class="compare-scenario">たるみ毛穴・ハリ不足に本格アプローチ</div>
@@ -309,9 +270,9 @@ price_checked: "2026-05-28"
 
 → [40代のクレンジング選びはこちら](/posts/cleansing-recommend-40s/)
 
-### ②毛穴パック（週1回）
+### ②クレイマスク（週1回）
 
-酵素洗顔で日々の詰まりを予防しつつ、週1回の毛穴パックで蓄積した角栓を集中的に除去します。毛穴パックは使いすぎると毛穴を広げる原因になるため、週1回を守ることが重要です。
+酵素洗顔で日々の詰まりを予防しつつ、週1回のクレイマスクで蓄積した皮脂・黒ずみを集中的に除去します。クレイマスクは使いすぎると乾燥の原因になるため、週1回を守ることが重要です。
 
 ### ③化粧水 → ハリ美容液（毎日）
 
@@ -326,7 +287,7 @@ price_checked: "2026-05-28"
   <p class="fit-box-title">✅ 40代の毛穴ケアルーティンまとめ</p>
   <ul>
     <li>① 毎朝：クレンジング（夜）→ 酵素洗顔 → 化粧水 → 美容液</li>
-    <li>② 週1回：蒸しタオル → 毛穴パック → 化粧水（パック後は念入りに）</li>
+    <li>② 週1回：クレイマスク（約10分）→ 洗い流し → 化粧水（マスク後は念入りに保湿）</li>
     <li>③ 毎朝：日焼け止めを首まで塗る</li>
   </ul>
 </div>
@@ -340,9 +301,9 @@ price_checked: "2026-05-28"
 
 物理的に角質を除去するスクラブは、使いすぎると肌のバリア機能を低下させます。40代の肌は回復力が落ちているため、スクラブは週1回以内が目安です。
 
-### 間違い②：毛穴パックを週2回以上行う
+### 間違い②：クレイマスクを週2回以上行う
 
-「もっとやれば早く改善できる」と思いがちですが、パックのしすぎは毛穴を刺激して広がりやすくします。週1回を守り、前後の保湿を徹底することが近道です。
+「もっとやれば早く改善できる」と思いがちですが、クレイマスクのしすぎは乾燥を招き、毛穴を広げやすくします。週1回を守り、前後の保湿を徹底することが近道です。
 
 ### 間違い③：たるみ毛穴にピーリングを頻繁にする
 
@@ -377,16 +338,17 @@ A. 詰まり毛穴の改善は早ければ2〜4週間で変化を感じる方も
 40代の毛穴ケアは「詰まりを取る」だけでは不十分で、たるみ毛穴への対策が必要です。
 
 - **まず試したい**：ファンケル ディープクリア洗顔パウダー（酵素洗顔・毎日）
-- **週1の集中ケア**：ビオレ 毛穴すっきりパック（黒ずみ・角栓オフ）
+- **週1のクレイクレンズ**：イニスフリー スーパーヴォルカニックポアクレイマスク 2X（毛穴の皮脂・黒ずみを吸着）
 - **たるみ毛穴に本格アプローチ**：ソフィーナiP ハリ弾力注入美容液
 
-3つすべてを使う必要はありません。まずファンケルの酵素洗顔から始め、続けながらビオレパックを週1回追加する——その小さな習慣の積み重ねで、40代の毛穴は変わります。
+3つすべてを使う必要はありません。まずファンケルの酵素洗顔から始め、続けながらイニスフリーのクレイマスクを週1回追加する——その小さな習慣の積み重ねで、40代の毛穴は変わります。
 
 {{< product
   title="ファンケル ディープクリア 洗顔パウダー 30個入"
   img="https://m.media-amazon.com/images/I/51QOhnDEycL._AC_SL500_.jpg"
   price="¥900〜 / 30個"
   amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB091PJNLCB"
+  yahoo="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffancl-y%2F3675-71.html"
   rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Ffancl-shop%2F3738-01%2F"
 >}}
 

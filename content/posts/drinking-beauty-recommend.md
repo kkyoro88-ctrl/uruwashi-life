@@ -1,16 +1,22 @@
 ---
-title: "飲む美容液おすすめランキング【40代が選ぶコラーゲン・NMNサプリ・ドリンク】"
+title: "飲む美容液おすすめ5選【40代が選ぶコラーゲン・NMNサプリ・ドリンク】"
 date: 2026-04-23
-lastmod: 2026-05-21
+lastmod: 2026-06-04
 draft: false
 affiliate: true
 categories: ["インナーケア"]
 tags: ["エイジングケア", "インナーケア", "40代"]
-description: "飲む美容液のおすすめランキングを40代目線で解説。コラーゲン・NMN配合のサプリ・ドリンクの効果・口コミ・選び方をまとめています。インナーケアで外側のスキンケアを底上げしたい方へ。"
+description: "飲む美容液のおすすめ5選を40代目線で解説。コラーゲン・NMN配合のサプリ・ドリンクの効果・口コミ・選び方をまとめています。インナーケアで外側のスキンケアを底上げしたい方へ。"
+summary_points:
+  - "コラーゲン×NMNを内側から補うなら：ORBIS COLLAGEN RE FORCE"
+  - "高濃度コラーゲン10,000mgで攻めるなら：アスタリフト ドリンク"
+  - "続けやすさ重視の入門向け：ファンケル コラーゲン ドリンク"
+  - "フルーティで毎日飲みやすい：資生堂 ザ・コラーゲン ドリンク"
+  - "高濃度×コスパで攻めるなら：DHC コラーゲンビューティ12000EX"
 cover:
   image: "/images/drinking-beauty-recommend.png"
   alt: "飲む美容液おすすめ"
-price_checked: "2026-05-28"
+price_checked: "2026-06-04"
 ---
 
 「スキンケアをしっかり続けているのに、なんか最近物足りない」
@@ -38,26 +44,11 @@ price_checked: "2026-05-28"
 
 ---
 
-## 飲む美容液おすすめ3選
+## 飲む美容液おすすめ5選
 
-### 1位：オルビス アンバー｜コラーゲン×NMNの本格インナーケア
+### 1位：ORBIS COLLAGEN RE FORCE｜コラーゲン×NMN配合・ORBISのインナーケアドリンク
 
-{{< rawhtml >}}
-<div class="product-heading product-heading--answer">
-  <div class="product-heading-info">
-    <div class="product-heading-num">1位</div>
-    <h3>オルビス アンバー</h3>
-    <p>コラーゲン×NMN配合・スキンケアブランド発の飲む美容液</p>
-  </div>
-  <div class="product-heading-img">
-    <a href="https://px.a8.net/svt/ejp?a8mat=4B1RXS+JNBQQ+1USQ+4AV9VM" target="_blank" rel="nofollow noopener">
-      <img src="https://www29.a8.net/svt/bgt?aid=260423344033&wid=001&eno=01&mid=s00000008657026006000&mc=1" alt="オルビス アンバー">
-    </a>
-  </div>
-</div>
-{{< /rawhtml >}}
-
-スキンケアブランドとして40年以上の実績を持つオルビスが開発した飲む美容液です。コラーゲン×NMN配合で、外側のスキンケアだけでは補いにくい成分を内側から届ける設計。オルビスのスキンケアと組み合わせて使いたい方にも自然にはまります。
+スキンケアブランドとして40年以上の実績を持つORBISが開発したコラーゲンドリンク。コラーゲン×NMN配合で、外側のスキンケアだけでは補いにくい成分を内側から届ける設計です。1箱10本入りで手軽に始めやすく、ORBISのスキンケアと組み合わせてトータルケアを構築したい方に向いています。
 
 {{< rawhtml >}}
 <div class="caution-box">
@@ -73,39 +64,23 @@ price_checked: "2026-05-28"
 <div class="fit-box">
   <p class="fit-box-title">✅ こんな方に向いています</p>
   <ul>
-    <li>コラーゲン×NMNをまとめて摂りたい方</li>
-    <li>オルビスのスキンケアと合わせてトータルケアしたい方</li>
+    <li>コラーゲン×NMNをまとめて内側から補いたい方</li>
+    <li>ORBISのスキンケアと合わせてトータルインナーケアをしたい方</li>
     <li>スキンケアブランドの品質設計に信頼感を求める方</li>
   </ul>
 </div>
 {{< /rawhtml >}}
 
-> 詳しい使用感・メリット・デメリットは[オルビス アンバーの口コミ・レビュー記事](/posts/orbis-amber-review/)をご覧ください。
-
 {{< product
-  title="オルビス アンバー ドリンク"
-  img="https://www29.a8.net/svt/bgt?aid=260423344033&wid=001&eno=01&mid=s00000008657026006000&mc=1"
-  official="https://px.a8.net/svt/ejp?a8mat=4B1RXS+JNBQQ+1USQ+4AV9VM"
-  rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Ffujifilm-h%2F16433510%2F"
-  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%E3%82%AA%E3%83%AB%E3%83%93%E3%82%B9%2B%E3%82%A2%E3%83%B3%E3%83%90%E3%83%BC"
+  title="ORBIS COLLAGEN RE FORCE 10本入"
+  img="https://m.media-amazon.com/images/I/517PEtXI2tL._SL500_.jpg"
+  rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Forbis-shop%2Fr00505204%2F"
+  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB07JKWGXM2"
 >}}
 
 ---
 
 ### 2位：アスタリフト ドリンク ピュアコラーゲン10000｜富士フイルム発・高濃度コラーゲン
-
-{{< rawhtml >}}
-<div class="product-heading product-heading--haru">
-  <div class="product-heading-info">
-    <div class="product-heading-num">2位</div>
-    <h3>アスタリフト ドリンク ピュアコラーゲン10000</h3>
-    <p>コラーゲン10,000mg配合・富士フイルムの技術が詰まった美容ドリンク</p>
-  </div>
-  <div class="product-heading-img">
-    <img src="https://m.media-amazon.com/images/I/817zNd5aWIL._AC_SL500_.jpg" alt="アスタリフト ドリンク ピュアコラーゲン10000">
-  </div>
-</div>
-{{< /rawhtml >}}
 
 富士フイルムが独自の写真フィルム技術を応用して開発した美容ドリンクです。1本にコラーゲン10,000mgを配合し、ビタミンC・アスタキサンチンも同時に摂取できる処方設計。高濃度コラーゲンをしっかり補いたい方に向いています。
 
@@ -133,25 +108,14 @@ price_checked: "2026-05-28"
 {{< product
   title="アスタリフト ドリンク ピュアコラーゲン10000"
   img="https://m.media-amazon.com/images/I/817zNd5aWIL._AC_SL500_.jpg"
+  rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Ffujifilm-h%2F16433510%2F"
   amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB07T48DDFQ"
+  yahoo="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Frakuwel%2F4547410282689.html"
 >}}
 
 ---
 
 ### 3位：ファンケル ドリンクコラーゲン 50mL×10本｜低分子・飲みやすいフルーティー設計
-
-{{< rawhtml >}}
-<div class="product-heading product-heading--melt">
-  <div class="product-heading-info">
-    <div class="product-heading-num">3位</div>
-    <h3>ファンケル ドリンクコラーゲン</h3>
-    <p>低分子コラーゲン3,000mg・毎日続けやすいフルーティードリンク</p>
-  </div>
-  <div class="product-heading-img">
-    <img src="https://m.media-amazon.com/images/I/51qQNaRFg-L._AC_SL500_.jpg" alt="ファンケル ドリンクコラーゲン">
-  </div>
-</div>
-{{< /rawhtml >}}
 
 無添加処方で知られるファンケルが手がけるコラーゲンドリンクです。1本50mLにコラーゲン3,000mgを配合。低分子タイプなので吸収されやすく、フルーティーで飲みやすい味わいが続けやすさを後押しします。コラーゲンドリンクを初めて試す方のスタートにも向いています。
 
@@ -177,9 +141,81 @@ price_checked: "2026-05-28"
 {{< /rawhtml >}}
 
 {{< product
-  title="ファンケル ドリンクコラーゲン 50mL×10本"
+  title="ファンケル ディープチャージ コラーゲン ドリンク 50ml×10本"
   img="https://m.media-amazon.com/images/I/51qQNaRFg-L._AC_SL500_.jpg"
+  rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Ffancl-shop%2F5936%2F"
   amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB08WLNDDJR"
+  yahoo="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fmaido-drug%2F4908049557058.html"
+>}}
+
+---
+
+### 4位：資生堂 ザ・コラーゲン ドリンク｜フルーティで毎日続けやすいコラーゲンドリンク
+
+国内化粧品最大手・資生堂が手がけるコラーゲンドリンクです。1本50mlにコラーゲン10,000mgを配合し、ビタミンC・エラスチン・ヒアルロン酸も同時に摂れる複合処方。フルーティな味わいで飲みやすく、「続けられるかどうか不安」という方にも向いています。
+
+{{< rawhtml >}}
+<div class="caution-box">
+  <p class="caution-box-title">⚠️ こんな点は注意</p>
+  <ul>
+    <li>甘さが強めなので、甘い飲み物が得意でない方は事前に確認を</li>
+    <li>継続してこそ効果が出るタイプ。短期間で結果を求める方には向かない</li>
+  </ul>
+</div>
+{{< /rawhtml >}}
+
+{{< rawhtml >}}
+<div class="fit-box">
+  <p class="fit-box-title">✅ こんな方に向いています</p>
+  <ul>
+    <li>毎日飲みやすい味で続けやすさを重視したい方</li>
+    <li>資生堂ブランドの品質・信頼感を求める方</li>
+    <li>コラーゲン＋ヒアルロン酸・エラスチンを一度に補いたい方</li>
+  </ul>
+</div>
+{{< /rawhtml >}}
+
+{{< product
+  title="資生堂 ザ・コラーゲン ドリンク 50ml×10本"
+  img="https://m.media-amazon.com/images/I/71SCVO7JP3L._SL500_.jpg"
+  rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fwelpark%2F4909978206833%2F"
+  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB0CTZLP4BX"
+  yahoo="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fmaido-drug%2F4909978206833.html"
+>}}
+
+---
+
+### 5位：DHC コラーゲンビューティ12000EX｜高濃度コラーゲン×コスパで攻める
+
+DHCのコラーゲンドリンクシリーズの上位ライン。1本あたりコラーゲン12,000mgと、ヒアルロン酸・エラスチン・プラセンタエキスも配合した高機能処方です。DHCらしい価格帯のコントロールで継続コストを抑えながら、高濃度のコラーゲンをしっかり摂りたい方に向いています。
+
+{{< rawhtml >}}
+<div class="caution-box">
+  <p class="caution-box-title">⚠️ こんな点は注意</p>
+  <ul>
+    <li>独自の風味があるため、初めて試す方は少量からスタートするのがおすすめ</li>
+    <li>プラセンタ・ヒアルロン酸などアレルギー成分が含まれるため、原材料の確認を</li>
+  </ul>
+</div>
+{{< /rawhtml >}}
+
+{{< rawhtml >}}
+<div class="fit-box">
+  <p class="fit-box-title">✅ こんな方に向いています</p>
+  <ul>
+    <li>高濃度コラーゲンをコスパよく続けたい方</li>
+    <li>複合成分をまとめてインナーケアしたい方</li>
+    <li>DHCブランドでシンプルに続けたい方</li>
+  </ul>
+</div>
+{{< /rawhtml >}}
+
+{{< product
+  title="DHC コラーゲンビューティ12000EX 50ml×10本"
+  img="https://m.media-amazon.com/images/I/613+4cG8N1L._SL500_.jpg"
+  rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fdhcshop%2F8000032309%2F"
+  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB00B2HW14S"
+  yahoo="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fdhc%2F8000032309.html"
 >}}
 
 ---
@@ -253,9 +289,11 @@ price_checked: "2026-05-28"
 
 40代以降の肌ケアで「外側だけでは物足りない」と感じ始めたら、飲む美容液を取り入れるタイミングかもしれません。
 
-- 成分（コラーゲン・NMN・ビタミンCなど）で選ぶ
-- 続けやすい形状を選ぶ
-- ブランドの信頼性を確認する
+- **コラーゲン×NMNをインナーから補いたい** → **ORBIS COLLAGEN RE FORCE**
+- **高濃度コラーゲン10,000mgで本格ケアしたい** → **アスタリフト ドリンク ピュアコラーゲン10000**
+- **飲みやすさ重視・初めてのコラーゲンドリンク** → **ファンケル ディープチャージ コラーゲン ドリンク**
+- **フルーティで毎日続けやすい** → **資生堂 ザ・コラーゲン ドリンク**
+- **高濃度×コスパで攻めるなら** → **DHC コラーゲンビューティ12000EX**
 
 外側のケアをどれだけ頑張っても「なんか足りない」と感じていた頃の自分に、もっと早く教えてあげたかったと思っています。うるわしくなる途中で、内側からのケアは欠かせないものになりました。
 

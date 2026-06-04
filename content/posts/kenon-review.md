@@ -1,7 +1,7 @@
 ---
 title: "ケノン美顔器の口コミ・レビュー【40代が3ヶ月使って正直評価】"
 date: 2026-04-24
-lastmod: 2026-05-14
+lastmod: 2026-05-30
 draft: false
 affiliate: true
 categories: ["口コミ・レビュー", "スキンケア"]
@@ -24,34 +24,12 @@ price_checked: "2026-05-28"
 
 この記事では、ケノンを3ヶ月使ってわかったことを正直にお伝えします。
 
-{{< rawhtml >}}
-<div class="product-heading product-heading--kenon">
-  <div class="product-heading-info">
-    <div class="product-heading-num">★イチ推し</div>
-    <h3>ケノン（家庭用光美容器）</h3>
-    <p>脱毛＋美顔1台完結／楽天口コミ196,000件超／10段階レベル調整・冷却機能つき</p>
-  </div>
-  <div class="product-heading-img">
-    <a href="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fmrock%2Fke-non%2F" target="_blank" rel="nofollow noopener">
-      <img src="https://m.media-amazon.com/images/I/61Ikz68hVuL._AC_SL500_.jpg" alt="ケノン 光美容器">
-    </a>
-  </div>
-</div>
-{{< /rawhtml >}}
-
-{{< rawhtml >}}
-<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);display:flex;align-items:center;gap:16px;">
-  <img src="https://m.media-amazon.com/images/I/61Ikz68hVuL._AC_SL500_.jpg" alt="エムテック ケノン KE-NON 光美容器" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;">
-  <div>
-  <div style="font-weight:700;font-size:1.05em;margin-bottom:16px;">エムテック ケノン KE-NON 光美容器</div>
-  <div style="display:flex;gap:10px;flex-wrap:wrap;">
-    <a href="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fmrock%2Fke-non%2F" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #bf1a1a;color:#bf1a1a;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">楽天市場</a>
-    <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB01GTN65Z0" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
-    
-  </div>
-  </div>
-</div>
-{{< /rawhtml >}}
+{{< product
+  title="エムテック ケノン KE-NON 光美容器"
+  img="https://m.media-amazon.com/images/I/61Ikz68hVuL._AC_SL500_.jpg"
+  rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fmrock%2Fke-non%2F"
+  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB01GTN65Z0"
+>}}
 
 
 ---
@@ -182,6 +160,17 @@ price_checked: "2026-05-28"
 ---
 
 {{< rawhtml >}}
+<div class="caution-box">
+  <p class="caution-box-title">⚠️ こんな方には向いていないかもしれません</p>
+  <ul>
+    <li>まずは数千円の美顔器から試してみたい方</li>
+    <li>1ヶ月以内の即効性を期待している方（光ケアは継続が大切です）</li>
+    <li>カートリッジ管理が煩わしく感じる方</li>
+  </ul>
+</div>
+{{< /rawhtml >}}
+
+{{< rawhtml >}}
 <div class="fit-box">
   <p class="fit-box-title">✅ こんな方に向いています</p>
   <ul>
@@ -190,17 +179,6 @@ price_checked: "2026-05-28"
     <li>40代で毛穴・くすみ・肌のトーンが気になってきた</li>
     <li>家庭用美容器を初めて試してみたいが、信頼できるものを選びたい</li>
     <li>自己処理による肌荒れを減らしてインナーケアにシフトしたい</li>
-  </ul>
-</div>
-{{< /rawhtml >}}
-
-{{< rawhtml >}}
-<div class="caution-box">
-  <p class="caution-box-title">⚠️ こんな方には向いていないかもしれません</p>
-  <ul>
-    <li>まずは数千円の美顔器から試してみたい方</li>
-    <li>1ヶ月以内の即効性を期待している方（光ケアは継続が大切です）</li>
-    <li>カートリッジ管理が煩わしく感じる方</li>
   </ul>
 </div>
 {{< /rawhtml >}}

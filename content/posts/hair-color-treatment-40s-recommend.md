@@ -1,12 +1,17 @@
 ---
 title: "【2026年最新】白髪カラートリートメントおすすめ5選｜40代・傷めずに白髪をケアする選び方"
 date: 2026-05-10
-lastmod: 2026-05-23
+lastmod: 2026-05-30
 draft: false
 affiliate: true
 categories: ["ヘアケア", "おすすめ"]
 tags: ["ヘアケア", "40代"]
 description: "40代の白髪ケアにカラートリートメントをおすすめする理由と、選び方・使い方を解説。髪を傷めずに染まるタイプを厳選5本比較しました。"
+summary_points:
+  - "カラートリートメントが40代に向いている理由"
+  - "染着力・成分・使いやすさの3点で選ぶコツ"
+  - "向いている人・合わなかった理由を正直に紹介"
+  - "利尻・ルプルプ・サイオス・LPLP・スカルプD 5本を比較"
 cover:
   image: "/images/hair-color-treatment-40s-recommend.png"
   alt: "40代の白髪カラートリートメントおすすめ"
@@ -19,18 +24,11 @@ price_checked: "2026-05-28"
 
 この記事では、40代の白髪ケアにカラートリートメントが向いている理由と、続けやすい5本の選び方を紹介します。
 
-{{< rawhtml >}}
-<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);display:flex;align-items:center;gap:16px;">
-  <img src="https://m.media-amazon.com/images/I/51BFwOkehIL._AC_SL500_.jpg" alt="利尻ヘアカラートリートメント 200g ブラック" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;">
-  <div>
-  <div style="font-weight:700;font-size:1.05em;margin-bottom:16px;">利尻ヘアカラートリートメント 200g ブラック</div>
-  <div style="display:flex;gap:10px;flex-wrap:wrap;">
-    <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB00JKOGP0G" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
-    
-  </div>
-  </div>
-</div>
-{{< /rawhtml >}}
+{{< product
+  title="Sastty 利尻ヘアカラートリートメント 200g ブラック"
+  img="https://m.media-amazon.com/images/I/51BFwOkehIL._AC_SL500_.jpg"
+  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB00JKOGP0G"
+>}}
 
 ---
 
@@ -87,21 +85,21 @@ price_checked: "2026-05-28"
 ## 5本を一覧で比較
 
 {{< rawhtml >}}
-<div class="comparison-wrap">
-<table class="comparison-table comparison-table--5col">
+<div >
+<table class="comparison-rank">
   <thead>
     <tr>
       <th class="th-empty"></th>
-      <th class="th-answer"><span class="top-badge">★ イチ推し</span><br>利尻ヘアカラートリートメント</th>
-      <th class="th-melt">ルプルプ ヘアカラートリートメント</th>
-      <th class="th-haru">サイオス カラートリートメント</th>
-      <th class="th-haba">LPLP ヘアカラートリートメント</th>
-      <th class="th-premium">スカルプDボーテ メディカルカラートリートメント</th>
+      <th class="cr-featured"><span class="top-badge">★ イチ推し</span><br>利尻ヘアカラートリートメント</th>
+      <th>ルプルプ ヘアカラートリートメント</th>
+      <th>サイオス カラートリートメント</th>
+      <th>LPLP ヘアカラートリートメント</th>
+      <th>スカルプDボーテ メディカルカラートリートメント</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td class="td-label">💰 価格帯</td>
+      <td class="cr-label">💰 価格帯</td>
       <td><span class="cmp-price cmp-price--answer">3,000円前後<small>（200g）</small></span></td>
       <td><span class="cmp-price cmp-price--melt">2,500〜3,000円<small>（200g）</small></span></td>
       <td><span class="cmp-price cmp-price--haru">1,000〜1,500円<small>（150g）</small></span></td>
@@ -109,7 +107,7 @@ price_checked: "2026-05-28"
       <td><span class="cmp-price cmp-price--premium">3,500〜4,000円<small>（200g）</small></span></td>
     </tr>
     <tr>
-      <td class="td-label">✨ 特徴</td>
+      <td class="cr-label">✨ 特徴</td>
       <td><strong>利尻昆布エキス配合<br>自然な色合い</strong></td>
       <td><strong>フコイダン配合<br>フォームタイプあり</strong></td>
       <td><strong>ドラッグストアで買える<br>コスパ◎</strong></td>
@@ -117,7 +115,7 @@ price_checked: "2026-05-28"
       <td><strong>医薬部外品成分配合<br>頭皮ケアも同時に</strong></td>
     </tr>
     <tr>
-      <td class="td-label">🎨 染着力</td>
+      <td class="cr-label">🎨 染着力</td>
       <td>★★★★★</td>
       <td>★★★★☆</td>
       <td>★★★☆☆</td>
@@ -125,7 +123,7 @@ price_checked: "2026-05-28"
       <td>★★★★☆</td>
     </tr>
     <tr>
-      <td class="td-label">🌿 低刺激</td>
+      <td class="cr-label">🌿 低刺激</td>
       <td>★★★★☆</td>
       <td>★★★★☆</td>
       <td>★★★☆☆</td>
@@ -133,7 +131,7 @@ price_checked: "2026-05-28"
       <td>★★★★☆</td>
     </tr>
     <tr>
-      <td class="td-label">😊 使いやすさ</td>
+      <td class="cr-label">😊 使いやすさ</td>
       <td>★★★★☆</td>
       <td>★★★★★</td>
       <td>★★★★★</td>
@@ -151,24 +149,21 @@ price_checked: "2026-05-28"
 
 ### 1位：利尻ヘアカラートリートメント
 
-{{< rawhtml >}}
-<div class="product-heading product-heading--answer">
-  <div class="product-heading-info">
-    <div class="product-heading-num">1位</div>
-    <h3>利尻ヘアカラートリートメント</h3>
-    <p>利尻昆布エキス配合・天然由来成分・自然な仕上がりで40代に人気No.1</p>
-  </div>
-  <div class="product-heading-img">
-    <img src="https://m.media-amazon.com/images/I/51BFwOkehIL._AC_SL500_.jpg" alt="利尻ヘアカラートリートメント">
-  </div>
-</div>
-{{< /rawhtml >}}
-
 北海道産の利尻昆布エキスをはじめ、ヒアルロン酸・コラーゲン・セラミドなど30種以上の植物・海藻エキスを配合したカラートリートメント。染めながら髪をケアする設計で、40〜50代の白髪ケアに長く支持されています。
 
 カラーの種類が豊富で、ナチュラルブラック・ダークブラウン・ブラウン・ライトブラウンから選べます。自然な仕上がりで、「染めた感」が出にくいのが特徴です。
 
 **価格帯**：2,800〜3,200円（200g）
+
+{{< rawhtml >}}
+<div class="caution-box">
+  <p class="caution-box-title">⚠️ こんな点は注意</p>
+  <ul>
+    <li>初回は2〜3回使用して色が定着するタイプ（1回では染まりきらない）</li>
+    <li>タオルや枕に色移りがあるため、使用後のケアが必要</li>
+  </ul>
+</div>
+{{< /rawhtml >}}
 
 {{< rawhtml >}}
 <div class="fit-box">
@@ -182,62 +177,21 @@ price_checked: "2026-05-28"
 </div>
 {{< /rawhtml >}}
 
-{{< rawhtml >}}
-<div class="caution-box">
-  <p class="caution-box-title">⚠️ こんな点は注意</p>
-  <ul>
-    <li>初回は2〜3回使用して色が定着するタイプ（1回では染まりきらない）</li>
-    <li>タオルや枕に色移りがあるため、使用後のケアが必要</li>
-  </ul>
-</div>
-{{< /rawhtml >}}
-
-{{< rawhtml >}}
-<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);display:flex;align-items:center;gap:16px;">
-  <img src="https://m.media-amazon.com/images/I/51BFwOkehIL._AC_SL500_.jpg" alt="Sastty[白髪用] 利尻ヘアカラートリートメント 200g（ブラック）" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;">
-  <div>
-  <div style="font-weight:700;font-size:1.05em;margin-bottom:16px;">Sastty[白髪用] 利尻ヘアカラートリートメント 200g（ブラック）</div>
-  <div style="display:flex;gap:10px;flex-wrap:wrap;">
-    <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB00JKOGP0G" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
-    
-  </div>
-  </div>
-</div>
-{{< /rawhtml >}}
+{{< product
+  title="Sastty 利尻ヘアカラートリートメント 200g ブラック"
+  img="https://m.media-amazon.com/images/I/51BFwOkehIL._AC_SL500_.jpg"
+  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB00JKOGP0G"
+>}}
 
 ---
 
 ### 2位：ルプルプ ヘアカラートリートメント
-
-{{< rawhtml >}}
-<div class="product-heading product-heading--melt">
-  <div class="product-heading-info">
-    <div class="product-heading-num">2位</div>
-    <h3>ルプルプ ヘアカラートリートメント</h3>
-    <p>フコイダン（沖縄もずく）配合・フォームタイプあり・手が汚れにくく続けやすい</p>
-  </div>
-  <div class="product-heading-img">
-    <img src="https://m.media-amazon.com/images/I/61Ikz68hVuL._AC_SL500_.jpg" alt="ルプルプ ヘアカラートリートメント">
-  </div>
-</div>
-{{< /rawhtml >}}
 
 沖縄産もずくから抽出した「フコイダン」を配合したカラートリートメント。フコイダンは保湿・ハリコシ補給に働くとされる海藻成分で、カラーと同時に頭皮・髪のコンディションを整えます。
 
 **フォームタイプ**は泡状なので手が汚れにくく、全体に均一に広げやすいのが特徴。クリームタイプが苦手な方、初めてカラートリートメントを使う方にも向いています。
 
 **価格帯**：2,500〜2,900円（200g）
-
-{{< rawhtml >}}
-<div class="fit-box">
-  <p class="fit-box-title">✅ こんな方に向いています</p>
-  <ul>
-    <li>手や浴室が汚れるのが嫌な方（フォームタイプ推奨）</li>
-    <li>頭皮・髪のハリコシも同時にケアしたい方</li>
-    <li>使いやすさを重視して継続したい方</li>
-  </ul>
-</div>
-{{< /rawhtml >}}
 
 {{< rawhtml >}}
 <div class="caution-box">
@@ -250,51 +204,31 @@ price_checked: "2026-05-28"
 {{< /rawhtml >}}
 
 {{< rawhtml >}}
-<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);display:flex;align-items:center;gap:16px;">
-  <img src="https://m.media-amazon.com/images/I/61Ikz68hVuL._AC_SL500_.jpg" alt="【白髪に3分/選べる5色】 ルプルプ LPLP エッセンス カラートリートメント ウォルナットブラウン 170g 約1ヵ月分 ショートヘア約5回分 手袋 ヘアキャップ 付き 白髪染め ヘアカラー トリートメント 毛染め メンズ レディース 部分 ノンジアミン オーガニック ヘアケア essence 人気 90354" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;">
-  <div>
-  <div style="font-weight:700;font-size:1.05em;margin-bottom:16px;">【白髪に3分/選べる5色】 ルプルプ LPLP エッセンス カラートリートメント ウォルナットブラウン 170g 約1ヵ月分 ショートヘア約5回分 手袋 ヘアキャップ 付き 白髪染め ヘアカラー トリートメント 毛染め メンズ レディース 部分 ノンジアミン オーガニック ヘアケア essence 人気 90354</div>
-  <div style="display:flex;gap:10px;flex-wrap:wrap;">
-    <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB09L421QHH" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
-    
-  </div>
-  </div>
+<div class="fit-box">
+  <p class="fit-box-title">✅ こんな方に向いています</p>
+  <ul>
+    <li>手や浴室が汚れるのが嫌な方（フォームタイプ推奨）</li>
+    <li>頭皮・髪のハリコシも同時にケアしたい方</li>
+    <li>使いやすさを重視して継続したい方</li>
+  </ul>
 </div>
 {{< /rawhtml >}}
+
+{{< product
+  title="ルプルプ エッセンス ヘアカラートリートメント 170g"
+  img="https://m.media-amazon.com/images/I/61Ikz68hVuL._AC_SL500_.jpg"
+  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB09L421QHH"
+>}}
 
 ---
 
 ### 3位：サイオス カラートリートメント
-
-{{< rawhtml >}}
-<div class="product-heading product-heading--haru">
-  <div class="product-heading-info">
-    <div class="product-heading-num">3位</div>
-    <h3>サイオス カラートリートメント</h3>
-    <p>シュワルツコフ（Schwarzkopf）・ドラッグストアで入手可・プチプラでコスパ◎</p>
-  </div>
-  <div class="product-heading-img">
-    <img src="https://m.media-amazon.com/images/I/61f4gZLHdLL._AC_SL500_.jpg" alt="サイオス カラートリートメント">
-  </div>
-</div>
-{{< /rawhtml >}}
 
 シュワルツコフ（ヘンケル）が展開する「サイオス」ブランドのカラートリートメント。ドラッグストアやスーパーで手軽に入手できる市販品の中では、発色のよさとコスパのバランスが優秀です。
 
 アミノ酸系のケア成分も配合されており、カラーしながらある程度の髪ケアも期待できます。初めてカラートリートメントを試してみたい方、コストをかけず手軽に始めたい方に向いています。
 
 **価格帯**：1,000〜1,500円（150g）
-
-{{< rawhtml >}}
-<div class="fit-box">
-  <p class="fit-box-title">✅ こんな方に向いています</p>
-  <ul>
-    <li>コストを抑えて白髪ケアを始めたい方</li>
-    <li>ドラッグストアで気軽に買い続けたい方</li>
-    <li>まずカラートリートメントを試してみたい方</li>
-  </ul>
-</div>
-{{< /rawhtml >}}
 
 {{< rawhtml >}}
 <div class="caution-box">
@@ -307,51 +241,31 @@ price_checked: "2026-05-28"
 {{< /rawhtml >}}
 
 {{< rawhtml >}}
-<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);display:flex;align-items:center;gap:16px;">
-  <img src="https://m.media-amazon.com/images/I/61f4gZLHdLL._AC_SL500_.jpg" alt="サイオス カラートリートメント ダークブラウン 180グラム おまけ付き" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;">
-  <div>
-  <div style="font-weight:700;font-size:1.05em;margin-bottom:16px;">サイオス カラートリートメント ダークブラウン 180グラム おまけ付き</div>
-  <div style="display:flex;gap:10px;flex-wrap:wrap;">
-    <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB0CHLTY67B" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
-    
-  </div>
-  </div>
+<div class="fit-box">
+  <p class="fit-box-title">✅ こんな方に向いています</p>
+  <ul>
+    <li>コストを抑えて白髪ケアを始めたい方</li>
+    <li>ドラッグストアで気軽に買い続けたい方</li>
+    <li>まずカラートリートメントを試してみたい方</li>
+  </ul>
 </div>
 {{< /rawhtml >}}
+
+{{< product
+  title="サイオス カラートリートメント ダークブラウン 180g"
+  img="https://m.media-amazon.com/images/I/61f4gZLHdLL._AC_SL500_.jpg"
+  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB0CHLTY67B"
+>}}
 
 ---
 
 ### 4位：LPLP（ルルルピ）ヘアカラートリートメント
-
-{{< rawhtml >}}
-<div class="product-heading product-heading--haba">
-  <div class="product-heading-info">
-    <div class="product-heading-num">4位</div>
-    <h3>LPLP ヘアカラートリートメント</h3>
-    <p>ノンジアミン・ノンシリコン・サロン品質の低刺激カラートリートメント</p>
-  </div>
-  <div class="product-heading-img">
-    <img src="https://m.media-amazon.com/images/I/61GpP0oO3ML._AC_SL500_.jpg" alt="LPLP ヘアカラートリートメント">
-  </div>
-</div>
-{{< /rawhtml >}}
 
 「Low PH Love Potion」の頭文字をとったブランド「LPLP（ルルルピ）」のカラートリートメント。ジアミン不使用・ノンシリコン・弱酸性処方で、頭皮・髪への刺激を極力減らした設計です。
 
 美容師監修のサロンクオリティを家庭で実現できるとして、美容に関心の高い40代に支持されています。白髪だけでなく、ブリーチ毛・カラーリングダメージ毛にも使いやすい処方です。
 
 **価格帯**：2,300〜2,700円（200ml）
-
-{{< rawhtml >}}
-<div class="fit-box">
-  <p class="fit-box-title">✅ こんな方に向いています</p>
-  <ul>
-    <li>頭皮が敏感・ジアミンアレルギーが心配な方</li>
-    <li>ヘアカラーでかぶれた経験がある方</li>
-    <li>ダメージ毛・ブリーチ毛にも使いたい方</li>
-  </ul>
-</div>
-{{< /rawhtml >}}
 
 {{< rawhtml >}}
 <div class="caution-box">
@@ -364,51 +278,31 @@ price_checked: "2026-05-28"
 {{< /rawhtml >}}
 
 {{< rawhtml >}}
-<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);display:flex;align-items:center;gap:16px;">
-  <img src="https://m.media-amazon.com/images/I/61GpP0oO3ML._AC_SL500_.jpg" alt="【染まるうるおう】 ルプルプ LPLP オリジナル カラートリートメント モカブラウン 200g 約1ヵ月分 白髪染め ヘアカラー トリートメント 毛染め メンズ レディース 部分 ノンジアミン オーガニック ヘアケア 人気 90327" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;">
-  <div>
-  <div style="font-weight:700;font-size:1.05em;margin-bottom:16px;">【染まるうるおう】 ルプルプ LPLP オリジナル カラートリートメント モカブラウン 200g 約1ヵ月分 白髪染め ヘアカラー トリートメント 毛染め メンズ レディース 部分 ノンジアミン オーガニック ヘアケア 人気 90327</div>
-  <div style="display:flex;gap:10px;flex-wrap:wrap;">
-    <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB0792JFDTR" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
-    
-  </div>
-  </div>
+<div class="fit-box">
+  <p class="fit-box-title">✅ こんな方に向いています</p>
+  <ul>
+    <li>頭皮が敏感・ジアミンアレルギーが心配な方</li>
+    <li>ヘアカラーでかぶれた経験がある方</li>
+    <li>ダメージ毛・ブリーチ毛にも使いたい方</li>
+  </ul>
 </div>
 {{< /rawhtml >}}
+
+{{< product
+  title="LPLP オリジナル カラートリートメント 200g"
+  img="https://m.media-amazon.com/images/I/61GpP0oO3ML._AC_SL500_.jpg"
+  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB0792JFDTR"
+>}}
 
 ---
 
 ### 5位：スカルプDボーテ メディカルカラートリートメント
-
-{{< rawhtml >}}
-<div class="product-heading product-heading--premium">
-  <div class="product-heading-info">
-    <div class="product-heading-num">5位</div>
-    <h3>スカルプDボーテ メディカルカラートリートメント</h3>
-    <p>育毛専門ブランド・頭皮ケア成分配合・白髪ケアと頭皮ケアを同時に</p>
-  </div>
-  <div class="product-heading-img">
-    <img src="https://m.media-amazon.com/images/I/612mBveG2NL._AC_SL500_.jpg" alt="スカルプDボーテ メディカルカラートリートメント">
-  </div>
-</div>
-{{< /rawhtml >}}
 
 育毛専門ブランド「アンファー（ANGFA）」が展開するスカルプDボーテのカラートリートメント。頭皮ケア成分（センブリエキス・ビオチン）と毛髪補修成分（ケラチン・コラーゲン）を配合しています。
 
 白髪が増え始めた40代で「白髪染めと育毛ケアを両立したい」という方のニーズに応えた設計。サロン仕様の染着力と、育毛ブランドならではの頭皮ケア成分を両立しています。
 
 **価格帯**：3,500〜4,000円（200g）
-
-{{< rawhtml >}}
-<div class="fit-box">
-  <p class="fit-box-title">✅ こんな方に向いています</p>
-  <ul>
-    <li>白髪ケアと頭皮・育毛ケアを同時にしたい方</li>
-    <li>スカルプDシャンプーなど同ブランドで統一したい方</li>
-    <li>頭皮の薄毛・ハリ不足も気になっている方</li>
-  </ul>
-</div>
-{{< /rawhtml >}}
 
 {{< rawhtml >}}
 <div class="caution-box">
@@ -421,17 +315,21 @@ price_checked: "2026-05-28"
 {{< /rawhtml >}}
 
 {{< rawhtml >}}
-<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);display:flex;align-items:center;gap:16px;">
-  <img src="https://m.media-amazon.com/images/I/612mBveG2NL._AC_SL500_.jpg" alt="アンファー (ANGFA) スカルプD ボーテ ヘアカラートリートメント[ 白髪染め ] [ 深染め ][ 女性用 ][ サロン仕上がり][ 自宅で簡単][ ボリューム ][ ツヤ感 ][ 全体染め染毛料 ] (3.【2021年版/新色】ナチュラルブラウン)" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;">
-  <div>
-  <div style="font-weight:700;font-size:1.05em;margin-bottom:16px;">アンファー (ANGFA) スカルプD ボーテ ヘアカラートリートメント[ 白髪染め ] [ 深染め ][ 女性用 ][ サロン仕上がり][ 自宅で簡単][ ボリューム ][ ツヤ感 ][ 全体染め染毛料 ] (3.【2021年版/新色】ナチュラルブラウン)</div>
-  <div style="display:flex;gap:10px;flex-wrap:wrap;">
-    <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB08GPMP73F" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
-    
-  </div>
-  </div>
+<div class="fit-box">
+  <p class="fit-box-title">✅ こんな方に向いています</p>
+  <ul>
+    <li>白髪ケアと頭皮・育毛ケアを同時にしたい方</li>
+    <li>スカルプDシャンプーなど同ブランドで統一したい方</li>
+    <li>頭皮の薄毛・ハリ不足も気になっている方</li>
+  </ul>
 </div>
 {{< /rawhtml >}}
+
+{{< product
+  title="スカルプDボーテ メディカルカラートリートメント"
+  img="https://m.media-amazon.com/images/I/612mBveG2NL._AC_SL500_.jpg"
+  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB08GPMP73F"
+>}}
 
 ---
 
@@ -504,18 +402,11 @@ price_checked: "2026-05-28"
 | カラー | キャラメルブラウン・モカブラウン・アッシュブラック |
 | 向いている方 | 1回でしっかり色を入れたい・毎日の使用が難しい方 |
 
-{{< rawhtml >}}
-<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);display:flex;align-items:center;gap:16px;">
-  <img src="https://m.media-amazon.com/images/I/51r2qSfOnzL._AC_SL500_.jpg" alt="ウエラトーン エッセンスイン カラートリートメント" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;">
-  <div>
-  <div style="font-weight:700;font-size:1.05em;margin-bottom:16px;">ウエラトーン エッセンスイン カラートリートメント</div>
-  <div style="display:flex;gap:10px;flex-wrap:wrap;">
-    <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB0DBGXX19D" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
-    
-  </div>
-  </div>
-</div>
-{{< /rawhtml >}}
+{{< product
+  title="ウエラトーン エッセンスイン カラートリートメント"
+  img="https://m.media-amazon.com/images/I/51r2qSfOnzL._AC_SL500_.jpg"
+  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB0DBGXX19D"
+>}}
 
 ---
 

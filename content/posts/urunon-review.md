@@ -1,6 +1,7 @@
 ---
 title: "毎日飲む水から変える40代のインナーケア【うるのん富士山天然水・正直レビュー】"
 date: 2026-04-23
+lastmod: 2026-05-30
 draft: false
 affiliate: true
 categories: ["暮らし・美容グッズ", "口コミ・レビュー"]
@@ -18,34 +19,11 @@ price_checked: "2026-05-28"
 
 この記事では、選んだ理由とリアルな感想を正直に書きます。
 
-{{< rawhtml >}}
-<div class="product-heading product-heading--urunon">
-  <div class="product-heading-info">
-    <div class="product-heading-num">★イチ推し</div>
-    <h3>うるのん 富士山バナジウム天然水</h3>
-    <p>TOKAIグループ運営・全国17万件の実績を持つ宅配ウォーターサーバー</p>
-  </div>
-  <div class="product-heading-img">
-    <a href="https://px.a8.net/svt/ejp?a8mat=4B1RXP+DPKD9U+1IGA+TVBF6" target="_blank" rel="nofollow noopener">
-      <img src="https://www26.a8.net/svt/bgt?aid=260423341829&wid=001&eno=01&mid=s00000007057005037000&mc=1" alt="うるのん 宅配天然水">
-    </a>
-  </div>
-</div>
-{{< /rawhtml >}}
-
-{{< rawhtml >}}
-<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);display:flex;align-items:center;gap:16px;">
-  <img src="https://www26.a8.net/svt/bgt?aid=260423341829&wid=001&eno=01&mid=s00000007057005037000&mc=1" alt="うるのん 富士山バナジウム天然水" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;">
-  <div>
-  <div style="font-weight:700;font-size:1.05em;margin-bottom:16px;">うるのん 富士山バナジウム天然水</div>
-  <div style="display:flex;gap:10px;flex-wrap:wrap;">
-    <a href="https://px.a8.net/svt/ejp?a8mat=4B1RXP+DPKD9U+1IGA+TVBF6" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #2d7d46;color:#2d7d46;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">公式サイト</a>
-    <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%E3%81%86%E3%82%8B%E3%81%AE%E3%82%93%2B%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
-    
-  </div>
-  </div>
-</div>
-{{< /rawhtml >}}
+{{< product
+  title="うるのん 富士山バナジウム天然水"
+  img="https://www26.a8.net/svt/bgt?aid=260423341829&wid=001&eno=01&mid=s00000007057005037000&mc=1"
+  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%E3%81%86%E3%82%8B%E3%81%AE%E3%82%93%2B%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC"
+>}}
 
 
 ---
@@ -61,19 +39,11 @@ price_checked: "2026-05-28"
 - **TOKAIグループの信頼性**：インフラ事業を手がける大手グループが運営
 - **キャップシールキャンペーン**などオリジナルサービスが充実
 
-{{< rawhtml >}}
-<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);display:flex;align-items:center;gap:16px;">
-  <img src="https://www26.a8.net/svt/bgt?aid=260423341829&wid=001&eno=01&mid=s00000007057005037000&mc=1" alt="うるのん 富士山バナジウム天然水" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;">
-  <div>
-  <div style="font-weight:700;font-size:1.05em;margin-bottom:16px;">うるのん 富士山バナジウム天然水</div>
-  <div style="display:flex;gap:10px;flex-wrap:wrap;">
-    <a href="https://px.a8.net/svt/ejp?a8mat=4B1RXP+DPKD9U+1IGA+TVBF6" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #2d7d46;color:#2d7d46;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">公式サイト</a>
-    <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%E3%81%86%E3%82%8B%E3%81%AE%E3%82%93%2B%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
-    
-  </div>
-  </div>
-</div>
-{{< /rawhtml >}}
+{{< product
+  title="うるのん 富士山バナジウム天然水"
+  img="https://www26.a8.net/svt/bgt?aid=260423341829&wid=001&eno=01&mid=s00000007057005037000&mc=1"
+  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%E3%81%86%E3%82%8B%E3%81%AE%E3%82%93%2B%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC"
+>}}
 
 ---
 
@@ -116,6 +86,16 @@ price_checked: "2026-05-28"
 ---
 
 {{< rawhtml >}}
+<div class="caution-box">
+  <p class="caution-box-title">⚠️ こんな方には向いていないかもしれません</p>
+  <ul>
+    <li>とにかく水代を最安にしたい（RO水でよい）方</li>
+    <li>配送エリアが対応していない地域の方（要確認）</li>
+  </ul>
+</div>
+{{< /rawhtml >}}
+
+{{< rawhtml >}}
 <div class="fit-box">
   <p class="fit-box-title">✅ こんな方に向いています</p>
   <ul>
@@ -124,16 +104,6 @@ price_checked: "2026-05-28"
     <li>実績・信頼のあるサービスを選びたい</li>
     <li>大手グループ運営の安心感を重視する</li>
     <li>キャンペーンやオリジナルサービスを活用したい</li>
-  </ul>
-</div>
-{{< /rawhtml >}}
-
-{{< rawhtml >}}
-<div class="caution-box">
-  <p class="caution-box-title">⚠️ こんな方には向いていないかもしれません</p>
-  <ul>
-    <li>とにかく水代を最安にしたい（RO水でよい）方</li>
-    <li>配送エリアが対応していない地域の方（要確認）</li>
   </ul>
 </div>
 {{< /rawhtml >}}
@@ -198,19 +168,11 @@ price_checked: "2026-05-28"
 
 富士山のバナジウム天然水という採水地のブランド力と、TOKAIグループ17万件の実績が組み合わさった信頼感は、長く使うサービスを選ぶ上で大きな判断材料になります。
 
-{{< rawhtml >}}
-<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);display:flex;align-items:center;gap:16px;">
-  <img src="https://www26.a8.net/svt/bgt?aid=260423341829&wid=001&eno=01&mid=s00000007057005037000&mc=1" alt="うるのん 富士山バナジウム天然水" style="width:80px;height:80px;object-fit:contain;flex-shrink:0;">
-  <div>
-  <div style="font-weight:700;font-size:1.05em;margin-bottom:16px;">うるのん 富士山バナジウム天然水</div>
-  <div style="display:flex;gap:10px;flex-wrap:wrap;">
-    <a href="https://px.a8.net/svt/ejp?a8mat=4B1RXP+DPKD9U+1IGA+TVBF6" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #2d7d46;color:#2d7d46;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">公式サイト</a>
-    <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%E3%81%86%E3%82%8B%E3%81%AE%E3%82%93%2B%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
-    
-  </div>
-  </div>
-</div>
-{{< /rawhtml >}}
+{{< product
+  title="うるのん 富士山バナジウム天然水"
+  img="https://www26.a8.net/svt/bgt?aid=260423341829&wid=001&eno=01&mid=s00000007057005037000&mc=1"
+  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%E3%81%86%E3%82%8B%E3%81%AE%E3%82%93%2B%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC"
+>}}
 
 > 他のウォーターサーバーと比較したい方は[オーケンウォーターのレビュー記事](/posts/watercooler-recommend/)もあわせてどうぞ。サーバー永久無料・天然水という別の選択肢も参考にしてください。
 

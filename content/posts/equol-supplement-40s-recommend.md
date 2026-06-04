@@ -1,7 +1,7 @@
 ---
 title: "エクオールサプリおすすめランキング3選｜40代の効果・副作用・いつからを解説"
 date: 2026-04-30
-lastmod: 2026-05-26
+lastmod: 2026-06-01
 description: "エクオールサプリおすすめ3選をランキング形式で紹介。効果がいつから出るか・副作用・飲み方も解説。エクエル・DHCエクオールなど40代の更年期ケアに向けた比較ガイドです。"
 tags: ["更年期", "インナーケア", "サプリ", "40代"]
 draft: false
@@ -10,7 +10,7 @@ affiliate: true
 cover:
   image: "/images/equol-supplement-40s-recommend.png"
   alt: "エクオールサプリおすすめ40代向け"
-price_checked: "2026-05-28"
+price_checked: "2026-05-30"
 ---
 
 40代の半ばになって、突然顔がカーッと熱くなる日が増えました。夜中に目が覚めて汗びっしょり、なんてことも。「これって更年期？」と調べ始めて、最初に出てきたのが「エクオール」という言葉でした。
@@ -19,21 +19,14 @@ price_checked: "2026-05-28"
 
 この記事では、40代の更年期症状にアプローチできるエクオールサプリを3本厳選して紹介します。
 
-迷ったら、まず **エクエル（大塚製薬）** から試してみてください。婦人科でも推薦されており、臨床研究データが豊富な信頼性の高い定番品です。
 
-{{< rawhtml >}}
-<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);display:flex;align-items:flex-start;gap:20px;">
-  <img src="https://m.media-amazon.com/images/I/61dRDQ8iYcL._AC_SL500_.jpg" alt="エクエル パウチ" style="width:160px;height:160px;object-fit:contain;flex-shrink:0;">
-  <div style="flex:1;">
-    <div style="font-weight:700;font-size:1.05em;margin-bottom:16px;">エクエル パウチ 120粒 約30日分</div>
-    <div style="display:flex;gap:10px;flex-wrap:wrap;">
-      <a href="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fpycno%2F4018-018%2F" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #bf1a1a;color:#bf1a1a;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">楽天市場</a>
-      <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB01MUBY004" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
-      
-    </div>
-  </div>
-</div>
-{{< /rawhtml >}}
+{{< product
+  title="エクエル パウチ 120粒 約30日分"
+  img="https://m.media-amazon.com/images/I/61dRDQ8iYcL._AC_SL500_.jpg"
+  rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fpycno%2F4018-018%2F"
+  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB01MUBY004"
+  yahoo="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fekuserennto%2F4018-016.html"
+>}}
 
 ---
 
@@ -75,17 +68,6 @@ price_checked: "2026-05-28"
 
 ### 1位：エクエル パウチ（大塚製薬）｜婦人科推薦・臨床研究あり
 
-{{< rawhtml >}}
-<div class="product-heading product-heading--equelle">
-  <div class="product-heading-info">
-    <div class="product-heading-num">1位</div>
-    <h3>エクエル パウチ（大塚製薬）</h3>
-    <p>日本初エクオール含有食品・婦人科推薦・多数の臨床研究データあり</p>
-  </div>
-  <img class="product-heading-img" src="https://m.media-amazon.com/images/I/61dRDQ8iYcL._AC_SL500_.jpg" alt="エクエル パウチ 大塚製薬">
-</div>
-{{< /rawhtml >}}
-
 婦人科に行くと「エクエルを試してみて」と言われることが多いのが、この大塚製薬のエクエル。日本初のエクオール含有食品として多くの臨床研究データが公開されています。
 
 1日4粒でエクオール10mgを摂取できます。ソフトカプセルタイプで飲みやすく、1袋で30日分。価格はやや高めですが、「まずは信頼のある定番から」という方に向いています。
@@ -119,34 +101,17 @@ price_checked: "2026-05-28"
 </div>
 {{< /rawhtml >}}
 
-{{< rawhtml >}}
-<div class="featured-card-wrap">
-<span class="rank1-badge">★ 私のイチ推し</span>
-{{< /rawhtml >}}
 {{< product
   title="エクエル パウチ 120粒 約30日分"
   img="https://m.media-amazon.com/images/I/61dRDQ8iYcL._AC_SL500_.jpg"
   rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fpycno%2F4018-018%2F"
   amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB01MUBY004"
+  yahoo="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fekuserennto%2F4018-016.html"
 >}}
-{{< rawhtml >}}
-</div>
-{{< /rawhtml >}}
 
 ---
 
 ### 2位：DHC 大豆イソフラボン エクオール 30日分｜DHC直販・コスパ重視
-
-{{< rawhtml >}}
-<div class="product-heading product-heading--dhcequol">
-  <div class="product-heading-info">
-    <div class="product-heading-num">2位</div>
-    <h3>DHC 大豆イソフラボン エクオール</h3>
-    <p>1日1粒でエクオール10mg・DHC直販のコスパ重視モデル</p>
-  </div>
-  <img class="product-heading-img" src="https://m.media-amazon.com/images/I/718uwNYnEkL._SL500_.jpg" alt="DHC 大豆イソフラボン エクオール">
-</div>
-{{< /rawhtml >}}
 
 「エクエルは続けるには少し価格が気になる」という方に選ばれやすいのがDHCのエクオール。DHC直販の安心感と、エクオール専用サプリとしての設計が特徴です。
 
@@ -185,23 +150,13 @@ price_checked: "2026-05-28"
   title="DHC 大豆イソフラボン エクオール 30日分"
   img="https://m.media-amazon.com/images/I/718uwNYnEkL._SL500_.jpg"
   rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fdhcshop%2F8000032780%2F"
-  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DDHC%2B%E5%A4%A7%E8%B1%86%E3%82%A4%E3%82%BD%E3%83%95%E3%83%A9%E3%83%9C%E3%83%B3%E3%82%A8%E3%82%AF%E3%82%AA%E3%83%BC%E3%83%AB"
+  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB078JYN4G3"
+  yahoo="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fdhc-2%2F8000032780.html"
 >}}
 
 ---
 
 ### 3位：ベルタエクリズム｜エクオール＋複合成分設計
-
-{{< rawhtml >}}
-<div class="product-heading product-heading--berta">
-  <div class="product-heading-info">
-    <div class="product-heading-num">3位</div>
-    <h3>ベルタエクリズム</h3>
-    <p>エクオール＋複合成分設計・更年期の複合的な不調にアプローチ</p>
-  </div>
-  <img class="product-heading-img" src="https://m.media-amazon.com/images/I/71uPtXFiSEL._AC_SL500_.jpg" alt="ベルタエクリズム エクオール">
-</div>
-{{< /rawhtml >}}
 
 エクオールを中心に、更年期に気になる複数の不調にアプローチできる成分を組み合わせた設計です。エクオール単体だけでなく、もう少し幅広くケアしたい方に向いています。
 
@@ -335,19 +290,13 @@ A. 明確な基準はありませんが、40代から始める方が多いです
 
 まず1本試してみて、自分の体に合うものを探していくのが更年期ケアの第一歩だと思っています。
 
-{{< rawhtml >}}
-<div class="featured-card-wrap">
-<span class="rank1-badge">★ 私のイチ推し</span>
-{{< /rawhtml >}}
 {{< product
   title="エクエル パウチ 120粒 約30日分"
   img="https://m.media-amazon.com/images/I/61dRDQ8iYcL._AC_SL500_.jpg"
   rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fpycno%2F4018-018%2F"
   amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB01MUBY004"
+  yahoo="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fekuserennto%2F4018-016.html"
 >}}
-{{< rawhtml >}}
-</div>
-{{< /rawhtml >}}
 
 {{< related url="/posts/inner-care-40s-guide/" >}}
 

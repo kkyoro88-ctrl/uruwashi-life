@@ -1,7 +1,7 @@
 ---
 title: "ネイルケアおすすめ40代｜爪が割れやすくなった悩みに向けた厳選3選と選び方"
 date: 2026-05-17
-lastmod: 2026-05-17
+lastmod: 2026-05-30
 draft: false
 affiliate: true
 categories: ["ネイルケア"]
@@ -24,21 +24,6 @@ price_checked: "2026-05-28"
 これらの変化は、肌と同じようにホルモンバランスや加齢が関わっています。爪もスキンケアと同じ発想でケアが必要な時期に入ったサインです。
 
 まず試すなら、**ロクシタン シア ネイルオイル**がおすすめです。爪と甘皮をまとめて潤す定番アイテムで、爪ケア初心者にも使いやすい一本です。
-
-{{< rawhtml >}}
-<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);">
-  <div style="display:flex;gap:16px;align-items:flex-start;flex-wrap:wrap;">
-    <img src="https://m.media-amazon.com/images/I/515TdeKrQdL._AC_SL500_.jpg" alt="ロクシタン シア ネイルオイル" style="width:160px;height:160px;object-fit:contain;flex-shrink:0;" loading="lazy">
-    <div style="flex:1;min-width:200px;">
-      <div style="font-weight:700;font-size:1.05em;margin-bottom:12px;">ロクシタン シア ネイルオイル</div>
-      <div style="display:flex;gap:10px;flex-wrap:wrap;">
-        <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB0BL8F59PX" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
-        
-      </div>
-    </div>
-  </div>
-</div>
-{{< /rawhtml >}}
 
 ---
 
@@ -98,19 +83,6 @@ price_checked: "2026-05-28"
 
 ### 1位：ロクシタン シア ネイルオイル｜爪と甘皮をまとめて潤す定番オイル
 
-{{< rawhtml >}}
-<div class="product-heading product-heading--answer">
-  <div class="product-heading-info">
-    <div class="product-heading-num">1位</div>
-    <h3>ロクシタン<br>シア ネイルオイル</h3>
-    <p>爪と甘皮をまとめて潤す定番ネイルオイル</p>
-  </div>
-  <div class="product-heading-img">
-    <img src="https://m.media-amazon.com/images/I/41jRRXLl9sL._SL300_.jpg" alt="ロクシタン シア ネイルオイル">
-  </div>
-</div>
-{{< /rawhtml >}}
-
 **こんな人に：** 爪ケアを手軽に始めたい・香りも楽しみたい・ブランドの安心感を重視する
 **向いていない方：** 無香料にこだわる方・完全なシンプル処方を求める方
 
@@ -124,37 +96,15 @@ price_checked: "2026-05-28"
 - **容量：** 7.5mL
 - **価格帯：** 約2,860円
 
-{{< rawhtml >}}
-<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);">
-  <div style="display:flex;gap:16px;align-items:flex-start;flex-wrap:wrap;">
-    <img src="https://m.media-amazon.com/images/I/515TdeKrQdL._AC_SL500_.jpg" alt="ロクシタン シア ネイルオイル" style="width:160px;height:160px;object-fit:contain;flex-shrink:0;" loading="lazy">
-    <div style="flex:1;min-width:200px;">
-      <div style="font-weight:700;font-size:1.05em;margin-bottom:12px;">ロクシタン シア ネイルオイル 7.5mL</div>
-      <div style="display:flex;gap:10px;flex-wrap:wrap;">
-        <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB0BL8F59PX" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
-        
-      </div>
-    </div>
-  </div>
-</div>
-{{< /rawhtml >}}
+{{< product
+  title="ロクシタン シア ネイルオイル 7.5mL"
+  img="https://m.media-amazon.com/images/I/515TdeKrQdL._AC_SL500_.jpg"
+  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB0BL8F59PX"
+>}}
 
 ---
 
 ### 2位：コモエース コクーンモイスチュア ネイルセラム｜割れ・欠け・縦スジに特化した爪用美容液
-
-{{< rawhtml >}}
-<div class="product-heading product-heading--answer">
-  <div class="product-heading-info">
-    <div class="product-heading-num">2位</div>
-    <h3>コモエース<br>コクーンモイスチュア ネイルセラム</h3>
-    <p>割れ・欠け・縦スジに特化した爪用美容液</p>
-  </div>
-  <div class="product-heading-img">
-    <img src="https://m.media-amazon.com/images/I/414gGxRTnML._SL300_.jpg" alt="コモエース コクーンモイスチュア ネイルセラム">
-  </div>
-</div>
-{{< /rawhtml >}}
 
 **こんな人に：** 割れ・欠け・縦スジが気になる・無香料にこだわる・日本製で安心感がほしい
 **向いていない方：** オイルのリッチな使用感を求める方・手軽さより成分の豊富さを優先したい方
@@ -169,37 +119,15 @@ price_checked: "2026-05-28"
 - **容量：** 6.8mL
 - **価格帯：** 約2,420円
 
-{{< rawhtml >}}
-<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);">
-  <div style="display:flex;gap:16px;align-items:flex-start;flex-wrap:wrap;">
-    <img src="https://m.media-amazon.com/images/I/414gGxRTnML._AC_SL500_.jpg" alt="コモエース コクーンモイスチュア ネイルセラム" style="width:160px;height:160px;object-fit:contain;flex-shrink:0;" loading="lazy">
-    <div style="flex:1;min-width:200px;">
-      <div style="font-weight:700;font-size:1.05em;margin-bottom:12px;">コモエース コクーンモイスチュア ネイルセラム 6.8mL</div>
-      <div style="display:flex;gap:10px;flex-wrap:wrap;">
-        <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB07ZVTKWWP" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
-        
-      </div>
-    </div>
-  </div>
-</div>
-{{< /rawhtml >}}
+{{< product
+  title="コモエース コクーンモイスチュア ネイルセラム"
+  img="https://m.media-amazon.com/images/I/414gGxRTnML._AC_SL500_.jpg"
+  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB07ZVTKWWP"
+>}}
 
 ---
 
 ### 3位：TSUMECARE 水溶性の爪美容液｜水で溶ける独自処方・爪に直接届く成分設計
-
-{{< rawhtml >}}
-<div class="product-heading product-heading--answer">
-  <div class="product-heading-info">
-    <div class="product-heading-num">3位</div>
-    <h3>TSUMECARE<br>水溶性の爪美容液</h3>
-    <p>水溶性の独自処方で爪に直接届く成分設計</p>
-  </div>
-  <div class="product-heading-img">
-    <img src="https://m.media-amazon.com/images/I/31ENgOMDV0L._SL300_.jpg" alt="TSUMECARE 水溶性の爪美容液">
-  </div>
-</div>
-{{< /rawhtml >}}
 
 **こんな人に：** 爪ケアに本格的に取り組みたい・オイルのベタつきが苦手・昼間も使いたい
 **向いていない方：** コスパ重視の方・シンプルな処方を求める方
@@ -212,20 +140,11 @@ price_checked: "2026-05-28"
 - **成分ポイント：** 水溶性処方・爪ケア成分配合
 - **価格帯：** 約3,542円
 
-{{< rawhtml >}}
-<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);">
-  <div style="display:flex;gap:16px;align-items:flex-start;flex-wrap:wrap;">
-    <img src="https://m.media-amazon.com/images/I/31ENgOMDV0L._AC_SL500_.jpg" alt="TSUMECARE 水溶性の爪美容液" style="width:160px;height:160px;object-fit:contain;flex-shrink:0;" loading="lazy">
-    <div style="flex:1;min-width:200px;">
-      <div style="font-weight:700;font-size:1.05em;margin-bottom:12px;">TSUMECARE 水溶性の爪美容液</div>
-      <div style="display:flex;gap:10px;flex-wrap:wrap;">
-        <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB0B9BTHFRL" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
-        
-      </div>
-    </div>
-  </div>
-</div>
-{{< /rawhtml >}}
+{{< product
+  title="TSUMECARE 水溶性の爪美容液"
+  img="https://m.media-amazon.com/images/I/31ENgOMDV0L._AC_SL500_.jpg"
+  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB0B9BTHFRL"
+>}}
 
 ---
 
@@ -294,20 +213,11 @@ price_checked: "2026-05-28"
 
 爪ケアは毎日のルーティンに組み込むと続けやすくなります。今日から1ステップ加えてみてください。
 
-{{< rawhtml >}}
-<div style="background:#fff;border-radius:12px;padding:20px 24px;margin:1.5em 0;box-shadow:0 2px 12px rgba(0,0,0,0.08);">
-  <div style="display:flex;gap:16px;align-items:flex-start;flex-wrap:wrap;">
-    <img src="https://m.media-amazon.com/images/I/515TdeKrQdL._AC_SL500_.jpg" alt="ロクシタン シア ネイルオイル" style="width:160px;height:160px;object-fit:contain;flex-shrink:0;" loading="lazy">
-    <div style="flex:1;min-width:200px;">
-      <div style="font-weight:700;font-size:1.05em;margin-bottom:12px;">ロクシタン シア ネイルオイル 7.5mL</div>
-      <div style="display:flex;gap:10px;flex-wrap:wrap;">
-        <a href="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB0BL8F59PX" rel="nofollow noopener" target="_blank" style="display:inline-block;border:2px solid #e07820;color:#e07820;padding:10px 20px;border-radius:8px;font-size:0.9em;font-weight:700;text-decoration:none;">Amazon</a>
-        
-      </div>
-    </div>
-  </div>
-</div>
-{{< /rawhtml >}}
+{{< product
+  title="ロクシタン シア ネイルオイル 7.5mL"
+  img="https://m.media-amazon.com/images/I/515TdeKrQdL._AC_SL500_.jpg"
+  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB0BL8F59PX"
+>}}
 
 ---
 
