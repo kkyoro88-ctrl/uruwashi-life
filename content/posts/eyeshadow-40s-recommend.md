@@ -1,6 +1,7 @@
 ---
 title: "アイシャドウ おすすめ5選【40代に似合う・くすまないカラーの選び方】"
 date: 2026-06-03
+lastmod: 2026-06-05
 draft: false
 affiliate: true
 categories: ["口コミ・レビュー"]
@@ -9,7 +10,7 @@ description: "40代に似合うアイシャドウおすすめ5選。くすまな
 cover:
   image: "/images/eyeshadow-40s-recommend.png"
   alt: "40代アイシャドウおすすめ5選"
-price_checked: "2026-06-03"
+price_checked: "2026-06-05"
 ---
 
 鏡を見るたびに、目元の印象が落ちたと感じることが増えていました。まぶたの下がり、目の周りのくすみ。アイシャドウを変えるだけで、ずいぶん印象が変わることに気づきました。
@@ -70,6 +71,7 @@ price_checked: "2026-06-03"
   img="https://m.media-amazon.com/images/I/615KNb6AYIL._SL500_.jpg"
   rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2F0101marui%2Fcb001973240101%2F"
   amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB08Z5HQVRZ"
+  yahoo="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkokocosme%2F4901008314419.html"
 >}}
 
 ---
@@ -180,6 +182,7 @@ price_checked: "2026-06-03"
   img="https://m.media-amazon.com/images/I/51Ag7gWNdwL._SL500_.jpg"
   rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fgoodcosme2012%2F4973167039007%2F"
   amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB09XQT4MYF"
+  yahoo="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DRMK%2B%E3%83%AA%E3%82%AF%E3%82%A4%E3%83%89%E3%82%A2%E3%82%A4%E3%82%BA%2B04"
 >}}
 
 ---
@@ -214,7 +217,9 @@ price_checked: "2026-06-03"
 {{< product
   title="SUQQU グロウ タッチ アイズ 08 眩滴"
   img="https://m.media-amazon.com/images/I/21SkcZnDfUL._SL500_.jpg"
+  rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Femporio8888%2F10001296%2F"
   amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB083WKMVD8"
+  yahoo="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fdnfal%2Fsuq844861.html"
 >}}
 
 ---
