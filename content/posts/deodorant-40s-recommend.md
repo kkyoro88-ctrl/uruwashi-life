@@ -78,6 +78,7 @@ cover:
 
 ## 40代向け制汗剤おすすめ5選
 
+<div class="comparison-wrap">
 <table class="comparison-rank">
   <thead>
     <tr>
@@ -160,6 +161,7 @@ cover:
     </tr>
   </tbody>
 </table>
+</div>
 
 ---
 
