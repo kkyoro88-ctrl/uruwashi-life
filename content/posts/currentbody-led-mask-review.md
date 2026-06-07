@@ -10,7 +10,7 @@ description: "CurrentBody LEDフェイスマスクの口コミ・レビュー。
 cover:
   image: "/images/currentbody-led-mask-review.png"
   alt: "CurrentBody LEDフェイスマスク"
-price_checked: "2026-05-28"
+price_checked: "2026-06-07"
 ---
 
 
