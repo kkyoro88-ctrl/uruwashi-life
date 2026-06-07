@@ -1,12 +1,13 @@
 ---
 title: "乾燥肌のハンドソープおすすめ5選｜手洗いのたびに手荒れする方へ"
 date: 2026-06-03
+lastmod: 2026-06-07
 draft: false
 affiliate: true
 categories: ["ボディケア"]
 tags: ["乾燥肌", "ボディケア", "スキンケア", "40代"]
 description: "乾燥肌向けハンドソープの選び方と、手荒れしにくいおすすめ5選を紹介。セラミド・無添加・薬用など成分別に、40代の手肌に合う選び方を解説します。"
-price_checked: "2026-06-03"
+price_checked: "2026-06-07"
 cover:
   image: "/images/hand-soap-dry-skin-recommend.png"
   alt: "乾燥肌向けハンドソープおすすめ"
@@ -83,7 +84,7 @@ cover:
 {{< product
   title="ミヨシ 無添加 泡のハンドソープ 350mL"
   img="https://m.media-amazon.com/images/I/51mOcgVE6vL.jpg"
-  rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F568292%2F"
+  rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fsundrug%2F4904551100607%2F"
   amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB000FQPCS4"
   yahoo="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4904551100607.html"
 >}}
@@ -97,7 +98,7 @@ cover:
 {{< product
   title="キレイキレイ 薬用ハンドコンディショニングソープ 詰め替え大型サイズ"
   img="https://m.media-amazon.com/images/I/7160H-V+qiL.jpg"
-  rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F406917%2F"
+  rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fsundrug%2F45185618%2F"
   amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB09PY8DB85"
   yahoo="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Firisplaza%2F7272481.html"
 >}}

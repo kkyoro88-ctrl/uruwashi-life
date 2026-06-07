@@ -1,7 +1,7 @@
 ---
 title: "DISMの美顔器口コミ・レビュー【コンパクトなのにハイパワー？40代が正直評価】"
 date: 2026-04-27
-lastmod: 2026-05-29
+lastmod: 2026-06-07
 draft: false
 affiliate: true
 categories: ["口コミ・レビュー", "スキンケア"]
@@ -10,7 +10,7 @@ description: "DISM美顔器の口コミ・使用感を40代が正直にレビュ
 cover:
   image: "/images/dism-facial-device-review.png"
   alt: "DISM 美顔器 口コミ レビュー"
-price_checked: "2026-05-28"
+price_checked: "2026-06-07"
 ---
 
 美顔器を3本手放してから「もうやめよう」と思っていた時期がありました。
