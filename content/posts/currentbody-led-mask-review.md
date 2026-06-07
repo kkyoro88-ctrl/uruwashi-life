@@ -1,7 +1,7 @@
 ---
 title: "CurrentBody LEDマスクの口コミ・レビュー【1ヶ月でほうれい線・むくみが変化・40代が正直評価】"
 date: 2026-04-25
-lastmod: 2026-05-31
+lastmod: 2026-06-07
 draft: false
 affiliate: true
 categories: ["口コミ・レビュー", "スキンケア"]
