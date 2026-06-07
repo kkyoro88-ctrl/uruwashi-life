@@ -1,7 +1,7 @@
 ---
 title: "眉毛美容液おすすめ【2026年】40代の薄くなった眉が変わる選び方と3選"
 date: 2026-05-13
-lastmod: 2026-06-01
+lastmod: 2026-06-07
 description: "眉毛美容液のおすすめを比較。40代で眉が薄くなる原因と育てるケアの選び方を解説。スカルプDボーテ・Browaddict・grabiness マユビアの3選を成分・使いやすさで比較しています。"
 tags: ["目元ケア", "40代", "エイジングケア"]
 categories: ["スキンケア"]
@@ -15,7 +15,7 @@ cover:
   image: "/images/eyebrow-serum-40s-recommend.png"
   alt: "眉毛美容液おすすめ40代"
 draft: false
-price_checked: "2026-05-28"
+price_checked: "2026-06-07"
 ---
 
 眉が薄くなっていることに気づいたのは、写真を見たときでした。鏡では無意識に補正して見ていたのに、写真は正直でした。眉尻がほぼなくなっていました。
@@ -280,6 +280,20 @@ price_checked: "2026-05-28"
   amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB0CWGBKPPS"
   rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fangfa%2Feyebrow%2F"
   yahoo="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fangfa%2Fbt2141001.html"
+>}}
+
+{{< product
+  title="Browaddict ブロウアディクト アイブロウセラム"
+  img="/images/products/eyebrow-browaddict.jpg"
+  rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fsoaddicted%2Flashaddict-02%2F"
+  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB0D35F279B"
+>}}
+
+{{< product
+  title="grabiness マユビア 眉毛美容液"
+  img="/images/products/eyebrow-mayu-via.jpg"
+  rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fformy-onlineshop%2Fgb-mayu-sgl%2F"
+  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB0BTT46H64"
 >}}
 
 > 眉の薄さとホルモンの関係は[まつ毛美容液おすすめ40代向け3選](/posts/eyelash-serum-40s-recommend/)でも詳しく解説しています。
