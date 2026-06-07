@@ -272,7 +272,7 @@ price_checked: "2026-06-07"
 - **サロン品質・返金保証で試したい** → **Browaddict**（ナノペプチド設計・リスクなし）
 - **まず試してみたい・コスパ重視** → **grabiness マユビア**（入門としての現実的な選択）
 
-眉毛ケアは続けることが前提です。どれから始めるかより、自分が続けられるものを選ぶほうが重要だと実感しています。
+眉毛ケアは続けることが前提です。どれを選ぶかより、今日から始めるかどうかのほうが、2ヶ月後の変化に関係していると実感しています。まずは1本、手に取ってみてください。
 
 {{< product
   title="スカルプDボーテ MEDI アイブロウエッセンス"
@@ -285,6 +285,7 @@ price_checked: "2026-06-07"
 {{< product
   title="Browaddict ブロウアディクト アイブロウセラム"
   img="/images/products/eyebrow-browaddict.jpg"
+  price="¥11,000 / 5mL"
   rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fsoaddicted%2Flashaddict-02%2F"
   amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB0D35F279B"
 >}}
@@ -292,6 +293,7 @@ price_checked: "2026-06-07"
 {{< product
   title="grabiness マユビア 眉毛美容液"
   img="/images/products/eyebrow-mayu-via.jpg"
+  price="¥2,480 / 3mL"
   rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fformy-onlineshop%2Fgb-mayu-sgl%2F"
   amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB0BTT46H64"
 >}}
