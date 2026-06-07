@@ -26,7 +26,7 @@ price_checked: "2026-06-06"
   img="https://m.media-amazon.com/images/I/717eVefuhJL._AC_SL500_.jpg"
   rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fplatanusstore%2F4901301370204%2F"
   amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB07VMRWJMH"
-  yahoo="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%E3%83%8B%E3%83%99%E3%82%A2%2B%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0%2B%E3%83%9C%E3%83%87%E3%82%A3%E3%83%9F%E3%83%AB%E3%82%AF%2B%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%83%8B%E3%83%B3%E3%82%B0%2B190g"
+  yahoo="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fshin-home%2F3426-007243.html"
 >}}
 
 ---
@@ -146,7 +146,7 @@ price_checked: "2026-06-06"
   img="https://m.media-amazon.com/images/I/717eVefuhJL._AC_SL500_.jpg"
   rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fplatanusstore%2F4901301370204%2F"
   amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB07VMRWJMH"
-  yahoo="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%E3%83%8B%E3%83%99%E3%82%A2%2B%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0%2B%E3%83%9C%E3%83%87%E3%82%A3%E3%83%9F%E3%83%AB%E3%82%AF%2B%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%83%8B%E3%83%B3%E3%82%B0%2B190g"
+  yahoo="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fshin-home%2F3426-007243.html"
 >}}
 
 ---
@@ -267,5 +267,5 @@ price_checked: "2026-06-06"
   img="https://m.media-amazon.com/images/I/717eVefuhJL._AC_SL500_.jpg"
   rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fplatanusstore%2F4901301370204%2F"
   amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB07VMRWJMH"
-  yahoo="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%E3%83%8B%E3%83%99%E3%82%A2%2B%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0%2B%E3%83%9C%E3%83%87%E3%82%A3%E3%83%9F%E3%83%AB%E3%82%AF%2B%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%83%8B%E3%83%B3%E3%82%B0%2B190g"
+  yahoo="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fshin-home%2F3426-007243.html"
 >}}
