@@ -53,6 +53,7 @@ price_checked: "2026-05-29"
 ## コンシーラー40代おすすめ7選
 
 {{< rawhtml >}}
+<div class="comparison-wrap">
 <table class="comparison-rank">
   <thead>
     <tr>
@@ -99,6 +100,7 @@ price_checked: "2026-05-29"
     </tr>
   </tbody>
 </table>
+</div>
 {{< /rawhtml >}}
 
 ---

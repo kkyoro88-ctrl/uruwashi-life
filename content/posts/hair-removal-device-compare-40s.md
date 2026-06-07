@@ -27,6 +27,7 @@ summary_points:
 ## 3機種のおすすめランキング【一覧表】
 
 {{< rawhtml >}}
+<div class="comparison-wrap">
 <table class="comparison-rank">
   <thead>
     <tr>
@@ -65,6 +66,7 @@ summary_points:
     </tr>
   </tbody>
 </table>
+</div>
 {{< /rawhtml >}}
 
 ---

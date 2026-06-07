@@ -93,6 +93,7 @@ price_checked: "2026-06-01"
 ## 40代おすすめリップ美容液3選｜比較表
 
 {{< rawhtml >}}
+<div class="comparison-wrap">
 <table class="comparison-rank">
   <thead>
     <tr>
@@ -110,6 +111,7 @@ price_checked: "2026-06-01"
     <tr><th>向いている方</th><td class="cr-featured">縦じわ・荒れが気になる40代</td><td>リッチな油分ケアをしたい方</td><td>まずプチプラで試したい方</td></tr>
   </tbody>
 </table>
+</div>
 {{< /rawhtml >}}
 
 ---

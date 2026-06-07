@@ -1,0 +1,33 @@
+{{- define "main" }}
+{{- $firstCat := index .Params.categories 0 | default "" }}
+
+<div class="site-container single-container">
+
+  <article class="main-content single-article">
+
+    {{/* ── パンくず ── */}}
+    <nav class="single-breadcrumb">
+      <a href="/">ホーム</a>
+      <span class="bc-sep">›</span>
+      <span>{{ .Title }}</span>
+    </nav>
+
+    {{/* ── タイトルのみ（日付・読み時間なし） ── */}}
+    <header class="single-header">
+      <div class="single-header-body">
+        <h1 class="single-title">{{ .Title }}</h1>
+      </div>
+    </header>
+
+    {{/* ── 本文 ── */}}
+    <div class="post-content single-body">
+      {{ .Content }}
+    </div>
+
+  </article>
+
+  {{/* ── サイドバー ── */}}
+  {{ partial "sidebar.html" . }}
+
+</div>
+{{- end }}

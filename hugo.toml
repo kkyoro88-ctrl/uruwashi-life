@@ -59,6 +59,8 @@ hasCJKLanguage = true
     name = "ABOUT"
     url = "/about/"
     weight = 4
+[params.footer]
+  text = "[プライバシーポリシー](/privacy/)"
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]

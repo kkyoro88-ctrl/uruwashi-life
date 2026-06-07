@@ -104,6 +104,7 @@ price_checked: "2026-05-28"
 
 
 {{< rawhtml >}}
+<div class="comparison-wrap">
 <table class="comparison-rank">
   <thead>
     <tr>
@@ -134,6 +135,7 @@ price_checked: "2026-05-28"
     </tr>
   </tbody>
 </table>
+</div>
 {{< /rawhtml >}}
 
 ### No.1｜スカルプD ボーテ MEDI アイブロウエッセンス

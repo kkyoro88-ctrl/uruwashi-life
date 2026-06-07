@@ -75,6 +75,7 @@ price_checked: "2026-05-29"
 ## 3商品を一覧で比較
 
 {{< rawhtml >}}
+<div class="comparison-wrap">
 <table class="comparison-rank">
   <thead>
     <tr>
@@ -117,6 +118,7 @@ price_checked: "2026-05-29"
     </tr>
   </tbody>
 </table>
+</div>
 {{< /rawhtml >}}
 
 ---

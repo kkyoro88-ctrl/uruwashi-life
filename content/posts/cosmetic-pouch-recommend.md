@@ -182,6 +182,7 @@ price_checked: "2026-05-28"
 ## 5本の比較表
 
 {{< rawhtml >}}
+<div class="comparison-wrap">
 <table class="comparison-rank">
   <thead>
     <tr>
@@ -236,6 +237,7 @@ price_checked: "2026-05-28"
     </tr>
   </tbody>
 </table>
+</div>
 {{< /rawhtml >}}
 
 ---
