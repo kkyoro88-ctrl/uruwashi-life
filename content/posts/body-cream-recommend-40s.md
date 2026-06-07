@@ -266,7 +266,6 @@ price_checked: "2026-06-07"
   img="https://m.media-amazon.com/images/I/51GFswhJOjL._AC_SL500_.jpg"
   rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fsaikatu%2F4901301398222%2F"
   amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB013QQ7K8Y"
-  yahoo="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Ftext%3D%E3%83%93%E3%82%AA%E3%83%AC%2B%E3%81%86%E3%82%8B%E3%81%8A%E3%81%84%E3%83%90%E3%83%AA%E3%82%A2%2B%E3%83%9C%E3%83%87%E3%82%A3%E3%83%9F%E3%83%AB%E3%82%AF"
 >}}
 ---
 
