@@ -82,11 +82,31 @@ cover:
   <thead>
     <tr>
       <th></th>
-      <th class="th-answer cr-featured"><div class="cr-rank">1</div><div class="cr-name">デオコ</div></th>
-      <th><div class="cr-rank">2</div><div class="cr-name">Ban</div></th>
-      <th><div class="cr-rank">3</div><div class="cr-name">エージーデオ24</div></th>
-      <th><div class="cr-rank">4</div><div class="cr-name">8×4</div></th>
-      <th><div class="cr-rank">5</div><div class="cr-name">ビオレZ</div></th>
+      <th class="th-answer cr-featured">
+        <div class="cr-rank">1</div>
+        <img src="https://m.media-amazon.com/images/I/71FqFENMu9L._AC_SL500_.jpg" alt="デオコ" style="width:80px;height:80px;object-fit:contain;margin:6px auto;display:block;">
+        <div class="cr-name">デオコ</div>
+      </th>
+      <th>
+        <div class="cr-rank">2</div>
+        <img src="https://m.media-amazon.com/images/I/71T01rmhJML._AC_SL500_.jpg" alt="Ban" style="width:80px;height:80px;object-fit:contain;margin:6px auto;display:block;">
+        <div class="cr-name">Ban</div>
+      </th>
+      <th>
+        <div class="cr-rank">3</div>
+        <img src="https://m.media-amazon.com/images/I/81q3vlhE8nL._AC_SL500_.jpg" alt="エージーデオ24" style="width:80px;height:80px;object-fit:contain;margin:6px auto;display:block;">
+        <div class="cr-name">エージーデオ24</div>
+      </th>
+      <th>
+        <div class="cr-rank">4</div>
+        <img src="https://m.media-amazon.com/images/I/61y--UtmdwL._AC_SL500_.jpg" alt="8×4" style="width:80px;height:80px;object-fit:contain;margin:6px auto;display:block;">
+        <div class="cr-name">8×4</div>
+      </th>
+      <th>
+        <div class="cr-rank">5</div>
+        <img src="https://m.media-amazon.com/images/I/71r3wCxl72L._AC_SL500_.jpg" alt="ビオレZ" style="width:80px;height:80px;object-fit:contain;margin:6px auto;display:block;">
+        <div class="cr-name">ビオレZ</div>
+      </th>
     </tr>
   </thead>
   <tbody>
@@ -129,6 +149,14 @@ cover:
       <td>△</td>
       <td class="cr-hi">◎</td>
       <td>○</td>
+    </tr>
+    <tr>
+      <td class="cr-label">こんな人に</td>
+      <td class="cr-hi">シャワーでまとめてケア</td>
+      <td>長時間しっかり制汗</td>
+      <td>外出先の汗ケア</td>
+      <td>毎日コスパよく</td>
+      <td>全身広範囲に</td>
     </tr>
   </tbody>
 </table>
