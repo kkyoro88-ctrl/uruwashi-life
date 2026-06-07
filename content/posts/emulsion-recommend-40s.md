@@ -1,7 +1,7 @@
 ---
 title: "【2026年最新】乳液おすすめ40代5選｜乾燥・エイジングケア・テクスチャー別の選び方"
 date: 2026-05-15
-lastmod: 2026-05-28
+lastmod: 2026-06-06
 draft: false
 affiliate: true
 categories: ["スキンケア"]
@@ -14,7 +14,7 @@ summary_points:
 cover:
   image: "/images/emulsion-recommend-40s.png"
   alt: "乳液おすすめ40代向け"
-price_checked: "2026-05-28"
+price_checked: "2026-06-06"
 ---
 
 「化粧水をしっかりつけているのに、夕方になると乾燥している」——この悩みを感じはじめたのは40代に入ってからでした。
@@ -29,6 +29,7 @@ price_checked: "2026-05-28"
   img="https://m.media-amazon.com/images/I/51QOhnDEycL._AC_SL500_.jpg"
   amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB0FHJZ7LDZ"
   rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F9000010029276%2F"
+  yahoo="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcosmecom%2F1000213185.html"
 >}}
 
 ---
@@ -79,225 +80,6 @@ price_checked: "2026-05-28"
 - **ハリ・弾力が気になる** → コラーゲン・レチノール配合を選ぶ
 - **くすみ・シミが気になる** → ナイアシンアミド・アルブチン配合の美白乳液
 - **刺激を最小限にしたい** → 無香料・無着色・アレルギーテスト済みのもの
-
----
-
-## 乳液おすすめ40代・乾燥肌向け厳選5選
-
-### 1位：エリクシール シュペリエル リフトモイスト エマルジョン｜ドラッグストアで買えるハリ・保湿の定番
-
-**こんな人に：** ドラッグストアで買いたい・ハリとうるおいを両方ほしい・コスパ重視
-**向いていない方：** 香り（フローラル系）が苦手な方・完全に無添加にこだわる方
-
-資生堂が展開するエリクシール シュペリエルシリーズの乳液です。「スキンコンディショニング成分」として独自開発した保湿成分を配合し、**使い続けるほど肌のコンディションが整う**ことを目指した処方が特徴。40代から長く支持されてきたシリーズです。
-
-- **テクスチャー：** I（さっぱり）・II（しっとり）・SP（超しっとり）の3種類
-- **成分ポイント：** 皮膚科学アプローチでうるおいをサポート
-- **香り：** ほのかなフローラル
-- **容量：** 130mL（たっぷり使える）
-- **価格帯：** 約1,700〜2,000円（ドラッグストア）
-
-乾燥肌の方はII（しっとり）かSP（超しっとり）がおすすめ。夜のみ使用でも効果が感じやすく、入門として選ばれやすい一本です。
-
-{{< rawhtml >}}
-<div class="caution-box">
-  <p class="caution-box-title">⚠️ こんな点は注意</p>
-  <ul>
-    <li>フローラル系の香りがあるため、香り敏感肌の方には合わない場合がある</li>
-    <li>テクスチャーが3種類あるため、まず店頭でテスターを試してから選ぶのがおすすめ</li>
-  </ul>
-</div>
-{{< /rawhtml >}}
-
-{{< rawhtml >}}
-<div class="fit-box">
-  <p class="fit-box-title">✅ こんな方に向いています</p>
-  <ul>
-    <li>ドラッグストアで気軽に購入したい方</li>
-    <li>ハリとうるおいを同時にケアしたい40代</li>
-    <li>乳液をはじめて取り入れるコスパ重視の方</li>
-  </ul>
-</div>
-{{< /rawhtml >}}
-
-{{< product
-  title="エリクシール シュペリエル リフトモイスト エマルジョン 130mL"
-  img="https://m.media-amazon.com/images/I/51QOhnDEycL._AC_SL500_.jpg"
-  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB0FHJZ7LDZ"
-  rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F9000010029276%2F"
->}}
-
----
-
-### 2位：ORBIS オルビスユー モイスチャー｜ノンオイルなのに乾燥しない高機能乳液
-
-**こんな人に：** べたつきが苦手・夜だけでなく朝にも使いたい・敏感肌傾向がある
-**向いていない方：** こっくりとしたしっとり感が好みの方・ドラッグストアで手軽に買いたい方
-
-ORBISの看板スキンケアライン「オルビスユー」の乳液。ノンオイル処方でありながら、独自成分「CALMED3（カームドスリー）」が肌のうるおいバリアをサポートします。
-
-乳液なのに油分を使わず保湿できる仕組みが特徴で、**ベタつきが苦手な40代に特に人気**があります。敏感肌向け・アレルギーテスト済み・無香料のため肌への刺激も最小限。
-
-- **テクスチャー：** さっぱり〜普通（ノンオイルで軽い）
-- **成分ポイント：** 独自保湿成分・低刺激処方
-- **価格帯：** 約3,000円前後（公式サイト購入が最安）
-
-{{< rawhtml >}}
-<div class="caution-box">
-  <p class="caution-box-title">⚠️ こんな点は注意</p>
-  <ul>
-    <li>ノンオイルのため、極度の乾燥肌には保湿が物足りなく感じる場合がある</li>
-    <li>ドラッグストアでは購入できず、公式サイトやネット注文が必要</li>
-  </ul>
-</div>
-{{< /rawhtml >}}
-
-{{< rawhtml >}}
-<div class="fit-box">
-  <p class="fit-box-title">✅ こんな方に向いています</p>
-  <ul>
-    <li>朝もベタつかず使いたい方</li>
-    <li>敏感肌・アレルギー体質で低刺激にこだわりたい方</li>
-    <li>さっぱりした使い心地で保湿もしたい混合肌の40代</li>
-  </ul>
-</div>
-{{< /rawhtml >}}
-
-{{< product
-  title="ORBIS オルビスユー モイスチャー 50g"
-  img="https://m.media-amazon.com/images/I/51BFwOkehIL._AC_SL500_.jpg"
-  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB0B8MGS3L4"
-  rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Forbis-shop%2Fr4908064091551%2F"
->}}
-
----
-
-### 3位：アスタリフト ホワイト モイスト エマルジョン｜シミ・くすみが気になる40代に
-
-**こんな人に：** シミ・くすみが気になる・美白ケアも同時にしたい・透明感を出したい
-**向いていない方：** シンプルな保湿だけを求める方・価格を抑えたい方
-
-富士フイルムの独自成分「ナノアスタキサンチン」を配合したエイジングケアライン。白い見た目が印象的なアスタリフトホワイトシリーズの乳液です。
-
-**美白有効成分（トラネキサム酸）配合の医薬部外品**として、メラニン生成を抑えてシミ・そばかすにアプローチ。エイジングケアと美白を同時に行いたい40代に向いています。
-
-- **テクスチャー：** やや濃密なしっとりタイプ
-- **成分ポイント：** トラネキサム酸（美白有効成分）・ナノアスタキサンチン
-- **価格帯：** 約4,000〜5,000円
-
-{{< rawhtml >}}
-<div class="caution-box">
-  <p class="caution-box-title">⚠️ こんな点は注意</p>
-  <ul>
-    <li>価格帯がやや高めのため、継続コストがかかる</li>
-    <li>しっとりとした重めのテクスチャーのため、脂性肌や夏場には向かない場合がある</li>
-  </ul>
-</div>
-{{< /rawhtml >}}
-
-{{< rawhtml >}}
-<div class="fit-box">
-  <p class="fit-box-title">✅ こんな方に向いています</p>
-  <ul>
-    <li>シミ・くすみ対策を乳液で同時にしたい方</li>
-    <li>エイジングケアと美白を一本でまかないたい方</li>
-    <li>乾燥肌で濃密な保湿を求める40代</li>
-  </ul>
-</div>
-{{< /rawhtml >}}
-
-{{< product
-  title="アスタリフト ホワイトエマルジョン 100mL"
-  img="https://m.media-amazon.com/images/I/613ohxQxkQL._AC_SL500_.jpg"
-  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB0851C9HH3"
-  rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Ffujifilm-h%2F16614578%2F"
->}}
-
----
-
-### 4位：肌ラボ 極潤プレミアム ヒアルロン乳液｜プチプラで高保湿・ドラッグストアで買える
-
-**こんな人に：** コスパ重視・はじめて乳液を試したい・まず試したい
-**向いていない方：** さっぱりとした使い心地が好みの方・香料・添加物を気にする方
-
-ヒアルロン酸保湿にこだわった「肌ラボ」の最高峰保湿ライン。**5種のヒアルロン酸**を配合し、スキンケアの最後に使うことでしっかりとうるおいをキープします。
-
-ドラッグストアで購入できる1,000円前後の価格帯ながら、保湿力の高さに定評があります。40代で初めて乳液を取り入れるときの入門としても使いやすい一本。
-
-- **テクスチャー：** しっとりとした高保湿タイプ
-- **成分ポイント：** 5種ヒアルロン酸・セラミド機能成分
-- **価格帯：** 約900〜1,100円（ドラッグストア）
-
-{{< rawhtml >}}
-<div class="caution-box">
-  <p class="caution-box-title">⚠️ こんな点は注意</p>
-  <ul>
-    <li>しっとり系のためさっぱり感が好みの方にはベタつきを感じる場合がある</li>
-    <li>防腐剤・添加物が含まれるため、成分に敏感な方は要確認</li>
-  </ul>
-</div>
-{{< /rawhtml >}}
-
-{{< rawhtml >}}
-<div class="fit-box">
-  <p class="fit-box-title">✅ こんな方に向いています</p>
-  <ul>
-    <li>コスパ重視で保湿力の高い乳液を探している方</li>
-    <li>はじめて乳液を取り入れる40代の入門として</li>
-    <li>ドラッグストアで手軽に購入・補充したい方</li>
-  </ul>
-</div>
-{{< /rawhtml >}}
-
-{{< product
-  title="肌ラボ 極潤プレミアム ヒアルロン乳液 140mL"
-  img="https://m.media-amazon.com/images/I/71cRBAijiBL._AC_SL500_.jpg"
-  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB08DRK9VH8"
-  rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F4987241167029%2F"
->}}
-
----
-
-### 5位：無印良品 エイジングケア乳液｜敏感肌でも使いやすいシンプル処方
-
-**こんな人に：** 敏感肌・添加物が気になる・シンプルなスキンケアにしたい
-**向いていない方：** こってり高保湿を求める方・ハリや美白への集中ケアを優先したい方
-
-無香料・無着色・無鉱物油・アルコールフリーの「4つの無添加」にこだわった乳液。乾燥を引き起こしやすいアルコールを配合していないため、敏感肌の方でも使いやすいのが特徴です。
-
-**ハトムギ由来成分・ローヤルゼリー**を配合し、エイジングケア（年齢に応じた保湿ケア）として使えるシリーズ。シンプルなパッケージ通り、余分なものを入れずに肌に必要な保湿を届けます。
-
-- **テクスチャー：** さっぱり〜普通
-- **成分ポイント：** ハトムギ由来成分・ローヤルゼリー・4つの無添加
-- **価格帯：** 約1,500〜1,900円（無印良品）
-
-{{< rawhtml >}}
-<div class="caution-box">
-  <p class="caution-box-title">⚠️ こんな点は注意</p>
-  <ul>
-    <li>保湿力はやや控えめで、極度の乾燥肌には物足りない場合がある</li>
-    <li>無印良品の店舗またはオンラインでしか購入できない</li>
-  </ul>
-</div>
-{{< /rawhtml >}}
-
-{{< rawhtml >}}
-<div class="fit-box">
-  <p class="fit-box-title">✅ こんな方に向いています</p>
-  <ul>
-    <li>敏感肌でも安心して使える低刺激乳液を探している方</li>
-    <li>余分な添加物を避けてシンプルなスキンケアにしたい方</li>
-    <li>年齢に応じた保湿ケアを無理なく始めたい40代</li>
-  </ul>
-</div>
-{{< /rawhtml >}}
-
-{{< product
-  title="無印良品 エイジングケア乳液 200mL"
-  img="https://m.media-amazon.com/images/I/51gA3L3WRnL._AC_SL500_.jpg"
-  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB0CT37VMC3"
-  rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fmujirushi-ryohin%2F4548076029076%2F"
->}}
 
 ---
 
@@ -353,6 +135,230 @@ ORBISの看板スキンケアライン「オルビスユー」の乳液。ノン
   </table>
 </div>
 {{< /rawhtml >}}
+
+---
+
+## 乳液おすすめ40代・乾燥肌向け厳選5選
+
+### 1位：エリクシール シュペリエル リフトモイスト エマルジョン｜ドラッグストアで買えるハリ・保湿の定番
+
+**こんな人に：** ドラッグストアで買いたい・ハリとうるおいを両方ほしい・コスパ重視
+**向いていない方：** 香り（フローラル系）が苦手な方・完全に無添加にこだわる方
+
+資生堂が展開するエリクシール シュペリエルシリーズの乳液です。「スキンコンディショニング成分」として独自開発した保湿成分を配合し、**使い続けるほど肌のコンディションが整う**ことを目指した処方が特徴。40代から長く支持されてきたシリーズです。
+
+- **テクスチャー：** I（さっぱり）・II（しっとり）・SP（超しっとり）の3種類
+- **成分ポイント：** 皮膚科学アプローチでうるおいをサポート
+- **香り：** ほのかなフローラル
+- **容量：** 130mL（たっぷり使える）
+- **価格帯：** 約1,700〜2,000円（ドラッグストア）
+
+乾燥肌の方はII（しっとり）かSP（超しっとり）がおすすめ。夜のみ使用でも効果が感じやすく、入門として選ばれやすい一本です。
+
+{{< rawhtml >}}
+<div class="caution-box">
+  <p class="caution-box-title">⚠️ こんな点は注意</p>
+  <ul>
+    <li>フローラル系の香りがあるため、香り敏感肌の方には合わない場合がある</li>
+    <li>テクスチャーが3種類あるため、まず店頭でテスターを試してから選ぶのがおすすめ</li>
+  </ul>
+</div>
+{{< /rawhtml >}}
+
+{{< rawhtml >}}
+<div class="fit-box">
+  <p class="fit-box-title">✅ こんな方に向いています</p>
+  <ul>
+    <li>ドラッグストアで気軽に購入したい方</li>
+    <li>ハリとうるおいを同時にケアしたい40代</li>
+    <li>乳液をはじめて取り入れるコスパ重視の方</li>
+  </ul>
+</div>
+{{< /rawhtml >}}
+
+{{< product
+  title="エリクシール シュペリエル リフトモイスト エマルジョン 130mL"
+  img="https://m.media-amazon.com/images/I/51QOhnDEycL._AC_SL500_.jpg"
+  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB0FHJZ7LDZ"
+  rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F9000010029276%2F"
+  yahoo="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcosmecom%2F1000213185.html"
+>}}
+
+---
+
+### 2位：ORBIS オルビスユー モイスチャー｜ノンオイルなのに乾燥しない高機能乳液
+
+**こんな人に：** べたつきが苦手・夜だけでなく朝にも使いたい・敏感肌傾向がある
+**向いていない方：** こっくりとしたしっとり感が好みの方・ドラッグストアで手軽に買いたい方
+
+ORBISの看板スキンケアライン「オルビスユー」の乳液。ノンオイル処方でありながら、独自成分「CALMED3（カームドスリー）」が肌のうるおいバリアをサポートします。
+
+乳液なのに油分を使わず保湿できる仕組みが特徴で、**ベタつきが苦手な40代に特に人気**があります。敏感肌向け・アレルギーテスト済み・無香料のため肌への刺激も最小限。
+
+- **テクスチャー：** さっぱり〜普通（ノンオイルで軽い）
+- **成分ポイント：** 独自保湿成分・低刺激処方
+- **価格帯：** 約3,000円前後（公式サイト購入が最安）
+
+{{< rawhtml >}}
+<div class="caution-box">
+  <p class="caution-box-title">⚠️ こんな点は注意</p>
+  <ul>
+    <li>ノンオイルのため、極度の乾燥肌には保湿が物足りなく感じる場合がある</li>
+    <li>ドラッグストアでは購入できず、公式サイトやネット注文が必要</li>
+  </ul>
+</div>
+{{< /rawhtml >}}
+
+{{< rawhtml >}}
+<div class="fit-box">
+  <p class="fit-box-title">✅ こんな方に向いています</p>
+  <ul>
+    <li>朝もベタつかず使いたい方</li>
+    <li>敏感肌・アレルギー体質で低刺激にこだわりたい方</li>
+    <li>さっぱりした使い心地で保湿もしたい混合肌の40代</li>
+  </ul>
+</div>
+{{< /rawhtml >}}
+
+{{< product
+  title="ORBIS オルビスユー モイスチャー 50g"
+  img="https://m.media-amazon.com/images/I/51BFwOkehIL._AC_SL500_.jpg"
+  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB0B8MGS3L4"
+  rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Forbis-shop%2Fr4908064091551%2F"
+  yahoo="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkumokumo-square%2F10035462.html"
+>}}
+
+---
+
+### 3位：アスタリフト ホワイト モイスト エマルジョン｜シミ・くすみが気になる40代に
+
+**こんな人に：** シミ・くすみが気になる・美白ケアも同時にしたい・透明感を出したい
+**向いていない方：** シンプルな保湿だけを求める方・価格を抑えたい方
+
+富士フイルムの独自成分「ナノアスタキサンチン」を配合したエイジングケアライン。白い見た目が印象的なアスタリフトホワイトシリーズの乳液です。
+
+**美白有効成分（トラネキサム酸）配合の医薬部外品**として、メラニン生成を抑えてシミ・そばかすにアプローチ。エイジングケアと美白を同時に行いたい40代に向いています。
+
+- **テクスチャー：** やや濃密なしっとりタイプ
+- **成分ポイント：** トラネキサム酸（美白有効成分）・ナノアスタキサンチン
+- **価格帯：** 約4,000〜5,000円
+
+{{< rawhtml >}}
+<div class="caution-box">
+  <p class="caution-box-title">⚠️ こんな点は注意</p>
+  <ul>
+    <li>価格帯がやや高めのため、継続コストがかかる</li>
+    <li>しっとりとした重めのテクスチャーのため、脂性肌や夏場には向かない場合がある</li>
+  </ul>
+</div>
+{{< /rawhtml >}}
+
+{{< rawhtml >}}
+<div class="fit-box">
+  <p class="fit-box-title">✅ こんな方に向いています</p>
+  <ul>
+    <li>シミ・くすみ対策を乳液で同時にしたい方</li>
+    <li>エイジングケアと美白を一本でまかないたい方</li>
+    <li>乾燥肌で濃密な保湿を求める40代</li>
+  </ul>
+</div>
+{{< /rawhtml >}}
+
+{{< product
+  title="アスタリフト ホワイトエマルジョン 100mL"
+  img="https://m.media-amazon.com/images/I/613ohxQxkQL._AC_SL500_.jpg"
+  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB0851C9HH3"
+  rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Ffujifilm-h%2F16614578%2F"
+  yahoo="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffujifilm-h%2F16614578.html"
+>}}
+
+---
+
+### 4位：肌ラボ 極潤プレミアム ヒアルロン乳液｜プチプラで高保湿・ドラッグストアで買える
+
+**こんな人に：** コスパ重視・はじめて乳液を試したい・まず試したい
+**向いていない方：** さっぱりとした使い心地が好みの方・香料・添加物を気にする方
+
+ヒアルロン酸保湿にこだわった「肌ラボ」の最高峰保湿ライン。**5種のヒアルロン酸**を配合し、スキンケアの最後に使うことでしっかりとうるおいをキープします。
+
+ドラッグストアで購入できる1,000円前後の価格帯ながら、保湿力の高さに定評があります。40代で初めて乳液を取り入れるときの入門としても使いやすい一本。
+
+- **テクスチャー：** しっとりとした高保湿タイプ
+- **成分ポイント：** 5種ヒアルロン酸・セラミド機能成分
+- **価格帯：** 約900〜1,100円（ドラッグストア）
+
+{{< rawhtml >}}
+<div class="caution-box">
+  <p class="caution-box-title">⚠️ こんな点は注意</p>
+  <ul>
+    <li>しっとり系のためさっぱり感が好みの方にはベタつきを感じる場合がある</li>
+    <li>防腐剤・添加物が含まれるため、成分に敏感な方は要確認</li>
+  </ul>
+</div>
+{{< /rawhtml >}}
+
+{{< rawhtml >}}
+<div class="fit-box">
+  <p class="fit-box-title">✅ こんな方に向いています</p>
+  <ul>
+    <li>コスパ重視で保湿力の高い乳液を探している方</li>
+    <li>はじめて乳液を取り入れる40代の入門として</li>
+    <li>ドラッグストアで手軽に購入・補充したい方</li>
+  </ul>
+</div>
+{{< /rawhtml >}}
+
+{{< product
+  title="肌ラボ 極潤プレミアム ヒアルロン乳液 140mL"
+  img="https://m.media-amazon.com/images/I/71cRBAijiBL._AC_SL500_.jpg"
+  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB08DRK9VH8"
+  rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F4987241167029%2F"
+  yahoo="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fy-kojima%2F4987241167029.html"
+>}}
+
+---
+
+### 5位：無印良品 エイジングケア乳液｜敏感肌でも使いやすいシンプル処方
+
+**こんな人に：** 敏感肌・添加物が気になる・シンプルなスキンケアにしたい
+**向いていない方：** こってり高保湿を求める方・ハリや美白への集中ケアを優先したい方
+
+無香料・無着色・無鉱物油・アルコールフリーの「4つの無添加」にこだわった乳液。乾燥を引き起こしやすいアルコールを配合していないため、敏感肌の方でも使いやすいのが特徴です。
+
+**ハトムギ由来成分・ローヤルゼリー**を配合し、エイジングケア（年齢に応じた保湿ケア）として使えるシリーズ。シンプルなパッケージ通り、余分なものを入れずに肌に必要な保湿を届けます。
+
+- **テクスチャー：** さっぱり〜普通
+- **成分ポイント：** ハトムギ由来成分・ローヤルゼリー・4つの無添加
+- **価格帯：** 約1,500〜1,900円（無印良品）
+
+{{< rawhtml >}}
+<div class="caution-box">
+  <p class="caution-box-title">⚠️ こんな点は注意</p>
+  <ul>
+    <li>保湿力はやや控えめで、極度の乾燥肌には物足りない場合がある</li>
+    <li>無印良品の店舗またはオンラインでしか購入できない</li>
+  </ul>
+</div>
+{{< /rawhtml >}}
+
+{{< rawhtml >}}
+<div class="fit-box">
+  <p class="fit-box-title">✅ こんな方に向いています</p>
+  <ul>
+    <li>敏感肌でも安心して使える低刺激乳液を探している方</li>
+    <li>余分な添加物を避けてシンプルなスキンケアにしたい方</li>
+    <li>年齢に応じた保湿ケアを無理なく始めたい40代</li>
+  </ul>
+</div>
+{{< /rawhtml >}}
+
+{{< product
+  title="無印良品 エイジングケア乳液 200mL"
+  img="https://m.media-amazon.com/images/I/51gA3L3WRnL._AC_SL500_.jpg"
+  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB0CT37VMC3"
+  rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fmujirushi-ryohin%2F4548076029076%2F"
+  yahoo="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fzozo%2F100797656.html"
+>}}
 
 ---
 
@@ -423,6 +429,7 @@ ORBISの看板スキンケアライン「オルビスユー」の乳液。ノン
   img="https://m.media-amazon.com/images/I/51QOhnDEycL._AC_SL500_.jpg"
   amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB0FHJZ7LDZ"
   rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F9000010029276%2F"
+  yahoo="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcosmecom%2F1000213185.html"
 >}}
 
 ---
