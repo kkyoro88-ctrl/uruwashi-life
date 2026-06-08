@@ -4,6 +4,11 @@
   <div class="top-bar">
     <span class="top-bar-tagline">30〜40代女性のための美容と暮らし</span>
     <div class="top-bar-sns">
+      {{- with site.Params.xUrl }}
+      <a href="{{ . }}" class="top-sns-link" target="_blank" rel="noopener" title="X(Twitter)" aria-label="X(Twitter)">
+        <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-4.714-6.231-5.401 6.231H2.754l7.73-8.835-8.162-10.665h7.217l4.256 5.622 5.449-5.622z"/></svg>
+      </a>
+      {{- end }}
       <a href="/search/" class="top-sns-link" title="検索" aria-label="検索">
         <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
       </a>

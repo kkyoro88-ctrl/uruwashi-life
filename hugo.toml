@@ -23,6 +23,9 @@ hasCJKLanguage = true
   DateFormat = "2006年1月2日"
   mainSections = ["posts"]
 
+  # SNSリンク
+  xUrl = "https://x.com/uruwashi_life"
+
   # サイドバー プロフィール
   profileName = "うる"
   profileDesc = "40代・乾燥敏感肌。美容にお金をかけるたびに「なんか違う」で終わることを繰り返してきました。その失敗の数だけ、本当によかったものがわかる気がして、書き続けています。迷っている方の「これにしよう」が見つかれば嬉しいです。"

@@ -24,6 +24,13 @@
     <p class="profile-name">{{ site.Params.profileName }}</p>
     <p class="profile-desc">{{ site.Params.profileDesc }}</p>
     <a href="/about/" class="profile-btn">プロフィール</a>
+    {{- if site.Params.xUrl }}
+    <div class="profile-sns">
+      <a href="{{ site.Params.xUrl }}" class="profile-sns-link" target="_blank" rel="noopener" title="X(Twitter)" aria-label="X(Twitter)">
+        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-4.714-6.231-5.401 6.231H2.754l7.73-8.835-8.162-10.665h7.217l4.256 5.622 5.449-5.622z"/></svg>
+      </a>
+    </div>
+    {{- end }}
   </div>
 
   {{/* ── 今月のうるわしPICK（オリジナル） ── */}}

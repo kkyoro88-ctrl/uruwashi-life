@@ -9,3 +9,77 @@
 <link rel="dns-prefetch" href="//m.media-amazon.com">
 <!-- Google AdSense -->
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6446354454702899" crossorigin="anonymous"></script>
+
+{{- /* ── FAQPage Schema（よくある質問セクションから自動抽出） ── */}}
+{{- if .IsPage }}
+{{- $raw := .RawContent }}
+{{- $faqItems := slice }}
+{{- if in $raw "よくある質問" }}
+
+  {{- /* H2見出し「よくある質問」を柔軟にマッチ（「目元ケアに関するよくある質問」なども対応） */}}
+  {{- $faqHeadings := findRE `## [^\n]*よくある質問[^\n]*` $raw }}
+  {{- $faqSection := "" }}
+  {{- with index $faqHeadings 0 }}
+    {{- $afterFaq := index (split $raw .) 1 | default "" }}
+    {{- $faqSection = index (split $afterFaq "\n## ") 0 }}
+  {{- end }}
+
+  {{- if $faqSection }}
+
+    {{- /* Pattern A: H3形式（### Q. question / ### question） */}}
+    {{- $blocks := split $faqSection "\n### " }}
+    {{- range $i, $block := $blocks }}
+      {{- if gt $i 0 }}
+        {{- $lines := split (strings.TrimSpace $block) "\n" }}
+        {{- if ge (len $lines) 2 }}
+          {{- $q := index $lines 0 | strings.TrimPrefix "Q. " | strings.TrimPrefix "Q：" | strings.TrimPrefix "Q." | strings.TrimSpace }}
+          {{- $aLines := after 1 $lines }}
+          {{- $a := delimit $aLines " " | strings.TrimSpace | replaceRE `^A[\.．：]\s*` "" | replaceRE `\*\*([^*]+)\*\*` "$1" | replaceRE `\s+` " " | strings.TrimSpace }}
+          {{- if and $q $a }}
+            {{- $faqItems = $faqItems | append (dict "q" $q "a" $a) }}
+          {{- end }}
+        {{- end }}
+      {{- end }}
+    {{- end }}
+
+    {{- /* Pattern B: Bold形式（**Q. question**）- H3が見つからなかった場合 */}}
+    {{- if eq (len $faqItems) 0 }}
+      {{- $boldBlocks := split $faqSection "\n**Q." }}
+      {{- range $i, $block := $boldBlocks }}
+        {{- if gt $i 0 }}
+          {{- $lines := split (strings.TrimSpace $block) "\n" }}
+          {{- if ge (len $lines) 2 }}
+            {{- $q := index $lines 0 | replaceRE `\*+\s*$` "" | strings.TrimSpace }}
+            {{- $aLines := after 1 $lines }}
+            {{- $a := delimit $aLines " " | strings.TrimSpace | replaceRE `^A[\.．：]\s*` "" | replaceRE `\*\*([^*]+)\*\*` "$1" | replaceRE `\s+` " " | strings.TrimSpace }}
+            {{- if and $q $a }}
+              {{- $faqItems = $faqItems | append (dict "q" $q "a" $a) }}
+            {{- end }}
+          {{- end }}
+        {{- end }}
+      {{- end }}
+    {{- end }}
+
+  {{- end }}
+{{- end }}
+{{- with $faqItems }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {{- range $i, $item := . }}{{ if $i }},{{ end }}
+    {
+      "@type": "Question",
+      "name": {{ $item.q }},
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": {{ $item.a }}
+      }
+    }
+    {{- end }}
+  ]
+}
+</script>
+{{- end }}
+{{- end }}

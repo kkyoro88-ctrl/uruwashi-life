@@ -182,7 +182,9 @@
     </nav>
 
     {{/* ── 関連記事（オリジナル） ── */}}
-    {{- $related := site.RegularPages | complement (slice $page) | first 4 }}
+    {{- $allPosts := where site.RegularPages "Type" "in" site.Params.mainSections | complement (slice $page) }}
+    {{- $catRelated := where $allPosts "Params.categories" "intersect" $page.Params.categories | first 4 }}
+    {{- $related := cond (ge (len $catRelated) 2) $catRelated ($allPosts | first 4) }}
     {{- if $related }}
     <section class="related-section">
       <div class="related-heading">

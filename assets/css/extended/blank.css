@@ -500,6 +500,30 @@ header.header { display: none !important; }
 }
 .profile-btn:hover { background: var(--accent-dark); }
 
+/* プロフィール SNSリンク */
+.profile-sns {
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  margin-top: 14px;
+}
+.profile-sns-link {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 34px;
+  height: 34px;
+  border-radius: 50%;
+  border: 1.5px solid var(--border);
+  color: var(--secondary);
+  transition: all 0.2s;
+}
+.profile-sns-link:hover {
+  border-color: var(--accent);
+  color: var(--accent);
+  background: rgba(200,96,122,0.06);
+}
+
 /* 今月のうるわしPICK（オリジナル） */
 .widget-pick { padding: 16px; }
 .pick-card { display: block; }
