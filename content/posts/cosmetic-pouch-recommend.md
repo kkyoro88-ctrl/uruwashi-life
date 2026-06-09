@@ -1,7 +1,7 @@
 ---
 title: "コスメポーチおすすめ5選【40代の朝の「探せない」ストレスをなくす】"
 date: 2026-04-21
-lastmod: 2026-05-30
+lastmod: 2026-06-09
 draft: false
 affiliate: true
 categories: ["暮らし・美容グッズ"]
@@ -287,6 +287,8 @@ price_checked: "2026-05-28"
 
 ポーチの中身を整えたら、スキンケアアイテム自体も見直してみませんか。
 
-> 40代の肌が変わるスキンケアの見直し方は[更年期の肌荒れ・乾燥ケアの記事](/posts/menopause-skincare/)にまとめています。
+## 合わせて読みたい
 
-> 美顔器で本格的なケアを始めたい方は[美顔器おすすめ記事](/posts/facial-device-recommend/)も参考にしてみてください。
+- [40代スキンケアおすすめ完全ガイド｜乾燥敏感肌が選ぶカテゴリ別まとめ](/posts/skincare-products-40s-guide/)
+- [【2026年最新】40代スキンケアルーティン完全ガイド｜乾燥・シワ・くすみへのアプローチ](/posts/skincare-routine-40s-guide/)
+- [フェイスパウダーおすすめ40代4選｜くすみ・毛穴・崩れをカバーする選び方](/posts/face-powder-40s-recommend/)

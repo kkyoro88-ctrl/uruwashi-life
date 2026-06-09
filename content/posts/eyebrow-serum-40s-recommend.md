@@ -299,3 +299,9 @@ price_checked: "2026-06-07"
 > 眉の薄さとホルモンの関係は[まつ毛美容液おすすめ40代向け3選](/posts/eyelash-serum-40s-recommend/)でも詳しく解説しています。
 
 > 目元全体のケアには[アイクリームおすすめ40代向け3選](/posts/eye-cream-40s-recommend/)もあわせてどうぞ。
+
+## 合わせて読みたい
+
+- [40代のまつ毛美容液おすすめ3選](/posts/eyelash-serum-40s-recommend/)
+- [アイクリームおすすめ40代向け3選](/posts/eye-cream-40s-recommend/)
+- [40代の目元ケアガイド](/posts/eye-care-40s-guide/)

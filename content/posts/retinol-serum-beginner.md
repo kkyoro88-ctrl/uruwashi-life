@@ -329,3 +329,9 @@ No46.を半年ほど使ってきて、肌が少しレチノールに慣れてき
 > シワそのものに働きかけたい場合は[シワ改善クリーム・美容液おすすめ40代向け3選](/posts/wrinkle-cream-40s-recommend/)もあわせてどうぞ。
 
 > 目元のシワ・たるみが気になる方は[アイクリームおすすめ40代向け3選](/posts/eye-cream-40s-recommend/)もあわせてご覧ください。
+
+## 合わせて読みたい
+
+- [ビタミンC誘導体配合美容液おすすめ40代向け5選](/posts/vitamin-c-serum-40s-recommend/)
+- [40代スキンケアルーティン完全ガイド](/posts/skincare-routine-40s-guide/)
+- [40代エイジングケアおすすめガイド](/posts/antiaging-skincare-40s-guide/)

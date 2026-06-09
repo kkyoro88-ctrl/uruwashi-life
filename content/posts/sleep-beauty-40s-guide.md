@@ -1,7 +1,7 @@
 ---
 title: "40代の睡眠と美容の関係｜睡眠の質を上げると肌が変わる理由"
 date: 2026-05-22
-lastmod: 2026-05-28
+lastmod: 2026-06-09
 draft: false
 affiliate: false
 categories: ["インナーケア"]
@@ -241,7 +241,8 @@ A. 就寝1〜2時間前からスクリーン使用を控えることが推奨さ
 
 ---
 
-*関連記事：[40代エイジングケアおすすめガイド](/posts/antiaging-skincare-40s-guide/)*
-*関連記事：[40代の腸活美肌ガイド](/posts/gut-beauty-40s-guide/)*
-*関連記事：[更年期のスキンケア完全ガイド](/posts/menopause-skincare/)*
-*関連記事：[40代インナーケアおすすめガイド](/posts/inner-care-40s-guide/)*
+## 合わせて読みたい
+
+- [【2026年最新】40代スキンケアルーティン完全ガイド｜乾燥・シワ・くすみへのアプローチ](/posts/skincare-routine-40s-guide/)
+- [40代インナーケアおすすめガイド｜NMN・コラーゲンサプリで内側からエイジングケアする方法](/posts/inner-care-40s-guide/)
+- [40代の腸活美肌ガイド｜腸内環境を整えると肌が変わる理由と方法](/posts/gut-beauty-40s-guide/)

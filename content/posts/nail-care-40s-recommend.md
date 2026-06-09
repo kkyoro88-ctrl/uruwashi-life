@@ -1,7 +1,7 @@
 ---
 title: "ネイルケアおすすめ40代｜爪が割れやすくなった悩みに向けた厳選3選と選び方"
 date: 2026-05-17
-lastmod: 2026-05-30
+lastmod: 2026-06-09
 draft: false
 affiliate: true
 categories: ["ネイルケア"]
@@ -221,4 +221,8 @@ price_checked: "2026-05-28"
 
 ---
 
-*関連記事：[ハンドクリームおすすめ40代向け](/posts/hand-cream-recommend-40s/)｜[40代スキンケアルーティン完全ガイド](/posts/skincare-routine-40s-guide/)*
+## 合わせて読みたい
+
+- [40代のハンドクリームおすすめ5選](/posts/hand-cream-recommend-40s/)
+- [40代ボディクリームおすすめ5選](/posts/body-cream-recommend-40s/)
+- [40代のリップ美容液おすすめ3選](/posts/lip-care-40s-recommend/)

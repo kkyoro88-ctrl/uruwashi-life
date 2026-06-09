@@ -1,7 +1,7 @@
 ---
 title: "コンシーラー40代おすすめ7選｜ほうれい線・シミ・クマ、よれない選び方"
 date: 2026-05-29
-lastmod: 2026-05-29
+lastmod: 2026-06-09
 draft: false
 affiliate: true
 categories: ["メイク", "おすすめ"]
@@ -248,3 +248,9 @@ price_checked: "2026-05-29"
 - **ツヤ感を残したい** → NARS
 
 まずはプチプラのセザンヌで試して、悩みに合ったものを見つけていくのがおすすめです。
+
+## 合わせて読みたい
+
+- [ファンデーション 40代おすすめ3選](/posts/foundation-40s-recommend/)
+- [フェイスパウダーおすすめ40代4選](/posts/face-powder-40s-recommend/)
+- [アイクリームおすすめ40代向け3選](/posts/eye-cream-40s-recommend/)

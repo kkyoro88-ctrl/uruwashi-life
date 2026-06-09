@@ -1,7 +1,7 @@
 ---
 title: "40代の正しいシャンプーの仕方｜頭皮を傷めない洗い方と乾かし方"
 date: 2026-05-09
-lastmod: 2026-05-28
+lastmod: 2026-06-09
 draft: false
 affiliate: false
 categories: ["ヘアケア"]
@@ -355,3 +355,9 @@ cover:
 シャンプーのアイテム選びに迷っている方は、[40代のシャンプーおすすめ3選（うねり・乾燥タイプ向け）](/posts/shampoo-40s-recommend/)も参考にどうぞ。
 
 40代のヘアケアを全体的に見直したい方は、[40代ヘアケアおすすめガイド｜薄毛・抜け毛・ハリ不足の原因と対策](/posts/haircare-40s-guide/)でシャンプー選びからアウトバスまでまとめています。
+
+## 合わせて読みたい
+
+- [40代シャンプーおすすめ3選](/posts/shampoo-40s-recommend/)
+- [ヘアパックおすすめ40代3選](/posts/hair-pack-40s-recommend/)
+- [女性用育毛剤おすすめ6選](/posts/hairgrowth-serum-40s-recommend/)

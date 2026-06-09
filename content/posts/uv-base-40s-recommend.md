@@ -1,7 +1,7 @@
 ---
 title: "UV化粧下地おすすめ5選【40代のくすみ・崩れ・日焼けに効くSPF50の選び方】"
 date: 2026-06-04
-lastmod: 2026-06-06
+lastmod: 2026-06-09
 draft: false
 affiliate: true
 categories: ["スキンケア"]
@@ -359,3 +359,9 @@ UV化粧下地は、日焼け止めと下地の二度手間をなくしながら
 日焼け止め単体で選びたい方は[40代向け日焼け止めおすすめ記事](/posts/sunscreen-recommend/)も参考にしてみてください。
 
 > スキンケアの仕上げ前に使う化粧下地選びについては[プライマー・化粧下地記事](/posts/primer-40s-recommend/)にまとめています。
+
+## 合わせて読みたい
+
+- [40代向け日焼け止めおすすめ5選](/posts/sunscreen-recommend/)
+- [40代の日焼け止めおすすめ5選｜乾燥肌・敏感肌向け成分と選び方](/posts/sunscreen-40s-recommend/)
+- [化粧下地おすすめ40代5選](/posts/primer-40s-recommend/)

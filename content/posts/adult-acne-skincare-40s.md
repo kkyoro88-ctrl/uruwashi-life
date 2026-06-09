@@ -196,3 +196,9 @@ price_checked: "2026-06-02"
   <img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4B5LK5+29KENM+1USQ+BXYEA" alt="">
 </div>
 {{< /rawhtml >}}
+
+## 合わせて読みたい
+
+- [洗顔料おすすめ40代向け3選](/posts/face-wash-40s-recommend/)
+- [ピーリングおすすめ40代](/posts/peeling-40s-recommend/)
+- [40代スキンケアルーティン完全ガイド](/posts/skincare-routine-40s-guide/)

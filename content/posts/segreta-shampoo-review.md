@@ -1,7 +1,7 @@
 ---
 title: "セグレタ プレミア シャンプー 口コミ【40代・ぺたんこ髪に使ってみた】"
 date: 2026-05-20
-lastmod: 2026-05-30
+lastmod: 2026-06-09
 draft: false
 affiliate: true
 categories: ["ヘアケア"]
@@ -192,3 +192,9 @@ price_checked: "2026-05-28"
   img="https://item-shopping.c.yimg.jp/i/l/sundrugec_4901301447227"
   rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fkao-haircare%2Fsegreta-20%2F"
 >}}
+
+## 合わせて読みたい
+
+- [40代シャンプーおすすめ3選](/posts/shampoo-40s-recommend/)
+- [40代ヘアケアおすすめガイド](/posts/haircare-40s-guide/)
+- [haru kurokami スカルプを40代が使った口コミ](/posts/scalp-shampoo-40s-recommend/)

@@ -1,6 +1,7 @@
 ---
 title: "melt スムースシャンプー口コミ｜40代乾燥毛に使ってみた正直な感想"
 date: 2026-05-20
+lastmod: 2026-06-09
 draft: false
 affiliate: true
 categories: ["ヘアケア"]
@@ -182,3 +183,9 @@ melt スムースシャンプーは「すぐに劇的な変化」を求める方
   rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fkao-haircare%2Fmelt-02%2F"
   amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB0DVG8C6S1"
 >}}
+
+## 合わせて読みたい
+
+- [40代シャンプーおすすめ3選](/posts/shampoo-40s-recommend/)
+- [haru kurokami スカルプを40代が使った口コミ](/posts/scalp-shampoo-40s-recommend/)
+- [女性用育毛剤おすすめ6選](/posts/hairgrowth-serum-40s-recommend/)

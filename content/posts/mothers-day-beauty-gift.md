@@ -1,7 +1,7 @@
 ---
 title: "母の日に贈る美容ギフト5選【40代・50代のお母さんが自分では買わないけど嬉しいもの】"
 date: 2026-04-24
-lastmod: 2026-05-14
+lastmod: 2026-06-09
 draft: false
 affiliate: true
 categories: ["ギフト・プレゼント"]
@@ -170,6 +170,8 @@ price_checked: "2026-05-28"
 
 お母さん自身が使える美容アイテムをもう少し探したい方へ。
 
-> 自然派スキンケアに興味がある方は[飲む美容液おすすめ記事](/posts/drinking-beauty-recommend/)もあわせてどうぞ。
+## 合わせて読みたい
 
-> エイジングケアをしっかり始めたい方は[美顔器おすすめ記事](/posts/facial-device-recommend/)も参考にしてみてください。
+- [【2026年最新】洗顔料おすすめ40代向け3選｜乾燥・毛穴・くすみ別の選び方と使い方](/posts/face-wash-40s-recommend/)
+- [オルビスユードット クリームモイスチャライザー 口コミ｜40代のエイジングケアを成分から解説](/posts/moisturizer-40s-recommend/)
+- [40代のハンドクリームおすすめ5選｜乾燥・シワ・老け手に選ぶべき成分と使い方](/posts/hand-cream-recommend-40s/)

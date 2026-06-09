@@ -186,5 +186,8 @@ price_checked: "2026-05-30"
   yahoo="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fehac%2F4580294850674.html"
 >}}
 
-*関連記事：[ボディオイルおすすめ40代乾燥肌向け3選](/posts/body-oil-40s-recommend/)*
-*関連記事：[ボディクリームおすすめ40代乾燥肌向け3選](/posts/body-cream-recommend-40s/)*
+## 合わせて読みたい
+
+- [40代ボディクリームおすすめ5選](/posts/body-cream-recommend-40s/)
+- [40代乾燥肌におすすめボディオイル3選](/posts/body-oil-40s-recommend/)
+- [洗い流さないトリートメント40代おすすめ3選](/posts/outbath-treatment-40s-recommend/)

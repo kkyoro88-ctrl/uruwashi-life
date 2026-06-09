@@ -1,7 +1,7 @@
 ---
 title: "haru kurokami スカルプを40代が使った口コミ｜天然由来シャンプーの使用感・特徴は？"
 date: 2026-04-25
-lastmod: 2026-06-02
+lastmod: 2026-06-09
 description: "40代女性がharu kurokamiスカルプを実際に使用した口コミレビュー。100%天然由来・ノンシリコン処方の特徴と、40代の頭皮・髪悩みへの使用感を詳しく解説。スカルプDボーテ・ルメントとの比較も。"
 tags: ["ヘアケア", "40代", "シャンプー", "頭皮ケア"]
 categories: ["ヘアケア"]
@@ -230,3 +230,9 @@ haru kurokami スカルプは、天然由来成分・ノンシリコン・無添
 <a href="/posts/haircare-40s-guide/" class="related-link">40代ヘアケアおすすめガイド</a>
 <a href="/posts/currentbody-led-hair-review/" class="related-link">CurrentBody LED頭皮ケアデバイスの口コミ</a>
 {{< /rawhtml >}}
+
+## 合わせて読みたい
+
+- [40代シャンプーおすすめ3選](/posts/shampoo-40s-recommend/)
+- [女性用育毛剤おすすめ6選](/posts/hairgrowth-serum-40s-recommend/)
+- [ヘアパックおすすめ40代3選](/posts/hair-pack-40s-recommend/)

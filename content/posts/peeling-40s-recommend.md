@@ -326,3 +326,9 @@ suisai ビューティークリア パウダーウォッシュの使い方・口
 > 40代の洗顔・クレンジング全体の見直しは[40代の正しい洗顔・クレンジング方法](/posts/cleansing-how-to-40s/)もあわせてどうぞ。
 
 > 40代のスキンケア全体の流れは[40代スキンケアルーティン完全ガイド](/posts/skincare-routine-40s-guide/)でまとめています。
+
+## 合わせて読みたい
+
+- [洗顔料おすすめ40代向け3選](/posts/face-wash-40s-recommend/)
+- [40代の毛穴ケアおすすめ3選](/posts/pore-care-40s-recommend/)
+- [40代の大人ニキビ スキンケアおすすめ](/posts/adult-acne-skincare-40s/)

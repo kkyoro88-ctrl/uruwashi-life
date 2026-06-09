@@ -1,7 +1,7 @@
 ---
 title: "エクオールサプリおすすめランキング3選｜40代の効果・副作用・いつからを解説"
 date: 2026-04-30
-lastmod: 2026-06-01
+lastmod: 2026-06-09
 description: "エクオールサプリおすすめ3選をランキング形式で紹介。効果がいつから出るか・副作用・飲み方も解説。エクエル・DHCエクオールなど40代の更年期ケアに向けた比較ガイドです。"
 tags: ["更年期", "インナーケア", "サプリ", "40代"]
 draft: false
@@ -298,8 +298,8 @@ A. 明確な基準はありませんが、40代から始める方が多いです
   yahoo="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fekuserennto%2F4018-016.html"
 >}}
 
-{{< related url="/posts/inner-care-40s-guide/" >}}
+## 合わせて読みたい
 
-{{< related url="/posts/menopause-skincare/" >}}
-
-{{< related url="/posts/nmn-supplement-40s-recommend/" >}}
+- [40代インナーケアおすすめガイド｜NMN・コラーゲンサプリで内側からエイジングケアする方法](/posts/inner-care-40s-guide/)
+- [コラーゲンサプリおすすめ40代女性向け比較3選｜効果・選び方・飲み方を解説](/posts/collagen-supplement-40s-recommend/)
+- [更年期の肌荒れ・乾燥はなぜ起きる？40代が実践したスキンケアの見直し方](/posts/menopause-skincare/)

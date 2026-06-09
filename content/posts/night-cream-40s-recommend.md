@@ -1,7 +1,7 @@
 ---
 title: "【2026年最新】ナイトクリームおすすめ40代向け3選｜乾燥・シワへの夜間アプローチ"
 date: 2026-05-20
-lastmod: 2026-06-06
+lastmod: 2026-06-09
 draft: false
 affiliate: true
 categories: ["スキンケア"]
@@ -199,5 +199,8 @@ price_checked: "2026-06-06"
   yahoo="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcosmecom%2F1000047037.html"
 >}}
 
-*関連記事：[シワ改善クリーム・美容液おすすめ40代向け3選](/posts/wrinkle-cream-40s-recommend/)*
-*関連記事：[40代スキンケアルーティン完全ガイド](/posts/skincare-routine-40s-guide/)*
+## 合わせて読みたい
+
+- [オルビスユードット クリームモイスチャライザー 口コミ｜40代のエイジングケアを成分から解説](/posts/moisturizer-40s-recommend/)
+- [乳液おすすめ40代5選](/posts/emulsion-recommend-40s/)
+- [40代スキンケアルーティン完全ガイド](/posts/skincare-routine-40s-guide/)

@@ -1,7 +1,7 @@
 ---
 title: "オルビス アンバーの口コミ・評価【コラーゲン×NMN配合の飲む美容液を40代が正直レビュー】"
 date: 2026-04-23
-lastmod: 2026-05-30
+lastmod: 2026-06-09
 draft: false
 affiliate: true
 categories: ["インナーケア", "口コミ・レビュー"]
@@ -182,3 +182,9 @@ price_checked: "2026-05-28"
 > 外側のスキンケアも見直したい方は[更年期の肌荒れ・乾燥対策記事](/posts/menopause-skincare/)もあわせてどうぞ。
 
 > 他の飲む美容液も比較したい方は[飲む美容液おすすめ記事](/posts/drinking-beauty-recommend/)もご覧ください。
+
+## 合わせて読みたい
+
+- [オルビスユードット クリームモイスチャライザー 口コミ｜40代のエイジングケアを成分から解説](/posts/moisturizer-40s-recommend/)
+- [40代スキンケアルーティン完全ガイド](/posts/skincare-routine-40s-guide/)
+- [40代エイジングケアおすすめガイド](/posts/antiaging-skincare-40s-guide/)

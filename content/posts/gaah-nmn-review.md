@@ -200,4 +200,8 @@ Gaah NMNは、品質の透明性と純度への徹底したこだわりが特徴
 </div>
 {{< /rawhtml >}}
 
-> GaahNMNをはじめNMN・コラーゲンサプリの選び方は[40代インナーケアおすすめガイド](/posts/inner-care-40s-guide/)でまとめています。
+## 合わせて読みたい
+
+- [NMNサプリ日本製おすすめ5選｜40代が選ぶ純度・含有量・コスパ比較](/posts/nmn-supplement-40s-recommend/)
+- [NMN 15000 WHITE premium（女性専用）の口コミ・レビュー｜40代が試してわかった効果と正直な評価](/posts/nmn-15000-white-premium-review/)
+- [40代インナーケアおすすめガイド｜NMN・コラーゲンサプリで内側からエイジングケアする方法](/posts/inner-care-40s-guide/)
