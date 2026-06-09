@@ -1,7 +1,7 @@
 ---
 title: "【2026年最新】白髪カラートリートメントおすすめ5選｜40代・傷めずに白髪をケアする選び方"
 date: 2026-05-10
-lastmod: 2026-05-30
+lastmod: 2026-06-09
 draft: false
 affiliate: true
 categories: ["ヘアケア", "おすすめ"]
@@ -11,11 +11,11 @@ summary_points:
   - "カラートリートメントが40代に向いている理由"
   - "染着力・成分・使いやすさの3点で選ぶコツ"
   - "向いている人・合わなかった理由を正直に紹介"
-  - "利尻・ルプルプ・サイオス・LPLP・スカルプD 5本を比較"
+  - "利尻・ルプルプ・サイオス・LPLP・スカルプD・マイナチュレなど厳選比較"
 cover:
   image: "/images/hair-color-treatment-40s-recommend.png"
   alt: "40代の白髪カラートリートメントおすすめ"
-price_checked: "2026-05-28"
+price_checked: "2026-06-09"
 ---
 
 白髪が気になりはじめたのは40代のはじめ。でも、市販の白髪染めを使うたびに「髪がパサつく」「頭皮がヒリヒリする」という悩みが重なっていきました。
@@ -409,6 +409,50 @@ price_checked: "2026-05-28"
   img="https://m.media-amazon.com/images/I/51r2qSfOnzL._AC_SL500_.jpg"
   amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB0DBGXX19D"
 >}}
+
+### マイナチュレ カラートリートメント（無添加にこだわる方の定番）
+
+育毛専門ブランド「マイナチュレ（REDVISION）」のオーガニック系カラートリートメント。パラベン・シリコン・ジアミン・タール色素・鉱物油不使用の無添加処方で、白髪をぼかしながら頭皮・髪にやさしいケアを両立しています。
+
+ヘアカラーで「頭皮がヒリヒリした」「刺激を減らしたい」という経験がある方に特に向いています。育毛ブランドとしての研究背景がある処方設計で、白髪ケアと頭皮ケアを同時にしたい40代から継続利用されているシリーズです。
+
+**価格帯**：3,600円（200g・1本）
+
+{{< rawhtml >}}
+<div class="caution-box">
+  <p class="caution-box-title">⚠️ こんな点は注意</p>
+  <ul>
+    <li>継続使用で色が定着するタイプ（初回1〜2回では染まりきらない）</li>
+    <li>ドラッグストアでは購入できない（公式・楽天・Amazon・Yahoo限定）</li>
+  </ul>
+</div>
+{{< /rawhtml >}}
+
+{{< rawhtml >}}
+<div class="fit-box">
+  <p class="fit-box-title">✅ こんな方に向いています</p>
+  <ul>
+    <li>無添加・オーガニック成分にこだわりたい方</li>
+    <li>頭皮が敏感・ヘアカラーでかぶれた経験がある方</li>
+    <li>育毛ケアと白髪ケアを同時に行いたい方</li>
+  </ul>
+</div>
+{{< /rawhtml >}}
+
+{{< product
+  title="マイナチュレ カラートリートメント ブラウン 200g"
+  img="https://m.media-amazon.com/images/I/61UA4xnYk1L._AC_SL500_.jpg"
+  price="¥3,600 / 200g"
+  official="https://px.a8.net/svt/ejp?a8mat=4B3N6U+6EERW2+2GP2+25ES2Q"
+  officialtext="マイナチュレ公式サイトで確認する"
+  rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fmy-nature%2Fcolortreatment%2F"
+  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB0DH3HL7BS"
+  yahoo="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fmy-nature-jp%2Fcolortreatment.html"
+>}}
+
+{{< rawhtml >}}
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4B3N6U+6EERW2+2GP2+25ES2Q" alt="">
+{{< /rawhtml >}}
 
 ---
 
