@@ -158,6 +158,15 @@ price_checked: "2026-06-06"
   yahoo="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcosmecom%2F1000158665.html"
 >}}
 
+{{< rawhtml >}}
+<div style="text-align:center; margin: 1.5em 0;">
+  <a href="https://px.a8.net/svt/ejp?a8mat=4B5LK5+2J3CC2+1USQ+25LUPE" target="_blank" rel="nofollow noopener" style="display:inline-block; background:#e85d8a; color:#fff; padding:14px 36px; border-radius:30px; font-size:1em; font-weight:bold; text-decoration:none;">
+    オルビスユー 公式サイトで確認する →
+  </a>
+  <img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4B5LK5+2J3CC2+1USQ+25LUPE" alt="">
+</div>
+{{< /rawhtml >}}
+
 ---
 
 ## 3本を比較すると
