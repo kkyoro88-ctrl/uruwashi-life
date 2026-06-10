@@ -6,7 +6,7 @@ draft: false
 affiliate: true
 categories: ["スキンケア"]
 tags: ["40代", "スキンケア", "エイジングケア", "乾燥肌", "シワケア"]
-description: "40代の乾燥・シワ・たるみに向けたナイトクリームの選び方を解説。医薬部外品のシワ改善クリームから保湿重視のプチプラまで、40代乾燥敏感肌が正直に選んだ3本をまとめました。"
+description: "40代の乾燥・シワ・たるみに向けたナイトクリームの選び方を解説。医薬部外品のシワ改善クリームから保湿重視のクリームまで、40代乾燥敏感肌が正直に選んだ3本をまとめました。"
 cover:
   image: "/images/night-cream-40s-recommend.png"
   alt: "ナイトクリームおすすめ40代向け3選"
@@ -19,14 +19,14 @@ price_checked: "2026-06-06"
 
 この記事では、**40代の乾燥・シワ・たるみへのアプローチ**に合わせたナイトクリームの選び方と、実際に使って選んだ3本を正直にまとめています。
 
-まず試すなら**エリクシール シュペリエル リフトナイトクリーム W**がおすすめです。資生堂エリクシールの夜用クリームで、コラーゲンGL（保湿成分）配合。乾燥による小じわを目立たなくする（効能評価試験済み）化粧品で、40代乾燥敏感肌でも使いやすいリッチなテクスチャーが特徴です。なお「医薬部外品でシワ改善まで手頃に試したい」なら、後述の肌ラボ 極潤 薬用ハリクリーム（ナイアシンアミド配合）も候補になります。
+まず試すなら**肌ラボ 極潤 薬用ハリクリーム**がおすすめです。ロート製薬の薬用ナイトクリームで、シワ改善とシミ対策の両方で承認された有効成分ナイアシンアミドを配合した医薬部外品。1,400〜1,600円前後と手頃なのに、40代の夜のケアにシワ改善の有効成分を取り入れられます。「乾燥をしっかりカバーするリッチなクリームがいい」なら、後述のエリクシール シュペリエル リフトナイトクリーム W（化粧品・コラーゲンGL配合）も候補になります。
 
 {{< product
-  title="エリクシール シュペリエル リフトナイトクリーム W"
-  img="https://m.media-amazon.com/images/I/61UIkdiYxuL._AC_SL500_.jpg"
-  rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fyayoi-cosme%2F05670%2F"
-  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB01LPFB6UQ"
-  yahoo="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcosmecom%2F1000047037.html"
+  title="ロート製薬 肌ラボ 極潤 薬用ハリクリーム 50g"
+  img="https://m.media-amazon.com/images/I/61oMoVrV+AL._AC_SL500_.jpg"
+  rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fmatsukiyo%2F4987241171316%2F"
+  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB09C7NHGQM"
+  yahoo="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fy-kojima%2F4987241171316.html"
 >}}
 
 ---
@@ -61,7 +61,7 @@ price_checked: "2026-06-06"
 | 区分 | シワへの表現 | 例 |
 |------|------------|-----|
 | **医薬部外品** | 「シワを改善する」と言える | ナイアシンアミド・純粋レチノール配合 |
-| **化粧品** | 「保湿によりシワを目立ちにくくする」まで | 一般的な保湿クリーム |
+| **化粧品** | 「乾燥による小じわを目立たなくする」まで | 一般的な保湿クリーム |
 
 シワへの有効成分として承認されているのは、現在**ナイアシンアミド・純粋レチノール・レチノール酢酸エステル**などです。
 
@@ -84,7 +84,31 @@ price_checked: "2026-06-06"
 
 ## ナイトクリームおすすめ40代向け3選
 
-### 1位：エリクシール シュペリエル リフトナイトクリーム W（化粧品）
+### 1位：ロート製薬 肌ラボ 極潤 薬用ハリクリーム（医薬部外品）
+
+**こんな方に向いています**：手頃な価格で医薬部外品のシワ改善を始めたい・シワ改善とシミ対策を1本で狙いたい・高保湿のナイトクリームを探している
+
+ロート製薬の「肌ラボ」ブランドの薬用クリームで、有効成分**ナイアシンアミド**と3種のヒアルロン酸を配合した医薬部外品です。ナイアシンアミドはシワ改善とシミ対策（メラニンの生成を抑え、シミ・そばかすを防ぐ）の両方で承認されている有効成分。1,400〜1,600円前後と手頃なのに医薬部外品のシワ改善成分が入っているのが、40代に選ばれている理由です。
+
+**正直なデメリットから先に**
+- ジェルに近いテクスチャーで、超乾燥肌には物足りない場合も
+- 香りはほぼないが、独特のテクスチャーが好みによる
+- 効果はゆっくりで、シワ改善は数ヶ月単位の継続が前提
+
+**使ってみて感じたこと**
+ナイトクリームを習慣にするための最初の1本として使いました。乾燥が落ち着いた実感は3週間ほどで出てきました。医薬部外品の有効成分が入っているのに手頃な価格なので、「まず夜にクリームを塗る習慣を作りたい」「コストを抑えてシワ改善成分を試したい」という方の入口として十分役割を果たしてくれる一本です。
+
+{{< product
+  title="ロート製薬 肌ラボ 極潤 薬用ハリクリーム 50g"
+  img="https://m.media-amazon.com/images/I/61oMoVrV+AL._AC_SL500_.jpg"
+  rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fmatsukiyo%2F4987241171316%2F"
+  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB09C7NHGQM"
+  yahoo="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fy-kojima%2F4987241171316.html"
+>}}
+
+---
+
+### 2位：エリクシール シュペリエル リフトナイトクリーム W（化粧品）
 
 **こんな方に向いています**：夜の乾燥をしっかりカバーしたい・乾燥による小じわが気になる・リッチなテクスチャーが好み
 
@@ -104,33 +128,6 @@ price_checked: "2026-06-06"
   rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fyayoi-cosme%2F05670%2F"
   amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB01LPFB6UQ"
   yahoo="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcosmecom%2F1000047037.html"
->}}
-
----
-
-### 2位：ロート製薬 肌ラボ 極潤 薬用ハリクリーム（医薬部外品）
-
-**こんな方に向いています**：手頃な価格で医薬部外品を試したい・シワ改善とシミ対策を1本で狙いたい・高保湿のナイトクリームを探している
-
-ロート製薬の「肌ラボ」ブランドの薬用クリームで、有効成分**ナイアシンアミド**と3種のヒアルロン酸を配合した医薬部外品です。ナイアシンアミドはシワ改善とシミ対策（メラニンの生成を抑え、シミ・そばかすを防ぐ）の両方で承認されている有効成分。プチプラながら医薬部外品で、乾燥が気になる40代の夜間ケアに選ばれています。
-
-**正直なデメリットから先に**
-- ジェルに近いテクスチャーで、超乾燥肌には物足りない場合も
-- 香りはほぼないが、独特のテクスチャーが好みによる
-- 効果はゆっくりで、シワ改善は数ヶ月単位の継続が前提
-
-**使ってみて感じたこと**
-ナイトクリームを習慣にするための最初の1本として使いました。乾燥が落ち着いた実感は3週間ほどで出てきました。医薬部外品の有効成分が入っているのに手頃な価格なので、「まず夜にクリームを塗る習慣を作りたい」という方の入口として十分役割を果たしてくれる一本です。
-
-**コスパを重視する方への選択肢**
-1,400〜1,600円前後で購入できる医薬部外品なので、「コストを抑えつつシワ改善の有効成分を試したい」という方に向いています。
-
-{{< product
-  title="ロート製薬 肌ラボ 極潤 薬用ハリクリーム 50g"
-  img="https://m.media-amazon.com/images/I/61oMoVrV+AL._AC_SL500_.jpg"
-  rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fmatsukiyo%2F4987241171316%2F"
-  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB09C7NHGQM"
-  yahoo="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fy-kojima%2F4987241171316.html"
 >}}
 
 ---
@@ -170,13 +167,13 @@ price_checked: "2026-06-06"
 
 ## 3本を比較すると
 
-| | エリクシール | 肌ラボ | ORBIS |
+| | 肌ラボ | エリクシール | ORBIS |
 |--|--|--|--|
-| 区分 | 化粧品 | 医薬部外品 | 医薬部外品 |
-| 主な訴求 | 乾燥小じわ・高保湿 | シワ改善＋シミ対策 | 肌あれ防止 |
-| テクスチャー | リッチクリーム | ジェル寄り | 軽めジェル |
-| 価格帯 | 4,000〜4,400円 | 1,400〜1,600円 | 3,000〜3,500円 |
-| 向いている方 | 乾燥をしっかりカバー | 手頃に医薬部外品を試したい | ベタつき嫌い・夏場も使いたい |
+| 区分 | 医薬部外品 | 化粧品 | 医薬部外品 |
+| 主な訴求 | シワ改善＋シミ対策 | 乾燥小じわ・高保湿 | 肌あれ防止 |
+| テクスチャー | ジェル寄り | リッチクリーム | 軽めジェル |
+| 価格帯 | 1,400〜1,600円 | 4,000〜4,400円 | 3,000〜3,500円 |
+| 向いている方 | 手頃に医薬部外品を試したい | 乾燥をしっかりカバー | ベタつき嫌い・夏場も使いたい |
 
 ---
 
@@ -184,18 +181,18 @@ price_checked: "2026-06-06"
 
 40代のナイトクリームは「何を優先するか」で選ぶのが基本です。
 
-- **乾燥をしっかりカバー・乾燥小じわが気になる** → エリクシール リフトナイトクリーム W（化粧品）
 - **手頃に医薬部外品でシワ改善＋シミ対策を試したい** → 肌ラボ 極潤 薬用ハリクリーム（医薬部外品）
+- **乾燥をしっかりカバー・乾燥小じわが気になる** → エリクシール リフトナイトクリーム W（化粧品）
 - **さっぱりテクスチャー・ベタつき苦手** → ORBIS ジェルモイスチャライザー
 
 夜は肌のターンオーバーが活発になる時間帯。今日の夜から少しだけケアを足すことで、1ヶ月後の朝の肌質感が変わってきます。
 
 {{< product
-  title="エリクシール シュペリエル リフトナイトクリーム W"
-  img="https://m.media-amazon.com/images/I/61UIkdiYxuL._AC_SL500_.jpg"
-  rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fyayoi-cosme%2F05670%2F"
-  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB01LPFB6UQ"
-  yahoo="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcosmecom%2F1000047037.html"
+  title="ロート製薬 肌ラボ 極潤 薬用ハリクリーム 50g"
+  img="https://m.media-amazon.com/images/I/61oMoVrV+AL._AC_SL500_.jpg"
+  rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fmatsukiyo%2F4987241171316%2F"
+  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB09C7NHGQM"
+  yahoo="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fy-kojima%2F4987241171316.html"
 >}}
 
 ## 合わせて読みたい
