@@ -2374,6 +2374,21 @@ details.single-toc[open] .single-toc-title::after { content: '▴'; }
   min-width: 600px;
   background: #fff;
 }
+/* 商品2列のときは全幅に広げて右側の余白をなくす（display:block を table に戻すのが肝） */
+.comparison-rank.comparison-rank--2col {
+  display: table;
+  width: 100%;
+  min-width: 0;
+  table-layout: fixed;
+}
+.comparison-rank.comparison-rank--2col th:not(:first-child),
+.comparison-rank.comparison-rank--2col td:not(.cr-label) {
+  width: 38%;
+}
+.comparison-rank.comparison-rank--2col th:first-child,
+.comparison-rank.comparison-rank--2col td.cr-label {
+  width: 24%;
+}
 .comparison-rank th {
   padding: 12px 8px;
   font-size: 0.78rem;
