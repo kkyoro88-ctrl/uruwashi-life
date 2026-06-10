@@ -12,6 +12,9 @@ summary_points:
   - "メイクの上からはUVパウダーかスプレーが現実的"
   - "顔はパウダー、髪・首・体はスプレーで役割分担"
   - "質で選ぶエトヴォス・手頃なサンカットの2本で足りる"
+cover:
+  image: "/images/sunscreen-touch-up-40s.png"
+  alt: "UVパウダーとUVスプレー、かすみ草を添えた白い大理石の上の構図"
 price_checked: "2026-06-11"
 ---
 
