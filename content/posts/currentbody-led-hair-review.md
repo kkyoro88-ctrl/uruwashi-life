@@ -31,6 +31,7 @@ price_checked: "2026-06-07"
   title="CurrentBody LED頭皮ケアデバイス"
   img="https://m.media-amazon.com/images/I/61kHBpoHIGL._AC_SL500_.jpg"
   official="https://px.a8.net/svt/ejp?a8mat=4B1R5P+FYJBJM+54TM+60OXE"
+  primary="official"
   amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DCurrentBody%2BLED%2B%E9%A0%AD%E7%9A%AE%E3%82%B1%E3%82%A2"
 >}}
 
@@ -199,6 +200,7 @@ CurrentBodyは年に数回セールを実施するブランドです。通常価
   title="CurrentBody LED頭皮ケアデバイス"
   img="https://m.media-amazon.com/images/I/61kHBpoHIGL._AC_SL500_.jpg"
   official="https://px.a8.net/svt/ejp?a8mat=4B1R5P+FYJBJM+54TM+60OXE"
+  primary="official"
   amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DCurrentBody%2BLED%2B%E9%A0%AD%E7%9A%AE%E3%82%B1%E3%82%A2"
 >}}
 
@@ -236,6 +238,7 @@ LEDデバイスは即効性こそありませんが、週3〜4回の光刺激が
   title="CurrentBody LED頭皮ケアデバイス"
   img="https://m.media-amazon.com/images/I/61kHBpoHIGL._AC_SL500_.jpg"
   official="https://px.a8.net/svt/ejp?a8mat=4B1R5P+FYJBJM+54TM+60OXE"
+  primary="official"
   amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DCurrentBody%2BLED%2B%E9%A0%AD%E7%9A%AE%E3%82%B1%E3%82%A2"
 >}}
 

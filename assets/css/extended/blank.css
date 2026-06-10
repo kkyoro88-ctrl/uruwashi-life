@@ -2184,8 +2184,11 @@ details.single-toc[open] .single-toc-title::after { content: '▴'; }
   gap: 8px;
 }
 .product-btn {
-  display: inline-block;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
   padding: 8px 16px;
+  min-height: 44px; /* スマホタップ領域確保 */
   border-radius: 4px;
   font-size: 0.82rem;
   font-weight: 700;
@@ -2194,18 +2197,26 @@ details.single-toc[open] .single-toc-title::after { content: '▴'; }
   transition: background 0.2s, color 0.2s;
   letter-spacing: 0.03em;
 }
-.product-btn--rakuten { color: #BF0000 !important; border-color: #BF0000; background: #fff; }
-.product-btn--rakuten:hover { background: #BF0000; color: #fff !important; }
-.product-btn--amazon  { color: #FF9900 !important; border-color: #FF9900; background: #fff; }
-.product-btn--amazon:hover  { background: #FF9900; color: #fff !important; }
-.product-btn--yahoo   { color: #720096 !important; border-color: #720096; background: #fff; }
-.product-btn--yahoo:hover   { background: #720096; color: #fff !important; }
+/* 各ストア=デフォルトはセカンダリ（枠のみ）。is-primaryで塗りになる */
+.product-btn--rakuten  { color: #BF0000 !important; border-color: #BF0000; background: #fff; }
+.product-btn--amazon   { color: #FF9900 !important; border-color: #FF9900; background: #fff; }
+.product-btn--yahoo    { color: #720096 !important; border-color: #720096; background: #fff; }
 .product-btn--official { color: #2e7d32 !important; border-color: #2e7d32; background: #fff; }
+/* プライマリ（本命）= 常時塗り。shortcodeのprimary指定で切替（デフォルト楽天） */
+.product-btn--rakuten.is-primary  { background: #BF0000; color: #fff !important; border-color: #BF0000; }
+.product-btn--amazon.is-primary   { background: #FF9900; color: #fff !important; border-color: #FF9900; }
+.product-btn--yahoo.is-primary    { background: #720096; color: #fff !important; border-color: #720096; }
+.product-btn--official.is-primary { background: #2e7d32; color: #fff !important; border-color: #2e7d32; }
+/* hover: セカンダリも塗りに反転（スマホは無効でも実害なし） */
+.product-btn--rakuten:hover  { background: #8b0000; color: #fff !important; border-color: #8b0000; }
+.product-btn--amazon:hover   { background: #FF9900; color: #fff !important; }
+.product-btn--yahoo:hover    { background: #720096; color: #fff !important; }
 .product-btn--official:hover { background: #2e7d32; color: #fff !important; }
 @media (max-width: 480px) {
   .product-card { flex-direction: column; gap: 12px; }
-  .product-card-img { width: 80px; }
-  .product-btn { padding: 7px 10px; font-size: 0.75rem; flex: 1; text-align: center; }
+  .product-card-img { width: 88px; }
+  /* 2列レイアウト：4ボタンが2×2で並ぶ。3ボタン時は最後がflex-growで広がる */
+  .product-btn { flex: 1 1 calc(50% - 4px); font-size: 0.8rem; padding: 11px 8px; text-align: center; min-height: 46px; }
 }
 
 /* ===== 比較テーブル ===== */

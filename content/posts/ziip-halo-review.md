@@ -28,6 +28,7 @@ price_checked: "2026-06-07"
   title="ZIIP HALO"
   img="https://m.media-amazon.com/images/I/419WCai4acL._AC_SL500_.jpg"
   official="https://px.a8.net/svt/ejp?a8mat=4B1R5P+FXXVXU+54TM+BWVTE"
+  primary="official"
   amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DZIIP%2BHALO"
 >}}
 
@@ -258,6 +259,7 @@ ZIIP HALOは正規輸入代理店の**CurrentBody（カレントボディ）**�
   title="ZIIP HALO"
   img="https://m.media-amazon.com/images/I/419WCai4acL._AC_SL500_.jpg"
   official="https://px.a8.net/svt/ejp?a8mat=4B1R5P+FXXVXU+54TM+BWVTE"
+  primary="official"
   amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DZIIP%2BHALO"
 >}}
 
@@ -329,6 +331,7 @@ ZIIP HALOは「高いけど、毎日のご褒美にできる美顔器」です�
   title="ZIIP HALO"
   img="https://m.media-amazon.com/images/I/419WCai4acL._AC_SL500_.jpg"
   official="https://px.a8.net/svt/ejp?a8mat=4B1R5P+FXXVXU+54TM+BWVTE"
+  primary="official"
   amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DZIIP%2BHALO"
 >}}
 
