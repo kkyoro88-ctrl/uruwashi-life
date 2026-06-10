@@ -34,8 +34,6 @@ price_checked: "2026-06-09"
 
 迷ったときの基点として、アネッサ パーフェクトUV スキンケアミルク NAを起点にするのが40代には合わせやすいと感じている。保湿成分がしっかり入っていて、スーパーウォータープルーフでも石けんで落とせる。季節を問わず顔にも腕にも同じ一本で済むので、あれこれ使い分けずに毎日続けやすいのが助かる。
 
-{{< rawhtml >}}<p style="font-size:0.85em;color:#888;margin:0.6em 0;">※掲載の価格は2026年6月時点の参考価格です。最新の価格は各販売ページでご確認ください。</p>{{< /rawhtml >}}
-
 {{< product
   title="アネッサ パーフェクトUV スキンケアミルク NA 60mL（資生堂）"
   img="https://m.media-amazon.com/images/I/71c3-MeeXQL._AC_SL500_.jpg"
@@ -90,17 +88,19 @@ price_checked: "2026-06-09"
 
 ## 5商品を一覧で比較
 
+{{< rawhtml >}}<p style="font-size:0.85em;color:#888;margin:0.6em 0;">※掲載の価格は2026年6月時点の参考価格です。最新の価格は各販売ページでご確認ください。商品名をタップすると、その商品の詳しい紹介へ移動できます。</p>{{< /rawhtml >}}
+
 {{< rawhtml >}}
 <div class="comparison-wrap">
 <table class="comparison-rank">
   <thead>
     <tr>
       <th style="width:80px; background:#f8f4f0;"></th>
-      <th class="cr-featured"><div class="cr-rank">1</div><div class="cr-name">アネッサ</div></th>
-      <th><div class="cr-rank">2</div><div class="cr-name">ラロッシュポゼ</div></th>
-      <th><div class="cr-rank">3</div><div class="cr-name">ビオレUV</div></th>
-      <th><div class="cr-rank">4</div><div class="cr-name">スキンアクア</div></th>
-      <th><div class="cr-rank">5</div><div class="cr-name">アリィー</div></th>
+      <th class="cr-featured"><img class="cr-thumb" src="https://m.media-amazon.com/images/I/71c3-MeeXQL._AC_SL500_.jpg" alt="アネッサ"><div class="cr-rank">1</div><div class="cr-name"><a href="#anessa">アネッサ</a></div></th>
+      <th><img class="cr-thumb" src="https://m.media-amazon.com/images/I/414+3BZ2tSL._AC_SL500_.jpg" alt="ラロッシュポゼ"><div class="cr-rank">2</div><div class="cr-name"><a href="#laroche">ラロッシュポゼ</a></div></th>
+      <th><img class="cr-thumb" src="https://m.media-amazon.com/images/I/61dUvuOYeVL._AC_SL500_.jpg" alt="ビオレUV"><div class="cr-rank">3</div><div class="cr-name"><a href="#biore">ビオレUV</a></div></th>
+      <th><img class="cr-thumb" src="https://m.media-amazon.com/images/I/71HsthYrHQL._AC_SL500_.jpg" alt="スキンアクア"><div class="cr-rank">4</div><div class="cr-name"><a href="#skinaqua">スキンアクア</a></div></th>
+      <th><img class="cr-thumb" src="https://m.media-amazon.com/images/I/71PdBau39fL._AC_SL500_.jpg" alt="アリィー"><div class="cr-rank">5</div><div class="cr-name"><a href="#allie">アリィー</a></div></th>
     </tr>
   </thead>
   <tbody>
@@ -177,7 +177,7 @@ price_checked: "2026-06-09"
 
 ## 40代の日焼け止めおすすめ5選
 
-### ① アネッサ パーフェクトUV スキンケアミルク NA｜オールシーズン使えるスタンダード
+### ① アネッサ パーフェクトUV スキンケアミルク NA｜オールシーズン使えるスタンダード {#anessa}
 
 日焼け止めを「スキンケアの一環」として使い始めたのは、このシリーズを手に取ってからだった。
 
@@ -213,7 +213,7 @@ price_checked: "2026-06-09"
 
 ---
 
-### ② ラロッシュポゼ UVイデア XL プロテクショントーンアップ ローズ+｜敏感肌・化粧下地兼用に
+### ② ラロッシュポゼ UVイデア XL プロテクショントーンアップ ローズ+｜敏感肌・化粧下地兼用に {#laroche}
 
 季節の変わり目に肌が敏感になって、いつもの日焼け止めがヒリッとしみるようになった時期があった。「こすらず落とせて、肌にやさしい日焼け止め」を探してたどり着いたのがラロッシュポゼだ。使い始めてしばらくすると、化粧下地を別に塗らなくなっている自分に気づいた。
 
@@ -249,7 +249,7 @@ price_checked: "2026-06-09"
 
 ---
 
-### ③ ビオレUV アクアリッチ ウォータリーエッセンス 70g｜軽い使用感とコスパを両立
+### ③ ビオレUV アクアリッチ ウォータリーエッセンス 70g｜軽い使用感とコスパを両立 {#biore}
 
 塗った瞬間に「水みたい」と感じた。
 
@@ -285,7 +285,7 @@ price_checked: "2026-06-09"
 
 ---
 
-### ④ スキンアクア スーパーモイスチャーエッセンス UV 80g｜美容液成分で保湿しながら守る
+### ④ スキンアクア スーパーモイスチャーエッセンス UV 80g｜美容液成分で保湿しながら守る {#skinaqua}
 
 日焼け止めを塗るたびに乾燥していた時期、「美容液感覚で使える日焼け止め」があると知って試したのがきっかけだった。
 
@@ -321,7 +321,7 @@ price_checked: "2026-06-09"
 
 ---
 
-### ⑤ アリィー クロノビューティジェルUV EX 90g｜汗・摩擦に強いジェルタイプ
+### ⑤ アリィー クロノビューティジェルUV EX 90g｜汗・摩擦に強いジェルタイプ {#allie}
 
 夏は汗で日焼け止めが流れて、昼過ぎには塗っていないのと変わらない——そんな状態が続いていた。とくにマスクをつける日は、こすれる頬や鼻まわりだけ先に落ちてしまうのが気になっていた。
 
@@ -377,11 +377,11 @@ price_checked: "2026-06-09"
 
 最後に、迷ったときの選び方を一行でまとめておく。
 
-- **どれにするか決めきれない** → まずは**アネッサ**（顔も体も一本で完結、落ちにくい）
-- **乾燥して日焼け止めがつっぱる** → **スキンアクア**（保湿成分多めでしっとり・大容量）
-- **肌が敏感・下地もまとめたい** → **ラロッシュポゼ**（こすらず落とせる・トーンアップ兼用）
-- **べたつきが苦手・とにかく軽く** → **ビオレUV**（水のような使用感・コスパ）
-- **汗やマスクで落ちるのが悩み** → **アリィー**（汗・摩擦に強いジェル）
+- **どれにするか決めきれない** → まずは[**アネッサ**](#anessa)（顔も体も一本で完結、落ちにくい）
+- **乾燥して日焼け止めがつっぱる** → [**スキンアクア**](#skinaqua)（保湿成分多めでしっとり・大容量）
+- **肌が敏感・下地もまとめたい** → [**ラロッシュポゼ**](#laroche)（こすらず落とせる・トーンアップ兼用）
+- **べたつきが苦手・とにかく軽く** → [**ビオレUV**](#biore)（水のような使用感・コスパ）
+- **汗やマスクで落ちるのが悩み** → [**アリィー**](#allie)（汗・摩擦に強いジェル）
 
 ちなみに、シミができてしまった後から消すより、これ以上増やさない方がずっと楽だとわかったのも、少し遅かった気がする。でも遅すぎたわけでもなかった——と、鏡を見るたびに思っている。
 

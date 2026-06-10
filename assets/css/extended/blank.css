@@ -2464,9 +2464,26 @@ details.single-toc[open] .single-toc-title::after { content: '▴'; }
   color: #c9576b;
 }
 .comparison-rank tr:last-child td { border-bottom: none; }
+.comparison-rank .cr-thumb {
+  width: 54px;
+  height: 54px;
+  object-fit: contain;
+  display: block;
+  margin: 0 auto 6px;
+}
+.comparison-rank .cr-name a {
+  color: #c9576b;
+  text-decoration: none;
+  border-bottom: 1px dotted #c9576b;
+}
+.comparison-rank .cr-name a:hover {
+  text-decoration: none;
+  border-bottom: 1px solid #c9576b;
+}
 @media (max-width: 560px) {
   .comparison-rank td.cr-label { font-size: 0.62rem; padding-left: 6px; }
   .comparison-rank th, .comparison-rank td { font-size: 0.68rem; padding: 8px 5px; }
+  .comparison-rank .cr-thumb { width: 44px; height: 44px; }
 }
 
 /* ===== 商品見出し（画像付き） ===== */
