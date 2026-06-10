@@ -15,7 +15,7 @@ summary_points:
 cover:
   image: "/images/hairgrowth-serum-40s-recommend.png"
   alt: "女性用育毛剤おすすめ6選 40代"
-price_checked: "2026-06-09"
+price_checked: "2026-06-10"
 ---
 
 分け目が、前より広くなった気がする。
