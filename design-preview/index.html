@@ -1,0 +1,524 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>比較表 10デザイン案</title>
+<style>
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body { font-family: 'Hiragino Kaku Gothic Pro', 'Noto Sans JP', sans-serif; background: #f8f4f0; color: #333; }
+
+/* 共通ナビ */
+.nav { position: sticky; top: 0; background: #2d2d2d; color: #fff; padding: 10px 16px; z-index: 100; font-size: 0.75rem; overflow-x: auto; white-space: nowrap; }
+.nav a { color: #ffd700; margin-right: 12px; text-decoration: none; }
+
+.section { padding: 24px 16px 40px; max-width: 900px; margin: 0 auto; }
+.section-title { font-size: 1.1rem; font-weight: 700; color: #333; margin-bottom: 6px; padding-bottom: 8px; border-bottom: 2px solid #e0d0c0; }
+.section-sub { font-size: 0.75rem; color: #888; margin-bottom: 14px; }
+.scroll-wrap { overflow-x: auto; -webkit-overflow-scrolling: touch; }
+.scroll-hint { font-size: 0.7rem; color: #aaa; text-align: right; margin-bottom: 4px; }
+
+/* ===================== D1: マイベスト風 ===================== */
+.d1 table { border-collapse: collapse; min-width: 600px; width: 100%; background: #fff; border-radius: 8px; overflow: hidden; box-shadow: 0 1px 8px rgba(0,0,0,.08); }
+.d1 th { padding: 12px 8px; font-size: 0.78rem; font-weight: 700; text-align: center; background: #fff; border-bottom: 2px solid #f0e8e0; position: relative; }
+.d1 th.featured { border-top: 3px solid #c9576b; }
+.d1 .rank { display: inline-block; background: #c9576b; color: #fff; border-radius: 50%; width: 20px; height: 20px; font-size: 0.65rem; line-height: 20px; text-align: center; margin-bottom: 4px; }
+.d1 .rank2 { background: #999; }
+.d1 .rank3 { background: #b87333; }
+.d1 .badge { display: block; background: #c9576b; color: #fff; font-size: 0.6rem; padding: 2px 6px; border-radius: 10px; margin-bottom: 4px; }
+.d1 .product-name { font-size: 0.75rem; line-height: 1.3; color: #222; }
+.d1 td { padding: 10px 8px; font-size: 0.75rem; text-align: center; border-bottom: 1px solid #f5f0ec; color: #444; }
+.d1 td.label { background: #faf6f2; font-weight: 600; color: #888; font-size: 0.68rem; text-align: left; padding-left: 10px; white-space: nowrap; }
+.d1 td.hi { background: #fff8f9; font-weight: 600; color: #c9576b; }
+.d1 tr:last-child td { border-bottom: none; }
+
+/* ===================== D2: サイトカラー統一 ===================== */
+.d2 table { border-collapse: separate; border-spacing: 0; min-width: 600px; width: 100%; background: #fff; border-radius: 12px; overflow: hidden; box-shadow: 0 2px 12px rgba(0,0,0,.1); }
+.d2 th { padding: 14px 8px; font-size: 0.75rem; font-weight: 700; text-align: center; color: #fff; }
+.d2 th.th-empty { background: #fff; }
+.d2 th.featured { background: linear-gradient(135deg, #c9576b, #e07890); }
+.d2 th.normal { background: linear-gradient(135deg, #d4849a, #e8aab8); }
+.d2 .badge { display: block; background: rgba(255,255,255,0.9); color: #c9576b; font-size: 0.6rem; padding: 2px 6px; border-radius: 10px; margin-bottom: 4px; font-weight: 700; }
+.d2 td { padding: 10px 8px; font-size: 0.75rem; text-align: center; border-bottom: 1px solid #f0eae6; color: #444; }
+.d2 td.label { background: #fdf8f6; font-weight: 600; color: #c9576b; font-size: 0.7rem; text-align: left; padding-left: 10px; }
+.d2 td.hi { background: linear-gradient(90deg, #fff5f7, #fff); }
+.d2 tr:nth-child(even) td { background: #faf5f3; }
+.d2 tr:nth-child(even) td.label { background: #f5efec; }
+.d2 tr:nth-child(even) td.hi { background: #fdf0f3; }
+
+/* ===================== D3: カード型（横並び） ===================== */
+.d3-wrap { display: flex; gap: 10px; min-width: 650px; }
+.d3-card { flex: 1; background: #fff; border-radius: 12px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,.08); border: 1px solid #f0e8e0; }
+.d3-card.featured { box-shadow: 0 4px 20px rgba(201,87,107,.25); border: 2px solid #c9576b; transform: translateY(-4px); }
+.d3-header { padding: 12px 8px; text-align: center; background: #f5f0ec; font-size: 0.72rem; font-weight: 700; line-height: 1.3; }
+.d3-card.featured .d3-header { background: linear-gradient(135deg, #c9576b, #e07890); color: #fff; }
+.d3-badge { display: inline-block; background: #fff; color: #c9576b; font-size: 0.58rem; padding: 2px 7px; border-radius: 10px; margin-bottom: 4px; font-weight: 700; }
+.d3-row { padding: 8px 10px; border-bottom: 1px solid #f5f0ea; }
+.d3-row:last-child { border-bottom: none; }
+.d3-row-label { font-size: 0.6rem; color: #aaa; margin-bottom: 2px; }
+.d3-row-val { font-size: 0.72rem; color: #333; font-weight: 500; }
+.d3-card.featured .d3-row-val { color: #c9576b; font-weight: 700; }
+
+/* ===================== D4: ダーク×ゴールド ===================== */
+.d4 table { border-collapse: collapse; min-width: 600px; width: 100%; background: #fff; }
+.d4 thead tr { background: #1e1e1e; }
+.d4 th { padding: 14px 8px; font-size: 0.75rem; font-weight: 700; text-align: center; color: #fff; }
+.d4 th.featured { background: linear-gradient(135deg, #3a2800, #7a5c00, #c49a2a); color: #fff; }
+.d4 th.th-empty { background: #1e1e1e; }
+.d4 .badge { display: block; background: #c49a2a; color: #1e1e1e; font-size: 0.6rem; padding: 2px 6px; border-radius: 10px; margin-bottom: 4px; font-weight: 800; }
+.d4 td { padding: 10px 8px; font-size: 0.75rem; text-align: center; border-bottom: 1px solid #eee; color: #333; }
+.d4 td.label { background: #222; color: #c49a2a; font-weight: 700; font-size: 0.7rem; text-align: left; padding-left: 12px; white-space: nowrap; }
+.d4 td.hi { background: #fffbf0; font-weight: 600; }
+.d4 tr:nth-child(even) td { background: #f8f8f8; }
+.d4 tr:nth-child(even) td.label { background: #1a1a1a; }
+.d4 tr:nth-child(even) td.hi { background: #fdf7e8; }
+
+/* ===================== D5: パステル×丸角 ===================== */
+.d5 table { border-collapse: separate; border-spacing: 4px; min-width: 620px; width: 100%; }
+.d5 th { padding: 12px 6px; font-size: 0.73rem; font-weight: 700; text-align: center; border-radius: 8px; }
+.d5 th.th-empty { background: transparent; }
+.d5 th.featured { background: #f9d0d8; color: #9b3a50; }
+.d5 th.p2 { background: #d0e8d4; color: #2a6040; }
+.d5 th.p3 { background: #cde8f0; color: #2a5a7a; }
+.d5 th.p4 { background: #e0d4f0; color: #4a2a8a; }
+.d5 th.p5 { background: #f0e4d0; color: #7a5020; }
+.d5 .badge { display: block; background: #c9576b; color: #fff; font-size: 0.6rem; padding: 2px 6px; border-radius: 10px; margin-bottom: 4px; }
+.d5 td { padding: 10px 6px; font-size: 0.73rem; text-align: center; background: #fff; border-radius: 6px; box-shadow: 0 1px 3px rgba(0,0,0,.05); color: #444; }
+.d5 td.label { background: #f8f4f0; color: #888; font-weight: 600; font-size: 0.68rem; text-align: left; padding-left: 8px; }
+.d5 td.hi { background: #fff0f3; }
+
+/* ===================== D6: スコアバー型 ===================== */
+.d6 table { border-collapse: collapse; min-width: 600px; width: 100%; background: #fff; border-radius: 10px; overflow: hidden; box-shadow: 0 2px 10px rgba(0,0,0,.08); }
+.d6 th { padding: 12px 8px; font-size: 0.75rem; font-weight: 700; text-align: center; background: #3d3d3d; color: #fff; }
+.d6 th.featured { background: linear-gradient(135deg, #c9576b, #e07890); }
+.d6 th.th-empty { background: #3d3d3d; width: 80px; }
+.d6 .badge { display: block; background: #ffd700; color: #333; font-size: 0.6rem; padding: 2px 6px; border-radius: 10px; margin-bottom: 4px; font-weight: 800; }
+.d6 td { padding: 8px 8px; font-size: 0.73rem; text-align: center; border-bottom: 1px solid #f0ebe6; color: #444; }
+.d6 td.label { background: #faf6f2; font-weight: 600; color: #666; font-size: 0.7rem; text-align: left; padding-left: 10px; }
+.d6 td.hi { background: #fff5f7; }
+.dots { display: flex; justify-content: center; gap: 3px; margin-top: 3px; }
+.dot { width: 8px; height: 8px; border-radius: 50%; background: #eee; }
+.dot.on { background: #c9576b; }
+.dot.on.gold { background: #c49a2a; }
+
+/* ===================== D7: 縦縞カラム型 ===================== */
+.d7 table { border-collapse: collapse; min-width: 600px; width: 100%; background: #fff; }
+.d7 th { padding: 14px 8px; font-size: 0.75rem; font-weight: 700; text-align: center; }
+.d7 th.th-empty { background: #fff; }
+.d7 th.featured { background: linear-gradient(180deg, #c9576b 0%, #e07890 100%); color: #fff; }
+.d7 th.c2 { background: #f0faf0; color: #2a6040; border-top: 3px solid #7ab88a; }
+.d7 th.c3 { background: #f0f6fa; color: #1a5070; border-top: 3px solid #5a90b0; }
+.d7 th.c4 { background: #f4f0fa; color: #4a2a8a; border-top: 3px solid #8870cc; }
+.d7 th.c5 { background: #faf5f0; color: #7a4020; border-top: 3px solid #c8906a; }
+.d7 .badge { display: block; background: rgba(255,255,255,0.9); color: #c9576b; font-size: 0.6rem; padding: 2px 6px; border-radius: 10px; margin-bottom: 4px; font-weight: 700; }
+.d7 td { padding: 10px 8px; font-size: 0.75rem; text-align: center; border-bottom: 1px solid #f0ebe6; color: #444; }
+.d7 td.label { font-weight: 700; color: #666; font-size: 0.7rem; text-align: left; padding-left: 10px; background: #f5f0ec; }
+.d7 td.hi { background: #fff5f7; }
+.d7 .c2-col { background: #fafff8; }
+.d7 .c3-col { background: #f8fbff; }
+.d7 .c4-col { background: #faf8ff; }
+.d7 .c5-col { background: #fffaf5; }
+
+/* ===================== D8: ミニマル白紙 ===================== */
+.d8 table { border-collapse: collapse; min-width: 600px; width: 100%; background: #fff; }
+.d8 th { padding: 14px 10px; font-size: 0.78rem; font-weight: 700; text-align: center; color: #222; border-bottom: 2px solid #222; }
+.d8 th.th-empty { border-bottom: 2px solid #222; }
+.d8 th.featured { color: #c9576b; border-bottom: 2px solid #c9576b; }
+.d8 .badge { display: block; font-size: 0.6rem; color: #c9576b; border: 1px solid #c9576b; padding: 1px 6px; border-radius: 10px; margin-bottom: 4px; }
+.d8 td { padding: 12px 10px; font-size: 0.75rem; text-align: center; border-bottom: 1px solid #f0ebe6; color: #555; }
+.d8 td.label { font-weight: 700; color: #999; font-size: 0.7rem; text-align: left; }
+.d8 td.hi { font-weight: 700; color: #c9576b; }
+.d8 tr:last-child td { border-bottom: 2px solid #222; }
+
+/* ===================== D9: ランキング強調型 ===================== */
+.d9 .product-row { display: flex; gap: 8px; min-width: 620px; padding: 4px 0; }
+.d9 .rank-col { width: 60px; flex-shrink: 0; display: flex; align-items: center; justify-content: center; font-size: 1.8rem; font-weight: 900; color: #ddd; }
+.d9 .rank-col.r1 { color: #c9576b; }
+.d9 .rank-col.r2 { color: #888; }
+.d9 .rank-col.r3 { color: #b87333; }
+.d9 .product-block { flex: 1; background: #fff; border-radius: 10px; overflow: hidden; border: 1px solid #f0e8e0; }
+.d9 .product-block.featured { border: 2px solid #c9576b; }
+.d9 .p-header { background: #f8f4f0; padding: 8px 10px; font-size: 0.75rem; font-weight: 700; color: #333; text-align: center; }
+.d9 .product-block.featured .p-header { background: #c9576b; color: #fff; }
+.d9 .p-badge { display: inline-block; background: #fff; color: #c9576b; font-size: 0.6rem; padding: 2px 8px; border-radius: 10px; margin-bottom: 4px; font-weight: 700; }
+.d9 .p-attrs { display: flex; flex-wrap: wrap; padding: 8px 10px; gap: 4px; }
+.d9 .p-attr { background: #f8f4f0; border-radius: 4px; padding: 4px 8px; font-size: 0.68rem; color: #555; }
+.d9 .product-block.featured .p-attr { background: #fff0f3; color: #c9576b; }
+.d9 .attr-label { color: #aaa; font-size: 0.6rem; display: block; }
+
+/* ===================== D10: グラデーション和モダン ===================== */
+.d10 table { border-collapse: collapse; min-width: 600px; width: 100%; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 20px rgba(0,0,0,.1); }
+.d10 thead { background: linear-gradient(135deg, #1a0a10 0%, #3d1a28 50%, #1a0a10 100%); }
+.d10 th { padding: 14px 8px; font-size: 0.75rem; font-weight: 700; text-align: center; color: #f0e0e8; }
+.d10 th.featured { color: #ffd4a0; }
+.d10 .badge { display: block; background: linear-gradient(90deg, #c49a2a, #f0c050); color: #1a0010; font-size: 0.6rem; padding: 2px 8px; border-radius: 10px; margin-bottom: 4px; font-weight: 800; }
+.d10 td { padding: 10px 8px; font-size: 0.75rem; text-align: center; border-bottom: 1px solid #f0e6e0; color: #333; }
+.d10 tr:nth-child(even) td { background: #fdf6f2; }
+.d10 tr:nth-child(odd) td { background: #fff; }
+.d10 td.label { background: linear-gradient(90deg, #3d1a28, #5a2a3a) !important; color: #f0c0c8; font-weight: 700; font-size: 0.7rem; text-align: left; padding-left: 12px; white-space: nowrap; }
+.d10 td.hi { color: #9b2a40; font-weight: 700; }
+</style>
+</head>
+<body>
+
+<div class="nav">
+比較表デザイン案:
+<a href="#d1">①マイベスト風</a>
+<a href="#d2">②ピンク統一</a>
+<a href="#d3">③カード型</a>
+<a href="#d4">④ダーク×ゴールド</a>
+<a href="#d5">⑤パステル丸角</a>
+<a href="#d6">⑥スコアドット</a>
+<a href="#d7">⑦縦縞カラム</a>
+<a href="#d8">⑧ミニマル白</a>
+<a href="#d9">⑨ランキング強調</a>
+<a href="#d10">⑩和モダン</a>
+</div>
+
+<!-- ① マイベスト風 -->
+<div class="section" id="d1">
+<div class="section-title">① マイベスト風｜ランク番号＋ピンクアクセント</div>
+<div class="section-sub">競合最多採用。1位を色で強調、ランク番号をヘッダーに表示。すっきり読みやすい。</div>
+<div class="scroll-hint">← 横スクロールできます →</div>
+<div class="scroll-wrap d1">
+<table>
+<thead><tr>
+  <th style="width:80px; background:#f8f4f0;"></th>
+  <th class="featured"><span class="badge">★ イチ推し</span><div class="rank">1</div><div class="product-name">ファンケル<br>マイルドクレンジングオイル</div></th>
+  <th><div class="rank rank2">2</div><div class="product-name">DHC<br>薬用ディープクレンジング</div></th>
+  <th><div class="rank rank3">3</div><div class="product-name">アテニア<br>スキンクリアクレンズ</div></th>
+  <th><div class="rank" style="background:#5a8a9a">4</div><div class="product-name">キュレル<br>ジェルメイク落とし</div></th>
+  <th><div class="rank" style="background:#c06080">5</div><div class="product-name">ビオレ<br>ザクレンズ オイル</div></th>
+</tr></thead>
+<tbody>
+<tr><td class="label">🎯 タイプ</td><td class="hi">オイル（無添加）</td><td>オイル（薬用）</td><td>オイル（エイジングケア）</td><td>ジェル（敏感肌）</td><td>オイル（プチプラ）</td></tr>
+<tr><td class="label">👤 向いている肌</td><td class="hi">乾燥・敏感肌<br>まつエクOK</td><td>普通〜混合肌<br>濃いメイク</td><td>乾燥・エイジングケア重視</td><td>超敏感肌<br>セラミドケア</td><td>ふだん使い<br>コスパ重視</td></tr>
+<tr><td class="label">💰 価格帯</td><td class="hi">中価格帯</td><td>プチプラ〜中</td><td>中〜高価格</td><td>中価格（ドラッグ）</td><td>プチプラ</td></tr>
+<tr><td class="label">✨ 特徴</td><td class="hi">防腐剤・香料<br>着色料なし</td><td>薬用処方<br>毛穴ケア</td><td>バラ・椿<br>オイル配合</td><td>セラミド<br>機能成分配合</td><td>ダブル洗顔不要<br>速攻メイクオフ</td></tr>
+</tbody>
+</table>
+</div>
+</div>
+
+<!-- ② ピンク統一 -->
+<div class="section" id="d2">
+<div class="section-title">② ピンク系統一グラデーション｜ブランドカラーで統一感</div>
+<div class="section-sub">サイトのピンク系カラーで全ヘッダーを統一。1位は濃いピンク、2位以降は淡く。ブログのブランドカラーと自然に馴染む。</div>
+<div class="scroll-hint">← 横スクロールできます →</div>
+<div class="scroll-wrap d2">
+<table>
+<thead><tr>
+  <th class="th-empty" style="width:80px;"></th>
+  <th class="featured"><span class="badge">★ イチ推し</span>ファンケル<br>マイルドクレンジングオイル</th>
+  <th class="normal">DHC<br>薬用ディープクレンジング</th>
+  <th class="normal" style="background:linear-gradient(135deg,#c8788e,#dca0b0)">アテニア<br>スキンクリアクレンズ</th>
+  <th class="normal" style="background:linear-gradient(135deg,#c09098,#d8b0b8)">キュレル<br>ジェルメイク落とし</th>
+  <th class="normal" style="background:linear-gradient(135deg,#bca0a8,#d0b8c0)">ビオレ<br>ザクレンズ オイル</th>
+</tr></thead>
+<tbody>
+<tr><td class="label">🎯 タイプ</td><td class="hi">オイル（無添加）</td><td>オイル（薬用）</td><td>オイル（エイジングケア）</td><td>ジェル（敏感肌）</td><td>オイル（プチプラ）</td></tr>
+<tr><td class="label">👤 向いている肌</td><td class="hi">乾燥・敏感肌<br>まつエクOK</td><td>普通〜混合肌</td><td>乾燥・エイジングケア重視</td><td>超敏感肌・セラミドケア</td><td>ふだん使い</td></tr>
+<tr><td class="label">💰 価格帯</td><td class="hi">中価格帯</td><td>プチプラ〜中</td><td>中〜高価格</td><td>中価格帯</td><td>プチプラ</td></tr>
+<tr><td class="label">✨ 特徴</td><td class="hi">防腐剤・香料なし</td><td>薬用処方・毛穴ケア</td><td>バラ・椿オイル配合</td><td>セラミド成分配合</td><td>速攻メイクオフ</td></tr>
+</tbody>
+</table>
+</div>
+</div>
+
+<!-- ③ カード型 -->
+<div class="section" id="d3">
+<div class="section-title">③ カード型（横並び）｜1位が浮き上がる</div>
+<div class="section-sub">各商品を独立したカードで表示。1位は影と浮き上がり効果で視覚的に強調。縦スクロールでも見やすい。</div>
+<div class="scroll-hint">← 横スクロールできます →</div>
+<div class="scroll-wrap">
+<div class="d3-wrap">
+  <div class="d3-card featured">
+    <div class="d3-header"><span class="d3-badge">★ イチ推し</span><br>ファンケル<br>マイルド<br>クレンジングオイル</div>
+    <div class="d3-row"><div class="d3-row-label">タイプ</div><div class="d3-row-val">オイル（無添加）</div></div>
+    <div class="d3-row"><div class="d3-row-label">向いている肌</div><div class="d3-row-val">乾燥・敏感肌<br>まつエクOK</div></div>
+    <div class="d3-row"><div class="d3-row-label">価格帯</div><div class="d3-row-val">中価格帯</div></div>
+    <div class="d3-row"><div class="d3-row-label">特徴</div><div class="d3-row-val">防腐剤・香料<br>着色料なし</div></div>
+  </div>
+  <div class="d3-card">
+    <div class="d3-header">DHC<br>薬用ディープ<br>クレンジング</div>
+    <div class="d3-row"><div class="d3-row-label">タイプ</div><div class="d3-row-val">オイル（薬用）</div></div>
+    <div class="d3-row"><div class="d3-row-label">向いている肌</div><div class="d3-row-val">普通〜混合肌<br>濃いメイク</div></div>
+    <div class="d3-row"><div class="d3-row-label">価格帯</div><div class="d3-row-val">プチプラ〜中</div></div>
+    <div class="d3-row"><div class="d3-row-label">特徴</div><div class="d3-row-val">薬用処方<br>毛穴ケア</div></div>
+  </div>
+  <div class="d3-card">
+    <div class="d3-header">アテニア<br>スキンクリア<br>クレンズ</div>
+    <div class="d3-row"><div class="d3-row-label">タイプ</div><div class="d3-row-val">オイル（エイジング）</div></div>
+    <div class="d3-row"><div class="d3-row-label">向いている肌</div><div class="d3-row-val">乾燥・エイジングケア重視</div></div>
+    <div class="d3-row"><div class="d3-row-label">価格帯</div><div class="d3-row-val">中〜高価格</div></div>
+    <div class="d3-row"><div class="d3-row-label">特徴</div><div class="d3-row-val">バラ・椿<br>オイル配合</div></div>
+  </div>
+  <div class="d3-card">
+    <div class="d3-header">キュレル<br>ジェルメイク<br>落とし</div>
+    <div class="d3-row"><div class="d3-row-label">タイプ</div><div class="d3-row-val">ジェル（敏感肌）</div></div>
+    <div class="d3-row"><div class="d3-row-label">向いている肌</div><div class="d3-row-val">超敏感肌<br>セラミドケア</div></div>
+    <div class="d3-row"><div class="d3-row-label">価格帯</div><div class="d3-row-val">中価格帯</div></div>
+    <div class="d3-row"><div class="d3-row-label">特徴</div><div class="d3-row-val">セラミド<br>機能成分配合</div></div>
+  </div>
+  <div class="d3-card">
+    <div class="d3-header">ビオレ<br>ザクレンズ<br>オイル</div>
+    <div class="d3-row"><div class="d3-row-label">タイプ</div><div class="d3-row-val">オイル（プチプラ）</div></div>
+    <div class="d3-row"><div class="d3-row-label">向いている肌</div><div class="d3-row-val">ふだん使い<br>コスパ重視</div></div>
+    <div class="d3-row"><div class="d3-row-label">価格帯</div><div class="d3-row-val">プチプラ</div></div>
+    <div class="d3-row"><div class="d3-row-label">特徴</div><div class="d3-row-val">ダブル洗顔不要<br>速攻オフ</div></div>
+  </div>
+</div>
+</div>
+</div>
+
+<!-- ④ ダーク×ゴールド -->
+<div class="section" id="d4">
+<div class="section-title">④ ダーク×ゴールド｜プレミアム感・高級感</div>
+<div class="section-sub">ダークな行ラベル＋ゴールドの1位強調。高級コスメ記事に映えるプレミアムデザイン。</div>
+<div class="scroll-hint">← 横スクロールできます →</div>
+<div class="scroll-wrap d4">
+<table>
+<thead><tr>
+  <th class="th-empty" style="width:85px;"></th>
+  <th class="featured"><span class="badge">★ イチ推し</span>ファンケル<br>マイルドクレンジングオイル</th>
+  <th>DHC<br>薬用ディープクレンジング</th>
+  <th>アテニア<br>スキンクリアクレンズ</th>
+  <th>キュレル<br>ジェルメイク落とし</th>
+  <th>ビオレ<br>ザクレンズ オイル</th>
+</tr></thead>
+<tbody>
+<tr><td class="label">🎯 タイプ</td><td class="hi">オイル（無添加）</td><td>オイル（薬用）</td><td>オイル（エイジングケア）</td><td>ジェル（敏感肌）</td><td>オイル（プチプラ）</td></tr>
+<tr><td class="label">👤 向く肌</td><td class="hi">乾燥・敏感肌<br>まつエクOK</td><td>普通〜混合肌</td><td>乾燥・エイジング重視</td><td>超敏感肌</td><td>ふだん使い</td></tr>
+<tr><td class="label">💰 価格帯</td><td class="hi">中価格帯</td><td>プチプラ〜中</td><td>中〜高価格</td><td>中価格帯</td><td>プチプラ</td></tr>
+<tr><td class="label">✨ 特徴</td><td class="hi">防腐剤・香料<br>着色料なし</td><td>薬用処方<br>毛穴ケア</td><td>バラ・椿<br>オイル配合</td><td>セラミド<br>機能成分配合</td><td>速攻メイクオフ<br>ダブル洗顔不要</td></tr>
+</tbody>
+</table>
+</div>
+</div>
+
+<!-- ⑤ パステル丸角 -->
+<div class="section" id="d5">
+<div class="section-title">⑤ パステル×丸角｜やわらかく親しみやすい</div>
+<div class="section-sub">各商品に個性ある淡色を割り当て。セル間に隙間を設けてふんわりした印象に。40代女性に親しみやすい。</div>
+<div class="scroll-hint">← 横スクロールできます →</div>
+<div class="scroll-wrap d5">
+<table>
+<thead><tr>
+  <th class="th-empty" style="width:75px;"></th>
+  <th class="featured"><span class="badge">★ イチ推し</span>ファンケル<br>マイルドクレンジング</th>
+  <th class="p2">DHC<br>薬用ディープ</th>
+  <th class="p3">アテニア<br>スキンクリア</th>
+  <th class="p4">キュレル<br>ジェルメイク落とし</th>
+  <th class="p5">ビオレ<br>ザクレンズ</th>
+</tr></thead>
+<tbody>
+<tr><td class="label">🎯 タイプ</td><td class="hi">オイル（無添加）</td><td>オイル（薬用）</td><td>オイル（エイジング）</td><td>ジェル（敏感肌）</td><td>オイル（プチプラ）</td></tr>
+<tr><td class="label">👤 向く肌</td><td class="hi">乾燥・敏感肌<br>まつエクOK</td><td>普通〜混合肌</td><td>乾燥・エイジング重視</td><td>超敏感肌</td><td>ふだん使い</td></tr>
+<tr><td class="label">💰 価格帯</td><td class="hi">中価格帯</td><td>プチプラ〜中</td><td>中〜高価格</td><td>中価格帯</td><td>プチプラ</td></tr>
+<tr><td class="label">✨ 特徴</td><td class="hi">防腐剤・香料なし</td><td>薬用処方・毛穴ケア</td><td>バラ・椿オイル配合</td><td>セラミド成分配合</td><td>速攻メイクオフ</td></tr>
+</tbody>
+</table>
+</div>
+</div>
+
+<!-- ⑥ スコアドット型 -->
+<div class="section" id="d6">
+<div class="section-title">⑥ スコアドット型｜視覚的に強弱が一目でわかる</div>
+<div class="section-sub">テキストだけでなく●ドットで評価を可視化。スペック比較が直感的に伝わる。</div>
+<div class="scroll-hint">← 横スクロールできます →</div>
+<div class="scroll-wrap d6">
+<table>
+<thead><tr>
+  <th class="th-empty">評価項目</th>
+  <th class="featured"><span class="badge">★ イチ推し</span>ファンケル<br>マイルドクレンジング</th>
+  <th>DHC<br>薬用ディープ</th>
+  <th>アテニア<br>スキンクリア</th>
+  <th>キュレル<br>ジェルメイク落とし</th>
+  <th>ビオレ<br>ザクレンズ</th>
+</tr></thead>
+<tbody>
+<tr>
+  <td class="label">🌸 敏感肌対応</td>
+  <td class="hi"><div class="dots"><span class="dot on gold"></span><span class="dot on gold"></span><span class="dot on gold"></span><span class="dot on gold"></span><span class="dot on gold"></span></div>5/5</td>
+  <td><div class="dots"><span class="dot on"></span><span class="dot on"></span><span class="dot on"></span><span class="dot"></span><span class="dot"></span></div>3/5</td>
+  <td><div class="dots"><span class="dot on"></span><span class="dot on"></span><span class="dot on"></span><span class="dot on"></span><span class="dot"></span></div>4/5</td>
+  <td><div class="dots"><span class="dot on"></span><span class="dot on"></span><span class="dot on"></span><span class="dot on"></span><span class="dot on"></span></div>5/5</td>
+  <td><div class="dots"><span class="dot on"></span><span class="dot on"></span><span class="dot"></span><span class="dot"></span><span class="dot"></span></div>2/5</td>
+</tr>
+<tr>
+  <td class="label">💧 落とし力</td>
+  <td class="hi"><div class="dots"><span class="dot on gold"></span><span class="dot on gold"></span><span class="dot on gold"></span><span class="dot on gold"></span><span class="dot"></span></div>4/5</td>
+  <td><div class="dots"><span class="dot on"></span><span class="dot on"></span><span class="dot on"></span><span class="dot on"></span><span class="dot on"></span></div>5/5</td>
+  <td><div class="dots"><span class="dot on"></span><span class="dot on"></span><span class="dot on"></span><span class="dot on"></span><span class="dot"></span></div>4/5</td>
+  <td><div class="dots"><span class="dot on"></span><span class="dot on"></span><span class="dot on"></span><span class="dot"></span><span class="dot"></span></div>3/5</td>
+  <td><div class="dots"><span class="dot on"></span><span class="dot on"></span><span class="dot on"></span><span class="dot on"></span><span class="dot on"></span></div>5/5</td>
+</tr>
+<tr>
+  <td class="label">💰 コスパ</td>
+  <td class="hi"><div class="dots"><span class="dot on gold"></span><span class="dot on gold"></span><span class="dot on gold"></span><span class="dot on gold"></span><span class="dot"></span></div>4/5</td>
+  <td><div class="dots"><span class="dot on"></span><span class="dot on"></span><span class="dot on"></span><span class="dot on"></span><span class="dot on"></span></div>5/5</td>
+  <td><div class="dots"><span class="dot on"></span><span class="dot on"></span><span class="dot"></span><span class="dot"></span><span class="dot"></span></div>2/5</td>
+  <td><div class="dots"><span class="dot on"></span><span class="dot on"></span><span class="dot on"></span><span class="dot on"></span><span class="dot"></span></div>4/5</td>
+  <td><div class="dots"><span class="dot on"></span><span class="dot on"></span><span class="dot on"></span><span class="dot on"></span><span class="dot on"></span></div>5/5</td>
+</tr>
+<tr>
+  <td class="label">✨ エイジングケア</td>
+  <td class="hi"><div class="dots"><span class="dot on gold"></span><span class="dot on gold"></span><span class="dot on gold"></span><span class="dot"></span><span class="dot"></span></div>3/5</td>
+  <td><div class="dots"><span class="dot on"></span><span class="dot on"></span><span class="dot"></span><span class="dot"></span><span class="dot"></span></div>2/5</td>
+  <td><div class="dots"><span class="dot on"></span><span class="dot on"></span><span class="dot on"></span><span class="dot on"></span><span class="dot on"></span></div>5/5</td>
+  <td><div class="dots"><span class="dot on"></span><span class="dot on"></span><span class="dot on"></span><span class="dot"></span><span class="dot"></span></div>3/5</td>
+  <td><div class="dots"><span class="dot on"></span><span class="dot"></span><span class="dot"></span><span class="dot"></span><span class="dot"></span></div>1/5</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+
+<!-- ⑦ 縦縞カラム型 -->
+<div class="section" id="d7">
+<div class="section-title">⑦ 縦縞カラム型｜各商品に個別カラー、行ラベルは強調</div>
+<div class="section-sub">列ごとに薄い色を敷き、ヘッダーにそのカラーのアクセント線。行を追うのではなく、列(商品)単位で読みやすい。</div>
+<div class="scroll-hint">← 横スクロールできます →</div>
+<div class="scroll-wrap d7">
+<table>
+<thead><tr>
+  <th class="th-empty" style="width:80px;"></th>
+  <th class="featured"><span class="badge">★ イチ推し</span>ファンケル<br>マイルドクレンジング</th>
+  <th class="c2">DHC<br>薬用ディープ</th>
+  <th class="c3">アテニア<br>スキンクリア</th>
+  <th class="c4">キュレル<br>ジェルメイク落とし</th>
+  <th class="c5">ビオレ<br>ザクレンズ</th>
+</tr></thead>
+<tbody>
+<tr><td class="label">🎯 タイプ</td><td class="hi">オイル（無添加）</td><td class="c2-col">オイル（薬用）</td><td class="c3-col">オイル（エイジング）</td><td class="c4-col">ジェル（敏感肌）</td><td class="c5-col">オイル（プチプラ）</td></tr>
+<tr><td class="label">👤 向く肌</td><td class="hi">乾燥・敏感肌<br>まつエクOK</td><td class="c2-col">普通〜混合肌</td><td class="c3-col">乾燥・エイジング重視</td><td class="c4-col">超敏感肌</td><td class="c5-col">ふだん使い</td></tr>
+<tr><td class="label">💰 価格帯</td><td class="hi">中価格帯</td><td class="c2-col">プチプラ〜中</td><td class="c3-col">中〜高価格</td><td class="c4-col">中価格帯</td><td class="c5-col">プチプラ</td></tr>
+<tr><td class="label">✨ 特徴</td><td class="hi">防腐剤・香料なし</td><td class="c2-col">薬用処方・毛穴ケア</td><td class="c3-col">バラ・椿オイル配合</td><td class="c4-col">セラミド成分配合</td><td class="c5-col">速攻メイクオフ</td></tr>
+</tbody>
+</table>
+</div>
+</div>
+
+<!-- ⑧ ミニマル白 -->
+<div class="section" id="d8">
+<div class="section-title">⑧ ミニマル白紙｜線＋タイポグラフィだけで完結</div>
+<div class="section-sub">装飾を極力排除。太い下線でヘッダーと1位を区別する。読み物感覚で自然に読める。</div>
+<div class="scroll-hint">← 横スクロールできます →</div>
+<div class="scroll-wrap d8">
+<table>
+<thead><tr>
+  <th class="th-empty" style="width:80px;"></th>
+  <th class="featured"><span class="badge">★ イチ推し</span>ファンケル<br>マイルドクレンジング</th>
+  <th>DHC<br>薬用ディープ</th>
+  <th>アテニア<br>スキンクリア</th>
+  <th>キュレル<br>ジェルメイク落とし</th>
+  <th>ビオレ<br>ザクレンズ</th>
+</tr></thead>
+<tbody>
+<tr><td class="label">タイプ</td><td class="hi">オイル（無添加）</td><td>オイル（薬用）</td><td>オイル（エイジング）</td><td>ジェル（敏感肌）</td><td>オイル（プチプラ）</td></tr>
+<tr><td class="label">向いている肌</td><td class="hi">乾燥・敏感肌<br>まつエクOK</td><td>普通〜混合肌</td><td>乾燥・エイジング重視</td><td>超敏感肌</td><td>ふだん使い</td></tr>
+<tr><td class="label">価格帯</td><td class="hi">中価格帯</td><td>プチプラ〜中</td><td>中〜高価格</td><td>中価格帯</td><td>プチプラ</td></tr>
+<tr><td class="label">特徴</td><td class="hi">防腐剤・香料なし</td><td>薬用処方・毛穴ケア</td><td>バラ・椿オイル配合</td><td>セラミド成分配合</td><td>速攻メイクオフ</td></tr>
+</tbody>
+</table>
+</div>
+</div>
+
+<!-- ⑨ ランキング強調型 -->
+<div class="section" id="d9">
+<div class="section-title">⑨ ランキング強調型｜大きな順位番号で「選ぶ感」を演出</div>
+<div class="section-sub">左に大きな順位番号、商品をブロックで横並び。各商品の属性タグ形式で一覧しやすい。</div>
+<div class="scroll-hint">← 横スクロールできます →</div>
+<div class="scroll-wrap">
+<div class="d9" style="min-width:620px;">
+  <div class="product-row">
+    <div class="rank-col r1">#1</div>
+    <div class="product-block featured">
+      <div class="p-header"><span class="p-badge">★ イチ推し</span><br>ファンケル マイルドクレンジングオイル</div>
+      <div class="p-attrs">
+        <div class="p-attr"><span class="attr-label">タイプ</span>オイル（無添加）</div>
+        <div class="p-attr"><span class="attr-label">向く肌</span>乾燥・敏感肌・まつエクOK</div>
+        <div class="p-attr"><span class="attr-label">価格帯</span>中価格帯</div>
+        <div class="p-attr"><span class="attr-label">特徴</span>防腐剤・香料・着色料なし</div>
+      </div>
+    </div>
+  </div>
+  <div class="product-row" style="margin-top:6px;">
+    <div class="rank-col r2">#2</div>
+    <div class="product-block">
+      <div class="p-header">DHC 薬用ディープクレンジングオイル</div>
+      <div class="p-attrs">
+        <div class="p-attr"><span class="attr-label">タイプ</span>オイル（薬用）</div>
+        <div class="p-attr"><span class="attr-label">向く肌</span>普通〜混合肌・濃いメイク</div>
+        <div class="p-attr"><span class="attr-label">価格帯</span>プチプラ〜中</div>
+        <div class="p-attr"><span class="attr-label">特徴</span>薬用処方・毛穴ケア</div>
+      </div>
+    </div>
+  </div>
+  <div class="product-row" style="margin-top:6px;">
+    <div class="rank-col r3">#3</div>
+    <div class="product-block">
+      <div class="p-header">アテニア スキンクリアクレンズオイル</div>
+      <div class="p-attrs">
+        <div class="p-attr"><span class="attr-label">タイプ</span>オイル（エイジングケア）</div>
+        <div class="p-attr"><span class="attr-label">向く肌</span>乾燥・エイジングケア重視</div>
+        <div class="p-attr"><span class="attr-label">価格帯</span>中〜高価格</div>
+        <div class="p-attr"><span class="attr-label">特徴</span>バラ・椿オイル配合</div>
+      </div>
+    </div>
+  </div>
+  <div class="product-row" style="margin-top:6px;">
+    <div class="rank-col" style="font-size:1.4rem;color:#aaa;">#4</div>
+    <div class="product-block">
+      <div class="p-header">キュレル ジェルメイク落とし</div>
+      <div class="p-attrs">
+        <div class="p-attr"><span class="attr-label">タイプ</span>ジェル（敏感肌）</div>
+        <div class="p-attr"><span class="attr-label">向く肌</span>超敏感肌・セラミドケア</div>
+        <div class="p-attr"><span class="attr-label">価格帯</span>中価格帯</div>
+        <div class="p-attr"><span class="attr-label">特徴</span>セラミド機能成分配合</div>
+      </div>
+    </div>
+  </div>
+  <div class="product-row" style="margin-top:6px;">
+    <div class="rank-col" style="font-size:1.4rem;color:#aaa;">#5</div>
+    <div class="product-block">
+      <div class="p-header">ビオレ ザクレンズ オイル</div>
+      <div class="p-attrs">
+        <div class="p-attr"><span class="attr-label">タイプ</span>オイル（プチプラ）</div>
+        <div class="p-attr"><span class="attr-label">向く肌</span>ふだん使い・コスパ重視</div>
+        <div class="p-attr"><span class="attr-label">価格帯</span>プチプラ</div>
+        <div class="p-attr"><span class="attr-label">特徴</span>ダブル洗顔不要・速攻オフ</div>
+      </div>
+    </div>
+  </div>
+</div>
+</div>
+</div>
+
+<!-- ⑩ 和モダン -->
+<div class="section" id="d10">
+<div class="section-title">⑩ 和モダン（深紅×ゴールド）｜高品位・大人の女性向け</div>
+<div class="section-sub">深い赤みのダークヘッダー×ゴールドのバッジ。行ラベルも深紅の帯で統一。"うるわし生活"のコンセプトに合った上品な印象。</div>
+<div class="scroll-hint">← 横スクロールできます →</div>
+<div class="scroll-wrap d10">
+<table>
+<thead><tr>
+  <th style="width:85px; background:linear-gradient(135deg,#1a0a10,#3d1a28); color:#c0a0a8;"></th>
+  <th class="featured"><span class="badge">★ イチ推し</span>ファンケル<br>マイルドクレンジング</th>
+  <th>DHC<br>薬用ディープ</th>
+  <th>アテニア<br>スキンクリア</th>
+  <th>キュレル<br>ジェルメイク落とし</th>
+  <th>ビオレ<br>ザクレンズ</th>
+</tr></thead>
+<tbody>
+<tr><td class="label">🎯 タイプ</td><td class="hi">オイル（無添加）</td><td>オイル（薬用）</td><td>オイル（エイジング）</td><td>ジェル（敏感肌）</td><td>オイル（プチプラ）</td></tr>
+<tr><td class="label">👤 向く肌</td><td class="hi">乾燥・敏感肌<br>まつエクOK</td><td>普通〜混合肌</td><td>乾燥・エイジング重視</td><td>超敏感肌</td><td>ふだん使い</td></tr>
+<tr><td class="label">💰 価格帯</td><td class="hi">中価格帯</td><td>プチプラ〜中</td><td>中〜高価格</td><td>中価格帯</td><td>プチプラ</td></tr>
+<tr><td class="label">✨ 特徴</td><td class="hi">防腐剤・香料なし</td><td>薬用処方・毛穴ケア</td><td>バラ・椿オイル配合</td><td>セラミド成分配合</td><td>速攻メイクオフ</td></tr>
+</tbody>
+</table>
+</div>
+</div>
+
+</body>
+</html>
