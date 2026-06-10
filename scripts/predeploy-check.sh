@@ -334,6 +334,66 @@ if [ -n "$BAD" ]; then
 fi
 
 # -----------------------------------------------
+# 14. FC（ファクトチェック）リスク表現スキャナー
+#     景表法・薬機法でリスクの高い「断定的な順位・統計・権威」主張が
+#     出典注記なしで使われていないか検査する。
+#     - No.1 / 満足度 / リピート率 / 継続率 / 売上実績 / FDA基準クリア /
+#       皮膚科推薦 / 医師推奨 / ランキング1位 など
+#     - 同じ行に出典注記（※ / 調べ / 出典 / 機構 / 号 / 受賞 / LDK / n=）が
+#       あれば許容（＝根拠が示されている）。なければ警告。
+#     ※ ハードエラーにはしない（正当な注記漏れの可能性もあるため）。
+#        ただしデプロイのたびに必ず一覧表示し、FC確認を促す。
+# -----------------------------------------------
+BAD=$(python3 - "$TARGET" <<'PYEOF' 2>/dev/null
+import re, os, sys, glob
+
+target = sys.argv[1]
+files = []
+if os.path.isfile(target):
+    files = [target]
+elif os.path.isdir(target):
+    for f in sorted(glob.glob(os.path.join(target, '*.md'))):
+        files.append(f)
+
+# リスク表現（断定的な統計・権威・No.1主張のみ。サイト独自のランキング
+# 見出し「### No.1｜」「第1位」等＝編集上の順位は対象外）
+risk_patterns = [
+    # 「○○ No.1 / ナンバーワン / 第1位」のように主張の修飾語を伴うNo.1
+    r'(医療従事者|医師|皮膚科|売上|販売台数|販売実績|出荷|累計|世界|国内|シェア|人気|楽天|Amazon|アマゾン|満足度|受賞)[^。\n]{0,8}(No\.?\s?1|ナンバーワン|第\s*1\s*位)',
+    # 数字を伴う統計主張
+    r'(リピート率|継続率|満足度|愛用者|販売実績)\s*[\d０-９]',
+    # 根拠が必要な権威・効能の断定
+    r'(FDA基準クリア|皮膚科推薦|皮膚科医推奨|医師推奨|医療従事者[がの]?推奨)',
+]
+risk = re.compile('|'.join(risk_patterns))
+# 出典・根拠が示されていれば許容
+attal = re.compile(r'(※|調べ|出典|機構|号|受賞|ベストバイ|LDK|n\s*=|当社調査|自社調査|公式サイト調査|モニター)')
+
+issues = []
+for fpath in files:
+    with open(fpath) as f:
+        lines = f.readlines()
+    for i, line in enumerate(lines, 1):
+        # リンクURL行・画像URL行は除外
+        if 'af.moshimo' in line or 'px.a8.net' in line or 'media-amazon' in line:
+            continue
+        if risk.search(line) and not attal.search(line):
+            snippet = line.strip()
+            if len(snippet) > 80:
+                snippet = snippet[:80] + '…'
+            issues.append(f'{os.path.basename(fpath)}:{i}: {snippet}')
+
+if issues:
+    print('\n'.join(issues))
+PYEOF
+)
+if [ -n "$BAD" ]; then
+  yellow "FC要：出典注記なしの順位・統計・権威表現があります（景表法・薬機法リスク／要確認）:"
+  echo "$BAD"
+  echo "  → 根拠を確認し「※○○調べ」等を付けるか、表現を緩和してください。"
+fi
+
+# -----------------------------------------------
 # 結果サマリ
 # -----------------------------------------------
 echo ""
