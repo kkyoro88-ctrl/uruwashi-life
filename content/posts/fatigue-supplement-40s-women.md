@@ -243,7 +243,7 @@ cover:
 
 {{< rawhtml >}}
 <div class="comparison-wrap">
-<table class="comparison-rank">
+<table class="comparison-rank comparison-rank--2col">
   <thead>
     <tr>
       <th>症状・目的</th>

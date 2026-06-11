@@ -153,7 +153,7 @@ price_checked: "2026-05-28"
 {{< rawhtml >}}
 
 <div class="comparison-wrap">
-<table class="comparison-rank">
+<table class="comparison-rank comparison-rank--2col">
   <thead>
     <tr>
       <th></th>

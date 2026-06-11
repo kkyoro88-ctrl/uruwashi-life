@@ -2368,10 +2368,13 @@ details.single-toc[open] .single-toc-title::after { content: '▴'; }
 
 /* ===== 比較表：マイベスト風（ランク番号型・標準テンプレ）===== */
 .comparison-rank {
+  /* display:table 必須（テーマが table を display:block にするため）。
+     min-width:100% で中身が狭い表は枠いっぱいに広がり、広い表は max-content で横スクロール */
+  display: table;
   border-collapse: separate;
   border-spacing: 0;
   width: max-content;
-  min-width: 600px;
+  min-width: 100%;
   background: #fff;
 }
 /* 商品2列のときは全幅に広げて右側の余白をなくす（display:block を table に戻すのが肝） */
