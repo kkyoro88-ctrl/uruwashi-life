@@ -22,6 +22,8 @@ summary_points:
 
 この記事では、実際に使ってきた目線から**ケノン・Ulike Air10・トリア4X**を正直に比較します。40代の肌に合う選び方のポイントと、タイプ別のおすすめも合わせて解説します。
 
+{{< cta href="https://px.a8.net/svt/ejp?a8mat=4B1R5P+FZ4R5E+5QIG+5YJRM" text="結論：40代の敏感肌なら Ulike Air10 ▶ 公式サイトで見る" sub="サファイア冷却で痛みを感じにくい・公式セール時が最安になりやすい" beacon="https://www14.a8.net/0.gif?a8mat=4B1R5P+FZ4R5E+5QIG+5YJRM" >}}
+
 ---
 
 ## 3機種のおすすめランキング【一覧表】
@@ -42,7 +44,7 @@ summary_points:
   <tbody>
     <tr class="rank-1">
       <td><span class="rank-num">#1</span></td>
-      <td><strong>Ulike Air10</strong></td>
+      <td><strong>Ulike Air10</strong><br><a class="cta-table-btn" href="https://px.a8.net/svt/ejp?a8mat=4B1R5P+FZ4R5E+5QIG+5YJRM" target="_blank" rel="nofollow noopener">公式 →</a></td>
       <td>IPL光</td>
       <td>✅ サファイア冷却</td>
       <td>約4〜6万円</td>
@@ -253,3 +255,5 @@ A. 冷却機能の有無という点ではUlike Air10のほうが痛みの口コ
 - [40代のボディ美白ケアおすすめ5選](/posts/whitening-body-cream-40s-recommend/)
 - [化粧下地おすすめ40代5選](/posts/primer-40s-recommend/)
 - [40代のハンドクリームおすすめ5選](/posts/hand-cream-recommend-40s/)
+
+{{< sticky-cta href="https://px.a8.net/svt/ejp?a8mat=4B1R5P+FZ4R5E+5QIG+5YJRM" text="Ulike Air10 公式サイトで見る →" >}}

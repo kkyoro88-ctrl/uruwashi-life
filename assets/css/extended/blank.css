@@ -2757,3 +2757,37 @@ details.single-toc[open] .single-toc-title::after { content: '▴'; }
   transition: opacity 0.2s;
 }
 .line-cta-btn:hover { opacity: 0.85; }
+
+/* ===== キラーページCTA（2026-06-11追加） ===== */
+.cta-hero { text-align: center; margin: 1.6em 0; }
+.cta-primary {
+  display: inline-flex; align-items: center; justify-content: center;
+  min-height: 48px; padding: 14px 36px; border-radius: 30px;
+  background: #e85d8a; color: #fff !important; font-weight: 700; font-size: 1.02em;
+  text-decoration: none !important; box-shadow: 0 3px 10px rgba(232, 93, 138, .35);
+  transition: background .2s, transform .2s;
+}
+.cta-primary:hover { background: #d14a77; transform: translateY(-1px); }
+.cta-sub { font-size: .78rem; color: var(--secondary); margin: 6px 0 0; }
+/* 比較表内ボタン */
+.cta-table-btn {
+  display: inline-block; margin-top: 6px; padding: 8px 14px; border-radius: 20px;
+  background: #e85d8a; color: #fff !important; font-weight: 700; font-size: .8rem;
+  text-decoration: none !important; white-space: nowrap;
+}
+.cta-table-btn:hover { background: #d14a77; }
+.cta-table-btn--sub { background: #9a9a9a; }
+.cta-table-btn--sub:hover { background: #7d7d7d; }
+/* スマホ追従の固定CTAバー（768px以下のみ表示） */
+.sticky-cta { display: none; }
+@media (max-width: 768px) {
+  .sticky-cta {
+    display: block; position: fixed; left: 0; right: 0; bottom: 0; z-index: 90;
+    padding: 10px 14px calc(10px + env(safe-area-inset-bottom));
+    background: rgba(255, 255, 255, .95);
+    -webkit-backdrop-filter: blur(6px); backdrop-filter: blur(6px);
+    box-shadow: 0 -2px 12px rgba(0, 0, 0, .12); text-align: center;
+  }
+  body.dark .sticky-cta { background: rgba(29, 30, 32, .95); }
+  .sticky-cta .cta-primary { display: flex; width: 100%; }
+}

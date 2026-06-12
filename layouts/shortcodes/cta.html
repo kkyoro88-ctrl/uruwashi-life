@@ -1,0 +1,9 @@
+{{- $href := .Get "href" -}}
+{{- $text := .Get "text" -}}
+{{- $sub := .Get "sub" | default "" -}}
+{{- $beacon := .Get "beacon" | default "" -}}
+<div class="cta-hero">
+  <a href="{{ $href }}" target="_blank" rel="nofollow noopener" class="cta-primary">{{ $text }}</a>
+  {{- if $sub }}<p class="cta-sub">{{ $sub }}</p>{{ end -}}
+  {{- if $beacon }}<img border="0" width="1" height="1" src="{{ $beacon }}" alt="">{{ end -}}
+</div>
