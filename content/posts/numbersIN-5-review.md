@@ -1,7 +1,7 @@
 ---
 title: "ナンバーズイン5番の口コミ｜40代のくすみに試した正直レビュー"
 date: 2026-05-20
-lastmod: 2026-05-29
+lastmod: 2026-06-11
 draft: false
 affiliate: true
 categories: ["スキンケア"]
@@ -157,3 +157,9 @@ price_checked: "2026-05-28"
 ナイアシンアミドを化粧水でも取り入れたい方は[ナイアシンアミド化粧水40代おすすめ記事](/posts/niacinamide-lotion-40s-recommend/)をどうぞ。5番と相性のよい成分で、化粧水から重ねると使いやすいです。
 
 毎日のスキンケアの順番や重ね方に迷っている方は[40代スキンケアルーティンガイド](/posts/skincare-routine-40s-guide/)も参考にしてください。
+
+## 合わせて読みたい
+
+- [40代スキンケアルーティン完全ガイド](/posts/skincare-routine-40s-guide/)
+- [40代スキンケアおすすめ完全ガイド](/posts/skincare-products-40s-guide/)
+- [40代のスキンミニマリズム実践ガイド](/posts/skin-minimalism-40s-guide/)

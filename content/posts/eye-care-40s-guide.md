@@ -1,7 +1,7 @@
 ---
 title: "40代の目元ケアガイド｜アイクリーム・まつ毛・眉毛を一緒に見直す方法"
 date: 2026-05-18
-lastmod: 2026-05-31
+lastmod: 2026-06-11
 draft: false
 affiliate: true
 categories: ["スキンケア"]
@@ -261,3 +261,9 @@ price_checked: "2026-05-31"
   img="https://m.media-amazon.com/images/I/51qQNaRFg-L._AC_SL500_.jpg"
   amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB0CWGBKPPS"
 >}}
+
+## 合わせて読みたい
+
+- [40代スキンケアルーティン完全ガイド](/posts/skincare-routine-40s-guide/)
+- [40代スキンケアおすすめ完全ガイド](/posts/skincare-products-40s-guide/)
+- [40代のスキンミニマリズム実践ガイド](/posts/skin-minimalism-40s-guide/)

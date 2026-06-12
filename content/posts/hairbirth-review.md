@@ -1,7 +1,7 @@
 ---
 title: "ヘアバース（HAIRBIRTH）の口コミ・評価【育毛サプリを30・40代が正直レビュー】"
 date: 2026-04-23
-lastmod: 2026-05-30
+lastmod: 2026-06-11
 draft: false
 affiliate: true
 categories: ["インナーケア", "口コミ・レビュー"]
@@ -23,7 +23,6 @@ price_checked: "2026-05-28"
   rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fhairborn%2Fhairborn001%2F"
   amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%E3%83%98%E3%82%A2%E3%83%90%E3%83%BC%E3%82%B9%2BHAIRBIRTH"
 >}}
-
 
 ---
 
@@ -176,8 +175,8 @@ price_checked: "2026-05-28"
   amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%E3%83%98%E3%82%A2%E3%83%90%E3%83%BC%E3%82%B9%2BHAIRBIRTH"
 >}}
 
-> 内側からのケアをもっと知りたい方は[飲む美容液おすすめ記事](/posts/drinking-beauty-recommend/)もあわせてどうぞ。
+## 合わせて読みたい
 
-> 外側からの頭皮ケアも合わせたい方は[頭皮ケアシャンプーおすすめ40代向け3選](/posts/scalp-shampoo-40s-recommend/)もどうぞ。
-
-> 育毛サポートサプリをはじめヘアケア全体の選び方は[40代ヘアケアおすすめガイド](/posts/haircare-40s-guide/)でまとめています。
+- [飲む美容液おすすめ記事](/posts/drinking-beauty-recommend/)
+- [頭皮ケアシャンプーおすすめ40代向け3選](/posts/scalp-shampoo-40s-recommend/)
+- [40代ヘアケアおすすめガイド](/posts/haircare-40s-guide/)

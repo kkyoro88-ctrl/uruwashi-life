@@ -1,7 +1,7 @@
 ---
 title: "【2026年最新】白髪カラートリートメントおすすめ5選｜40代・傷めずに白髪をケアする選び方"
 date: 2026-05-10
-lastmod: 2026-06-09
+lastmod: 2026-06-11
 draft: false
 affiliate: true
 categories: ["ヘアケア", "おすすめ"]
@@ -471,8 +471,8 @@ price_checked: "2026-06-09"
 
 まず試してみるなら**利尻ヘアカラートリートメント**が40代の白髪ケアのスタンダードとして長く支持されています。
 
-> 頭皮ケアとシャンプーを見直したい方は[40代のスカルプシャンプーおすすめガイド](/posts/scalp-shampoo-40s-recommend/)もあわせてどうぞ。
+## 合わせて読みたい
 
-> ヘアオイルで仕上がりのツヤを出したい方は[ヘアオイルおすすめガイド](/posts/hair-oil-recommend/)もご覧ください。
-
-> 40代のヘアケア全体を見直したい方は[40代のヘアケアおすすめガイド](/posts/haircare-40s-guide/)でまとめています。
+- [40代のスカルプシャンプーおすすめガイド](/posts/scalp-shampoo-40s-recommend/)
+- [ヘアオイルおすすめガイド](/posts/hair-oil-recommend/)
+- [40代のヘアケアおすすめガイド](/posts/haircare-40s-guide/)

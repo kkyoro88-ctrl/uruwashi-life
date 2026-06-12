@@ -1,7 +1,7 @@
 ---
 title: "スカルプD まつ毛美容液の口コミ【40代が1ヶ月使ってわかったこと】"
 date: 2026-04-24
-lastmod: 2026-05-30
+lastmod: 2026-06-11
 draft: false
 affiliate: true
 categories: ["口コミ・レビュー"]
@@ -18,7 +18,6 @@ cover:
 price_checked: "2026-05-30"
 ---
 
-
 「最近、まつ毛が細くなってきた気がする」——そう感じたのは40代に入ってからでした。
 
 マスカラを塗っても以前より印象が薄い。まつ毛パーマをかけてもすぐ落ちる。抜けた本数が増えた気がする。「老化ってこういうことか」と少しへこんだあの頃、友人に教えてもらったのがスカルプDのまつ毛美容液でした。
@@ -32,7 +31,6 @@ price_checked: "2026-05-30"
   amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB0CWGYFSJB"
   yahoo="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fangfa%2Fbt2141001.html"
 >}}
-
 
 ---
 
@@ -182,8 +180,8 @@ price_checked: "2026-05-30"
 
 ---
 
-> 他のまつ毛美容液とも比較したい方は[まつ毛美容液おすすめ40代向け3選](/posts/eyelash-serum-40s-recommend/)もあわせてどうぞ。
+## 合わせて読みたい
 
-> 目元のシワ・たるみにも同時アプローチしたい方は[アイクリームおすすめ40代向け3選](/posts/eye-cream-40s-recommend/)もご覧ください。
-
-> 目元ケアと合わせてマスカラも見直したい方は[マスカラおすすめ5選](/posts/mascara-recommend/)もどうぞ。
+- [まつ毛美容液おすすめ40代向け3選](/posts/eyelash-serum-40s-recommend/)
+- [アイクリームおすすめ40代向け3選](/posts/eye-cream-40s-recommend/)
+- [マスカラおすすめ5選](/posts/mascara-recommend/)

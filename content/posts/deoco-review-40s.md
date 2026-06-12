@@ -1,7 +1,7 @@
 ---
 title: "デオコ 薬用デオドラント ボディクレンズの口コミ・効果【40代の加齢臭ケアに正直レビュー】"
 date: 2026-06-07
-lastmod: 2026-06-08
+lastmod: 2026-06-11
 draft: false
 affiliate: true
 price_checked: "2026-06-08"
@@ -278,3 +278,9 @@ cover:
 >}}
 
 > 40代向けの制汗剤をタイプ別に比較した記事は[40代向け制汗剤おすすめガイド](/posts/deodorant-40s-recommend/)でまとめています。
+
+## 合わせて読みたい
+
+- [シャワーヘッドおすすめ](/posts/showerhead-recommend/)
+- [40代マスカラおすすめ5選](/posts/mascara-recommend/)
+- [乾燥肌のハンドソープおすすめ5選](/posts/hand-soap-dry-skin-recommend/)

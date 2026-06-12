@@ -1,7 +1,7 @@
 ---
 title: "40代のニキビ跡がシミになる理由｜色素沈着が治らない肌で気づいたこと"
 date: 2026-06-09
-lastmod: 2026-06-09
+lastmod: 2026-06-11
 draft: false
 affiliate: false
 categories: ["スキンケア"]
@@ -126,3 +126,9 @@ cover:
 **Q. 皮膚科に行ったほうがいいですか？**
 
 色素沈着が濃く、範囲が広い場合や、自己ケアで3〜6ヶ月以上変化がない場合は、皮膚科でのレーザーや処方薬を検討するのが選択肢のひとつになります。
+
+## 合わせて読みたい
+
+- [40代スキンケアルーティン完全ガイド](/posts/skincare-routine-40s-guide/)
+- [40代スキンケアおすすめ完全ガイド](/posts/skincare-products-40s-guide/)
+- [40代のスキンミニマリズム実践ガイド](/posts/skin-minimalism-40s-guide/)
