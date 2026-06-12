@@ -1,7 +1,7 @@
 ---
 title: "クレンジングおすすめ40代5選｜乾燥肌・敏感肌タイプ別の選び方と使い方"
 date: 2026-05-26
-lastmod: 2026-05-27
+lastmod: 2026-06-12
 draft: false
 affiliate: true
 categories: ["スキンケア"]
@@ -398,6 +398,8 @@ price_checked: "2026-05-28"
 ---
 
 ---
+
+クレンジングを整えたら、次は「落とす土台」の水質です。毛穴汚れとシャワーの関係は[ミラブルzeroの正直レビュー](/posts/mirablezero-review/)でまとめています。
 
 ## 合わせて読みたい
 
