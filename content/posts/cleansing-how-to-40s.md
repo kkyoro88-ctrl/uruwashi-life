@@ -1,7 +1,7 @@
 ---
 title: "40代の正しい洗顔・クレンジング方法【肌負担を減らす7つのポイント】"
 date: 2026-04-28
-lastmod: 2026-06-09
+lastmod: 2026-06-11
 draft: false
 affiliate: false
 categories: ["スキンケア", "ケア方法"]
@@ -192,10 +192,9 @@ cover:
 
 ---
 
-洗顔料そのものを見直したい方は、[洗顔料おすすめ記事](/posts/face-wash-40s-recommend/)も参考にどうぞ。
+## 合わせて読みたい
 
-クレンジングのアイテム選びに迷っている方は、[オルビス ザ クレンジングオイルの口コミ](/posts/orbis-cleansing-review/)も参考にしてみてください。
-
-洗顔後のスキンケアの流れは、[40代スキンケアルーティン完全ガイド](/posts/skincare-routine-40s-guide/)でまとめています。
-
-*関連記事：[40代の目元ケアガイド｜アイクリーム・まつ毛・眉毛を一緒に見直す方法](/posts/eye-care-40s-guide/)*
+- [洗顔料おすすめ40代向け3選](/posts/face-wash-40s-recommend/)
+- [オルビス ザ クレンジングオイルの口コミ](/posts/orbis-cleansing-review/)
+- [40代スキンケアルーティン完全ガイド](/posts/skincare-routine-40s-guide/)
+- [40代の目元ケアガイド｜アイクリーム・まつ毛・眉毛を一緒に見直す方法](/posts/eye-care-40s-guide/)

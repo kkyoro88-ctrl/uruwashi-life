@@ -1,7 +1,7 @@
 ---
 title: "【2026年最新】ファンデーション 40代おすすめ3選｜崩れない・乾燥しない・毛穴カバー"
 date: 2026-05-31
-lastmod: 2026-06-06
+lastmod: 2026-06-11
 draft: false
 affiliate: true
 categories: ["メイクアップ"]
@@ -178,9 +178,7 @@ price_checked: "2026-06-06"
 
 ファンデーションは下地との相性によって仕上がりが大きく変わります。保湿下地をしっかり使うことで、どのファンデーションもより長持ちしやすくなります。
 
-「夕方になると崩れている」と感じているなら、ファンデーションを変える前に、まず今の1本を下地と合わせて使い直してみてください。それだけで、夕方の鏡が変わることがあります。
-
-*関連記事：[化粧下地おすすめ40代向け](/posts/primer-40s-recommend/)・[コンシーラーおすすめ40代向け](/posts/concealer-40s-recommend/)*
+「夕方になると崩れている」と感じているなら、ファンデーションを変える前に、まず今の1本を下地と合わせて使い直す。それだけで、夕方の鏡が変わることがあります。買い替えより先に、組み合わせ——40代のベースメイクで私が学んだ順番です。
 
 {{< product
   title="マキアージュ ドラマティックエッセンスリキッド オークル20"
@@ -190,5 +188,8 @@ price_checked: "2026-06-06"
   yahoo="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsummer-store8%2F4909978228248.html"
 >}}
 
-*関連記事：[化粧下地おすすめ40代向け3選](/posts/primer-40s-recommend/)*
-*関連記事：[コンシーラーおすすめ40代向け3選](/posts/concealer-40s-recommend/)*
+## 合わせて読みたい
+
+- [化粧下地おすすめ40代向け3選](/posts/primer-40s-recommend/)
+- [コンシーラーおすすめ40代向け3選](/posts/concealer-40s-recommend/)
+- [マスカラおすすめ40代向け3選](/posts/mascara-recommend/)
