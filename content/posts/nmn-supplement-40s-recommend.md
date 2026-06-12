@@ -7,7 +7,7 @@ tags: ["40代", "エイジングケア", "インナーケア", "サプリ"]
 categories: ["インナーケア"]
 affiliate: true
 cover:
-  image: "/images/nmn-supplement-40s-recommend.png"
+  image: "/images/nmn-supplement-40s-recommend.jpg"
   alt: "NMNサプリおすすめ5選 40代比較"
 draft: false
 summary_points:

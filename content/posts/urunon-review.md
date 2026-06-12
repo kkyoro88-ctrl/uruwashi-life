@@ -8,7 +8,7 @@ categories: ["暮らし・美容グッズ", "口コミ・レビュー"]
 tags: ["口コミ"]
 description: "うるのんの口コミ・評価。TOKAIの全国17万件の実績を誇る宅配水サービスを正直レビュー。富士山のバナジウム天然水の特徴と、ウォーターサーバー選びのポイントを解説します。"
 cover:
-  image: "/images/urunon-review.png"
+  image: "/images/urunon-review.jpg"
   alt: "うるのん 宅配天然水"
 price_checked: "2026-05-28"
 ---

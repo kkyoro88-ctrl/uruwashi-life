@@ -13,7 +13,7 @@ summary_points:
   - "プチプラからデパコスまで実力派5選"
   - "下地を正しく使うための塗り方のコツ"
 cover:
-  image: "/images/primer-40s-recommend.png"
+  image: "/images/primer-40s-recommend.jpg"
   alt: "40代向けおすすめ化粧下地"
 price_checked: "2026-06-07"
 ---

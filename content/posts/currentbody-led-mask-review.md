@@ -8,7 +8,7 @@ categories: ["口コミ・レビュー", "スキンケア"]
 tags: ["美顔器", "エイジングケア", "口コミ"]
 description: "CurrentBody LEDフェイスマスクの口コミ・レビュー。1ヶ月使って変わったこと・変わらなかったこと、シリーズ2とマルチライトマスクの選び方まで40代が正直にレビューします。"
 cover:
-  image: "/images/currentbody-led-mask-review.png"
+  image: "/images/currentbody-led-mask-review.jpg"
   alt: "CurrentBody LEDフェイスマスク"
 price_checked: "2026-06-07"
 ---

@@ -5,7 +5,7 @@ lastmod: 2026-06-11
 draft: false
 affiliate: true
 cover:
-  image: "/images/whitening-serum-40s-recommend.png"
+  image: "/images/whitening-serum-40s-recommend.jpg"
   alt: "美白美容液おすすめ40代向け"
 categories: ["スキンケア"]
 tags: ["美白・くすみケア", "40代", "エイジングケア", "スキンケア"]

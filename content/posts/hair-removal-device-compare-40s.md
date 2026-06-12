@@ -7,7 +7,7 @@ tags: ["脱毛器", "40代", "エイジングケア"]
 categories: ["脱毛器", "おすすめ"]
 affiliate: true
 cover:
-  image: "/images/hair-removal-device-compare-40s.png"
+  image: "/images/hair-removal-device-compare-40s.jpg"
   alt: "家庭用脱毛器おすすめ比較ランキング40代向け"
 price_checked: "2026-05-30"
 summary_points:

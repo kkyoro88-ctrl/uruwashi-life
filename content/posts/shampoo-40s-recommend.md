@@ -7,7 +7,7 @@ tags: ["シャンプー", "40代", "乾燥肌", "ヘアケア"]
 categories: ["ヘアケア"]
 affiliate: true
 cover:
-  image: "/images/shampoo-40s-recommend.png"
+  image: "/images/shampoo-40s-recommend.jpg"
   alt: "アンクロスシャンプー 40代サロン品質ヘアケア"
 draft: false
 summary_points:

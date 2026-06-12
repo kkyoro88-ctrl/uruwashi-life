@@ -13,7 +13,7 @@ summary_points:
   - "向いている人・合わなかった理由を正直に紹介"
   - "タカミリップ・ロクシタン・ニベア3本を比較"
 cover:
-  image: "/images/lip-care-40s-recommend.png"
+  image: "/images/lip-care-40s-recommend.jpg"
   alt: "40代向けリップ美容液おすすめ3選"
 price_checked: "2026-06-01"
 ---

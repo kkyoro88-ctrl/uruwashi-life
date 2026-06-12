@@ -8,7 +8,7 @@ categories: ["スキンケア", "ケア方法"]
 tags: ["スキンケア", "40代", "美白・くすみケア"]
 description: "40代の肌荒れ・乾燥・くすみの原因は洗いすぎかもしれません。正しいクレンジングと洗顔の手順、40代がやりがちなNG行為、週1角質ケアの取り入れ方まで丁寧に解説します。"
 cover:
-  image: "/images/cleansing-how-to-40s.png"
+  image: "/images/cleansing-how-to-40s.jpg"
   alt: "40代の正しい洗顔・クレンジング方法"
 ---
 

@@ -8,7 +8,7 @@ categories: ["スキンケア"]
 tags: ["40代", "スキンケア", "美白・くすみケア", "エイジングケア"]
 description: "40代向けナイアシンアミド配合化粧水おすすめ3選を成分・濃度・使いやすさで比較。無印良品・COSRX・エリクシールから肌悩み別に選べる1本を解説します。"
 cover:
-  image: "/images/niacinamide-lotion-40s-recommend.png"
+  image: "/images/niacinamide-lotion-40s-recommend.jpg"
   alt: "ナイアシンアミド化粧水おすすめ40代向け3選"
 price_checked: "2026-05-29"
 summary_points:

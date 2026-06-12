@@ -9,7 +9,7 @@ tags: ["乾燥肌", "ボディケア", "スキンケア", "40代"]
 description: "乾燥肌向けハンドソープの選び方と、手荒れしにくいおすすめ5選を紹介。セラミド・無添加・薬用など成分別に、40代の手肌に合う選び方を解説します。"
 price_checked: "2026-06-07"
 cover:
-  image: "/images/hand-soap-dry-skin-recommend.png"
+  image: "/images/hand-soap-dry-skin-recommend.jpg"
   alt: "乾燥肌向けハンドソープおすすめ"
 ---
 

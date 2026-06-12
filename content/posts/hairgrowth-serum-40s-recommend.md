@@ -13,7 +13,7 @@ summary_points:
   - "成分タイプ別おすすめ6選"
   - "毎日続けやすい選び方のポイント"
 cover:
-  image: "/images/hairgrowth-serum-40s-recommend.png"
+  image: "/images/hairgrowth-serum-40s-recommend.jpg"
   alt: "女性用育毛剤おすすめ6選 40代"
 price_checked: "2026-06-10"
 ---

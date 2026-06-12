@@ -7,7 +7,7 @@ tags: ["40代", "乾燥肌", "スキンケア"]
 categories: ["スキンケア"]
 affiliate: true
 cover:
-  image: "/images/face-wash-40s-recommend.png"
+  image: "/images/face-wash-40s-recommend.jpg"
   alt: "洗顔料おすすめ40代向け"
 price_checked: "2026-05-28"
 ---

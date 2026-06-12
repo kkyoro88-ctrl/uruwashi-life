@@ -13,7 +13,7 @@ summary_points:
   - "続けられる使い方のコツ（習慣化のポイント）"
   - "ZIIP HALO と DISM の正直比較"
 cover:
-  image: "/images/facial-device-recommend.png"
+  image: "/images/facial-device-recommend.jpg"
   alt: "40代美顔器おすすめ比較"
 price_checked: "2026-05-28"
 ---

@@ -8,7 +8,7 @@ categories: ["スキンケア"]
 tags: ["40代", "スキンケア", "エイジングケア", "乾燥肌"]
 description: "40代大人ニキビの原因（ホルモン変化・インナードライ）と対策スキンケアを解説。薬用・低刺激・保湿を両立するオルビス クリアフルの洗顔・化粧水・保湿液3ステップを詳しく紹介します。繰り返すニキビに悩む40代向けのスキンケア選びのポイントもまとめています。"
 cover:
-  image: "/images/adult-acne-skincare-40s.png"
+  image: "/images/adult-acne-skincare-40s.jpg"
   alt: "40代大人ニキビスキンケアおすすめ"
 price_checked: "2026-06-02"
 ---

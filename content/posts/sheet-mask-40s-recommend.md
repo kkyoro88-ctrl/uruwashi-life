@@ -8,7 +8,7 @@ categories: ["スキンケア"]
 tags: ["スキンケア", "40代", "エイジングケア"]
 description: "40代の乾燥・ハリ不足・くすみに効くシートマスク・フェイスパックおすすめ5選。ルルルン・エリクシール・雪肌精・肌美精・SK-IIを使用感・成分・価格帯で比較。毎日使いからスペシャルケアまで目的別に選べます。"
 cover:
-  image: "/images/sheet-mask-40s-recommend.png"
+  image: "/images/sheet-mask-40s-recommend.jpg"
   alt: "シートマスク フェイスパック 40代おすすめ5選"
 price_checked: "2026-06-06"
 ---

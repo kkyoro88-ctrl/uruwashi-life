@@ -8,7 +8,7 @@ categories: ["スキンケア", "おすすめ"]
 tags: ["ボディケア", "40代", "エイジングケア", "乾燥肌"]
 description: "40代の乾燥・シワ・老け手にアプローチするハンドクリームを厳選5本紹介。成分・保湿力・使いやすさで正直に比較し、プチプラからデパコスまで目的別に整理しました。"
 cover:
-  image: "/images/hand-cream-recommend-40s.png"
+  image: "/images/hand-cream-recommend-40s.jpg"
   alt: "40代のハンドクリームおすすめ5選"
 price_checked: "2026-05-29"
 summary_points:

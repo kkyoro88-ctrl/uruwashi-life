@@ -14,7 +14,7 @@ summary_points:
   - "フルーティで毎日飲みやすい：資生堂 ザ・コラーゲン ドリンク"
   - "高濃度×コスパで攻めるなら：DHC コラーゲンビューティ12000EX"
 cover:
-  image: "/images/drinking-beauty-recommend.png"
+  image: "/images/drinking-beauty-recommend.jpg"
   alt: "飲む美容液おすすめ"
 price_checked: "2026-06-04"
 ---

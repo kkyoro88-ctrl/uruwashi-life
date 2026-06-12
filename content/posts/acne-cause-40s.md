@@ -13,7 +13,7 @@ summary_points:
   - "「皮脂を落とせばいい」が逆効果になるしくみ"
   - "洗顔料・保湿・成分選びで変えられること"
 cover:
-  image: "/images/acne-cause-40s.png"
+  image: "/images/acne-cause-40s.jpg"
   alt: "40代大人ニキビの原因とケア"
 ---
 

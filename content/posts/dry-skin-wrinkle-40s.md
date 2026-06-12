@@ -13,7 +13,7 @@ summary_points:
   - "保湿だけでは足りないコラーゲン産生の低下という問題"
   - "敏感肌・乾燥肌がレチノールを導入するための考え方"
 cover:
-  image: "/images/dry-skin-wrinkle-40s.png"
+  image: "/images/dry-skin-wrinkle-40s.jpg"
   alt: "40代乾燥肌のシワケア"
 ---
 

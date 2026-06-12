@@ -15,7 +15,7 @@ summary_points:
   - "医薬部外品でミノキシジルが心配な方への選択肢"
 price_checked: "2026-06-01"
 cover:
-  image: "/images/moagrowsup-review.png"
+  image: "/images/moagrowsup-review.jpg"
   alt: "モアグロースアップ 薬用育毛剤"
 ---
 

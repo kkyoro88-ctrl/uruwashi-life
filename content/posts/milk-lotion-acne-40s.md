@@ -13,7 +13,7 @@ summary_points:
   - "季節で乳液を使い分けるか・やめるかの判断基準"
   - "乳液をやめて保湿クリームに切り替えたときの変化"
 cover:
-  image: "/images/milk-lotion-acne-40s.png"
+  image: "/images/milk-lotion-acne-40s.jpg"
   alt: "40代乾燥肌と乳液・ニキビの関係"
 ---
 

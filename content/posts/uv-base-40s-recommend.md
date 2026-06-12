@@ -12,7 +12,7 @@ summary_points:
   - "敏感肌・崩れやすい・乾燥肌、悩み別のおすすめ商品がわかる"
   - "プチプラ〜デパコスまで5本を比較して選べる"
 cover:
-  image: "/images/uv-base-40s-recommend.png"
+  image: "/images/uv-base-40s-recommend.jpg"
   alt: "UV化粧下地おすすめ5選"
 price_checked: "2026-06-04"
 ---

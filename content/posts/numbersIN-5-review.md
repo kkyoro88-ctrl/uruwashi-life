@@ -8,7 +8,7 @@ categories: ["スキンケア"]
 tags: ["40代", "スキンケア", "美白・くすみケア", "エイジングケア"]
 description: "ナンバーズイン5番 白玉グルタチオンC美容液を40代乾燥敏感肌が使用した正直な口コミ。グルタチオン・ビタミンC誘導体・ナイアシンアミドの三成分でくすみ・トーンにアプローチした変化をレポート。"
 cover:
-  image: "/images/numbersIN-5-review.png"
+  image: "/images/numbersIN-5-review.jpg"
   alt: "ナンバーズイン5番口コミレビュー"
 price_checked: "2026-05-28"
 ---

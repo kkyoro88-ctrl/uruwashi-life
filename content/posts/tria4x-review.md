@@ -13,7 +13,7 @@ summary_points:
   - "実際に使ってわかった変化と、効果を感じるまでの期間"
   - "向いている人・向いていない人の明確な判断基準"
 cover:
-  image: "/images/tria4x-review.png"
+  image: "/images/tria4x-review.jpg"
   alt: "トリア4X 家庭用レーザー脱毛器"
 price_checked: "2026-05-30"
 ---

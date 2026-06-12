@@ -8,7 +8,7 @@ categories: ["スキンケア"]
 tags: ["40代", "スキンケア", "エイジングケア", "乾燥肌", "シワケア"]
 description: "40代の乾燥・シワ・たるみに向けたナイトクリームの選び方を解説。医薬部外品のシワ改善クリームから保湿重視のクリームまで、40代乾燥敏感肌が正直に選んだ3本をまとめました。"
 cover:
-  image: "/images/night-cream-40s-recommend.png"
+  image: "/images/night-cream-40s-recommend.jpg"
   alt: "ナイトクリームおすすめ40代向け3選"
 price_checked: "2026-06-06"
 ---

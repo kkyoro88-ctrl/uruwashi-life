@@ -7,7 +7,7 @@ categories: ["スキンケア"]
 tags: ["スキンケア", "40代", "エイジングケア", "美白"]
 slug: "kusumi-lotion-40s-recommend"
 cover:
-  image: "/images/kusumi-lotion-40s-recommend.png"
+  image: "/images/kusumi-lotion-40s-recommend.jpg"
   alt: "40代くすみ化粧水おすすめ3選"
 price_checked: "2026-06-01"
 ---

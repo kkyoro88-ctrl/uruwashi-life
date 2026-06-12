@@ -11,7 +11,7 @@ summary_points:
   - "100%天然由来・ノンシリコン処方が40代の頭皮に合いやすい理由"
   - "スカルプDボーテ・ルメントとの違いと選び方"
 cover:
-  image: "/images/scalp-shampoo-40s-recommend.png"
+  image: "/images/scalp-shampoo-40s-recommend.jpg"
   alt: "haru kurokami スカルプ 40代口コミ"
 draft: false
 price_checked: "2026-06-02"

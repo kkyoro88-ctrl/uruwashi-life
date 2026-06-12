@@ -8,7 +8,7 @@ categories: ["インナーケア"]
 tags: ["40代", "インナーケア", "スキンケア", "エイジングケア"]
 description: "40代の肌悩みに腸活が効く理由を解説。腸と皮膚の関係・発酵食品・水分・睡眠の整え方から、腸活×スキンケアの組み合わせ方まで、毎日続けられる方法をまとめました。"
 cover:
-  image: "/images/gut-beauty-40s-guide.png"
+  image: "/images/gut-beauty-40s-guide.jpg"
   alt: "40代の腸活美肌ガイド"
 ---
 

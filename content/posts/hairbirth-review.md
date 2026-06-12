@@ -8,7 +8,7 @@ categories: ["インナーケア", "口コミ・レビュー"]
 tags: ["ヘアケア", "インナーケア", "口コミ", "頭皮ケア", "サプリ"]
 description: "ヘアバース（HAIRBIRTH）の口コミ・評価。薄毛・育毛が気になる30・40代向けに育毛サプリを正直レビュー。成分・使い方・続け方のポイントを解説します。"
 cover:
-  image: "/images/hairbirth-review.png"
+  image: "/images/hairbirth-review.jpg"
   alt: "ヘアバース HAIRBIRTH 育毛サプリ"
 price_checked: "2026-05-28"
 ---

@@ -13,7 +13,7 @@ summary_points:
   - "目的別おすすめ5選と飲むタイミングの目安"
 price_checked: "2026-06-05"
 cover:
-  image: "/images/fatigue-supplement-40s-women.png"
+  image: "/images/fatigue-supplement-40s-women.jpg"
   alt: "40代女性の疲れに効くサプリ"
 ---
 

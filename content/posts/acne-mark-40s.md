@@ -13,7 +13,7 @@ summary_points:
   - "メラノCCを使いながらも変化が出なかった理由"
   - "日焼け止め・ビタミンC・ターンオーバーケアの3つのアプローチ"
 cover:
-  image: "/images/acne-mark-40s.png"
+  image: "/images/acne-mark-40s.jpg"
   alt: "40代のニキビ跡と色素沈着"
 ---
 

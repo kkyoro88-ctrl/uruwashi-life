@@ -8,7 +8,7 @@ categories: ["インナーケア"]
 tags: ["40代", "インナーケア", "サプリ", "エイジングケア"]
 description: "40代女性向けにインナーケアの選び方を解説。NMNサプリ・コラーゲンサプリを中心に、体の変化に合わせた内側からのエイジングケアをまとめています。"
 cover:
-  image: "/images/inner-care-40s-guide.png"
+  image: "/images/inner-care-40s-guide.jpg"
   alt: "40代インナーケアおすすめガイド"
 ---
 

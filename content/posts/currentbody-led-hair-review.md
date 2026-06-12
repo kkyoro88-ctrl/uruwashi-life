@@ -13,7 +13,7 @@ summary_points:
   - "育毛剤との違いと、組み合わせることで効果が出やすくなる理由"
   - "向いている人・向いていない人の判断基準"
 cover:
-  image: "/images/currentbody-led-hair-review.png"
+  image: "/images/currentbody-led-hair-review.jpg"
   alt: "CurrentBody LED頭皮ケアデバイス"
 price_checked: "2026-06-07"
 ---

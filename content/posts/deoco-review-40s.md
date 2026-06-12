@@ -14,7 +14,7 @@ summary_points:
   - "ロールオンやスプレーが苦手な方、習慣化したい方に向いている"
   - "2週間・1ヶ月で感じた変化と、ロールオンとの組み合わせ方"
 cover:
-  image: "/images/deoco-review-40s.png"
+  image: "/images/deoco-review-40s.jpg"
   alt: "デオコ薬用デオドラントボディクレンズ口コミ"
 ---
 

@@ -8,7 +8,7 @@ categories: ["スキンケア", "おすすめ商品"]
 tags: ["40代", "スキンケア", "乾燥肌", "エイジングケア", "保湿"]
 description: "40代の乾燥肌に悩む方向けに、プレ化粧水・導入液の選び方と実力派3選を紹介。化粧水の浸透が変わると、その後のスキンケアが丸ごと底上げされます。"
 cover:
-  image: "/images/essence-lotion-40s-recommend.png"
+  image: "/images/essence-lotion-40s-recommend.jpg"
   alt: "プレ化粧水・導入液おすすめ40代"
 price_checked: "2026-06-06"
 ---

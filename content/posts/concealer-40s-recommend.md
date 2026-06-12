@@ -13,7 +13,7 @@ summary_points:
   - "向いている人・向かない人を正直に紹介"
   - "プチプラからデパコスまでおすすめ7選"
 cover:
-  image: "/images/concealer-40s-recommend-v2.png"
+  image: "/images/concealer-40s-recommend-v2.jpg"
   alt: "40代向けコンシーラーおすすめ"
 price_checked: "2026-05-29"
 ---

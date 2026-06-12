@@ -8,7 +8,7 @@ categories: ["インナーケア"]
 draft: false
 affiliate: true
 cover:
-  image: "/images/collagen-supplement-40s-recommend.png"
+  image: "/images/collagen-supplement-40s-recommend.jpg"
   alt: "コラーゲンサプリおすすめ40代向け"
 price_checked: "2026-05-28"
 ---

@@ -7,7 +7,7 @@ tags: ["40代", "エイジングケア", "スキンケア"]
 categories: ["スキンケア"]
 affiliate: true
 cover:
-  image: "/images/antiaging-skincare-40s-guide.png"
+  image: "/images/antiaging-skincare-40s-guide.jpg"
   alt: "40代エイジングケアおすすめガイド"
 draft: false
 ---

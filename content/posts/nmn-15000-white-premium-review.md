@@ -13,7 +13,7 @@ summary_points:
   - "国内産・純度100%の信頼性と安全性"
   - "初回2,980円で試せるコスパの実態"
 cover:
-  image: "/images/nmn-15000-white-premium-review.png"
+  image: "/images/nmn-15000-white-premium-review.jpg"
   alt: "NMN 15000 WHITE premium"
 price_checked: "2026-05-28"
 ---

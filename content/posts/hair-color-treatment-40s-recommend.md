@@ -13,7 +13,7 @@ summary_points:
   - "向いている人・合わなかった理由を正直に紹介"
   - "利尻・ルプルプ・サイオス・LPLP・スカルプD・マイナチュレなど厳選比較"
 cover:
-  image: "/images/hair-color-treatment-40s-recommend.png"
+  image: "/images/hair-color-treatment-40s-recommend.jpg"
   alt: "40代の白髪カラートリートメントおすすめ"
 price_checked: "2026-06-09"
 ---

@@ -12,7 +12,7 @@ summary_points:
   - "成分で選ぶ：スクワラン（乾燥・敏感肌）・アミノ酸系オイル（ハリ・くすみ）・ナイトオイル（集中ケア）"
   - "40代向けおすすめ3本を価格帯別に比較——プチプラからプレステージまで正直レビュー"
 cover:
-  image: "/images/face-oil-40s-recommend.png"
+  image: "/images/face-oil-40s-recommend.jpg"
   alt: "フェイスオイルおすすめ40代向け3選"
 price_checked: "2026-06-01"
 ---

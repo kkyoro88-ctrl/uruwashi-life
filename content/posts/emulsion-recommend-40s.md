@@ -12,7 +12,7 @@ summary_points:
   - "テクスチャー（さっぱり〜しっとり）×成分で自分に合う1本が変わる"
   - "プチプラから中価格まで、悩み別おすすめ乳液5選"
 cover:
-  image: "/images/emulsion-recommend-40s.png"
+  image: "/images/emulsion-recommend-40s.jpg"
   alt: "乳液おすすめ40代向け"
 price_checked: "2026-06-06"
 ---

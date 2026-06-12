@@ -8,7 +8,7 @@ categories: ["ヘアケア"]
 tags: ["40代", "シャンプー", "頭皮ケア", "ヘアケア"]
 description: "セグレタ プレミア シャンプーを40代目線でレビュー。ぺたんこ髪・ハリコシ不足に悩む方への正直な使用感・デメリット・向いている人をまとめました。"
 cover:
-  image: "/images/segreta-shampoo-review.png"
+  image: "/images/segreta-shampoo-review.jpg"
   alt: "セグレタプレミアシャンプー口コミレビュー"
 price_checked: "2026-05-28"
 ---

@@ -8,7 +8,7 @@ draft: false
 categories: ["サプリメント"]
 affiliate: true
 cover:
-  image: "/images/equol-supplement-40s-recommend.png"
+  image: "/images/equol-supplement-40s-recommend.jpg"
   alt: "エクオールサプリおすすめ40代向け"
 price_checked: "2026-05-30"
 ---

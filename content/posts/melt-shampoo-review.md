@@ -8,7 +8,7 @@ categories: ["ヘアケア"]
 tags: ["40代", "シャンプー", "ヘアケア"]
 description: "melt スムースシャンプーを40代乾燥毛が実際に使ったレビュー。アミノ酸系・シルク成分配合のプレミアムシャンプーの使用感・変化・デメリットを正直にまとめました。"
 cover:
-  image: "/images/melt-shampoo-review.png"
+  image: "/images/melt-shampoo-review.jpg"
   alt: "meltスムースシャンプーレビュー"
 price_checked: "2026-05-28"
 ---

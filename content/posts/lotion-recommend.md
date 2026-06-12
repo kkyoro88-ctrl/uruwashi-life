@@ -12,7 +12,7 @@ summary_points:
   - "薬用化粧水が普通の化粧水と何が違うのか"
   - "毛穴・くすみ・肌荒れ別、悩みに合う選び方"
 cover:
-  image: "/images/lotion-recommend.png"
+  image: "/images/lotion-recommend.jpg"
   alt: "オルビス クリアフル ローション 40代の毛穴・くすみケア"
 price_checked: "2026-06-02"
 ---

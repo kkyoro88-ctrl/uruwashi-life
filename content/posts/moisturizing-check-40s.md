@@ -13,7 +13,7 @@ summary_points:
   - "化粧水→美容液→クリームの層の正しい考え方"
   - "保湿が足りているかを確認できる簡単なセルフチェック"
 cover:
-  image: "/images/moisturizing-check-40s.png"
+  image: "/images/moisturizing-check-40s.jpg"
   alt: "40代乾燥肌の保湿チェック"
 ---
 

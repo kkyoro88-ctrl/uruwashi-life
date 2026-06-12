@@ -13,7 +13,7 @@ summary_points:
   - "洗顔料・お湯の温度・時間・タオルの使い方まで見直すべきポイント"
   - "洗顔後10秒ルールと、突っ張りを繰り返さないケアの順番"
 cover:
-  image: "/images/tight-skin-after-washing-40s.png"
+  image: "/images/tight-skin-after-washing-40s.jpg"
   alt: "40代洗顔後の突っ張り対策"
 ---
 

@@ -8,7 +8,7 @@ categories: ["口コミ・レビュー"]
 tags: ["目元ケア", "口コミ", "40代"]
 description: "40代に似合うアイシャドウおすすめ5選。くすまないブラウン・ラメ・単色の選び方とプチプラからデパコスまで厳選。目元が華やぐ一本が見つかります。"
 cover:
-  image: "/images/eyeshadow-40s-recommend.png"
+  image: "/images/eyeshadow-40s-recommend.jpg"
   alt: "40代アイシャドウおすすめ5選"
 price_checked: "2026-06-05"
 ---

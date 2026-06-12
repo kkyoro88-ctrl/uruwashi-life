@@ -8,7 +8,7 @@ categories: ["ボディケア"]
 tags: ["40代", "ボディケア", "乾燥肌", "エイジングケア"]
 description: "40代の乾燥肌に向いた入浴剤の選び方と、クナイプ・BARTH・ミノンを実際に使って正直比較。保湿成分・使用感・価格帯を40代乾燥肌の視点でまとめました。お風呂上がりのカサつきが変わります。"
 cover:
-  image: "/images/bath-additive-40s-recommend.png"
+  image: "/images/bath-additive-40s-recommend.jpg"
   alt: "入浴剤おすすめ40代乾燥肌向け3選"
 price_checked: "2026-05-30"
 ---

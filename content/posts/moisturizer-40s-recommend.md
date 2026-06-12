@@ -7,7 +7,7 @@ tags: ["40代", "乾燥肌", "エイジングケア", "スキンケア"]
 categories: ["スキンケア"]
 affiliate: true
 cover:
-  image: "/images/moisturizer-40s-recommend.png"
+  image: "/images/moisturizer-40s-recommend.jpg"
   alt: "オルビスユードット クリームモイスチャライザー 40代のエイジングケア"
 price_checked: "2026-06-09"
 ---

@@ -8,7 +8,7 @@ categories: ["ボディケア"]
 tags: ["40代", "ボディケア", "乾燥肌", "エイジングケア"]
 description: "40代の乾燥肌に向いたボディオイルの選び方と、バイオイル・ニュートロジーナ・クナイプを実際に使って正直比較。乾燥がひどい40代が選んだ3本をまとめました。クリームより先に「油分の底上げ」をするとどう変わるか体験レポート。"
 cover:
-  image: "/images/body-oil-40s-recommend.png"
+  image: "/images/body-oil-40s-recommend.jpg"
   alt: "ボディオイルおすすめ40代向け3選"
 price_checked: "2026-05-30"
 ---

@@ -13,7 +13,7 @@ summary_points:
   - "使い続けられる使用感かどうかが最重要ポイント"
   - "価格帯別・用途別おすすめ5選"
 cover:
-  image: "/images/sunscreen-40s-recommend.png"
+  image: "/images/sunscreen-40s-recommend.jpg"
   alt: "40代の日焼け止めおすすめ5選"
 price_checked: "2026-06-09"
 ---

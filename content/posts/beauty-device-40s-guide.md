@@ -8,7 +8,7 @@ categories: ["美顔器"]
 tags: ["40代", "美顔器", "エイジングケア"]
 description: "40代のシワ・たるみ・くすみに向けた美顔器の選び方を解説。LEDマスク・EMS・高周波の違いと目的別おすすめを体験談ベースでまとめています。"
 cover:
-  image: "/images/beauty-device-40s-guide.png"
+  image: "/images/beauty-device-40s-guide.jpg"
   alt: "40代美顔器おすすめガイド"
 ---
 

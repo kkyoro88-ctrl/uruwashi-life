@@ -8,7 +8,7 @@ categories: ["インナーケア"]
 draft: false
 affiliate: true
 cover:
-  image: "/images/bone-density-supplement-40s-v2.png"
+  image: "/images/bone-density-supplement-40s-v2.jpg"
   alt: "骨密度サプリおすすめ40代女性向け"
 price_checked: "2026-06-05"
 ---

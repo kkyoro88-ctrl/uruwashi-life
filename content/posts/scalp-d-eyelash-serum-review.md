@@ -13,7 +13,7 @@ summary_points:
   - "1ヶ月使って実感した変化のタイムライン（1週目・2週目・3〜4週目）"
   - "向いている方・向いていない方の正直な判断基準"
 cover:
-  image: "/images/scalp-d-eyelash-serum-review.png"
+  image: "/images/scalp-d-eyelash-serum-review.jpg"
   alt: "スカルプD まつ毛美容液 口コミ"
 price_checked: "2026-05-30"
 ---

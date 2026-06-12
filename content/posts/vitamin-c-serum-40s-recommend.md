@@ -5,7 +5,7 @@ lastmod: 2026-06-11
 draft: false
 affiliate: true
 cover:
-  image: "/images/vitamin-c-serum-40s-recommend.png"
+  image: "/images/vitamin-c-serum-40s-recommend.jpg"
   alt: "ビタミンC美容液おすすめ40代向け"
 categories: ["スキンケア"]
 tags: ["スキンケア", "40代", "エイジングケア", "美白・くすみケア"]

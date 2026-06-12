@@ -8,7 +8,7 @@ categories: ["口コミ・レビュー", "スキンケア"]
 tags: ["スキンケア", "口コミ"]
 description: "ミラブルzeroを実際に使った本音レビュー。シャワーヘッドの使用感・ウルトラファインミストの効果から、効果なし・悪い評判・デメリットまで正直に公開します。"
 cover:
-  image: "/images/mirablezero-review.png"
+  image: "/images/mirablezero-review.jpg"
   alt: "ミラブルzeroレビュー"
 price_checked: "2026-05-28"
 ---

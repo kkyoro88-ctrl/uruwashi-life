@@ -8,7 +8,7 @@ categories: ["スキンケア"]
 tags: ["40代", "目元ケア", "まつ毛美容液", "エイジングケア"]
 description: "40代の目元ケアを徹底解説。たるみ・クマ・まつ毛の減少・眉の薄さを一気に見直す方法。アイクリーム・まつ毛美容液・眉毛美容液の選び方と使い方をまとめました。"
 cover:
-  image: "/images/eye-care-40s-guide-2.png"
+  image: "/images/eye-care-40s-guide-2.jpg"
   alt: "40代の目元ケアガイド"
 price_checked: "2026-05-31"
 ---

@@ -8,7 +8,7 @@ categories: ["スキンケア"]
 tags: ["スキンケア", "エイジングケア", "美白・くすみケア", "40代"]
 description: "40代が毎日続けられる日焼け止めを厳選。白浮き・ベタつきなし・乾燥しないを基準にアネッサ・ALLIE・ビオレUVなど5本を比較。敏感肌・ノンケミカル・プチプラ別に解説します。"
 cover:
-  image: "/images/sunscreen-recommend.png"
+  image: "/images/sunscreen-recommend.jpg"
   alt: "日焼け止めおすすめ5選 40代"
 price_checked: "2026-06-11"
 ---

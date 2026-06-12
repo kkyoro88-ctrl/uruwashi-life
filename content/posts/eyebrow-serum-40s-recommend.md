@@ -12,7 +12,7 @@ summary_points:
   - "向いている人・合わなかった理由を正直に紹介"
   - "スカルプD・Browaddict・グラビネス3本を目的別に比較"
 cover:
-  image: "/images/eyebrow-serum-40s-recommend.png"
+  image: "/images/eyebrow-serum-40s-recommend.jpg"
   alt: "眉毛美容液おすすめ40代"
 draft: false
 price_checked: "2026-06-07"

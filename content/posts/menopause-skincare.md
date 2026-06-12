@@ -8,7 +8,7 @@ categories: ["スキンケア"]
 tags: ["40代", "乾燥肌", "エイジングケア", "スキンケア", "更年期"]
 description: "更年期に肌荒れ・乾燥が起きる原因をわかりやすく解説。エストロゲン低下による肌変化と、40代・50代が実践できるスキンケアの選び直し方を紹介。シートマスク・セラミド・エクオールサプリも。"
 cover:
-  image: "/images/menopause-skincare.png"
+  image: "/images/menopause-skincare.jpg"
   alt: "更年期の肌荒れ対策"
 ---
 

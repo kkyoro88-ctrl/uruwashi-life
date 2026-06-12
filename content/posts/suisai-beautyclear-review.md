@@ -8,7 +8,7 @@ categories: ["スキンケア", "口コミ・レビュー"]
 tags: ["スキンケア", "美顔器", "口コミ", "40代", "美白・くすみケア"]
 description: "suisai ビューティークリア パウダーウォッシュNの口コミ・使い方・成分を40代目線でレビュー。くすみ・毛穴・ザラつきへのアプローチと、使い始めて変わった洗い上がりの変化を正直にまとめました。"
 cover:
-  image: "/images/suisai-beautyclear-review.png"
+  image: "/images/suisai-beautyclear-review.jpg"
   alt: "suisai ビューティークリア パウダーウォッシュ 口コミレビュー"
 price_checked: "2026-05-28"
 ---

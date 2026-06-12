@@ -7,7 +7,7 @@ tags: ["40代", "スキンケア", "乾燥肌", "エイジングケア", "美顔
 categories: ["スキンケア"]
 affiliate: false
 cover:
-  image: "/images/skincare-products-40s-guide.png"
+  image: "/images/skincare-products-40s-guide.jpg"
   alt: "40代スキンケアおすすめ完全ガイド"
 draft: false
 ---

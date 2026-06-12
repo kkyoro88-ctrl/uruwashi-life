@@ -8,7 +8,7 @@ categories: ["暮らし・美容グッズ"]
 tags: ["スキンケア", "40代"]
 description: "使いやすくておしゃれなコスメポーチおすすめ5選。メッシュ・レザー・ロールタイプなど用途別に厳選。毎朝のメイク時間が快適になるアイテムを紹介します。"
 cover:
-  image: "/images/cosmetic-pouch-recommend.png"
+  image: "/images/cosmetic-pouch-recommend.jpg"
   alt: "コスメポーチおすすめ5選"
 price_checked: "2026-05-28"
 ---

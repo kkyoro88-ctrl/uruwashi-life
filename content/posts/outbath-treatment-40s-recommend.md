@@ -13,7 +13,7 @@ summary_points:
   - "向いている人・合わなかった理由を正直に紹介"
   - "ミルボン エルジューダ・ロレアル・ボタニスト3本比較"
 cover:
-  image: "/images/outbath-treatment-40s-recommend.png"
+  image: "/images/outbath-treatment-40s-recommend.jpg"
   alt: "洗い流さないトリートメント 40代おすすめ3選"
 price_checked: "2026-05-29"
 ---

@@ -13,7 +13,7 @@ summary_points:
   - "無料カウンセリングで確認すべきこと"
 price_checked: "2026-06-02"
 cover:
-  image: "/images/personal-gym-40s.png"
+  image: "/images/personal-gym-40s.jpg"
   alt: "40代女性のパーソナルジム選び"
 ---
 

@@ -8,7 +8,7 @@ categories: ["スキンケア", "おすすめ"]
 tags: ["ボディケア", "40代", "エイジングケア", "美白・くすみケア"]
 description: "40代の腕・ひじ・ひざの黒ずみ・くすみにアプローチするボディ美白クリームを5本厳選。全商品が医薬部外品。ニベア プレミアムからドラッグストアで買えるメラノCCまで、夏前に始めたい美白ボディケアを成分・価格で徹底比較します。"
 cover:
-  image: "/images/whitening-body-cream-40s-recommend.png"
+  image: "/images/whitening-body-cream-40s-recommend.jpg"
   alt: "40代のボディ美白クリームおすすめ5選"
 price_checked: "2026-06-06"
 ---

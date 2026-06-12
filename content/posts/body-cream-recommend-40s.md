@@ -8,7 +8,7 @@ categories: ["スキンケア", "おすすめ"]
 tags: ["ボディケア", "40代", "エイジングケア", "乾燥肌"]
 description: "40代の乾燥・ガサつきに悩む方へ。セラミド・尿素・スクワランなど保湿成分で選ぶボディクリーム5本を徹底比較。ドラッグストアのプチプラから高保湿タイプまで、乾燥部位別・予算別のおすすめを正直に紹介します。"
 cover:
-  image: "/images/body-cream-recommend-40s.png"
+  image: "/images/body-cream-recommend-40s.jpg"
   alt: "40代のボディクリームおすすめ5選"
 price_checked: "2026-06-07"
 ---

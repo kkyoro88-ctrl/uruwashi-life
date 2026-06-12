@@ -8,7 +8,7 @@ categories: ["インナーケア", "口コミ・レビュー"]
 tags: ["エイジングケア", "インナーケア", "40代", "口コミ"]
 description: "オルビス アンバーの口コミ・評価。コラーゲン×NMN配合の飲む美容液を40代・乾燥肌が正直レビュー。外側だけでなく内側からもケアしたい30〜40代女性の参考に。"
 cover:
-  image: "/images/orbis-amber-review.png"
+  image: "/images/orbis-amber-review.jpg"
   alt: "オルビス アンバー 飲む美容液"
 price_checked: "2026-05-28"
 ---

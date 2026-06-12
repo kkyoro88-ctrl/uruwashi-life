@@ -8,7 +8,7 @@ categories: ["口コミ・レビュー", "スキンケア"]
 tags: ["美顔器", "エイジングケア", "口コミ", "40代"]
 description: "DISM美顔器の口コミ・使用感を40代が正直にレビュー。「コンパクトなのにハイパワー」は本当か？EMS・フォトン・ウォーミング3機能の仕組みと、3ヶ月使い続けてわかったことを詳しくまとめました。"
 cover:
-  image: "/images/dism-facial-device-review.png"
+  image: "/images/dism-facial-device-review.jpg"
   alt: "DISM 美顔器 口コミ レビュー"
 price_checked: "2026-06-08"
 summary_points:

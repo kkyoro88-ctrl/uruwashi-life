@@ -8,7 +8,7 @@ categories: ["スキンケア"]
 tags: ["40代", "スキンケア", "エイジングケア"]
 description: "40代がスキンケアをシンプルにすると、なぜ肌が整うのか。アイテムを減らす考え方・残すべき3ステップ・やめていいこととやめてはいけないことをまとめました。"
 cover:
-  image: "/images/skin-minimalism-40s-guide.png"
+  image: "/images/skin-minimalism-40s-guide.jpg"
   alt: "40代のスキンミニマリズム実践ガイド"
 ---
 

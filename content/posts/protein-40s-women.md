@@ -13,7 +13,7 @@ summary_points:
   - "おすすめプロテイン5選と目的別の選び方"
 price_checked: "2026-06-06"
 cover:
-  image: "/images/protein-40s-women.png"
+  image: "/images/protein-40s-women.jpg"
   alt: "40代女性のプロテイン選び"
 ---
 

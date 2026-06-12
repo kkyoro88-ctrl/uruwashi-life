@@ -8,7 +8,7 @@ categories: ["メイクアップ"]
 tags: ["40代", "メイクアップ", "スキンケア", "エイジングケア", "乾燥肌"]
 description: "40代のファンデーション選びを解説。崩れない・乾燥しない・毛穴カバーを同時解決するおすすめ3選。マキアージュ・エスティ ローダー・メイベリンから40代乾燥肌が正直に選びました。"
 cover:
-  image: "/images/foundation-40s-recommend.png"
+  image: "/images/foundation-40s-recommend.jpg"
   alt: "ファンデーション 40代おすすめ3選"
 price_checked: "2026-06-06"
 ---

@@ -8,7 +8,7 @@ draft: false
 affiliate: true
 categories: ["スキンケア"]
 cover:
-  image: "/images/skincare-routine-40s-guide.png"
+  image: "/images/skincare-routine-40s-guide.jpg"
   alt: "40代スキンケアルーティン完全ガイド"
 ---
 

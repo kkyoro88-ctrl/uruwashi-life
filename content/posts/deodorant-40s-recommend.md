@@ -13,7 +13,7 @@ summary_points:
   - "薬用・制汗成分入りをシーンに合わせて選ぶのが正解"
   - "デオコ・Banなど更年期世代に支持される5商品を厳選"
 cover:
-  image: "/images/deodorant-40s-recommend.png"
+  image: "/images/deodorant-40s-recommend.jpg"
   alt: "40代向け制汗剤おすすめ5選"
 ---
 

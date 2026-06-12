@@ -8,7 +8,7 @@ categories: ["インナーケア"]
 tags: ["40代", "更年期", "スキンケア", "エイジングケア", "インナーケア"]
 description: "40代の肌悩みに睡眠が深く関わる理由を解説。成長ホルモン・コルチゾール・ターンオーバーと睡眠の関係、睡眠の質を上げる方法、夜のスキンケアとの組み合わせ方をまとめました。"
 cover:
-  image: "/images/sleep-beauty-40s-guide.png"
+  image: "/images/sleep-beauty-40s-guide.jpg"
   alt: "40代の睡眠と美容の関係"
 ---
 

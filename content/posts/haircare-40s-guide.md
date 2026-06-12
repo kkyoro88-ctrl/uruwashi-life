@@ -7,7 +7,7 @@ tags: ["40代", "ヘアケア", "頭皮ケア"]
 categories: ["ヘアケア"]
 affiliate: true
 cover:
-  image: "/images/haircare-40s-guide.png"
+  image: "/images/haircare-40s-guide.jpg"
   alt: "40代ヘアケアおすすめガイド"
 draft: false
 ---

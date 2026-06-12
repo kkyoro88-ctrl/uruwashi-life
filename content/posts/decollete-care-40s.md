@@ -8,7 +8,7 @@ categories: ["スキンケア", "ケア方法"]
 tags: ["デコルテ・首ケア", "40代", "エイジングケア"]
 description: "40代の首・胸元のシワ・たるみ・乾燥が気になる方向けに、デコルテケアの正しい手順を解説。毎日のスキンケアをデコルテまで伸ばすだけで変わる理由と、おすすめアイテムを紹介します。"
 cover:
-  image: "/images/decollete-care-40s.png"
+  image: "/images/decollete-care-40s.jpg"
   alt: "40代のデコルテケア方法"
 price_checked: "2026-06-01"
 ---

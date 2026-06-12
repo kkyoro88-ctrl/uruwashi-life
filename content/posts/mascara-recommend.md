@@ -13,7 +13,7 @@ summary_points:
   - "向いている人・合わなかった理由を正直に紹介"
   - "ヒロインメイク・キャンメイク・UZU・ランコム・デジャヴュ5本を比較"
 cover:
-  image: "/images/mascara-recommend.png"
+  image: "/images/mascara-recommend.jpg"
   alt: "マスカラおすすめ5選"
 price_checked: "2026-05-28"
 ---

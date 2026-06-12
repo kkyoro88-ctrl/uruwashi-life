@@ -13,7 +13,7 @@ summary_points:
   - "プチプラからデパコスまで厳選4選"
   - "40代に合う正しい使い方"
 cover:
-  image: "/images/face-powder-40s-recommend.png"
+  image: "/images/face-powder-40s-recommend.jpg"
   alt: "40代向けおすすめフェイスパウダー"
 price_checked: "2026-06-08"
 ---

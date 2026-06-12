@@ -12,7 +12,7 @@ summary_points:
   - "敏感肌・乾燥肌向け・高機能・プチプラ、悩み別おすすめ美容液3本"
   - "導入タイプとエイジングケアタイプの違いと、40代に向いた使い方"
 cover:
-  image: "/images/serum-recommend.png"
+  image: "/images/serum-recommend.jpg"
   alt: "美容液おすすめ40代向け"
 price_checked: "2026-06-04"
 ---

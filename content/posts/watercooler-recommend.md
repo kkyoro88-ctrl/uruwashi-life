@@ -8,7 +8,7 @@ categories: ["暮らし・美容グッズ"]
 tags: ["40代", "エイジングケア"]
 description: "ウォーターサーバーを比較検討した結果、オーケンウォーターに行き着いた理由を正直にレビュー。天然水・永久無料レンタル・乗り換えキャンペーンの実態を30代・40代の目線で解説します。"
 cover:
-  image: "/images/watercooler-recommend.png"
+  image: "/images/watercooler-recommend.jpg"
   alt: "オーケンウォーター ウォーターサーバー"
 price_checked: "2026-05-28"
 ---

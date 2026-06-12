@@ -12,7 +12,7 @@ summary_points:
   - "乾燥・敏感肌向け無添加から、プチプラ定番・エイジングケアオイルまでタイプ別5選"
   - "向く人・向かない人を正直に記載——自分の肌悩みで選べる比較ガイド"
 cover:
-  image: "/images/cleansing-recommend-40s.png"
+  image: "/images/cleansing-recommend-40s.jpg"
   alt: "クレンジングおすすめ40代"
 price_checked: "2026-05-28"
 ---

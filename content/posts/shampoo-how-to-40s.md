@@ -8,7 +8,7 @@ categories: ["ヘアケア"]
 tags: ["シャンプー", "40代", "頭皮ケア", "ヘアケア"]
 description: "40代になると髪の悩みが増えるのは、シャンプーの仕方が原因のことも。頭皮を傷めない正しい洗い方・すすぎ・乾かし方まで、40代向けに丁寧に解説します。"
 cover:
-  image: "/images/shampoo-how-to-40s.png"
+  image: "/images/shampoo-how-to-40s.jpg"
   alt: "40代の正しいシャンプーの仕方"
 ---
 

@@ -8,7 +8,7 @@ categories: ["ヘアケア", "口コミ・レビュー"]
 tags: ["シャンプー", "口コミ", "40代", "頭皮ケア", "ヘアケア"]
 description: "haru kurokami スカルプの口コミ・成分・使い方を40代目線でレビュー。最初のきしみの原因・30日返金保証の実態・変化が出るまでの期間を正直にまとめました。"
 cover:
-  image: "/images/haru-kurokami-review.png"
+  image: "/images/haru-kurokami-review.jpg"
   alt: "haru kurokami スカルプシャンプー口コミレビュー"
 price_checked: "2026-05-28"
 ---

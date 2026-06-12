@@ -8,7 +8,7 @@ categories: ["スキンケア"]
 tags: ["スキンケア", "40代", "エイジングケア", "デコルテ・首ケア"]
 description: "40代の首のシワ・たるみが気になり始めたら今すぐケアを。ネッククリーム・デコルテクリームおすすめ3選を厳選。顔ケアと同じ要領で首からデコルテまでケアできるアイテムと正しい使い方を解説。"
 cover:
-  image: "/images/neck-cream-40s-recommend-banner.png"
+  image: "/images/neck-cream-40s-recommend-banner.jpg"
   alt: "40代 首ケア ネッククリーム"
 price_checked: "2026-06-05"
 ---

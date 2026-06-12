@@ -13,7 +13,7 @@ summary_points:
   - "向いている人・合わなかった理由を正直に紹介"
   - "BOTANIST・大島椿・ロレアル・ケラスターゼ・TSUBAKIを5本比較"
 cover:
-  image: "/images/hair-oil-recommend.png"
+  image: "/images/hair-oil-recommend.jpg"
   alt: "ヘアオイルおすすめ5選"
 price_checked: "2026-05-28"
 ---

@@ -12,7 +12,7 @@ summary_points:
   - "1ヶ月目・2ヶ月目・3ヶ月後で何がどう変わったか（正直レポート）"
   - "トリア4Xとの違いと、どちらを選ぶべきかの判断基準"
 cover:
-  image: "/images/ulike-air10-review.png"
+  image: "/images/ulike-air10-review.jpg"
   alt: "Ulike Air10 口コミレビュー"
 price_checked: "2026-05-28"
 ---

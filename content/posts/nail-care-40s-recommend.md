@@ -12,7 +12,7 @@ summary_points:
   - "爪に必要なのは保湿+補強。オイル・美容液・ハードナーを目的に合わせて選ぶ"
   - "1,000〜5,000円の爪専用アイテム厳選3選"
 cover:
-  image: "/images/nail-care-40s-recommend.png"
+  image: "/images/nail-care-40s-recommend.jpg"
   alt: "ネイルケアおすすめ40代向け"
 price_checked: "2026-05-28"
 ---
