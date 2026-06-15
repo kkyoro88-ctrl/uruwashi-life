@@ -319,6 +319,7 @@ draft: false
 
 ## 合わせて読みたい
 
+- [夕方になると頭皮がにおう・ベタつく40代へ｜洗いすぎが隠れた原因かも](/posts/scalp-odor-40s/)
 - [梅雨で髪がうねる・広がる40代へ｜湿気だけじゃない原因と対策](/posts/humidity-frizzy-hair-40s/)
 - [40代のスカルプシャンプーおすすめ3選（薄毛・抜け毛向け）](/posts/scalp-shampoo-40s-recommend/)
 - [育毛剤おすすめ40代女性向け3選](/posts/hairgrowth-serum-40s-recommend/)
