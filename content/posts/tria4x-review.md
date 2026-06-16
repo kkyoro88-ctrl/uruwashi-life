@@ -183,3 +183,5 @@ price_checked: "2026-05-30"
 - [Ulike Air10のレビュー記事](/posts/ulike-air10-review/)
 - [40代スキンケアルーティン完全ガイド](/posts/skincare-routine-40s-guide/)
 - [家庭用脱毛器おすすめ比較3選](/posts/hair-removal-device-compare-40s/)
+
+{{< sticky-cta href="https://px.a8.net/svt/ejp?a8mat=4B1R5P+FUYPWY+54TM+HV7V6" text="トリア4X 公式サイトで見る →" >}}

@@ -221,3 +221,5 @@ haru kurokami スカルプは「すぐ変わりたい」に応えるシャンプ
 - [40代シャンプーおすすめ3選](/posts/shampoo-40s-recommend/)
 - [haru kurokami スカルプを40代が使った口コミ](/posts/scalp-shampoo-40s-recommend/)
 - [女性用育毛剤おすすめ6選](/posts/hairgrowth-serum-40s-recommend/)
+
+{{< sticky-cta href="https://px.a8.net/svt/ejp?a8mat=4B1V21+53YYPE+33NQ+699KI" text="haru kurokami スカルプ 公式サイトで見る →" >}}
