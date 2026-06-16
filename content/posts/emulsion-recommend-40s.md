@@ -1,7 +1,7 @@
 ---
 title: "【2026年最新】乳液おすすめ40代5選｜乾燥・エイジングケア・テクスチャー別の選び方"
 date: 2026-05-15
-lastmod: 2026-06-11
+lastmod: 2026-06-16
 draft: false
 affiliate: true
 categories: ["スキンケア"]

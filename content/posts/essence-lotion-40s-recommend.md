@@ -1,7 +1,7 @@
 ---
 title: "【2026年最新】プレ化粧水・導入液おすすめ3選｜40代乾燥肌がスキンケアの吸収を変えた方法"
 date: 2026-06-01
-lastmod: 2026-06-09
+lastmod: 2026-06-16
 draft: false
 affiliate: true
 categories: ["スキンケア", "おすすめ商品"]

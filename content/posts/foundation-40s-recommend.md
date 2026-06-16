@@ -190,6 +190,7 @@ price_checked: "2026-06-06"
 
 ## 合わせて読みたい
 
+- [UV化粧下地おすすめ5選｜40代のくすみ・崩れ・日焼け対策](/posts/uv-base-40s-recommend/)
 - [化粧下地おすすめ40代向け3選](/posts/primer-40s-recommend/)
 - [コンシーラーおすすめ40代向け3選](/posts/concealer-40s-recommend/)
 - [マスカラおすすめ40代向け3選](/posts/mascara-recommend/)

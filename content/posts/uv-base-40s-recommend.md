@@ -1,7 +1,7 @@
 ---
 title: "UV化粧下地おすすめ5選【40代のくすみ・崩れ・日焼けに効くSPF50の選び方】"
 date: 2026-06-04
-lastmod: 2026-06-09
+lastmod: 2026-06-16
 draft: false
 affiliate: true
 categories: ["スキンケア"]
