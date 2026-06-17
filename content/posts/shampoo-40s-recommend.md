@@ -25,6 +25,10 @@ price_checked: "2026-06-02"
 
 {{< rawhtml >}}<p style="font-size:0.88em;color:#888;border-left:3px solid #ddd;padding-left:10px;margin:0.8em 0;">※自分ではまだ使用していません。成分情報・口コミをもとに紹介しています。</p>{{< /rawhtml >}}
 
+{{< rawhtml >}}
+<a href="/posts/shampoo-comparison-40s/" class="related-link">→ うねり・乾燥・抜け毛など悩み別に選びたい方は「40代シャンプーの悩み別の選び方ガイド」へ</a>
+{{< /rawhtml >}}
+
 {{< product
   title="アンクロス オリジナルシャンプー 500ml"
   img="https://image.rakuten.co.jp/ankhcross1/cabinet/10441122/10467262/10467644/sqa4.jpg"
@@ -114,18 +118,19 @@ price_checked: "2026-06-02"
 
 {{< rawhtml >}}
 <div class="caution-box">
-  <div class="caution-box-title">⚠ 向いていないかもしれない方</div>
+  <div class="caution-box-title">⚠ アンクロスを選ばなくていい人</div>
   <ul>
     <li>ドラッグストアですぐ試したい方（EC購入のみ）</li>
     <li>変化を1〜2週間で実感したい方（サロン品質シャンプーは継続が基本）</li>
     <li>Amazonでまとめ買いしたい方（楽天・公式のみの販売）</li>
+    <li>うねり・抜け毛など特定の悩みを集中ケアしたい方（→ <a href="/posts/shampoo-comparison-40s/">悩み別の選び方ガイド</a>が向いています）</li>
   </ul>
 </div>
 {{< /rawhtml >}}
 
 {{< rawhtml >}}
 <div class="fit-box">
-  <div class="fit-box-title">✅ こんな方に向いています</div>
+  <div class="fit-box-title">✅ アンクロスを選ぶべき人</div>
   <ul>
     <li>サロン品質のシャンプーを自宅で使いたい40代</li>
     <li>「洗いながら楽しい」香りとテクスチャーを求めている方</li>
@@ -333,6 +338,7 @@ A. 現在Amazonには取り扱いがありません。公式ECサイトまたは
 
 ## 合わせて読みたい
 
+- [40代シャンプーの悩み別の選び方ガイド（うねり・乾燥・抜け毛）](/posts/shampoo-comparison-40s/)
 - [40代ヘアケアおすすめガイド](/posts/haircare-40s-guide/)
 - [40代の正しいシャンプーの仕方](/posts/shampoo-how-to-40s/)
 - [haru kurokami スカルプを40代が使った口コミ](/posts/scalp-shampoo-40s-recommend/)
