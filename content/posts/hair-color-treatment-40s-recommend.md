@@ -1,7 +1,7 @@
 ---
 title: "【2026年最新】白髪カラートリートメントおすすめ5選｜40代・傷めずに白髪をケアする選び方"
 date: 2026-05-10
-lastmod: 2026-06-11
+lastmod: 2026-06-17
 draft: false
 affiliate: true
 categories: ["ヘアケア", "おすすめ"]
@@ -95,7 +95,7 @@ price_checked: "2026-06-09"
       <th>ルプルプ ヘアカラートリートメント</th>
       <th>サイオス カラートリートメント</th>
       <th>LPLP ヘアカラートリートメント</th>
-      <th>スカルプDボーテ メディカルカラートリートメント</th>
+      <th>スカルプDボーテ ヘアカラートリートメント</th>
     </tr>
   </thead>
   <tbody>
@@ -298,7 +298,7 @@ price_checked: "2026-06-09"
 
 ---
 
-### 5位：スカルプDボーテ メディカルカラートリートメント
+### 5位：スカルプDボーテ ヘアカラートリートメント
 
 育毛専門ブランド「アンファー（ANGFA）」が展開するスカルプDボーテのカラートリートメント。頭皮ケア成分（センブリエキス・ビオチン）と毛髪補修成分（ケラチン・コラーゲン）を配合しています。
 
@@ -328,9 +328,12 @@ price_checked: "2026-06-09"
 {{< /rawhtml >}}
 
 {{< product
-  title="スカルプDボーテ メディカルカラートリートメント"
+  title="スカルプDボーテ ヘアカラートリートメント"
   img="https://m.media-amazon.com/images/I/612mBveG2NL._AC_SL500_.jpg"
+  official="https://px.a8.net/svt/ejp?a8mat=4B3N6U+5NM9O2+3FH0+1ZG8B6"
+  officialtext="公式サイト"
   amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB08GPMP73F"
+  primary="official"
 >}}
 
 ---
