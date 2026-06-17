@@ -1,7 +1,7 @@
 ---
 title: "【2026年最新】40代の日焼け止めおすすめ5選｜乾燥肌・敏感肌向け成分と選び方"
 date: 2026-06-09
-lastmod: 2026-06-10
+lastmod: 2026-06-17
 draft: false
 affiliate: true
 categories: ["スキンケア"]
@@ -390,6 +390,7 @@ price_checked: "2026-06-09"
 ちなみに、シミができてしまった後から消すより、これ以上増やさない方がずっと楽だとわかったのも、少し遅かった気がする。でも遅すぎたわけでもなかった——と、鏡を見るたびに思っている。
 
 → シミ・くすみ対策をさらに強化するなら [美白セラムおすすめ](/posts/whitening-serum-40s-recommend/)
+→ 塗り直しが追いつかない日の「保険」として [飲む日焼け止め（インナーUV）という選択肢](/posts/drinking-sunscreen-40s/)
 → 紫外線を浴びた肌のアフターケアには [40代スキンケアの順番と保湿の見直し](/posts/skincare-routine-40s-guide/)
 
 ---
@@ -397,6 +398,7 @@ price_checked: "2026-06-09"
 ## 合わせて読みたい
 
 - [UV化粧下地おすすめ5選｜40代のくすみ・崩れ・日焼け対策](/posts/uv-base-40s-recommend/)
+- [飲む日焼け止めおすすめ｜塗り直せない時間を内側から補う40代の選び方](/posts/drinking-sunscreen-40s/)
 - [40代のスキンケアルーティン——順番と選び方](/posts/skincare-routine-40s-guide/)
 - [40代の保湿クリームおすすめ——乾燥肌に合う成分と選び方](/posts/moisturizer-40s-recommend/)
 - [美白セラムおすすめ——シミ・くすみに効くアプローチ](/posts/whitening-serum-40s-recommend/)
