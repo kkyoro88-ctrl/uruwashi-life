@@ -56,7 +56,7 @@ price_checked: "2026-06-04"
 
 ---
 
-## 5商品を一覧で比較
+## 40代の導入美容液おすすめ5本を一覧で比較
 
 {{< rawhtml >}}
 <div class="comparison-wrap">
