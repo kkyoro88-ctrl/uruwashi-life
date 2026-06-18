@@ -198,3 +198,4 @@ cover:
 - [オルビス ザ クレンジングオイルの口コミ](/posts/orbis-cleansing-review/)
 - [40代スキンケアルーティン完全ガイド](/posts/skincare-routine-40s-guide/)
 - [40代の目元ケアガイド｜アイクリーム・まつ毛・眉毛を一緒に見直す方法](/posts/eye-care-40s-guide/)
+- [40代のまつ毛美容液おすすめ3選｜色素沈着が怖い人のための選び方](/posts/eyelash-serum-40s-recommend/)

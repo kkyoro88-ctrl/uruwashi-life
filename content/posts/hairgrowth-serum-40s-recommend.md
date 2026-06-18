@@ -404,3 +404,4 @@ price_checked: "2026-06-10"
 - → [ヘアケア全体の見直し方【40代ガイド】](/posts/haircare-40s-guide/) — シャンプー・トリートメント・育毛剤の組み合わせ方
 - → [エクオールサプリ40代おすすめ](/posts/equol-supplement-40s-recommend/) — 更年期の抜け毛を体の内側からサポート
 - → [スカルプDまつげ美容液レビュー](/posts/scalp-d-eyelash-serum-review/) — 同ブランドのまつげ・眉への応用
+- → [40代のまつ毛美容液おすすめ3選](/posts/eyelash-serum-40s-recommend/) — 細くなったまつ毛を、色素沈着の心配がない成分で選び直す
