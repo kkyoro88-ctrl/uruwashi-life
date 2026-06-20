@@ -10,7 +10,7 @@ affiliate: true
 cover:
   image: "/images/bone-density-supplement-40s-v2.jpg"
   alt: "骨密度サプリおすすめ40代女性向け"
-price_checked: "2026-06-05"
+price_checked: "2026-06-20"
 ---
 
 「健診で骨密度が低めと言われた」「更年期に入って骨が心配になってきた」——40代を過ぎてそんな声をよく聞くようになりました。
@@ -24,7 +24,7 @@ price_checked: "2026-06-05"
 {{< product
   title="雪印メグミルク 毎日一粒 MBP® ヨーグルト風味 30日分"
   img="https://m.media-amazon.com/images/I/61nb8cwUeOL._AC_SL500_.jpg"
-  rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fyuidrug%2F4903050164189%2F"
+  rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fyukimeg-direct%2Fwrs01tb%2F"
   amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB07P6D1C3J"
   yahoo="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fyukimeg-direct%2Fwys01tb.html"
 >}}
@@ -110,7 +110,7 @@ price_checked: "2026-06-05"
 {{< product
   title="雪印メグミルク 毎日一粒 MBP® ヨーグルト風味 30日分"
   img="https://m.media-amazon.com/images/I/61nb8cwUeOL._AC_SL500_.jpg"
-  rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fyuidrug%2F4903050164189%2F"
+  rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fyukimeg-direct%2Fwrs01tb%2F"
   amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB07P6D1C3J"
   yahoo="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fyukimeg-direct%2Fwys01tb.html"
 >}}
@@ -148,7 +148,7 @@ price_checked: "2026-06-05"
 {{< product
   title="ファンケル 健骨サポート 30日分（機能性表示食品）"
   img="https://m.media-amazon.com/images/I/61DeYyBeW5L._AC_SL500_.jpg"
-  rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F5250010138016%2F"
+  rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Ffancl-shop%2F5386%2F"
   amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB07P25SF5V"
   yahoo="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffancl-y%2F5386.html"
 >}}
@@ -186,8 +186,7 @@ price_checked: "2026-06-05"
 {{< product
   title="ファンケル 40代からのサプリメント女性用 15〜30日分"
   img="https://m.media-amazon.com/images/I/61jOcK6a0KL._AC_SL500_.jpg"
-  rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F5250010142778%2F"
-  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB089LM7LY8"
+  rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Ffancl-shop%2F5499-30%2F"
   yahoo="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffancl-y%2F5499-31.html"
 >}}
 
@@ -224,8 +223,7 @@ Amazonベストセラーにも入っており、毎月2,000件以上購入され
 {{< product
   title="富士フイルム カルシウム＆マグネシウム 30日分（栄養機能食品）"
   img="https://m.media-amazon.com/images/I/51xpevNKAGL._AC_SL500_.jpg"
-  rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fmegadrug%2F4547345059498%2F"
-  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB0B1BPCB1J"
+  rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Ffujifilm-h%2F16664303%2F"
   yahoo="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Ffujifilm-h%2F16664303.html"
 >}}
 
@@ -262,7 +260,7 @@ DHCが展開する骨ケアに特化したサプリで、**CBP（乳清タンパ
 {{< product
   title="DHC コツプレミアムCBP 30日分"
   img="https://m.media-amazon.com/images/I/51gA3L3WRnL._AC_SL500_.jpg"
-  rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fdhc%2F4511413806715%2F"
+  rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fdhcshop%2F8000032047%2F"
   amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB004BRU0JY"
   yahoo="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fdhc%2F8000032047.html"
 >}}
