@@ -1,7 +1,7 @@
 ---
 title: "NMN 15000 WHITE premium（女性専用）の口コミ・レビュー｜40代が試してわかった効果と正直な評価"
 date: 2026-05-11
-lastmod: 2026-06-11
+lastmod: 2026-06-21
 draft: false
 affiliate: true
 categories: ["口コミ・レビュー", "インナーケア"]
@@ -15,7 +15,7 @@ summary_points:
 cover:
   image: "/images/nmn-15000-white-premium-review.jpg"
   alt: "NMN 15000 WHITE premium"
-price_checked: "2026-05-28"
+price_checked: "2026-06-21"
 ---
 
 「NMNって聞くけど、どれを選べばいいかわからない」「女性専用というのは本当に違いがあるの？」
@@ -27,7 +27,8 @@ price_checked: "2026-05-28"
 {{< product
   title="NMN 15000 WHITE premium"
   img="https://m.media-amazon.com/images/I/51hMkWbd1ZL._AC_SL500_.jpg"
-  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DNMN%2B15000%2BWHITE%2Bpremium"
+  official="https://px.a8.net/svt/ejp?a8mat=4B3LMT+IGGJ6+35LQ+ZQFQA"
+  primary="official"
 >}}
 
 
@@ -206,7 +207,8 @@ NMN 15000 WHITE premiumは、「女性専用」「国内産純度100%」「15,00
 {{< product
   title="NMN 15000 WHITE premium"
   img="https://m.media-amazon.com/images/I/51hMkWbd1ZL._AC_SL500_.jpg"
-  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DNMN%2B15000%2BWHITE%2Bpremium"
+  official="https://px.a8.net/svt/ejp?a8mat=4B3LMT+IGGJ6+35LQ+ZQFQA"
+  primary="official"
 >}}
 
 ## 合わせて読みたい
