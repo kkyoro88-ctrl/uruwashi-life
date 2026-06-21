@@ -22,7 +22,8 @@ price_checked: "2026-06-21"
 {{< product
   title="ルルルン プレシャス クリームGOLD（7枚入）"
   img="https://m.media-amazon.com/images/I/616tgo3gvjL._AC_SL500_.jpg"
-  rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Flululun-shop%2Fpg4fb-2111%2F"  yahoo="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Flululun%2Fpg4fb-2111.html"
+  rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Flululun-shop%2Fpg4fb-2111%2F"
+  yahoo="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Flululun%2Fpg4fb-2111.html"
 >}}
 
 ---
@@ -96,7 +97,8 @@ price_checked: "2026-06-21"
 {{< product
   title="ルルルン プレシャス クリームGOLD（7枚入）"
   img="https://m.media-amazon.com/images/I/616tgo3gvjL._AC_SL500_.jpg"
-  rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Flululun-shop%2Fpg4fb-2111%2F"  yahoo="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Flululun%2Fpg4fb-2111.html"
+  rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Flululun-shop%2Fpg4fb-2111%2F"
+  yahoo="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Flululun%2Fpg4fb-2111.html"
 >}}
 
 ---
@@ -169,7 +171,8 @@ price_checked: "2026-06-21"
 {{< product
   title="肌美精 ターニングケア保湿 超高浸透マスク"
   img="https://m.media-amazon.com/images/I/71X-D7cX1ES._AC_SL500_.jpg"
-  rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fbubushop%2F4901417631381%2F"  yahoo="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4901417631381.html"
+  rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fbubushop%2F4901417631381%2F"
+  yahoo="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fsundrugec%2F4901417631381.html"
 >}}
 
 ---
