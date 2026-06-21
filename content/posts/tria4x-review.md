@@ -164,7 +164,8 @@ price_checked: "2026-06-21"
 {{< product
   title="トリア 4X レーザー脱毛器"
   img="https://m.media-amazon.com/images/I/51GFswhJOjL._SL500_.jpg"
-  rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Ftriabeauty%2Ftria%2F"  yahoo="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fmakxasstore%2F2569123.html"
+  rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Ftriabeauty%2Ftria%2F"
+  yahoo="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fmakxasstore%2F2569123.html"
 >}}
 
 {{< rawhtml >}}
