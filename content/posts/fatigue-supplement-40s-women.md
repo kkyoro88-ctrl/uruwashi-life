@@ -1,7 +1,7 @@
 ---
 title: "40代女性の疲れ・だるさに効くサプリおすすめ5選｜更年期の疲労回復に"
 date: 2026-06-05
-lastmod: 2026-06-11
+lastmod: 2026-06-21
 draft: false
 affiliate: true
 categories: ["インナーケア"]
@@ -11,7 +11,7 @@ summary_points:
   - "40代女性が疲れやすくなる3つの原因"
   - "疲労回復サプリの選び方（ビタミンB・鉄・CoQ10の違い）"
   - "目的別おすすめ5選と飲むタイミングの目安"
-price_checked: "2026-06-20"
+price_checked: "2026-06-21"
 cover:
   image: "/images/fatigue-supplement-40s-women.jpg"
   alt: "40代女性の疲れに効くサプリ"
@@ -172,7 +172,7 @@ cover:
   img="https://m.media-amazon.com/images/I/81qeyU4WvUL._AC_SL500_.jpg"
   rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Ftsuruha%2F10059077%2F"
   amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB01BWLGWOS"
-  yahoo="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Flohaco-yahoo%2F4946842636907.html"
+  yahoo="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fladydrugheartshop%2F4946842635900.html"
 >}}
 
 {{< rawhtml >}}
