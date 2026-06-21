@@ -1,7 +1,7 @@
 ---
 title: "ヘアバース（HAIRBIRTH）の口コミ・評価【育毛サプリを30・40代が正直レビュー】"
 date: 2026-04-23
-lastmod: 2026-06-11
+lastmod: 2026-06-21
 draft: false
 affiliate: true
 categories: ["インナーケア", "口コミ・レビュー"]
@@ -10,7 +10,7 @@ description: "ヘアバース（HAIRBIRTH）の口コミ・評価。薄毛・育
 cover:
   image: "/images/hairbirth-review.jpg"
   alt: "ヘアバース HAIRBIRTH 育毛サプリ"
-price_checked: "2026-05-28"
+price_checked: "2026-06-21"
 ---
 
 「最近、抜け毛が増えた気がする」「分け目が気になってきた」——そう感じながら、何か対策をしたいけれど何から始めればいいかわからない、という方は多いと思います。
@@ -20,8 +20,9 @@ price_checked: "2026-05-28"
 {{< product
   title="ヘアバース（HAIRBIRTH）"
   img="https://m.media-amazon.com/images/I/51Jwd7Uxq6L._AC_SL500_.jpg"
-  rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fhairborn%2Fhairborn001%2F"
-  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%E3%83%98%E3%82%A2%E3%83%90%E3%83%BC%E3%82%B9%2BHAIRBIRTH"
+  rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%2598%25E3%2582%25A2%25E3%2583%2590%25E3%2583%25BC%25E3%2582%25B9%2520HAIRBIRTH%2520%25E8%2582%25B2%25E6%25AF%259B%25E3%2582%25B5%25E3%2583%2597%25E3%2583%25AA%2F"
+  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB07KPC8FBH"
+  yahoo="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2583%2598%25E3%2582%25A2%25E3%2583%2590%25E3%2583%25BC%25E3%2582%25B9%2520HAIRBIRTH%2520%25E8%2582%25B2%25E6%25AF%259B%25E3%2582%25B5%25E3%2583%2597%25E3%2583%25AA"
 >}}
 
 ---
@@ -35,11 +36,6 @@ price_checked: "2026-05-28"
 - **育毛をサポートする成分を配合**：毛髪・頭皮ケアに関わる成分を凝縮
 - **1日の摂取目安量が明確**：続けやすいサプリメント形状
 - **内側からのアプローチ**：外側のケアだけでは届きにくい部分をサポート
-
-{{< rawhtml >}}
-<table cellpadding="0" cellspacing="0" border="0" style="border:1px solid #ccc; width:300px; margin:1em 0;"><tbody><tr style="border-style:none;"><td style="vertical-align:top; border-style:none; padding:10px; width:44px;"><a href="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Flove-dream%2F100000401%2F" rel="nofollow"><img style="max-width:initial;" border="0" alt="" src="https://m.media-amazon.com/images/I/51Jwd7Uxq6L._SL500_.jpg"></a></td><td style="font-size:12px; vertical-align:middle; border-style:none; padding:10px;"><p style="padding:0; margin:0;"><a href="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Flove-dream%2F100000401%2F" rel="nofollow">ヘアバース 120粒 HAIRBIRTH 育毛サプリ</a></p><p style="color:#666; margin-top:5px; line-height:1.5;">価格:<span style="font-size:14px; color:#C00; font-weight:bold;">8950円</span><br><span style="font-size:10px;">(2026/4/23 時点)</span></p></td></tr></tbody></table>
-<img border="0" width="1" height="1" src="https://www19.a8.net/0.gif?a8mat=4B1QDP+BQ4COI+2HOM+BWGDT" alt="">
-{{< /rawhtml >}}
 
 ---
 
@@ -171,8 +167,9 @@ price_checked: "2026-05-28"
 {{< product
   title="ヘアバース（HAIRBIRTH）"
   img="https://m.media-amazon.com/images/I/51Jwd7Uxq6L._AC_SL500_.jpg"
-  rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fhairborn%2Fhairborn001%2F"
-  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%E3%83%98%E3%82%A2%E3%83%90%E3%83%BC%E3%82%B9%2BHAIRBIRTH"
+  rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%2598%25E3%2582%25A2%25E3%2583%2590%25E3%2583%25BC%25E3%2582%25B9%2520HAIRBIRTH%2520%25E8%2582%25B2%25E6%25AF%259B%25E3%2582%25B5%25E3%2583%2597%25E3%2583%25AA%2F"
+  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB07KPC8FBH"
+  yahoo="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2583%2598%25E3%2582%25A2%25E3%2583%2590%25E3%2583%25BC%25E3%2582%25B9%2520HAIRBIRTH%2520%25E8%2582%25B2%25E6%25AF%259B%25E3%2582%25B5%25E3%2583%2597%25E3%2583%25AA"
 >}}
 
 ## 合わせて読みたい
