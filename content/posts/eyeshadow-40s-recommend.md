@@ -72,8 +72,6 @@ price_checked: "2026-06-05"
   title="CANMAKE パーフェクトスタイリストアイズ v24 メロウミルクティー"
   img="https://m.media-amazon.com/images/I/615KNb6AYIL._SL500_.jpg"
   rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2F0101marui%2Fcb001973240101%2F"
-  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB08Z5HQVRZ"
-  yahoo="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fkokocosme%2F4901008314419.html"
 >}}
 
 ---
@@ -218,9 +216,8 @@ price_checked: "2026-06-05"
 {{< product
   title="SUQQU グロウ タッチ アイズ 08 眩滴"
   img="https://m.media-amazon.com/images/I/21SkcZnDfUL._SL500_.jpg"
-  rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Femporio8888%2F10001296%2F"
+  rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fwindaruma%2Fb083wkmvd8%2F"
   amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB083WKMVD8"
-  yahoo="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fdnfal%2Fsuq844861.html"
 >}}
 
 ---

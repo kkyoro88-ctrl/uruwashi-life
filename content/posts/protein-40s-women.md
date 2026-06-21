@@ -124,7 +124,7 @@ cover:
 {{< product
   title="アンビーク AMBiQUE ソイプロテイン 1kg 乳酸菌100億個配合"
   img="https://m.media-amazon.com/images/I/71qc6-8cDuL.jpg"
-  rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Ffreelife-1173%2Ff0dp9g1c8t%2F"
+  rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fbabycresco%2Fambique_17%2F"
   amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB0DM1TTC44"
   yahoo="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fbabycresco%2Fambique-17.html"
 >}}

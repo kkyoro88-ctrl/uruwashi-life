@@ -298,7 +298,7 @@ price_checked: "2026-06-18"
   title="ケラスターゼ マスク クロノロジスト R 200mL"
   img="https://m.media-amazon.com/images/I/51mRGzFwpIL._AC_SL500_.jpg"
   price="¥13,000〜14,000 / 200mL"
-  rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fkerastase-varie%2Fch-masqc_200%2F"
+  rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fcosme-venus%2F3474636728299%2F"
   amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB08H1FD9QQ"
   yahoo="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcosme-venus%2F3474636728299.html"
 >}}

@@ -176,7 +176,7 @@ price_checked: "2026-06-08"
   title="マキアージュ ドラマティックエッセンスヴェール ルースパウダー クリア（レフィル）"
   img="https://m.media-amazon.com/images/I/51zXrwU758L._SL500_.jpg"
   price="¥3,080 / レフィル"
-  rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fmatsuya-cosme%2F14612-1%2F"
+  rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fcosmeshion%2F4909978146122%2F"
   amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB0BZPMCHFK"
   yahoo="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fcosmeshion%2F4909978146122.html"
 >}}

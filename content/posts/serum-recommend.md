@@ -206,7 +206,7 @@ SK-II フェイシャル トリートメント エッセンスは、独自成分
   title="SK-II フェイシャル トリートメント エッセンス 230ml"
   img="https://m.media-amazon.com/images/I/51Qoi-YfKKL._AC_SL500_.jpg"
   price="¥17,600〜 / 230ml"
-  rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fcosmeland%2F101215_x2%2F"
+  rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fitem.rakuten.co.jp%2Fsk-ii%2Ffte_230-sgl%2F"
   amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB08HZZFKVX"
   yahoo="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fohgiri-store%2Fsk2-0064.html"
 >}}
