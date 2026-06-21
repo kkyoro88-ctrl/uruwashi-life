@@ -1,7 +1,7 @@
 ---
 title: "ボトル不要で水を飲む習慣が変わった【40代のエブリィフレシャス正直レビュー】"
 date: 2026-04-23
-lastmod: 2026-06-09
+lastmod: 2026-06-21
 draft: false
 affiliate: true
 categories: ["暮らし・美容グッズ"]
@@ -10,7 +10,7 @@ description: "エブリィフレシャスの口コミ・評判を正直レビュ
 cover:
   image: "/images/everyfrecious-review.jpg"
   alt: "エブリィフレシャス 浄水型ウォーターサーバー"
-price_checked: "2026-05-28"
+price_checked: "2026-06-21"
 ---
 
 
@@ -23,7 +23,8 @@ price_checked: "2026-05-28"
 {{< product
   title="エブリィフレシャス"
   img="https://every.frecious.jp/assets/images/share/apply_tall-server.png"
-  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%E3%82%A8%E3%83%96%E3%83%AA%E3%82%A3%E3%83%95%E3%83%AC%E3%82%B7%E3%83%A3%E3%82%B9"
+  official="https://px.a8.net/svt/ejp?a8mat=4B1RXP+DQ5SVM+2B8Y+15OK2A"
+  primary="official"
 >}}
 
 
@@ -249,7 +250,8 @@ price_checked: "2026-05-28"
 {{< product
   title="エブリィフレシャス"
   img="https://every.frecious.jp/assets/images/share/apply_tall-server.png"
-  amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%E3%82%A8%E3%83%96%E3%83%AA%E3%82%A3%E3%83%95%E3%83%AC%E3%82%B7%E3%83%A3%E3%82%B9"
+  official="https://px.a8.net/svt/ejp?a8mat=4B1RXP+DQ5SVM+2B8Y+15OK2A"
+  primary="official"
 >}}
 
 ## 合わせて読みたい
