@@ -20,10 +20,11 @@ price_checked: "2026-06-21"
 {{< product
   title="ヘアバース（HAIRBIRTH）"
   img="https://m.media-amazon.com/images/I/51Jwd7Uxq6L._AC_SL500_.jpg"
-  rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%2598%25E3%2582%25A2%25E3%2583%2590%25E3%2583%25BC%25E3%2582%25B9%2520HAIRBIRTH%2520%25E8%2582%25B2%25E6%25AF%259B%25E3%2582%25B5%25E3%2583%2597%25E3%2583%25AA%2F"
   amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB07KPC8FBH"
-  yahoo="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2583%2598%25E3%2582%25A2%25E3%2583%2590%25E3%2583%25BC%25E3%2582%25B9%2520HAIRBIRTH%2520%25E8%2582%25B2%25E6%25AF%259B%25E3%2582%25B5%25E3%2583%2597%25E3%2583%25AA"
+  primary="amazon"
 >}}
+
+<p style="font-size:0.85em; color:#888; margin-top:0.4em;">※ヘアバースは現在Amazonでの取り扱いが中心です。楽天市場・Yahoo!ショッピングでの販売は2026年6月時点で確認できませんでした。</p>
 
 ---
 
@@ -167,10 +168,11 @@ price_checked: "2026-06-21"
 {{< product
   title="ヘアバース（HAIRBIRTH）"
   img="https://m.media-amazon.com/images/I/51Jwd7Uxq6L._AC_SL500_.jpg"
-  rakuten="https://af.moshimo.com/af/c/click?a_id=5520409&p_id=54&pc_id=54&pl_id=616&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%2598%25E3%2582%25A2%25E3%2583%2590%25E3%2583%25BC%25E3%2582%25B9%2520HAIRBIRTH%2520%25E8%2582%25B2%25E6%25AF%259B%25E3%2582%25B5%25E3%2583%2597%25E3%2583%25AA%2F"
   amazon="https://af.moshimo.com/af/c/click?a_id=5525308&p_id=170&pc_id=185&pl_id=4062&url=https%3A%2F%2Fwww.amazon.co.jp%2Fdp%2FB07KPC8FBH"
-  yahoo="https://af.moshimo.com/af/c/click?a_id=5525312&p_id=1225&pc_id=1925&pl_id=18502&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2583%2598%25E3%2582%25A2%25E3%2583%2590%25E3%2583%25BC%25E3%2582%25B9%2520HAIRBIRTH%2520%25E8%2582%25B2%25E6%25AF%259B%25E3%2582%25B5%25E3%2583%2597%25E3%2583%25AA"
+  primary="amazon"
 >}}
+
+<p style="font-size:0.85em; color:#888; margin-top:0.4em;">※ヘアバースは現在Amazonでの取り扱いが中心です。楽天市場・Yahoo!ショッピングでの販売は2026年6月時点で確認できませんでした。</p>
 
 ## 合わせて読みたい
 
