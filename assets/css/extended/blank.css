@@ -713,6 +713,8 @@ h1.post-title {
   font-style: normal;
 }
 .post-content table:not(.comparison-rank) {
+  display: table;            /* テーマreset.cssのtable{display:block}を打ち消し、幅100%を効かせる */
+  table-layout: auto;
   width: 100%;
   border-collapse: collapse;
   font-size: 0.88rem;
@@ -721,6 +723,7 @@ h1.post-title {
   overflow: hidden;
   box-shadow: 0 2px 12px rgba(200,96,122,0.10);
 }
+.post-content table:not(.comparison-rank) tbody { width: 100%; }
 .post-content th {
   background: var(--accent);
   color: #fff;
@@ -1553,6 +1556,68 @@ details.single-toc[open] .single-toc-title::after { content: '▴'; }
 .related-date {
   font-size: 0.7rem;
   color: #c0a8a0;
+}
+
+/* ── 合わせて読みたい（カード型・relatedcards shortcode） ── */
+.related-cards {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 16px;
+  margin: 20px 0 28px;
+}
+.related-cards .related-card {
+  display: flex;
+  flex-direction: column;
+  background: #fff;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  overflow: hidden;
+  text-decoration: none;
+  box-shadow: var(--shadow);
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+.related-cards .related-card:hover {
+  transform: translateY(-3px);
+  box-shadow: var(--shadow-hover);
+}
+.related-card-thumb {
+  aspect-ratio: 16/9;
+  overflow: hidden;
+}
+.related-card-thumb img {
+  width: 100%; height: 100%;
+  object-fit: cover;
+  display: block;
+  margin: 0 !important;
+  border-radius: 0 !important;
+  transition: transform 0.3s;
+}
+.related-cards .related-card:hover .related-card-thumb img { transform: scale(1.04); }
+.related-card-body { padding: 12px 14px 14px; display: flex; flex-direction: column; flex: 1; }
+.related-card-title {
+  font-size: 0.86rem;
+  font-weight: 700;
+  color: var(--primary);
+  line-height: 1.55;
+  margin: 0 0 6px;
+}
+.related-cards .related-card:hover .related-card-title { color: var(--accent); }
+.related-card-desc {
+  font-size: 0.74rem;
+  color: #8a7d78;
+  line-height: 1.6;
+  margin: 0 0 10px;
+}
+.related-card-more {
+  margin-top: auto;
+  align-self: flex-start;
+  font-size: 0.74rem;
+  font-weight: 700;
+  color: var(--accent);
+}
+@media (max-width: 600px) {
+  .related-cards { grid-template-columns: 1fr; gap: 12px; }
+  .related-card-title { font-size: 0.82rem; }
 }
 
 /* ── コンテンツボックス ── */

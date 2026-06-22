@@ -1,0 +1,23 @@
+{{- /* 合わせて読みたい：カード型の関連記事リンク（全記事共通）
+   使い方： {{< relatedcards "/posts/slug-a" "/posts/slug-b" ... >}}
+*/ -}}
+<div class="related-cards">
+  {{- range .Params -}}
+    {{- $url := . -}}
+    {{- $page := $.Site.GetPage $url -}}
+    {{- if $page -}}
+    <a class="related-card" href="{{ $url }}">
+      {{- with $page.Params.cover.image -}}
+      <div class="related-card-thumb">
+        <img src="{{ . }}" alt="{{ $page.Title }}" loading="lazy">
+      </div>
+      {{- end -}}
+      <div class="related-card-body">
+        <p class="related-card-title">{{ $page.Title }}</p>
+        <p class="related-card-desc">{{ $page.Description | truncate 70 "…" }}</p>
+        <span class="related-card-more">続きを読む »</span>
+      </div>
+    </a>
+    {{- end -}}
+  {{- end -}}
+</div>
