@@ -1,7 +1,7 @@
 ---
 title: "40代ヘアケアおすすめガイド｜薄毛・抜け毛・ハリ不足の原因と対策"
 date: 2026-04-30
-lastmod: 2026-06-21
+lastmod: 2026-06-22
 description: "40代女性の薄毛・抜け毛・ハリ不足を改善するためのヘアケア方法を解説。シャンプーの選び方・洗い方の見直しから、ヘアオイル・育毛サポートまで順番に説明します。"
 summary_points:
   - "40代の髪の変化はホルモン・ターンオーバー・皮脂分泌が原因——頭皮から始まっている"
@@ -330,3 +330,4 @@ draft: false
 - [育毛剤おすすめ40代女性向け3選](/posts/hairgrowth-serum-40s-recommend/)
 - [エクオールサプリおすすめ40代女性向け3選](/posts/equol-supplement-40s-recommend/)
 - [40代のスキンケアルーティン完全ガイド](/posts/skincare-routine-40s-guide/)
+- [オラプレックス No.3の口コミ｜サロン級の集中補修トリートメントを正直レビュー](/posts/olaplex-no3-review/)
