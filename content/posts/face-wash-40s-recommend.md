@@ -1,7 +1,7 @@
 ---
 title: "【2026年最新】洗顔料おすすめ40代向け3選｜乾燥・毛穴・くすみ別の選び方と使い方"
 date: 2026-04-26
-lastmod: 2026-06-21
+lastmod: 2026-06-22
 description: "40代の乾燥・敏感肌に合う洗顔料を厳選3本紹介。「落としすぎない」「うるおいを残す」を軸に、毛穴ケア・くすみ・乾燥タイプ別の選び方と朝夜の使い方を解説します。"
 tags: ["40代", "乾燥肌", "スキンケア"]
 categories: ["スキンケア"]
@@ -175,6 +175,13 @@ price_checked: "2026-06-21"
     <li>混合肌・毛穴が気になるが洗顔後の乾燥も避けたい方</li>
     <li>成分や処方の説明がていねいなブランドで選びたい方</li>
   </ul>
+</div>
+{{< /rawhtml >}}
+
+{{< rawhtml >}}
+<div style="margin: 1em 0;">
+  <a href="https://px.a8.net/svt/ejp?a8mat=4B1THT+6NXPKI+YPG+609HU" rel="nofollow" style="display:inline-block; background:#b8860b; color:#fff; padding:12px 24px; border-radius:4px; text-decoration:none; font-weight:bold; font-size:14px;">b.glen（ビーグレン）公式サイトで詳しく見る →</a>
+  <img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4B1THT+6NXPKI+YPG+609HU" alt="">
 </div>
 {{< /rawhtml >}}
 
