@@ -1882,9 +1882,9 @@ details.single-toc[open] .single-toc-title::after { content: '▴'; }
 /* ── 1. テーブル横スクロール（.comparison-rank は .comparison-wrap が担うので除外） ── */
 .single-body table:not(.comparison-rank),
 .post-content table:not(.comparison-rank) {
-  display: block;
-  overflow-x: auto;
-  -webkit-overflow-scrolling: touch;
+  display: table;            /* block+overflow-xだと内容幅で右が切れるため、幅100%のtableに統一 */
+  width: 100%;
+  table-layout: auto;
 }
 
 /* ── 2. トラッキングピクセル（1×1）への誤適用を防ぐ ── */
