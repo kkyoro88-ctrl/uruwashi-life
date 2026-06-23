@@ -24,6 +24,13 @@ price_checked: "2026-06-23"
 
 顔の日焼け止めは「選んで使う」のに、髪と頭皮は「ノーガード」。この記事は、そこを変えたいと思った40代のための、髪用UVスプレーの選び方とおすすめのまとめです。
 
+{{< rawhtml >}}
+<div style="background:#fbf6f2;border:1px solid #e7ddd4;border-radius:8px;padding:16px 18px;margin:1.6em 0;text-align:center;">
+<p style="margin:0 0 10px;font-size:0.95em;color:#5a5048;">先に結論だけ知りたい方へ。迷ったら、髪も肌も1本でカバーできて香りも選べる<strong>ナプラ ミーファ</strong>が基準にしやすい一本です。</p>
+<a href="#mieufa" style="display:inline-block;background:#e8554e;color:#fff;padding:12px 28px;border-radius:4px;font-size:1em;font-weight:bold;text-decoration:none;">まず基準にしたい1本（ナプラ ミーファ）を見る →</a>
+</div>
+{{< /rawhtml >}}
+
 ---
 
 ## なぜ40代こそ髪・頭皮の紫外線対策が必要なのか
