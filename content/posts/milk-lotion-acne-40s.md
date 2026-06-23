@@ -173,6 +173,4 @@ cover:
 
 ## 合わせて読みたい
 
-- [40代の大人ニキビの原因と対策](/posts/acne-cause-40s/)
-- [40代の大人ニキビケア｜スキンケアの見直し方](/posts/adult-acne-skincare-40s/)
-- [保湿クリームおすすめ40代向け3選](/posts/moisturizer-40s-recommend/)
+{{< relatedcards "/posts/acne-cause-40s" "/posts/adult-acne-skincare-40s" "/posts/moisturizer-40s-recommend" >}}

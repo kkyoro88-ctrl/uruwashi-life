@@ -332,6 +332,4 @@ cover:
 
 ## 合わせて読みたい
 
-- [エクオールサプリおすすめ記事](/posts/equol-supplement-40s-recommend/)
-- [40代女性のプロテイン選び](/posts/protein-40s-women/)
-- [更年期の肌荒れ対策](/posts/menopause-skincare/)
+{{< relatedcards "/posts/equol-supplement-40s-recommend" "/posts/protein-40s-women" "/posts/menopause-skincare" >}}

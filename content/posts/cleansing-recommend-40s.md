@@ -401,7 +401,4 @@ price_checked: "2026-05-28"
 
 ## 合わせて読みたい
 
-- [40代の正しい洗顔・クレンジング方法](/posts/cleansing-how-to-40s/)
-- [洗顔料おすすめ40代向け3選](/posts/face-wash-40s-recommend/)
-- [40代スキンケアルーティン完全ガイド](/posts/skincare-routine-40s-guide/)
-- [保湿クリームおすすめ40代向け3選](/posts/moisturizer-40s-recommend/)
+{{< relatedcards "/posts/cleansing-how-to-40s" "/posts/face-wash-40s-recommend" "/posts/skincare-routine-40s-guide" "/posts/moisturizer-40s-recommend" >}}

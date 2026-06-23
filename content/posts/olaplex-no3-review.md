@@ -213,6 +213,4 @@ price_checked: "2026-06-22"
 
 ## 合わせて読みたい
 
-- [40代ヘアケアおすすめガイド](/posts/haircare-40s-guide/)
-- [洗い流さないトリートメントおすすめ](/posts/outbath-treatment-40s-recommend/)
-- [ヘアパックおすすめ4選](/posts/hair-pack-40s-recommend/)
+{{< relatedcards "/posts/haircare-40s-guide" "/posts/outbath-treatment-40s-recommend" "/posts/hair-pack-40s-recommend" >}}

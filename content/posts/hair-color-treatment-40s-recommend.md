@@ -484,6 +484,4 @@ price_checked: "2026-06-09"
 
 ## 合わせて読みたい
 
-- [40代のスカルプシャンプーおすすめガイド](/posts/scalp-shampoo-40s-recommend/)
-- [ヘアオイルおすすめガイド](/posts/hair-oil-recommend/)
-- [40代のヘアケアおすすめガイド](/posts/haircare-40s-guide/)
+{{< relatedcards "/posts/scalp-shampoo-40s-recommend" "/posts/hair-oil-recommend" "/posts/haircare-40s-guide" >}}

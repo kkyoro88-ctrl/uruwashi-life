@@ -256,6 +256,4 @@ price_checked: "2026-06-21"
 
 ## 合わせて読みたい
 
-- [コラーゲンサプリおすすめ40代女性向け比較3選｜効果・選び方・飲み方を解説](/posts/collagen-supplement-40s-recommend/)
-- [40代インナーケアおすすめガイド｜NMN・コラーゲンサプリで内側からエイジングケアする方法](/posts/inner-care-40s-guide/)
-- [飲む美容液おすすめ5選｜40代が選ぶコラーゲン・NMNサプリ・ドリンク](/posts/drinking-beauty-recommend/)
+{{< relatedcards "/posts/collagen-supplement-40s-recommend" "/posts/inner-care-40s-guide" "/posts/drinking-beauty-recommend" >}}

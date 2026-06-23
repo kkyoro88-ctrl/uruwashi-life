@@ -186,6 +186,4 @@ melt スムースシャンプーは「すぐに劇的な変化」を求める方
 
 ## 合わせて読みたい
 
-- [40代シャンプーおすすめ3選](/posts/shampoo-40s-recommend/)
-- [haru kurokami スカルプを40代が使った口コミ](/posts/scalp-shampoo-40s-recommend/)
-- [女性用育毛剤おすすめ6選](/posts/hairgrowth-serum-40s-recommend/)
+{{< relatedcards "/posts/shampoo-40s-recommend" "/posts/scalp-shampoo-40s-recommend" "/posts/hairgrowth-serum-40s-recommend" >}}

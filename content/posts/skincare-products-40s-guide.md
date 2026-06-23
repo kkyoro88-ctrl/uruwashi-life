@@ -189,5 +189,4 @@ draft: false
 
 ## 合わせて読みたい
 
-- [更年期のスキンケア｜ゆらぎ肌・乾燥・敏感化への対応方法](/posts/menopause-skincare/)
-- [40代アンチエイジングスキンケアの考え方｜何から始めるか、何を選ぶか](/posts/antiaging-skincare-40s-guide/)
+{{< relatedcards "/posts/menopause-skincare" "/posts/antiaging-skincare-40s-guide" >}}

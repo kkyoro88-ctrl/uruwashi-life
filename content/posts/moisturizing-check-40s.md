@@ -183,6 +183,4 @@ cover:
 
 ## 合わせて読みたい
 
-- [40代スキンケアルーティン完全ガイド](/posts/skincare-routine-40s-guide/)
-- [40代スキンケアおすすめ完全ガイド](/posts/skincare-products-40s-guide/)
-- [40代のスキンミニマリズム実践ガイド](/posts/skin-minimalism-40s-guide/)
+{{< relatedcards "/posts/skincare-routine-40s-guide" "/posts/skincare-products-40s-guide" "/posts/skin-minimalism-40s-guide" >}}

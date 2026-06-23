@@ -195,6 +195,4 @@ price_checked: "2026-05-28"
 
 ## 合わせて読みたい
 
-- [40代シャンプーおすすめ3選](/posts/shampoo-40s-recommend/)
-- [40代ヘアケアおすすめガイド](/posts/haircare-40s-guide/)
-- [haru kurokami スカルプを40代が使った口コミ](/posts/scalp-shampoo-40s-recommend/)
+{{< relatedcards "/posts/shampoo-40s-recommend" "/posts/haircare-40s-guide" "/posts/scalp-shampoo-40s-recommend" >}}

@@ -237,7 +237,4 @@ haru kurokami スカルプは、天然由来成分・ノンシリコン・無添
 
 ## 合わせて読みたい
 
-- [夕方になると頭皮がにおう・ベタつく40代へ｜原因は洗えてないことじゃないかも](/posts/scalp-odor-40s/)
-- [40代シャンプーおすすめ3選](/posts/shampoo-40s-recommend/)
-- [女性用育毛剤おすすめ6選](/posts/hairgrowth-serum-40s-recommend/)
-- [ヘアパックおすすめ40代3選](/posts/hair-pack-40s-recommend/)
+{{< relatedcards "/posts/scalp-odor-40s" "/posts/shampoo-40s-recommend" "/posts/hairgrowth-serum-40s-recommend" "/posts/hair-pack-40s-recommend" >}}

@@ -243,6 +243,4 @@ A. 就寝1〜2時間前からスクリーン使用を控えることが推奨さ
 
 ## 合わせて読みたい
 
-- [【2026年最新】40代スキンケアルーティン完全ガイド｜乾燥・シワ・くすみへのアプローチ](/posts/skincare-routine-40s-guide/)
-- [40代インナーケアおすすめガイド｜NMN・コラーゲンサプリで内側からエイジングケアする方法](/posts/inner-care-40s-guide/)
-- [40代の腸活美肌ガイド｜腸内環境を整えると肌が変わる理由と方法](/posts/gut-beauty-40s-guide/)
+{{< relatedcards "/posts/skincare-routine-40s-guide" "/posts/inner-care-40s-guide" "/posts/gut-beauty-40s-guide" >}}

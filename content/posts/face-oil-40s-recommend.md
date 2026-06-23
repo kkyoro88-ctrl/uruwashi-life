@@ -276,6 +276,4 @@ THREEの夜専用オイルセラムは、複数の植物オイルをブレンド
 
 ## 合わせて読みたい
 
-- [オルビスユードット クリームモイスチャライザー 口コミ｜40代のエイジングケアを成分から解説](/posts/moisturizer-40s-recommend/)
-- [ナイトクリームおすすめ40代向け3選](/posts/night-cream-40s-recommend/)
-- [40代乾燥肌におすすめボディオイル3選](/posts/body-oil-40s-recommend/)
+{{< relatedcards "/posts/moisturizer-40s-recommend" "/posts/night-cream-40s-recommend" "/posts/body-oil-40s-recommend" >}}

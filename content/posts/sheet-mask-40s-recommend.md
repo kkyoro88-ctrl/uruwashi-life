@@ -266,6 +266,4 @@ SK-IIのフェイシャルトリートメントマスクは、ブランドの看
 
 ## 合わせて読みたい
 
-- [オルビス クリアフル ローション 口コミ｜40代の毛穴・くすみに薬用化粧水の特徴を解説](/posts/lotion-recommend/)
-- [40代スキンケアルーティン完全ガイド](/posts/skincare-routine-40s-guide/)
-- [オルビスユードット クリームモイスチャライザー 口コミ｜40代のエイジングケアを成分から解説](/posts/moisturizer-40s-recommend/)
+{{< relatedcards "/posts/lotion-recommend" "/posts/skincare-routine-40s-guide" "/posts/moisturizer-40s-recommend" >}}

@@ -329,6 +329,4 @@ suisai ビューティークリア パウダーウォッシュの使い方・口
 
 ## 合わせて読みたい
 
-- [洗顔料おすすめ40代向け3選](/posts/face-wash-40s-recommend/)
-- [40代の毛穴ケアおすすめ3選](/posts/pore-care-40s-recommend/)
-- [40代の大人ニキビ スキンケアおすすめ](/posts/adult-acne-skincare-40s/)
+{{< relatedcards "/posts/face-wash-40s-recommend" "/posts/pore-care-40s-recommend" "/posts/adult-acne-skincare-40s" >}}

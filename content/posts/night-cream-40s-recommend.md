@@ -201,6 +201,4 @@ price_checked: "2026-06-06"
 
 ## 合わせて読みたい
 
-- [オルビスユードット クリームモイスチャライザー 口コミ｜40代のエイジングケアを成分から解説](/posts/moisturizer-40s-recommend/)
-- [乳液おすすめ40代5選](/posts/emulsion-recommend-40s/)
-- [40代スキンケアルーティン完全ガイド](/posts/skincare-routine-40s-guide/)
+{{< relatedcards "/posts/moisturizer-40s-recommend" "/posts/emulsion-recommend-40s" "/posts/skincare-routine-40s-guide" >}}

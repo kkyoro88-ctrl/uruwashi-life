@@ -469,6 +469,4 @@ A. 個人差がありますが、毎日使って2〜4週間ほどで「手のつ
 
 ## 合わせて読みたい
 
-- [乾燥肌のハンドソープおすすめ5選](/posts/hand-soap-dry-skin-recommend/)
-- [40代ボディクリームおすすめ5選](/posts/body-cream-recommend-40s/)
-- [40代のリップ美容液おすすめ3選](/posts/lip-care-40s-recommend/)
+{{< relatedcards "/posts/hand-soap-dry-skin-recommend" "/posts/body-cream-recommend-40s" "/posts/lip-care-40s-recommend" >}}

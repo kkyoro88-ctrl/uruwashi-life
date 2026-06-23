@@ -228,6 +228,4 @@ price_checked: "2026-05-28"
 
 ## 合わせて読みたい
 
-- [美顔器・家庭用光美容器の選び方ガイド](/posts/beauty-device-40s-guide/)
-- [ZIIP HALOの口コミ](/posts/ziip-halo-review/)
-- [家庭用脱毛器おすすめ比較3選](/posts/hair-removal-device-compare-40s/)
+{{< relatedcards "/posts/beauty-device-40s-guide" "/posts/ziip-halo-review" "/posts/hair-removal-device-compare-40s" >}}

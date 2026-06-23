@@ -384,6 +384,4 @@ A. 詰まり毛穴の改善は早ければ2〜4週間で変化を感じる方も
 
 ## 合わせて読みたい
 
-- [洗顔料おすすめ40代向け3選](/posts/face-wash-40s-recommend/)
-- [ピーリングおすすめ40代](/posts/peeling-40s-recommend/)
-- [40代くすみ化粧水おすすめ3選](/posts/kusumi-lotion-40s-recommend/)
+{{< relatedcards "/posts/face-wash-40s-recommend" "/posts/peeling-40s-recommend" "/posts/kusumi-lotion-40s-recommend" >}}

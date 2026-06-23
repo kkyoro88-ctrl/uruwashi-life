@@ -266,6 +266,4 @@ price_checked: "2026-05-28"
 
 ## 合わせて読みたい
 
-- [40代の腸活美肌ガイド｜腸内環境を整えると肌が変わる理由と方法](/posts/gut-beauty-40s-guide/)
-- [飲む美容液おすすめ5選｜40代が選ぶコラーゲン・NMNサプリ・ドリンク](/posts/drinking-beauty-recommend/)
-- [40代インナーケアおすすめガイド｜NMN・コラーゲンサプリで内側からエイジングケアする方法](/posts/inner-care-40s-guide/)
+{{< relatedcards "/posts/gut-beauty-40s-guide" "/posts/drinking-beauty-recommend" "/posts/inner-care-40s-guide" >}}

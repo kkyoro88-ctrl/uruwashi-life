@@ -223,6 +223,4 @@ price_checked: "2026-05-28"
 
 ## 合わせて読みたい
 
-- [40代のハンドクリームおすすめ5選](/posts/hand-cream-recommend-40s/)
-- [40代ボディクリームおすすめ5選](/posts/body-cream-recommend-40s/)
-- [40代のリップ美容液おすすめ3選](/posts/lip-care-40s-recommend/)
+{{< relatedcards "/posts/hand-cream-recommend-40s" "/posts/body-cream-recommend-40s" "/posts/lip-care-40s-recommend" >}}

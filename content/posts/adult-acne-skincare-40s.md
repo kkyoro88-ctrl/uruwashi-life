@@ -203,6 +203,4 @@ price_checked: "2026-06-02"
 
 ## 合わせて読みたい
 
-- [洗顔料おすすめ40代向け3選](/posts/face-wash-40s-recommend/)
-- [ピーリングおすすめ40代](/posts/peeling-40s-recommend/)
-- [40代スキンケアルーティン完全ガイド](/posts/skincare-routine-40s-guide/)
+{{< relatedcards "/posts/face-wash-40s-recommend" "/posts/peeling-40s-recommend" "/posts/skincare-routine-40s-guide" >}}

@@ -215,6 +215,4 @@ NMN 15000 WHITE premiumは、「女性専用」「国内産純度100%」「15,00
 
 ## 合わせて読みたい
 
-- [NMNサプリ日本製おすすめ5選｜40代が選ぶ純度・含有量・コスパ比較](/posts/nmn-supplement-40s-recommend/)
-- [40代インナーケアおすすめガイド｜NMN・コラーゲンサプリで内側からエイジングケアする方法](/posts/inner-care-40s-guide/)
-- [Gaah（ガー）NMNサプリの口コミ・レビュー｜40代が3ヶ月使って正直評価](/posts/gaah-nmn-review/)
+{{< relatedcards "/posts/nmn-supplement-40s-recommend" "/posts/inner-care-40s-guide" "/posts/gaah-nmn-review" >}}

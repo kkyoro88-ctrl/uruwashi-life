@@ -256,8 +256,6 @@ A. 冷却機能の有無という点ではUlike Air10のほうが痛みの口コ
 
 ## 合わせて読みたい
 
-- [40代のボディ美白ケアおすすめ5選](/posts/whitening-body-cream-40s-recommend/)
-- [化粧下地おすすめ40代5選](/posts/primer-40s-recommend/)
-- [40代のハンドクリームおすすめ5選](/posts/hand-cream-recommend-40s/)
+{{< relatedcards "/posts/whitening-body-cream-40s-recommend" "/posts/primer-40s-recommend" "/posts/hand-cream-recommend-40s" >}}
 
 {{< sticky-cta href="https://px.a8.net/svt/ejp?a8mat=4B1R5P+FZ4R5E+5QIG+5YJRM" text="Ulike Air10 公式サイトで見る →" >}}

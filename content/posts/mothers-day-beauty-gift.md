@@ -173,6 +173,4 @@ price_checked: "2026-05-28"
 
 ## 合わせて読みたい
 
-- [【2026年最新】洗顔料おすすめ40代向け3選｜乾燥・毛穴・くすみ別の選び方と使い方](/posts/face-wash-40s-recommend/)
-- [オルビスユードット クリームモイスチャライザー 口コミ｜40代のエイジングケアを成分から解説](/posts/moisturizer-40s-recommend/)
-- [40代のハンドクリームおすすめ5選｜乾燥・シワ・老け手に選ぶべき成分と使い方](/posts/hand-cream-recommend-40s/)
+{{< relatedcards "/posts/face-wash-40s-recommend" "/posts/moisturizer-40s-recommend" "/posts/hand-cream-recommend-40s" >}}

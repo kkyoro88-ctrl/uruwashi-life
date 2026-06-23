@@ -189,6 +189,4 @@ cover:
 
 ## 合わせて読みたい
 
-- [ミラブルzeroの口コミ記事](/posts/mirablezero-review/)
-- [シャワーヘッドおすすめ記事](/posts/showerhead-recommend/)
-- [ヘアバース（育毛サプリ）のレビュー記事](/posts/hairbirth-review/)
+{{< relatedcards "/posts/mirablezero-review" "/posts/showerhead-recommend" "/posts/hairbirth-review" >}}

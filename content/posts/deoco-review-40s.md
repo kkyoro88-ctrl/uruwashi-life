@@ -281,6 +281,4 @@ cover:
 
 ## 合わせて読みたい
 
-- [シャワーヘッドおすすめ](/posts/showerhead-recommend/)
-- [40代マスカラおすすめ5選](/posts/mascara-recommend/)
-- [乾燥肌のハンドソープおすすめ5選](/posts/hand-soap-dry-skin-recommend/)
+{{< relatedcards "/posts/showerhead-recommend" "/posts/mascara-recommend" "/posts/hand-soap-dry-skin-recommend" >}}

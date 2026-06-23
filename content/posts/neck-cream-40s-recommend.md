@@ -297,6 +297,4 @@ A. 保湿の変化は早ければ2〜4週間で感じられますが、シワの
 
 ## 合わせて読みたい
 
-- [シワ改善クリーム・美容液おすすめ40代向け3選](/posts/wrinkle-cream-40s-recommend/)
-- [40代のデコルテケア方法](/posts/decollete-care-40s/)
-- [40代ボディクリームおすすめ5選](/posts/body-cream-recommend-40s/)
+{{< relatedcards "/posts/wrinkle-cream-40s-recommend" "/posts/decollete-care-40s" "/posts/body-cream-recommend-40s" >}}

@@ -144,6 +144,4 @@ cover:
 
 ## 合わせて読みたい
 
-- [40代の大人ニキビケア｜スキンケアの見直し方](/posts/adult-acne-skincare-40s/)
-- [乳液でニキビが増える？40代の毛穴詰まり対策](/posts/milk-lotion-acne-40s/)
-- [40代のニキビ跡ケア](/posts/acne-mark-40s/)
+{{< relatedcards "/posts/adult-acne-skincare-40s" "/posts/milk-lotion-acne-40s" "/posts/acne-mark-40s" >}}

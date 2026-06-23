@@ -237,8 +237,4 @@ cover:
 
 ## 合わせて読みたい
 
-- [40代スキンケアルーティン完全ガイド](/posts/skincare-routine-40s-guide/)
-- [エクオールサプリメント 40代おすすめ](/posts/equol-supplement-40s-recommend/)
-- [フェムケアおすすめ40代｜デリケートゾーンの悩み別に選んだ4つ](/posts/femcare-40s-recommend/)
-- [美顔器おすすめ記事](/posts/facial-device-recommend/)
-- [オルビス アンバーのレビュー記事](/posts/orbis-amber-review/)
+{{< relatedcards "/posts/skincare-routine-40s-guide" "/posts/equol-supplement-40s-recommend" "/posts/femcare-40s-recommend" "/posts/facial-device-recommend" "/posts/orbis-amber-review" >}}

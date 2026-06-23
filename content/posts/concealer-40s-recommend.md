@@ -251,6 +251,4 @@ price_checked: "2026-05-29"
 
 ## 合わせて読みたい
 
-- [ファンデーション 40代おすすめ3選](/posts/foundation-40s-recommend/)
-- [フェイスパウダーおすすめ40代4選](/posts/face-powder-40s-recommend/)
-- [アイクリームおすすめ40代向け3選](/posts/eye-cream-40s-recommend/)
+{{< relatedcards "/posts/foundation-40s-recommend" "/posts/face-powder-40s-recommend" "/posts/eye-cream-40s-recommend" >}}

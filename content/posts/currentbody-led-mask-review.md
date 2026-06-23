@@ -267,6 +267,4 @@ CurrentBodyは年に数回セールを実施するブランドです。急いで
 
 ## 合わせて読みたい
 
-- [ZIIP HALO 口コミ記事](/posts/ziip-halo-review/)
-- [CurrentBody LEDヘアデバイス口コミ記事](/posts/currentbody-led-hair-review/)
-- [40代美顔器おすすめガイド](/posts/beauty-device-40s-guide/)
+{{< relatedcards "/posts/ziip-halo-review" "/posts/currentbody-led-hair-review" "/posts/beauty-device-40s-guide" >}}

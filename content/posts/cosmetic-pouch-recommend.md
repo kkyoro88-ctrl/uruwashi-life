@@ -289,6 +289,4 @@ price_checked: "2026-05-28"
 
 ## 合わせて読みたい
 
-- [40代スキンケアおすすめ完全ガイド｜乾燥敏感肌が選ぶカテゴリ別まとめ](/posts/skincare-products-40s-guide/)
-- [【2026年最新】40代スキンケアルーティン完全ガイド｜乾燥・シワ・くすみへのアプローチ](/posts/skincare-routine-40s-guide/)
-- [フェイスパウダーおすすめ40代4選｜くすみ・毛穴・崩れをカバーする選び方](/posts/face-powder-40s-recommend/)
+{{< relatedcards "/posts/skincare-products-40s-guide" "/posts/skincare-routine-40s-guide" "/posts/face-powder-40s-recommend" >}}

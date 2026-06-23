@@ -164,5 +164,4 @@ cover:
 
 ## 合わせて読みたい
 
-- [40代のニキビ跡がシミになる理由](/posts/acne-mark-40s/)
-- [シワ改善クリームおすすめ記事](/posts/wrinkle-cream-40s-recommend/)
+{{< relatedcards "/posts/acne-mark-40s" "/posts/wrinkle-cream-40s-recommend" >}}

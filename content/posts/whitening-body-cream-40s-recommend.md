@@ -272,6 +272,4 @@ price_checked: "2026-06-06"
 
 ## 合わせて読みたい
 
-- [40代ボディクリームおすすめ5選](/posts/body-cream-recommend-40s/)
-- [40代のハンドクリームおすすめ5選](/posts/hand-cream-recommend-40s/)
-- [美白美容液おすすめ40代向け3選](/posts/whitening-serum-40s-recommend/)
+{{< relatedcards "/posts/body-cream-recommend-40s" "/posts/hand-cream-recommend-40s" "/posts/whitening-serum-40s-recommend" >}}

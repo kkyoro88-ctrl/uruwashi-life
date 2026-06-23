@@ -300,6 +300,4 @@ A. 明確な基準はありませんが、40代から始める方が多いです
 
 ## 合わせて読みたい
 
-- [40代インナーケアおすすめガイド｜NMN・コラーゲンサプリで内側からエイジングケアする方法](/posts/inner-care-40s-guide/)
-- [コラーゲンサプリおすすめ40代女性向け比較3選｜効果・選び方・飲み方を解説](/posts/collagen-supplement-40s-recommend/)
-- [更年期の肌荒れ・乾燥はなぜ起きる？40代が実践したスキンケアの見直し方](/posts/menopause-skincare/)
+{{< relatedcards "/posts/inner-care-40s-guide" "/posts/collagen-supplement-40s-recommend" "/posts/menopause-skincare" >}}

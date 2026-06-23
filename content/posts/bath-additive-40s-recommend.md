@@ -188,6 +188,4 @@ price_checked: "2026-05-30"
 
 ## 合わせて読みたい
 
-- [40代ボディクリームおすすめ5選](/posts/body-cream-recommend-40s/)
-- [40代乾燥肌におすすめボディオイル3選](/posts/body-oil-40s-recommend/)
-- [洗い流さないトリートメント40代おすすめ3選](/posts/outbath-treatment-40s-recommend/)
+{{< relatedcards "/posts/body-cream-recommend-40s" "/posts/body-oil-40s-recommend" "/posts/outbath-treatment-40s-recommend" >}}

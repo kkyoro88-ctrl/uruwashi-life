@@ -206,6 +206,4 @@ NMNサプリの選び方・おすすめはこちらにまとめています。
 
 ## 合わせて読みたい
 
-- [40代スキンケアルーティン完全ガイド｜乾燥・シワ・くすみへのアプローチ](/posts/skincare-routine-40s-guide/)
-- [40代ヘアケアおすすめガイド｜薄毛・抜け毛・ハリ不足の原因と対策](/posts/haircare-40s-guide/)
-- [GaahNMNサプリの口コミ・レビュー｜3ヶ月使って感じたこと](/posts/gaah-nmn-review/)
+{{< relatedcards "/posts/skincare-routine-40s-guide" "/posts/haircare-40s-guide" "/posts/gaah-nmn-review" >}}

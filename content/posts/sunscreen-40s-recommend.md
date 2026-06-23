@@ -397,9 +397,4 @@ price_checked: "2026-06-09"
 
 ## 合わせて読みたい
 
-- [UV化粧下地おすすめ5選｜40代のくすみ・崩れ・日焼け対策](/posts/uv-base-40s-recommend/)
-- [飲む日焼け止めおすすめ｜塗り直せない時間を内側から補う40代の選び方](/posts/drinking-sunscreen-40s/)
-- [40代のスキンケアルーティン——順番と選び方](/posts/skincare-routine-40s-guide/)
-- [40代の保湿クリームおすすめ——乾燥肌に合う成分と選び方](/posts/moisturizer-40s-recommend/)
-- [美白セラムおすすめ——シミ・くすみに効くアプローチ](/posts/whitening-serum-40s-recommend/)
-- [髪の日焼け止めスプレーおすすめ5選｜40代の選び方](/posts/hair-sunscreen-spray-40s/)
+{{< relatedcards "/posts/uv-base-40s-recommend" "/posts/drinking-sunscreen-40s" "/posts/skincare-routine-40s-guide" "/posts/moisturizer-40s-recommend" "/posts/whitening-serum-40s-recommend" "/posts/hair-sunscreen-spray-40s" >}}

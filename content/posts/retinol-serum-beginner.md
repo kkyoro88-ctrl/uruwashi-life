@@ -332,7 +332,4 @@ No46.を半年ほど使ってきて、肌が少しレチノールに慣れてき
 
 ## 合わせて読みたい
 
-- [ビタミンC誘導体配合美容液おすすめ40代向け5選](/posts/vitamin-c-serum-40s-recommend/)
-- [40代スキンケアルーティン完全ガイド](/posts/skincare-routine-40s-guide/)
-- [40代エイジングケアおすすめガイド](/posts/antiaging-skincare-40s-guide/)
-- [40代の導入美容液おすすめ5選｜後のケアを届かせる土台づくり](/posts/serum-recommend/)
+{{< relatedcards "/posts/vitamin-c-serum-40s-recommend" "/posts/skincare-routine-40s-guide" "/posts/antiaging-skincare-40s-guide" "/posts/serum-recommend" >}}

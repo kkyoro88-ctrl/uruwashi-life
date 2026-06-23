@@ -233,6 +233,4 @@ UVカット機能はありませんが、仕上げパウダーとしての実力
 
 ## 合わせて読みたい
 
-- [ファンデーション 40代おすすめ3選](/posts/foundation-40s-recommend/)
-- [化粧下地おすすめ40代5選](/posts/primer-40s-recommend/)
-- [コンシーラー40代おすすめ7選](/posts/concealer-40s-recommend/)
+{{< relatedcards "/posts/foundation-40s-recommend" "/posts/primer-40s-recommend" "/posts/concealer-40s-recommend" >}}

@@ -183,6 +183,4 @@ price_checked: "2026-06-21"
 
 ## 合わせて読みたい
 
-- [女性用育毛剤おすすめ6選](/posts/hairgrowth-serum-40s-recommend/)
-- [40代ヘアケアおすすめガイド](/posts/haircare-40s-guide/)
-- [40代シャンプーおすすめ3選](/posts/shampoo-40s-recommend/)
+{{< relatedcards "/posts/hairgrowth-serum-40s-recommend" "/posts/haircare-40s-guide" "/posts/shampoo-40s-recommend" >}}

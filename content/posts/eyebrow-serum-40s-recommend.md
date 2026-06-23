@@ -302,6 +302,4 @@ price_checked: "2026-06-07"
 
 ## 合わせて読みたい
 
-- [40代のまつ毛美容液おすすめ3選](/posts/eyelash-serum-40s-recommend/)
-- [アイクリームおすすめ40代向け3選](/posts/eye-cream-40s-recommend/)
-- [40代の目元ケアガイド](/posts/eye-care-40s-guide/)
+{{< relatedcards "/posts/eyelash-serum-40s-recommend" "/posts/eye-cream-40s-recommend" "/posts/eye-care-40s-guide" >}}

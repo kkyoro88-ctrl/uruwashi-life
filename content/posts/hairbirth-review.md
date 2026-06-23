@@ -176,6 +176,4 @@ price_checked: "2026-06-21"
 
 ## 合わせて読みたい
 
-- [飲む美容液おすすめ記事](/posts/drinking-beauty-recommend/)
-- [頭皮ケアシャンプーおすすめ40代向け3選](/posts/scalp-shampoo-40s-recommend/)
-- [40代ヘアケアおすすめガイド](/posts/haircare-40s-guide/)
+{{< relatedcards "/posts/drinking-beauty-recommend" "/posts/scalp-shampoo-40s-recommend" "/posts/haircare-40s-guide" >}}

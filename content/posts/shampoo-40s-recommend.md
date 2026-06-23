@@ -342,7 +342,4 @@ A. 現在Amazonには取り扱いがありません。公式ECサイトまたは
 
 ## 合わせて読みたい
 
-- [40代シャンプーの悩み別の選び方ガイド（うねり・乾燥・抜け毛）](/posts/shampoo-comparison-40s/)
-- [40代ヘアケアおすすめガイド](/posts/haircare-40s-guide/)
-- [40代の正しいシャンプーの仕方](/posts/shampoo-how-to-40s/)
-- [haru kurokami スカルプを40代が使った口コミ](/posts/scalp-shampoo-40s-recommend/)
+{{< relatedcards "/posts/shampoo-comparison-40s" "/posts/haircare-40s-guide" "/posts/shampoo-how-to-40s" "/posts/scalp-shampoo-40s-recommend" >}}

@@ -334,6 +334,4 @@ price_checked: "2026-06-05"
 
 ## 合わせて読みたい
 
-- [40代に似合うマスカラおすすめ5選【2026年版】｜細まつ毛・転写しやすい悩みに正直比較](/posts/mascara-recommend/)
-- [40代の目元ケアガイド｜アイクリーム・まつ毛・眉毛を一緒に見直す方法](/posts/eye-care-40s-guide/)
-- [40代のまつ毛美容液おすすめ3選【2026年版】｜細くなる・減る悩みに色素沈着なし成分で比較](/posts/eyelash-serum-40s-recommend/)
+{{< relatedcards "/posts/mascara-recommend" "/posts/eye-care-40s-guide" "/posts/eyelash-serum-40s-recommend" >}}

@@ -199,6 +199,4 @@ cover:
 
 ## 合わせて読みたい
 
-- [40代のハンドクリームおすすめ5選](/posts/hand-cream-recommend-40s/)
-- [洗顔料おすすめ40代向け3選](/posts/face-wash-40s-recommend/)
-- [40代ボディクリームおすすめ5選](/posts/body-cream-recommend-40s/)
+{{< relatedcards "/posts/hand-cream-recommend-40s" "/posts/face-wash-40s-recommend" "/posts/body-cream-recommend-40s" >}}

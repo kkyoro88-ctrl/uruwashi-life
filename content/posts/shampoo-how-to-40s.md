@@ -358,6 +358,4 @@ cover:
 
 ## 合わせて読みたい
 
-- [40代シャンプーおすすめ3選](/posts/shampoo-40s-recommend/)
-- [ヘアパックおすすめ40代3選](/posts/hair-pack-40s-recommend/)
-- [女性用育毛剤おすすめ6選](/posts/hairgrowth-serum-40s-recommend/)
+{{< relatedcards "/posts/shampoo-40s-recommend" "/posts/hair-pack-40s-recommend" "/posts/hairgrowth-serum-40s-recommend" >}}

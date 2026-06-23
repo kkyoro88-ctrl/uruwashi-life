@@ -362,7 +362,4 @@ UV化粧下地は、日焼け止めと下地の二度手間をなくしながら
 
 ## 合わせて読みたい
 
-- [40代向け日焼け止めおすすめ5選](/posts/sunscreen-recommend/)
-- [40代の日焼け止めおすすめ5選｜乾燥肌・敏感肌向け成分と選び方](/posts/sunscreen-40s-recommend/)
-- [化粧下地おすすめ40代5選](/posts/primer-40s-recommend/)
-- [髪の日焼け止めスプレーおすすめ5選｜40代の選び方](/posts/hair-sunscreen-spray-40s/)
+{{< relatedcards "/posts/sunscreen-recommend" "/posts/sunscreen-40s-recommend" "/posts/primer-40s-recommend" "/posts/hair-sunscreen-spray-40s" >}}

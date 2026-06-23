@@ -243,6 +243,4 @@ cover:
 
 ## 合わせて読みたい
 
-- [【更年期・骨密度が気になる40代女性向け】カルシウムサプリおすすめ5選](/posts/bone-density-supplement-40s-recommend/)
-- [40代インナーケアおすすめガイド｜NMN・コラーゲンサプリで内側からエイジングケアする方法](/posts/inner-care-40s-guide/)
-- [【銀座ACCEPT】40代女性がパーソナルジムを選ぶポイントと特徴・料金を解説](/posts/personal-gym-40s/)
+{{< relatedcards "/posts/bone-density-supplement-40s-recommend" "/posts/inner-care-40s-guide" "/posts/personal-gym-40s" >}}

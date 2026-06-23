@@ -238,6 +238,4 @@ LEDデバイスは即効性こそありませんが、週3〜4回の光刺激が
 
 ## 合わせて読みたい
 
-- [CurrentBody LEDマスク口コミ記事](/posts/currentbody-led-mask-review/)
-- [頭皮ケアシャンプーおすすめ40代向け3選](/posts/scalp-shampoo-40s-recommend/)
-- [40代ヘアケアおすすめガイド](/posts/haircare-40s-guide/)
+{{< relatedcards "/posts/currentbody-led-mask-review" "/posts/scalp-shampoo-40s-recommend" "/posts/haircare-40s-guide" >}}
