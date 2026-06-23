@@ -1,7 +1,7 @@
 ---
 title: "汗拭きシートおすすめ5選【40代の加齢臭・ベタつきに】選び方も解説"
-date: 2026-06-24
-lastmod: 2026-06-24
+date: 2026-06-24T07:00:00+09:00
+lastmod: 2026-06-24T07:00:00+09:00
 draft: false
 affiliate: true
 price_checked: "2026-06-24"
