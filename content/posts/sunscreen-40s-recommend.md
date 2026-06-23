@@ -402,3 +402,4 @@ price_checked: "2026-06-09"
 - [40代のスキンケアルーティン——順番と選び方](/posts/skincare-routine-40s-guide/)
 - [40代の保湿クリームおすすめ——乾燥肌に合う成分と選び方](/posts/moisturizer-40s-recommend/)
 - [美白セラムおすすめ——シミ・くすみに効くアプローチ](/posts/whitening-serum-40s-recommend/)
+- [髪の日焼け止めスプレーおすすめ5選｜40代の選び方](/posts/hair-sunscreen-spray-40s/)
