@@ -1,6 +1,6 @@
 ---
 title: "ボディクリームの塗り方、40代はここが違う｜塗ってもすぐ乾く人へ"
-date: 2026-06-25
+date: 2026-06-24
 lastmod: 2026-06-25
 draft: false
 affiliate: false
