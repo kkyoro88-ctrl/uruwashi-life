@@ -1,7 +1,7 @@
 ---
 title: "40代乾燥肌にシワが増えやすい理由｜目元・ほうれい線の原因と保湿だけでは足りないケア"
 date: 2026-06-09
-lastmod: 2026-06-11
+lastmod: 2026-06-25
 draft: false
 affiliate: false
 categories: ["スキンケア"]
@@ -164,4 +164,4 @@ cover:
 
 ## 合わせて読みたい
 
-{{< relatedcards "/posts/acne-mark-40s" "/posts/wrinkle-cream-40s-recommend" >}}
+{{< relatedcards "/posts/acne-mark-40s" "/posts/wrinkle-cream-40s-recommend" "/posts/body-cream-howto-40s" >}}
