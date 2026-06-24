@@ -484,4 +484,4 @@ price_checked: "2026-06-09"
 
 ## 合わせて読みたい
 
-{{< relatedcards "/posts/scalp-shampoo-40s-recommend" "/posts/hair-oil-recommend" "/posts/haircare-40s-guide" >}}
+{{< relatedcards "/posts/gray-hair-sudden-40s" "/posts/scalp-shampoo-40s-recommend" "/posts/hair-oil-recommend" "/posts/haircare-40s-guide" >}}
